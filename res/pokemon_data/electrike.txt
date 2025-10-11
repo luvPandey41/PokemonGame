@@ -1,0 +1,45 @@
+name: electrike
+pokedex_num: 309
+generation: III
+types: electric
+height_dm: 6
+weight_hg: 152
+
+abilities: static | lightning-rod
+hidden_abilities: minus
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
+
+base_stats: 40 | 45 | 40 | 65 | 40 | 65
+base_exp: 59
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+
+moves:
+  level-up: tackle: 1 | leer: 9 | bite: 28 | roar: 36 | thunder-wave: 4 | thunder: 52 | quick-attack: 17 | spark: 20 | charge: 44 | odor-sleuth: 25 | howl: 12 | thunder-fang: 33 | discharge: 41 | wild-charge: 49
+  machine: strength | thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | substitute | swagger | flamethrower | roar | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | snarl | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: crunch | thunder-fang | fire-fang | flame-burst | electro-ball | uproar | ice-fang | switcheroo | headbutt | curse | discharge | shock-wave | swift
+  tutor: signal-beam | sleep-talk | iron-tail | magnet-rise | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: manectric
+  trigger: level-up
+  evo_level: 26
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: electrike
+default_form: true

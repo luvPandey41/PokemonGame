@@ -1,0 +1,37 @@
+name: eelektross
+pokedex_num: 604
+generation: V
+types: electric
+height_dm: 21
+weight_hg: 805
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 85 | 115 | 80 | 105 | 80 | 50
+base_exp: 232
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+
+moves:
+  level-up: headbutt: 1 | acid: 1 | crunch: 1 | crush-claw: 1 | discharge: 1
+  machine: dragon-tail | u-turn | cut | strength | thunderbolt | wild-charge | attract | hyper-beam | rock-slide | facade | thunder | double-team | substitute | swagger | grass-knot | rock-tomb | flamethrower | roar | protect | dragon-claw | volt-switch | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | hone-claws | acrobatics | hidden-power | round | rock-smash | brick-break | charge-beam | flash-cannon | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | aqua-tail | gastro-acid | iron-tail | bounce | thunder-punch | super-fang | fire-punch | superpower | snore | knock-off | bind | giga-drain | sleep-talk | drain-punch | magnet-rise
+evolution_info:
+  evolves_from: eelektrik
+  evolves_to: none
+  trigger: N/A
+forms: eelektross
+default_form: true

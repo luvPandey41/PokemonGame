@@ -1,0 +1,20 @@
+move name: hammer-arm
+power: 100
+accuracy: 90
+type: fighting
+attack type: physical
+target: selected-pokemon
+pp: 10
+priority: 0
+flavor text: Lowers user's Speed by one stage.
+ailment: none
+ailment chance: 0
+status changes: speed:-1
+effect chance: 100
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 100

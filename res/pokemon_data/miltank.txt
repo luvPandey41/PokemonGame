@@ -1,0 +1,37 @@
+name: miltank
+pokedex_num: 241
+generation: II
+types: normal
+height_dm: 12
+weight_hg: 755
+
+abilities: thick-fat | scrappy
+hidden_abilities: sap-sipper
+ability_descriptions: Halves damage from fire and ice moves. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 95 | 80 | 105 | 40 | 70 | 100
+base_exp: 172
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: moomoo-milk:100%
+
+description: "It is said that kids who drink Miltank’s milk grow up to become hearty, healthy adults."
+
+moves:
+  level-up: stomp: 8 | tackle: 1 | body-slam: 24 | growl: 3 | defense-curl: 5 | bide: 15 | rollout: 19 | milk-drink: 11 | heal-bell: 48 | wake-up-slap: 55 | gyro-ball: 41 | zen-headbutt: 29 | captivate: 35
+  machine: strength | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | gyro-ball | rock-tomb | ice-beam | retaliate | protect | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | thunder-wave | frustration | earthquake | solar-beam | sunny-day | work-up | hidden-power | round | rock-smash | brick-break | return
+  egg: heart-stamp | dizzy-punch | seismic-toss | double-edge | reversal | punishment | helping-hand | hammer-arm | sleep-talk | natural-gift | curse | endure | present
+  tutor: stealth-rock | after-you | zen-headbutt | iron-tail | icy-wind | thunder-punch | ice-punch | fire-punch | iron-head | snore | helping-hand | sleep-talk | block | heal-bell
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: miltank
+default_form: true

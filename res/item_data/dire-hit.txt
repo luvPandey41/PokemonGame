@@ -1,0 +1,12 @@
+item_name: dire-hit
+flavor_text: It raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
+cost: 1000
+category: stat-boosts
+pocket: battle
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Increases the target's critical hit chance by one stage until it leaves the field. Increases happiness by 1/1/0.
+fling_power: 30
+consumable: yes
+move name: 

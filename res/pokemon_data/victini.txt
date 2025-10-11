@@ -1,0 +1,37 @@
+name: victini
+pokedex_num: 494
+generation: V
+types: psychic | fire
+height_dm: 4
+weight_hg: 40
+
+abilities: victory-star
+hidden_abilities: none
+ability_descriptions: Increases moves' accuracy to 1.1× for friendly Pokémon.
+
+base_stats: 100 | 100 | 100 | 100 | 100 | 100
+base_exp: 270
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 100
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
+
+moves:
+  level-up: headbutt: 17 | double-edge: 65 | confusion: 1 | quick-attack: 1 | focus-energy: 1 | reversal: 33 | endure: 9 | overheat: 97 | flare-blitz: 73 | zen-headbutt: 49 | flame-burst: 41 | flame-charge: 25 | stored-power: 89 | incinerate: 1 | final-gambit: 81 | inferno: 57 | searing-shot: 1
+  machine: u-turn | thunderbolt | wild-charge | hyper-beam | will-o-wisp | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | grass-knot | flamethrower | overheat | psychic | protect | psych-up | giga-impact | toxic | rest | incinerate | focus-blast | thunder-wave | frustration | solar-beam | sunny-day | flame-charge | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | zen-headbutt | bounce | thunder-punch | trick | fire-punch | magic-coat | role-play | snore | uproar | heat-wave | helping-hand | last-resort | sleep-talk | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: victini
+default_form: true

@@ -1,0 +1,37 @@
+name: fearow
+pokedex_num: 22
+generation: I
+types: normal | flying
+height_dm: 12
+weight_hg: 380
+
+abilities: keen-eye
+hidden_abilities: sniper
+ability_descriptions: Prevents accuracy from being lowered. | Strengthens critical hits to inflict 3× damage rather than 2×.
+
+base_stats: 65 | 90 | 65 | 61 | 61 | 100
+base_exp: 155
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: sharp-beak:5%
+
+description: "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak."
+
+moves:
+  level-up: fury-attack: 1 | fury-attack: 9 | leer: 1 | leer: 5 | growl: 1 | peck: 1 | drill-peck: 47 | agility: 29 | mirror-move: 23 | pursuit: 13 | aerial-ace: 17 | roost: 41 | pluck: 1 | assurance: 35 | drill-run: 53
+  machine: giga-impact | toxic | rest | u-turn | thief | echoed-voice | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | false-swipe | round | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | drill-run | snore | uproar
+evolution_info:
+  evolves_from: spearow
+  evolves_to: none
+  trigger: N/A
+forms: fearow
+default_form: true

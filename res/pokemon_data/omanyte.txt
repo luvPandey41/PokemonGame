@@ -1,0 +1,45 @@
+name: omanyte
+pokedex_num: 138
+generation: I
+types: rock | water
+height_dm: 4
+weight_hg: 75
+
+abilities: swift-swim | shell-armor
+hidden_abilities: weak-armor
+ability_descriptions: Doubles Speed during rain. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 35 | 40 | 100 | 90 | 55 | 35
+base_exp: 71
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas."
+
+moves:
+  level-up: leer: 19 | bite: 7 | water-gun: 10 | hydro-pump: 55 | withdraw: 1 | constrict: 1 | protect: 34 | rollout: 16 | ancient-power: 37 | tickle: 43 | mud-shot: 25 | rock-blast: 46 | brine: 28 | shell-smash: 52
+  machine: thief | attract | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | gyro-ball | rock-tomb | rock-polish | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | hail | hidden-power | round | rock-smash | smack-down | return
+  egg: muddy-water | bide | whirlpool | water-pulse | knock-off | toxic-spikes | slam | wring-out | aurora-beam | haze | bubble-beam | spikes | supersonic
+  tutor: stealth-rock | earth-power | bind | sleep-talk | iron-defense | icy-wind | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: omastar
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: omanyte
+default_form: true

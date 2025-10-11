@@ -1,0 +1,12 @@
+item_name: tm59
+flavor_text: The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable.
+cost: 100000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Dragon Pulse to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Incinerate

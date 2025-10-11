@@ -1,0 +1,20 @@
+move name: triple-kick
+power: 10
+accuracy: 90
+type: fighting
+attack type: physical
+target: selected-pokemon
+pp: 10
+priority: 0
+flavor text: Hits three times, increasing power by 100% with each successful hit.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 3-3
+flinch chance: 0
+stat chance: 0

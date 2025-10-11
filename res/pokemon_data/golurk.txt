@@ -1,0 +1,37 @@
+name: golurk
+pokedex_num: 623
+generation: V
+types: ground | ghost
+height_dm: 28
+weight_hg: 3300
+
+abilities: iron-fist | klutz
+hidden_abilities: no-guard
+ability_descriptions: Strengthens punch-based moves to 1.2× their power. | Prevents the Pokémon from using its held item in battle. | Ensures all moves used by and against the Pokémon hit.
+
+base_stats: 89 | 124 | 80 | 55 | 80 | 55
+base_exp: 169
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 25
+
+wild_held_items: light-clay:5%
+
+description: "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control."
+
+moves:
+  level-up: pound: 1 | mega-punch: 21 | earthquake: 50 | night-shade: 35 | defense-curl: 1 | curse: 40 | mud-slap: 1 | mud-slap: 5 | rollout: 9 | magnitude: 25 | dynamic-punch: 30 | focus-punch: 70 | astonish: 1 | shadow-punch: 13 | iron-defense: 17 | hammer-arm: 60 | heavy-slam: 43
+  machine: strength | thunderbolt | thief | hyper-beam | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | grass-knot | bulldoze | gyro-ball | rock-tomb | rock-polish | ice-beam | psychic | protect | rain-dance | giga-impact | toxic | rest | focus-blast | frustration | earthquake | solar-beam | low-sweep | fly | hidden-power | round | rock-smash | brick-break | stone-edge | charge-beam | flash-cannon | return | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | zen-headbutt | iron-defense | icy-wind | thunder-punch | ice-punch | fire-punch | magic-coat | superpower | snore | low-kick | sleep-talk | drain-punch | gravity | block
+evolution_info:
+  evolves_from: golett
+  evolves_to: none
+  trigger: N/A
+forms: golurk
+default_form: true

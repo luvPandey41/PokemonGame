@@ -1,0 +1,37 @@
+name: butterfree
+pokedex_num: 12
+generation: I
+types: bug | flying
+height_dm: 11
+weight_hg: 320
+
+abilities: compound-eyes
+hidden_abilities: tinted-lens
+ability_descriptions: Increases moves' accuracy to 1.3×. | Doubles damage inflicted with not-very-effective moves.
+
+base_stats: 60 | 45 | 50 | 90 | 80 | 70
+base_exp: 178
+ev_yield: 0 | 0 | 0 | 2 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: silver-powder:5%
+
+description: "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen."
+
+moves:
+  level-up: gust: 16 | whirlwind: 22 | supersonic: 18 | psybeam: 24 | poison-powder: 12 | stun-spore: 12 | sleep-powder: 12 | confusion: 1 | confusion: 10 | safeguard: 36 | silver-wind: 28 | tailwind: 30 | bug-buzz: 42 | captivate: 40 | rage-powder: 34 | quiver-dance: 46
+  machine: u-turn | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | dream-eater | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | energy-ball | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | bug-bite | roost | electroweb | snore | skill-swap
+evolution_info:
+  evolves_from: metapod
+  evolves_to: none
+  trigger: N/A
+forms: butterfree
+default_form: true

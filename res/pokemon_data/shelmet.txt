@@ -1,0 +1,45 @@
+name: shelmet
+pokedex_num: 616
+generation: V
+types: bug
+height_dm: 4
+weight_hg: 77
+
+abilities: hydration | shell-armor
+hidden_abilities: overcoat
+ability_descriptions: Cures any major status ailment after each turn during rain. | Protects against critical hits. | Protects against damage from weather.
+
+base_stats: 50 | 40 | 85 | 40 | 65 | 25
+base_exp: 61
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid."
+
+moves:
+  level-up: body-slam: 40 | acid: 4 | mega-drain: 20 | recover: 49 | bide: 8 | leech-life: 1 | acid-armor: 32 | curse: 13 | protect: 28 | giga-drain: 37 | yawn: 25 | guard-swap: 52 | bug-buzz: 44 | final-gambit: 56 | struggle-bug: 16
+  machine: toxic | rest | attract | frustration | facade | double-team | venoshock | substitute | swagger | struggle-bug | hidden-power | round | energy-ball | protect | sludge-bomb | return | rain-dance
+  egg: baton-pass | double-edge | mind-reader | mud-slap | spikes | pursuit | guard-split | endure | feint | encore
+  tutor: signal-beam | giga-drain | gastro-acid | sleep-talk | bug-bite | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: accelgor
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shelmet
+default_form: true

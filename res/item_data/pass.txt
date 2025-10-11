@@ -1,0 +1,12 @@
+item_name: pass
+flavor_text: A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you’d like.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Allows the trainer to ride the Magnet Train between goldenrod city and saffron city.
+fling_power: -1
+consumable: no
+move name: 

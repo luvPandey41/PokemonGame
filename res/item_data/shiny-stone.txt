@@ -1,0 +1,12 @@
+item_name: shiny-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves a minccino into cinccino, a roselia into roserade, or a togetic into togekiss.
+fling_power: 80
+consumable: no
+move name: 

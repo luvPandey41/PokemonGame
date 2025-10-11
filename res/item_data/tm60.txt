@@ -1,0 +1,12 @@
+item_name: tm60
+flavor_text: The user suppresses the target and makes its move go last.
+cost: 30000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Drain Punch to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Quash

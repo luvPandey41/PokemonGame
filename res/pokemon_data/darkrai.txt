@@ -1,0 +1,37 @@
+name: darkrai
+pokedex_num: 491
+generation: IV
+types: dark
+height_dm: 15
+weight_hg: 505
+
+abilities: bad-dreams
+hidden_abilities: none
+ability_descriptions: Damages sleeping opponents for 1/8 their max HP after each turn.
+
+base_stats: 70 | 90 | 90 | 135 | 90 | 125
+base_exp: 270
+ev_yield: 0 | 0 | 0 | 2 | 0 | 1
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "To protect itself, it afflicts those around it with nightmares. However, it means no harm."
+
+moves:
+  level-up: disable: 1 | hypnosis: 20 | quick-attack: 11 | double-team: 47 | haze: 57 | dream-eater: 84 | nightmare: 38 | feint-attack: 29 | dark-pulse: 93 | nasty-plot: 75 | dark-void: 66 | ominous-wind: 1
+  machine: torment | strength | x-scissor | facade | thunder | double-team | fling | swagger | shadow-ball | calm-mind | payback | sludge-bomb | giga-impact | toxic | incinerate | thunder-wave | frustration | snarl | charge-beam | flash | cut | thunderbolt | thief | hyper-beam | will-o-wisp | rock-slide | substitute | dream-eater | rock-tomb | ice-beam | retaliate | psychic | protect | rain-dance | psych-up | rest | blizzard | poison-jab | focus-blast | aerial-ace | sunny-day | shadow-claw | hidden-power | round | swords-dance | rock-smash | brick-break | embargo | return | taunt
+  egg: none
+  tutor: last-resort | spite | sleep-talk | drain-punch | icy-wind | dark-pulse | foul-play | snatch | trick | wonder-room | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: darkrai
+default_form: true

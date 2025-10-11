@@ -1,0 +1,45 @@
+name: pawniard
+pokedex_num: 624
+generation: V
+types: dark | steel
+height_dm: 5
+weight_hg: 102
+
+abilities: defiant | inner-focus
+hidden_abilities: pressure
+ability_descriptions: Raises Attack two stages upon having any stat lowered. | Prevents flinching. | Increases the PP cost of moves targetting the Pokémon by one.
+
+base_stats: 45 | 85 | 70 | 40 | 40 | 60
+base_exp: 68
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 35
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river."
+
+moves:
+  level-up: scratch: 1 | guillotine: 62 | swords-dance: 57 | leer: 6 | slash: 30 | scary-face: 22 | feint-attack: 17 | fury-cutter: 9 | metal-claw: 25 | torment: 14 | metal-sound: 38 | iron-defense: 46 | assurance: 33 | embargo: 41 | night-slash: 49 | iron-head: 54
+  machine: cut | dig | torment | thief | x-scissor | attract | sandstorm | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | rock-polish | payback | retaliate | protect | rain-dance | toxic | rest | poison-jab | thunder-wave | frustration | snarl | aerial-ace | hone-claws | shadow-claw | low-sweep | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | embargo | return | taunt
+  egg: stealth-rock | revenge | sucker-punch | headbutt | pursuit | psycho-cut | mean-look
+  tutor: stealth-rock | dual-chop | iron-defense | dark-pulse | snatch | role-play | iron-head | snore | knock-off | low-kick | spite | sleep-talk | magnet-rise | foul-play
+evolution_info:
+  evolves_from: none
+  evolves_to: bisharp
+  trigger: level-up
+  evo_level: 52
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pawniard
+default_form: true

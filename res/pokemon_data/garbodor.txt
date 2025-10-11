@@ -1,0 +1,37 @@
+name: garbodor
+pokedex_num: 569
+generation: V
+types: poison
+height_dm: 19
+weight_hg: 1073
+
+abilities: stench | weak-armor
+hidden_abilities: aftermath
+ability_descriptions: Has a 10% chance of making target Pokémon flinch with each hit. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move. | Damages the attacker for 1/4 its max HP when knocked out by a contact move.
+
+base_stats: 80 | 95 | 82 | 60 | 82 | 75
+base_exp: 166
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: nugget:5% | silk-scarf:50% | black-sludge:50% | big-nugget:1%
+
+description: "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth."
+
+moves:
+  level-up: pound: 1 | double-slap: 14 | body-slam: 25 | toxic: 39 | sludge: 18 | amnesia: 46 | poison-gas: 1 | explosion: 59 | sludge-bomb: 29 | stockpile: 23 | swallow: 23 | recycle: 1 | recycle: 3 | toxic-spikes: 1 | toxic-spikes: 7 | gunk-shot: 54 | acid-spray: 12 | clear-smog: 34
+  machine: sludge-wave | thunderbolt | thief | attract | hyper-beam | facade | double-team | fling | venoshock | substitute | swagger | rock-polish | payback | psychic | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | focus-blast | frustration | solar-beam | sunny-day | explosion | hidden-power | round | smack-down | return
+  egg: none
+  tutor: giga-drain | spite | sleep-talk | drain-punch | pain-split | recycle | dark-pulse | seed-bomb | gunk-shot | snore
+evolution_info:
+  evolves_from: trubbish
+  evolves_to: none
+  trigger: N/A
+forms: garbodor
+default_form: true

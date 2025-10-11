@@ -1,0 +1,45 @@
+name: skiploom
+pokedex_num: 188
+generation: II
+types: grass | flying
+height_dm: 6
+weight_hg: 10
+
+abilities: chlorophyll | leaf-guard
+hidden_abilities: infiltrator
+ability_descriptions: Doubles Speed during strong sunlight. | Protects against major status ailments during strong sunlight. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 55 | 45 | 50 | 45 | 65 | 80
+base_exp: 119
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+
+moves:
+  level-up: tackle: 1 | tackle: 10 | tail-whip: 1 | tail-whip: 7 | mega-drain: 28 | leech-seed: 24 | poison-powder: 12 | stun-spore: 14 | sleep-powder: 16 | splash: 1 | cotton-spore: 40 | giga-drain: 52 | synthesis: 1 | synthesis: 4 | memento: 60 | bullet-seed: 20 | bounce: 56 | u-turn: 44 | worry-seed: 48 | rage-powder: 36 | acrobatics: 32
+  machine: psych-up | toxic | rest | u-turn | attract | frustration | facade | aerial-ace | double-team | solar-beam | substitute | swagger | sunny-day | acrobatics | grass-knot | reflect | hidden-power | round | swords-dance | energy-ball | protect | return | flash
+  egg: none
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | bounce | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: hoppip
+  evolves_to: jumpluff
+  trigger: level-up
+  evo_level: 27
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: skiploom
+default_form: true

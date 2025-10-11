@@ -1,0 +1,12 @@
+item_name: level-ball
+flavor_text: A Poké Ball for catching Pokémon that are a lower level than your own.
+cost: 0
+category: apricorn-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer in battle : Attempts to catch a wild Pokémon. If used in a trainer battle, nothing happens and the ball is lost. If the trainer's Pokémon's level is higher than: * four times the wild Pokémon's, the wild Pokémon's catch rate is 8× normal. * than twice the wild Pokémon's, the wild Pokémon's catch rate is 4× normal. * the wild Pokémon's, the wild Pokémon's catch rate is 2× normal.
+fling_power: -1
+consumable: no
+move name: 

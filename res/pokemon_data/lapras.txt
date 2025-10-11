@@ -1,0 +1,37 @@
+name: lapras
+pokedex_num: 131
+generation: I
+types: water | ice
+height_dm: 25
+weight_hg: 2200
+
+abilities: water-absorb | shell-armor
+hidden_abilities: hydration
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Protects against critical hits. | Cures any major status ailment after each turn during rain.
+
+base_stats: 130 | 85 | 80 | 85 | 95 | 60
+base_exp: 187
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | water1
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: mystic-water:100%
+
+description: "It loves crossing the sea with people and Pokémon on its back. It understands human speech."
+
+moves:
+  level-up: body-slam: 18 | growl: 1 | sing: 1 | mist: 4 | water-gun: 1 | hydro-pump: 49 | ice-beam: 32 | confuse-ray: 7 | perish-song: 27 | safeguard: 43 | rain-dance: 22 | sheer-cold: 55 | water-pulse: 14 | brine: 37 | ice-shard: 10
+  machine: strength | thunderbolt | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | dream-eater | bulldoze | ice-beam | waterfall | roar | psychic | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | hail | frost-breath | hidden-power | round | rock-smash | return | safeguard
+  egg: horn-drill | whirlpool | refresh | dragon-pulse | foresight | sleep-talk | future-sight | fissure | ancient-power | curse | dragon-dance | avalanche | tickle
+  tutor: signal-beam | aqua-tail | zen-headbutt | iron-tail | icy-wind | outrage | dragon-pulse | iron-head | snore | sleep-talk | hyper-voice | block | drill-run | heal-bell
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: lapras
+default_form: true

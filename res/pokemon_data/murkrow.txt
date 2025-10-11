@@ -1,0 +1,45 @@
+name: murkrow
+pokedex_num: 198
+generation: II
+types: dark | flying
+height_dm: 5
+weight_hg: 21
+
+abilities: insomnia | super-luck
+hidden_abilities: prankster
+ability_descriptions: Prevents sleep. | Raises moves' critical hit rates one stage. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 60 | 85 | 42 | 85 | 42 | 91
+base_exp: 81
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 30
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails."
+
+moves:
+  level-up: wing-attack: 15 | peck: 1 | night-shade: 21 | haze: 11 | feint-attack: 35 | mean-look: 41 | pursuit: 5 | torment: 61 | taunt: 31 | astonish: 1 | tailwind: 51 | assurance: 25 | sucker-punch: 55 | foul-play: 45 | quash: 65
+  machine: torment | thief | attract | facade | double-team | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | snarl | aerial-ace | sunny-day | fly | hidden-power | round | embargo | pluck | quash | return | taunt
+  egg: confuse-ray | sky-attack | roost | wing-attack | feint-attack | brave-bird | whirlwind | drill-peck | perish-song | assurance | feather-dance | screech | psycho-shift | mirror-move
+  tutor: heat-wave | tailwind | spite | sleep-talk | icy-wind | dark-pulse | foul-play | sky-attack | roost | snatch | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: honchkrow
+  trigger: use-item
+  evo_level: null
+  evo_item: dusk-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: murkrow
+default_form: true

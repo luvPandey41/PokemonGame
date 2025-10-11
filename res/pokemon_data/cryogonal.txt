@@ -1,0 +1,37 @@
+name: cryogonal
+pokedex_num: 615
+generation: V
+types: ice
+height_dm: 11
+weight_hg: 1480
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 80 | 50 | 50 | 95 | 135 | 105
+base_exp: 180
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 25
+
+wild_held_items: never-melt-ice:5%
+
+description: "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice."
+
+moves:
+  level-up: bind: 1 | mist: 21 | ice-beam: 33 | aurora-beam: 25 | solar-beam: 53 | recover: 49 | confuse-ray: 45 | light-screen: 37 | haze: 21 | reflect: 37 | acid-armor: 29 | sharpen: 9 | slash: 41 | icy-wind: 17 | rapid-spin: 13 | sheer-cold: 61 | night-slash: 57 | ice-shard: 5
+  machine: attract | hyper-beam | facade | double-team | substitute | swagger | reflect | ice-beam | protect | rain-dance | toxic | rest | blizzard | poison-jab | frustration | hail | solar-beam | acrobatics | frost-breath | explosion | hidden-power | round | flash-cannon | light-screen | return
+  egg: none
+  tutor: signal-beam | bind | sleep-talk | iron-defense | icy-wind | magic-coat | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: cryogonal
+default_form: true

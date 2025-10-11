@@ -1,0 +1,45 @@
+name: cyndaquil
+pokedex_num: 155
+generation: II
+types: fire
+height_dm: 5
+weight_hg: 79
+
+abilities: blaze
+hidden_abilities: flash-fire
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
+
+base_stats: 39 | 52 | 43 | 60 | 50 | 65
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+
+moves:
+  level-up: tackle: 1 | double-edge: 55 | leer: 1 | ember: 10 | flamethrower: 40 | quick-attack: 13 | smokescreen: 6 | defense-curl: 22 | swift: 31 | flame-wheel: 19 | rollout: 49 | eruption: 58 | lava-plume: 37 | flame-charge: 28 | inferno: 46
+  machine: toxic | rest | incinerate | cut | dig | wild-charge | attract | frustration | will-o-wisp | facade | aerial-ace | double-team | substitute | swagger | sunny-day | flame-charge | fire-blast | hidden-power | round | flamethrower | overheat | protect | return
+  egg: flare-blitz | flame-burst | crush-claw | extrasensory | double-kick | howl | foresight | nature-power | double-edge | reversal | quick-attack | thrash | fury-swipes | covet
+  tutor: heat-wave | sleep-talk | fire-pledge | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: quilava
+  trigger: level-up
+  evo_level: 14
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cyndaquil
+default_form: true

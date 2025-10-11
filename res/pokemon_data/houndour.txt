@@ -1,0 +1,45 @@
+name: houndour
+pokedex_num: 228
+generation: II
+types: dark | fire
+height_dm: 6
+weight_hg: 108
+
+abilities: early-bird | flash-fire
+hidden_abilities: unnerve
+ability_descriptions: Makes sleep pass twice as quickly. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 45 | 60 | 30 | 80 | 50 | 65
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 120
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others."
+
+moves:
+  level-up: leer: 1 | bite: 16 | roar: 13 | ember: 1 | flamethrower: 44 | smog: 8 | feint-attack: 32 | crunch: 49 | beat-up: 25 | odor-sleuth: 20 | howl: 4 | embargo: 37 | nasty-plot: 52 | fire-fang: 28 | foul-play: 40 | inferno: 56
+  machine: torment | thief | attract | will-o-wisp | facade | double-team | substitute | swagger | shadow-ball | dream-eater | flamethrower | overheat | payback | retaliate | roar | protect | sludge-bomb | toxic | rest | incinerate | frustration | snarl | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | embargo | return | taunt
+  egg: thunder-fang | fire-fang | sucker-punch | pursuit | counter | reversal | punishment | spite | fire-spin | nasty-plot | rage | beat-up | feint
+  tutor: heat-wave | spite | sleep-talk | iron-tail | hyper-voice | dark-pulse | foul-play | super-fang | snatch | role-play | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: houndoom
+  trigger: level-up
+  evo_level: 24
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: houndour
+default_form: true

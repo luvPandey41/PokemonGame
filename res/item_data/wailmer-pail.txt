@@ -1,0 +1,12 @@
+item_name: wailmer-pail
+flavor_text: A tool used for watering BERRIES and plants.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Waters Berry plants.
+fling_power: -1
+consumable: no
+move name: 

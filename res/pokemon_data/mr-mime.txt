@@ -1,0 +1,45 @@
+name: mr-mime
+pokedex_num: 122
+generation: I
+types: psychic | fairy
+height_dm: 13
+weight_hg: 545
+
+abilities: soundproof | filter
+hidden_abilities: technician
+ability_descriptions: Protects against sound-based moves. | Decreases damage taken from super-effective moves by 1/4. | Strengthens moves of 60 base power or less to 1.5× their power.
+
+base_stats: 40 | 45 | 65 | 100 | 120 | 90
+base_exp: 161
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: leppa-berry:5%
+
+description: "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air."
+
+moves:
+  level-up: double-slap: 11 | psybeam: 25 | confusion: 1 | psychic: 39 | meditate: 8 | mimic: 15 | barrier: 1 | light-screen: 22 | reflect: 22 | psywave: 15 | substitute: 29 | safeguard: 50 | baton-pass: 46 | encore: 18 | trick: 36 | role-play: 43 | recycle: 32 | magical-leaf: 1 | copycat: 4 | power-swap: 1 | guard-swap: 1 | wide-guard: 1 | quick-guard: 1
+  machine: torment | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | brick-break | charge-beam | energy-ball | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: hypnosis | magic-room | confuse-ray | power-split | future-sight | icy-wind | fake-out | nasty-plot | teeter-dance | mimic | trick | wake-up-slap
+  tutor: signal-beam | magic-room | zen-headbutt | iron-defense | icy-wind | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | helping-hand | sleep-talk | drain-punch | recycle | foul-play | wonder-room | covet | skill-swap
+evolution_info:
+  evolves_from: mime-jr
+  evolves_to: mr-rime
+  trigger: level-up
+  evo_level: 42
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mr-mime
+default_form: true

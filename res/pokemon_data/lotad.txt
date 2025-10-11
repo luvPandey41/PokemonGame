@@ -1,0 +1,45 @@
+name: lotad
+pokedex_num: 270
+generation: III
+types: water | grass
+height_dm: 5
+weight_hg: 26
+
+abilities: swift-swim | rain-dish
+hidden_abilities: own-tempo
+ability_descriptions: Doubles Speed during rain. | Heals for 1/16 max HP after each turn during rain. | Prevents confusion.
+
+base_stats: 40 | 30 | 30 | 40 | 50 | 30
+base_exp: 44
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: mental-herb:5%
+
+description: "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim."
+
+moves:
+  level-up: growl: 3 | mist: 11 | bubble-beam: 25 | absorb: 5 | mega-drain: 19 | rain-dance: 37 | nature-power: 7 | astonish: 1 | natural-gift: 15 | energy-ball: 45 | zen-headbutt: 31
+  machine: thief | attract | facade | scald | double-team | substitute | swagger | grass-knot | ice-beam | protect | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | hail | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: water-gun | synthesis | flail | giga-drain | razor-leaf | sweet-scent | teeter-dance | counter | leech-seed | tickle
+  tutor: synthesis | giga-drain | zen-headbutt | sleep-talk | icy-wind | seed-bomb | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: lombre
+  trigger: level-up
+  evo_level: 14
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lotad
+default_form: true

@@ -1,0 +1,52 @@
+name: wurmple
+pokedex_num: 265
+generation: III
+types: bug
+height_dm: 3
+weight_hg: 36
+
+abilities: shield-dust
+hidden_abilities: run-away
+ability_descriptions: Protects against incoming moves' extra effects. | Ensures success fleeing from wild battles.
+
+base_stats: 45 | 45 | 35 | 20 | 30 | 20
+base_exp: 56
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:50% | bright-powder:5%
+
+description: "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes."
+
+moves:
+  level-up: tackle: 1 | poison-sting: 5 | string-shot: 1 | bug-bite: 15
+  machine: none
+  egg: none
+  tutor: bug-bite | electroweb | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: silcoon, cascoon
+  trigger: level-up, level-up
+  evo_level: 7
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: 7
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: wurmple
+default_form: true

@@ -1,0 +1,45 @@
+name: timburr
+pokedex_num: 532
+generation: V
+types: fighting
+height_dm: 6
+weight_hg: 125
+
+abilities: guts | sheer-force
+hidden_abilities: iron-fist
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | Strengthens punch-based moves to 1.2× their power.
+
+base_stats: 75 | 80 | 55 | 25 | 35 | 35
+base_exp: 61
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 180
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty."
+
+moves:
+  level-up: pound: 1 | leer: 1 | low-kick: 12 | rock-throw: 16 | focus-energy: 4 | bide: 8 | rock-slide: 31 | scary-face: 37 | dynamic-punch: 34 | focus-punch: 46 | superpower: 49 | bulk-up: 28 | wake-up-slap: 20 | hammer-arm: 40 | stone-edge: 43 | chip-away: 24
+  machine: dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | payback | retaliate | bulk-up | protect | rain-dance | toxic | rest | poison-jab | focus-blast | frustration | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: comet-punch | mach-punch | reversal | force-palm | drain-punch | wide-guard | detect | counter | endure | foresight | smelling-salts
+  tutor: low-kick | helping-hand | sleep-talk | drain-punch | thunder-punch | ice-punch | block | fire-punch | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: gurdurr
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: timburr
+default_form: true

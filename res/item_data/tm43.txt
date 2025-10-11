@@ -1,0 +1,12 @@
+item_name: tm43
+flavor_text: The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Secret Power to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Flame Charge

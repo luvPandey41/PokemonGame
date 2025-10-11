@@ -1,0 +1,12 @@
+item_name: moon-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves a clefairy into clefable, a jigglypuff into wigglytuff, a munna into musharna, a nidorina into nidoqueen, a nidorino into nidoking, or a skitty into delcatty.
+fling_power: 30
+consumable: no
+move name: 

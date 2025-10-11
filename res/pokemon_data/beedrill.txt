@@ -1,0 +1,37 @@
+name: beedrill
+pokedex_num: 15
+generation: I
+types: bug | poison
+height_dm: 10
+weight_hg: 295
+
+abilities: swarm
+hidden_abilities: sniper
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens critical hits to inflict 3× damage rather than 2×.
+
+base_stats: 65 | 90 | 40 | 45 | 80 | 75
+base_exp: 178
+ev_yield: 0 | 2 | 0 | 0 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: poison-barb:5%
+
+description: "Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+
+moves:
+  level-up: fury-attack: 1 | fury-attack: 10 | twineedle: 16 | pin-missile: 28 | agility: 31 | rage: 19 | focus-energy: 13 | pursuit: 22 | endeavor: 40 | assurance: 34 | toxic-spikes: 25 | poison-jab: 37
+  machine: u-turn | cut | thief | x-scissor | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | payback | protect | sludge-bomb | giga-impact | toxic | rest | poison-jab | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return | flash
+  egg: none
+  tutor: giga-drain | tailwind | sleep-talk | bug-bite | endeavor | roost | drill-run | electroweb | snore | knock-off
+evolution_info:
+  evolves_from: kakuna
+  evolves_to: none
+  trigger: N/A
+forms: beedrill
+default_form: true

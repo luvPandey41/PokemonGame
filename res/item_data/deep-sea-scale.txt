@@ -1,0 +1,12 @@
+item_name: deep-sea-scale
+flavor_text: An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.
+cost: 2000
+category: species-specific
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by Clamperl: Doubles the holder's Special Defense. Evolves the holder into Gorebyss when traded.
+fling_power: 30
+consumable: no
+move name: 

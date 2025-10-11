@@ -1,0 +1,45 @@
+name: flaaffy
+pokedex_num: 180
+generation: II
+types: electric
+height_dm: 8
+weight_hg: 133
+
+abilities: static
+hidden_abilities: plus
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
+
+base_stats: 70 | 55 | 55 | 80 | 60 | 45
+base_exp: 128
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact."
+
+moves:
+  level-up: tackle: 1 | take-down: 20 | growl: 1 | thunder-shock: 1 | thunder-shock: 8 | thunder-wave: 1 | thunder-wave: 4 | thunder: 56 | confuse-ray: 29 | light-screen: 52 | cotton-spore: 11 | charge: 16 | signal-beam: 47 | power-gem: 34 | discharge: 38 | electro-ball: 25 | cotton-guard: 43
+  machine: strength | thunderbolt | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | protect | volt-switch | rain-dance | toxic | rest | echoed-voice | thunder-wave | frustration | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | sleep-talk | iron-tail | thunder-punch | magnet-rise | heal-bell | fire-punch | snore
+evolution_info:
+  evolves_from: mareep
+  evolves_to: ampharos
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: flaaffy
+default_form: true

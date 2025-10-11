@@ -1,0 +1,37 @@
+name: omastar
+pokedex_num: 139
+generation: I
+types: rock | water
+height_dm: 10
+weight_hg: 350
+
+abilities: swift-swim | shell-armor
+hidden_abilities: weak-armor
+ability_descriptions: Doubles Speed during rain. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 70 | 60 | 125 | 115 | 70 | 55
+base_exp: 173
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+
+moves:
+  level-up: leer: 19 | bite: 1 | bite: 7 | water-gun: 10 | hydro-pump: 75 | withdraw: 1 | spike-cannon: 40 | constrict: 1 | protect: 34 | rollout: 16 | ancient-power: 37 | tickle: 48 | mud-shot: 25 | rock-blast: 56 | brine: 28 | shell-smash: 67
+  machine: thief | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | gyro-ball | rock-tomb | rock-polish | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | rock-smash | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | bind | sleep-talk | iron-defense | icy-wind | snore | knock-off
+evolution_info:
+  evolves_from: omanyte
+  evolves_to: none
+  trigger: N/A
+forms: omastar
+default_form: true

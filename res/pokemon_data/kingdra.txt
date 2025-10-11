@@ -1,0 +1,37 @@
+name: kingdra
+pokedex_num: 230
+generation: II
+types: water | dragon
+height_dm: 18
+weight_hg: 1520
+
+abilities: swift-swim | sniper
+hidden_abilities: damp
+ability_descriptions: Doubles Speed during rain. | Strengthens critical hits to inflict 3× damage rather than 2×. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 75 | 95 | 95 | 95 | 95 | 85
+base_exp: 243
+ev_yield: 0 | 1 | 0 | 1 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: dragon-scale:5%
+
+description: "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+
+moves:
+  level-up: leer: 1 | leer: 8 | water-gun: 1 | water-gun: 11 | hydro-pump: 40 | bubble-beam: 18 | agility: 23 | smokescreen: 1 | smokescreen: 4 | focus-energy: 14 | bubble: 1 | twister: 26 | yawn: 1 | dragon-dance: 48 | brine: 30 | dragon-pulse: 57
+  machine: surf | giga-impact | toxic | rest | blizzard | attract | frustration | hyper-beam | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | flash-cannon | protect | dive | quash | return | rain-dance
+  egg: none
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | outrage | dragon-pulse | draco-meteor | iron-head | snore
+evolution_info:
+  evolves_from: seadra
+  evolves_to: none
+  trigger: N/A
+forms: kingdra
+default_form: true

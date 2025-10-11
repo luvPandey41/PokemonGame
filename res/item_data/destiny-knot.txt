@@ -1,0 +1,12 @@
+item_name: destiny-knot
+flavor_text: A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: When the holder becomes Attracted, the Pokémon it is Attracted to becomes Attracted back.
+fling_power: 10
+consumable: no
+move name: 

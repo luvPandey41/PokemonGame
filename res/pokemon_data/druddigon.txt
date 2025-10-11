@@ -1,0 +1,37 @@
+name: druddigon
+pokedex_num: 621
+generation: V
+types: dragon
+height_dm: 16
+weight_hg: 1390
+
+abilities: rough-skin | sheer-force
+hidden_abilities: mold-breaker
+ability_descriptions: Damages attacking Pokémon for 1/8 their max HP on contact. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | Bypasses targets' abilities if they could hinder or prevent a move.
+
+base_stats: 77 | 120 | 90 | 60 | 90 | 48
+base_exp: 170
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: dragon | monster
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: dragon-fang:5%
+
+description: "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | bite: 9 | dragon-rage: 18 | slash: 21 | scary-face: 13 | outrage: 62 | crunch: 25 | superpower: 55 | revenge: 35 | dragon-claw: 27 | night-slash: 40 | rock-climb: 49 | hone-claws: 5 | chip-away: 31 | dragon-tail: 45
+  machine: dragon-tail | cut | dig | torment | strength | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | flamethrower | payback | retaliate | roar | protect | dragon-claw | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | incinerate | focus-blast | frustration | snarl | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | charge-beam | flash-cannon | smack-down | return | taunt
+  egg: thunder-fang | glare | fire-fang | sucker-punch | iron-tail | crush-claw | pursuit | metal-claw | snatch | feint-attack | poison-tail
+  tutor: stealth-rock | aqua-tail | iron-tail | thunder-punch | dark-pulse | outrage | snatch | fire-punch | dragon-pulse | superpower | iron-head | snore | heat-wave | sleep-talk | gunk-shot | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: druddigon
+default_form: true

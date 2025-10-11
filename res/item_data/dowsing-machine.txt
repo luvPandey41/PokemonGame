@@ -1,0 +1,12 @@
+item_name: dowsing-machine
+flavor_text: It checks for unseen items in the area and makes noise and lights when it finds something.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer outside of battle : Searches for hidden items.
+fling_power: -1
+consumable: no
+move name: 

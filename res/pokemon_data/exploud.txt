@@ -1,0 +1,37 @@
+name: exploud
+pokedex_num: 295
+generation: III
+types: normal
+height_dm: 15
+weight_hg: 840
+
+abilities: soundproof
+hidden_abilities: scrappy
+ability_descriptions: Protects against sound-based moves. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
+
+base_stats: 104 | 91 | 63 | 91 | 73 | 68
+base_exp: 221
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: chesto-berry:5%
+
+description: "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+
+moves:
+  level-up: pound: 1 | stomp: 29 | bite: 20 | roar: 45 | supersonic: 23 | hyper-beam: 79 | screech: 37 | rest: 55 | sleep-talk: 63 | crunch: 40 | uproar: 1 | uproar: 5 | hyper-voice: 71 | astonish: 1 | astonish: 11 | howl: 1 | howl: 15 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | synchronoise: 55
+  machine: torment | strength | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | overheat | retaliate | roar | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | echoed-voice | focus-blast | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: low-kick | zen-headbutt | sleep-talk | icy-wind | thunder-punch | endeavor | hyper-voice | outrage | ice-punch | fire-punch | snore | uproar
+evolution_info:
+  evolves_from: loudred
+  evolves_to: none
+  trigger: N/A
+forms: exploud
+default_form: true

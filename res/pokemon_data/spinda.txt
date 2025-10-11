@@ -1,0 +1,37 @@
+name: spinda
+pokedex_num: 327
+generation: III
+types: normal
+height_dm: 11
+weight_hg: 50
+
+abilities: own-tempo | tangled-feet
+hidden_abilities: contrary
+ability_descriptions: Prevents confusion. | Doubles evasion when confused. | Inverts stat changes.
+
+base_stats: 60 | 60 | 60 | 60 | 60 | 60
+base_exp: 126
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground | humanshape
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: chesto-berry:5%
+
+description: "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes."
+
+moves:
+  level-up: tackle: 1 | thrash: 55 | double-edge: 46 | psybeam: 19 | hypnosis: 23 | dizzy-punch: 28 | flail: 50 | feint-attack: 14 | psych-up: 41 | uproar: 5 | teeter-dance: 37 | copycat: 10 | sucker-punch: 32
+  machine: dig | strength | thief | wild-charge | attract | rock-slide | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | rock-tomb | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | frustration | sunny-day | work-up | hidden-power | round | rock-smash | brick-break | return | trick-room | flash | safeguard
+  egg: baton-pass | icy-wind | fake-out | psycho-cut | trick | role-play | water-pulse | wish | disable | assist | fake-tears | rapid-spin | encore | smelling-salts
+  tutor: zen-headbutt | icy-wind | thunder-punch | ice-punch | snatch | trick | fire-punch | role-play | snore | uproar | low-kick | helping-hand | last-resort | sleep-talk | drain-punch | recycle | hyper-voice | covet | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: spinda
+default_form: true

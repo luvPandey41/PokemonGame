@@ -1,0 +1,45 @@
+name: swadloon
+pokedex_num: 541
+generation: V
+types: bug | grass
+height_dm: 5
+weight_hg: 73
+
+abilities: leaf-guard | chlorophyll
+hidden_abilities: overcoat
+ability_descriptions: Protects against major status ailments during strong sunlight. | Doubles Speed during strong sunlight. | Protects against damage from weather.
+
+base_stats: 55 | 63 | 90 | 50 | 80 | 42
+base_exp: 133
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: mental-herb:5%
+
+description: "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life."
+
+moves:
+  level-up: tackle: 1 | razor-leaf: 1 | string-shot: 1 | protect: 20 | grass-whistle: 1 | bug-bite: 1
+  machine: toxic | rest | cut | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | struggle-bug | dream-eater | grass-knot | hidden-power | round | calm-mind | energy-ball | payback | protect | light-screen | return | flash | safeguard
+  egg: none
+  tutor: synthesis | signal-beam | giga-drain | sleep-talk | iron-defense | bug-bite | seed-bomb | worry-seed | magic-coat | electroweb | snore
+evolution_info:
+  evolves_from: sewaddle
+  evolves_to: leavanny
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 220
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: swadloon
+default_form: true

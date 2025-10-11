@@ -1,0 +1,12 @@
+item_name: big-pearl
+flavor_text: A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+cost: 8000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

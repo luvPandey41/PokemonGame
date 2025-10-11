@@ -1,0 +1,37 @@
+name: claydol
+pokedex_num: 344
+generation: III
+types: ground | psychic
+height_dm: 15
+weight_hg: 1080
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 60 | 70 | 105 | 70 | 120 | 75
+base_exp: 175
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: light-clay:5%
+
+description: "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light."
+
+moves:
+  level-up: psybeam: 13 | hyper-beam: 36 | confusion: 1 | teleport: 1 | harden: 1 | self-destruct: 25 | explosion: 61 | mud-slap: 7 | sandstorm: 47 | rapid-spin: 1 | rapid-spin: 4 | ancient-power: 21 | rock-tomb: 10 | cosmic-power: 31 | extrasensory: 28 | heal-block: 54 | power-trick: 17 | earth-power: 40 | guard-split: 34 | power-split: 34
+  machine: dig | strength | hyper-beam | rock-slide | sandstorm | facade | double-team | telekinesis | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | explosion | hidden-power | round | rock-smash | stone-edge | charge-beam | smack-down | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | zen-headbutt | trick | magic-coat | snore | sleep-talk | gravity | recycle | drill-run | wonder-room | skill-swap
+evolution_info:
+  evolves_from: baltoy
+  evolves_to: none
+  trigger: N/A
+forms: claydol
+default_form: true

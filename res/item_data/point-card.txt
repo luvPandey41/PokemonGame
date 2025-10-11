@@ -1,0 +1,12 @@
+item_name: point-card
+flavor_text: A card that lists the Battle Points you have earned.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Tracks Battle Points.
+fling_power: -1
+consumable: no
+move name: 

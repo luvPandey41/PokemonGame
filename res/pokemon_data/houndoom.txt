@@ -1,0 +1,37 @@
+name: houndoom
+pokedex_num: 229
+generation: II
+types: dark | fire
+height_dm: 14
+weight_hg: 350
+
+abilities: early-bird | flash-fire
+hidden_abilities: unnerve
+ability_descriptions: Makes sleep pass twice as quickly. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 75 | 90 | 50 | 110 | 80 | 95
+base_exp: 175
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever."
+
+moves:
+  level-up: leer: 1 | bite: 16 | roar: 13 | ember: 1 | flamethrower: 50 | smog: 1 | smog: 8 | feint-attack: 35 | crunch: 56 | beat-up: 26 | odor-sleuth: 20 | howl: 1 | howl: 4 | embargo: 41 | nasty-plot: 60 | thunder-fang: 1 | fire-fang: 30 | foul-play: 45 | inferno: 65
+  machine: torment | strength | thief | attract | hyper-beam | will-o-wisp | facade | double-team | substitute | swagger | shadow-ball | dream-eater | flamethrower | overheat | payback | retaliate | roar | protect | sludge-bomb | giga-impact | toxic | rest | incinerate | frustration | snarl | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | embargo | return | taunt
+  egg: none
+  tutor: heat-wave | spite | sleep-talk | iron-tail | hyper-voice | dark-pulse | foul-play | super-fang | snatch | role-play | snore | uproar
+evolution_info:
+  evolves_from: houndour
+  evolves_to: none
+  trigger: N/A
+forms: houndoom
+default_form: true

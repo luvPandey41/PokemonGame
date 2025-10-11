@@ -1,0 +1,45 @@
+name: skorupi
+pokedex_num: 451
+generation: IV
+types: poison | bug
+height_dm: 8
+weight_hg: 120
+
+abilities: battle-armor | sniper
+hidden_abilities: keen-eye
+ability_descriptions: Protects against critical hits. | Strengthens critical hits to inflict 3× damage rather than 2×. | Prevents accuracy from being lowered.
+
+base_stats: 40 | 50 | 90 | 30 | 55 | 65
+base_exp: 66
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: bug | water3
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5%
+
+description: "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food."
+
+moves:
+  level-up: poison-sting: 1 | pin-missile: 9 | leer: 1 | bite: 1 | scary-face: 41 | pursuit: 16 | crunch: 45 | knock-off: 5 | poison-fang: 23 | acupressure: 13 | toxic-spikes: 34 | night-slash: 38 | cross-poison: 49 | bug-bite: 20 | hone-claws: 30 | venoshock: 27
+  machine: cut | dig | torment | strength | thief | x-scissor | attract | facade | double-team | fling | venoshock | substitute | swagger | shadow-ball | rock-tomb | payback | protect | sludge-bomb | rain-dance | toxic | rest | poison-jab | frustration | aerial-ace | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return | taunt | flash
+  egg: whirlwind | night-slash | confuse-ray | sand-attack | twineedle | screech | iron-tail | pursuit | slash | agility | feint-attack | poison-tail
+  tutor: aqua-tail | sleep-talk | iron-tail | bug-bite | dark-pulse | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: drapion
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: skorupi
+default_form: true

@@ -1,0 +1,12 @@
+item_name: pokeblock-case
+flavor_text: A case for holding POKéBLOCKS made with a BERRY BLENDER.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Stores Pokéblocks.
+fling_power: -1
+consumable: no
+move name: 

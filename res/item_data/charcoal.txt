@@ -1,0 +1,12 @@
+item_name: charcoal
+flavor_text: An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.
+cost: 1000
+category: type-enhancement
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the power of the holder's Fire moves by 20%.
+fling_power: 30
+consumable: no
+move name: 

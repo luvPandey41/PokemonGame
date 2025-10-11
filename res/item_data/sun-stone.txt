@@ -1,0 +1,12 @@
+item_name: sun-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves a cottonee into whimsicott, a gloom into bellossom, a petilil into lilligant, or a sunkern into sunflora.
+fling_power: 30
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: gothitelle
+pokedex_num: 576
+generation: V
+types: psychic
+height_dm: 15
+weight_hg: 440
+
+abilities: frisk | competitive
+hidden_abilities: shadow-tag
+ability_descriptions: Reveals an opponent's held item upon entering battle. | Raises Special Attack by two stages upon having any stat lowered. | Prevents opponents from fleeing or switching out.
+
+base_stats: 70 | 55 | 95 | 95 | 110 | 65
+base_exp: 221
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: persim-berry:50%
+
+description: "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power."
+
+moves:
+  level-up: pound: 1 | double-slap: 14 | psybeam: 16 | confusion: 1 | confusion: 3 | psychic: 39 | feint-attack: 24 | charm: 54 | future-sight: 31 | flatter: 28 | fake-tears: 1 | fake-tears: 10 | tickle: 1 | tickle: 7 | embargo: 19 | heal-block: 34 | psyshock: 25 | telekinesis: 45 | magic-room: 59
+  machine: torment | thunderbolt | thief | attract | hyper-beam | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | rock-tomb | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | low-sweep | hidden-power | round | brick-break | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | snatch | trick | magic-coat | role-play | snore | uproar | helping-hand | sleep-talk | gravity | recycle | foul-play | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: gothorita
+  evolves_to: none
+  trigger: N/A
+forms: gothitelle
+default_form: true

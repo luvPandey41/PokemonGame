@@ -1,0 +1,37 @@
+name: rampardos
+pokedex_num: 409
+generation: IV
+types: rock
+height_dm: 16
+weight_hg: 1025
+
+abilities: mold-breaker
+hidden_abilities: sheer-force
+ability_descriptions: Bypasses targets' abilities if they could hinder or prevent a move. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 97 | 165 | 60 | 65 | 50 | 58
+base_exp: 173
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: monster
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+
+moves:
+  level-up: headbutt: 1 | take-down: 15 | leer: 1 | screech: 51 | focus-energy: 6 | scary-face: 19 | pursuit: 10 | ancient-power: 36 | endeavor: 30 | assurance: 24 | zen-headbutt: 43 | head-smash: 58 | chip-away: 28
+  machine: dragon-tail | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | payback | roar | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | focus-blast | frustration | earthquake | sunny-day | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | zen-headbutt | iron-tail | thunder-punch | endeavor | pain-split | outrage | fire-punch | dragon-pulse | superpower | iron-head | snore | uproar | spite | sleep-talk
+evolution_info:
+  evolves_from: cranidos
+  evolves_to: none
+  trigger: N/A
+forms: rampardos
+default_form: true

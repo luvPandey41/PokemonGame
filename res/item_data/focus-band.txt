@@ -1,0 +1,12 @@
+item_name: focus-band
+flavor_text: An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: If the holder is attacked for regular damage that would faint it, this item has a 10% chance to prevent the holder's HP from lowering below 1.
+fling_power: 10
+consumable: no
+move name: 

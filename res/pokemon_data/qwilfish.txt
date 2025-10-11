@@ -1,0 +1,45 @@
+name: qwilfish
+pokedex_num: 211
+generation: II
+types: water | poison
+height_dm: 5
+weight_hg: 39
+
+abilities: poison-point | swift-swim
+hidden_abilities: intimidate
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Doubles Speed during rain. | Lowers opponents' Attack one stage upon entering battle.
+
+base_stats: 65 | 95 | 85 | 55 | 55 | 85
+base_exp: 88
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5%
+
+description: "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer."
+
+moves:
+  level-up: tackle: 1 | take-down: 41 | poison-sting: 1 | pin-missile: 37 | water-gun: 13 | hydro-pump: 57 | harden: 9 | minimize: 9 | spikes: 1 | destiny-bond: 53 | rollout: 17 | stockpile: 25 | spit-up: 25 | revenge: 29 | brine: 33 | toxic-spikes: 21 | poison-jab: 49 | aqua-tail: 45
+  machine: sludge-wave | attract | facade | scald | double-team | venoshock | substitute | swagger | shadow-ball | gyro-ball | ice-beam | waterfall | payback | protect | dive | sludge-bomb | rain-dance | surf | toxic | rest | blizzard | poison-jab | thunder-wave | frustration | hail | explosion | hidden-power | round | return | taunt
+  egg: flail | signal-beam | haze | bubble-beam | acid-spray | brine | astonish | water-pulse | aqua-jet | supersonic
+  tutor: signal-beam | aqua-tail | sleep-talk | bounce | icy-wind | pain-split | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: overqwil
+  trigger: strong-style-move
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: barb-barrage
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: qwilfish
+default_form: true

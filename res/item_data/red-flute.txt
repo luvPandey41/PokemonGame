@@ -1,0 +1,12 @@
+item_name: red-flute
+flavor_text: A toy flute made from red glass. A maniac will buy it for a high price.
+cost: 20
+category: flutes
+pocket: battle
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Cures attraction.
+fling_power: 30
+consumable: yes
+move name: 

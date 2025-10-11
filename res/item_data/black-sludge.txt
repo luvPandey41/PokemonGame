@@ -1,0 +1,12 @@
+item_name: black-sludge
+flavor_text: A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: If the holder is Poison-type, restores 1/16 max HP at the end of each turn. Otherwise, damages the holder by 1/16 its max HP at the end of each turn.
+fling_power: 30
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: nosepass
+pokedex_num: 299
+generation: III
+types: rock
+height_dm: 10
+weight_hg: 970
+
+abilities: sturdy | magnet-pull
+hidden_abilities: sand-force
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Prevents steel opponents from fleeing or switching out. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 30 | 45 | 135 | 45 | 90 | 30
+base_exp: 75
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: hard-stone:5% | magnet:5%
+
+description: "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body."
+
+moves:
+  level-up: tackle: 1 | thunder-wave: 15 | rock-throw: 11 | harden: 4 | rest: 22 | rock-slide: 29 | zap-cannon: 50 | lock-on: 50 | sandstorm: 36 | spark: 25 | block: 8 | rock-blast: 18 | power-gem: 32 | earth-power: 43 | discharge: 39 | stone-edge: 46
+  machine: torment | strength | thunderbolt | attract | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | volt-switch | toxic | rest | thunder-wave | frustration | earthquake | sunny-day | explosion | hidden-power | round | rock-smash | stone-edge | smack-down | return | taunt
+  egg: stealth-rock | double-edge | rollout | magnitude | block | endure
+  tutor: stealth-rock | earth-power | iron-defense | thunder-punch | pain-split | ice-punch | fire-punch | magic-coat | snore | sleep-talk | gravity | magnet-rise | block
+evolution_info:
+  evolves_from: none
+  evolves_to: probopass
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: mt-coronet
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nosepass
+default_form: true

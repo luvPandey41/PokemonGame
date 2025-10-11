@@ -1,0 +1,37 @@
+name: sharpedo
+pokedex_num: 319
+generation: III
+types: water | dark
+height_dm: 18
+weight_hg: 888
+
+abilities: rough-skin
+hidden_abilities: speed-boost
+ability_descriptions: Damages attacking Pokémon for 1/8 their max HP on contact. | Raises Speed one stage after each turn.
+
+base_stats: 70 | 120 | 40 | 95 | 40 | 95
+base_exp: 161
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: deep-sea-tooth:5%
+
+description: "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”"
+
+moves:
+  level-up: leer: 1 | bite: 1 | agility: 45 | rage: 1 | rage: 6 | screech: 18 | focus-energy: 1 | focus-energy: 8 | skull-bash: 50 | slash: 30 | scary-face: 11 | swagger: 21 | crunch: 28 | taunt: 40 | feint: 1 | assurance: 26 | night-slash: 56 | ice-fang: 16 | aqua-jet: 34
+  machine: torment | strength | thief | attract | hyper-beam | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | payback | retaliate | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | poison-jab | frustration | snarl | earthquake | hail | hidden-power | round | rock-smash | return | taunt
+  egg: none
+  tutor: zen-headbutt | spite | sleep-talk | bounce | icy-wind | dark-pulse | super-fang | snore | uproar
+evolution_info:
+  evolves_from: carvanha
+  evolves_to: none
+  trigger: N/A
+forms: sharpedo
+default_form: true

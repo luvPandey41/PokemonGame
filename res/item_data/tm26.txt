@@ -1,0 +1,12 @@
+item_name: tm26
+flavor_text: The user sets off an earthquake that strikes every Pokémon around it.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Earthquake to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Earthquake

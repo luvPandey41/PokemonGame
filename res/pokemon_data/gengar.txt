@@ -1,0 +1,37 @@
+name: gengar
+pokedex_num: 94
+generation: I
+types: ghost | poison
+height_dm: 15
+weight_hg: 405
+
+abilities: cursed-body
+hidden_abilities: none
+ability_descriptions: Has a 30% chance of Disabling any move that hits the Pokémon.
+
+base_stats: 60 | 65 | 60 | 130 | 75 | 110
+base_exp: 225
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: spell-tag:5%
+
+description: "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people."
+
+moves:
+  level-up: hypnosis: 1 | night-shade: 15 | confuse-ray: 19 | lick: 1 | dream-eater: 39 | nightmare: 61 | curse: 12 | spite: 1 | spite: 5 | destiny-bond: 50 | mean-look: 8 | shadow-ball: 33 | shadow-punch: 25 | payback: 28 | sucker-punch: 22 | dark-pulse: 44 | hex: 55
+  machine: torment | strength | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | thunder | double-team | telekinesis | fling | venoshock | substitute | swagger | shadow-ball | dream-eater | payback | psychic | protect | sludge-bomb | rain-dance | psych-up | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | sunny-day | shadow-claw | explosion | hidden-power | round | rock-smash | brick-break | energy-ball | embargo | return | taunt | trick-room
+  egg: none
+  tutor: icy-wind | thunder-punch | pain-split | dark-pulse | ice-punch | snatch | trick | fire-punch | role-play | snore | uproar | knock-off | giga-drain | spite | sleep-talk | drain-punch | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: haunter
+  evolves_to: none
+  trigger: N/A
+forms: gengar
+default_form: true

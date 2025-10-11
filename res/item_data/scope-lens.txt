@@ -1,0 +1,12 @@
+item_name: scope-lens
+flavor_text: An item to be held by a Pokémon. It is a lens that boosts the holder’s critical-hit ratio.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Raises the holder's critical hit counter by 1.
+fling_power: 30
+consumable: no
+move name: 

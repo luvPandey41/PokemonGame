@@ -1,0 +1,12 @@
+item_name: tm09
+flavor_text: The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Bullet Seed to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Venoshock

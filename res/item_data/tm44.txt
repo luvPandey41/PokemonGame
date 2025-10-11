@@ -1,0 +1,12 @@
+item_name: tm44
+flavor_text: The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.
+cost: 100000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rest to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Rest

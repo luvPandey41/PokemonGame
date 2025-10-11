@@ -1,0 +1,45 @@
+name: growlithe
+pokedex_num: 58
+generation: I
+types: fire
+height_dm: 7
+weight_hg: 190
+
+abilities: intimidate | flash-fire
+hidden_abilities: justified
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 55 | 70 | 45 | 70 | 50 | 60
+base_exp: 70
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100%
+
+description: "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer."
+
+moves:
+  level-up: take-down: 23 | leer: 8 | bite: 1 | roar: 1 | ember: 6 | flamethrower: 34 | agility: 30 | flame-wheel: 17 | reversal: 19 | outrage: 43 | crunch: 39 | heat-wave: 41 | helping-hand: 12 | odor-sleuth: 10 | flare-blitz: 45 | fire-fang: 21 | flame-burst: 28 | retaliate: 32
+  machine: dig | strength | thief | wild-charge | attract | will-o-wisp | facade | double-team | substitute | swagger | flamethrower | overheat | retaliate | roar | protect | toxic | rest | incinerate | frustration | snarl | aerial-ace | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | return | safeguard
+  egg: crunch | flare-blitz | iron-tail | double-kick | howl | double-edge | heat-wave | morning-sun | fire-spin | thrash | close-combat | body-slam | covet
+  tutor: heat-wave | helping-hand | sleep-talk | iron-tail | outrage | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: arcanine
+  trigger: use-item
+  evo_level: null
+  evo_item: fire-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: growlithe
+default_form: true

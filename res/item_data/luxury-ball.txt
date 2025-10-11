@@ -1,0 +1,12 @@
+item_name: luxury-ball
+flavor_text: A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+cost: 3000
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon, using a catch rate of 1×. Whenever the caught Pokémon's happiness increases, it increases by one extra point. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

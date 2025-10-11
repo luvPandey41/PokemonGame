@@ -1,0 +1,37 @@
+name: cinccino
+pokedex_num: 573
+generation: V
+types: normal
+height_dm: 5
+weight_hg: 75
+
+abilities: cute-charm | technician
+hidden_abilities: skill-link
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Strengthens moves of 60 base power or less to 1.5× their power. | Extends two-to-five-hit moves and triple kick to their full length every time.
+
+base_stats: 75 | 95 | 60 | 65 | 60 | 115
+base_exp: 165
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 15
+
+wild_held_items: chesto-berry:50%
+
+description: "Their white fur is coated in a special oil that makes it easy for them to deflect attacks."
+
+moves:
+  level-up: sing: 1 | helping-hand: 1 | tickle: 1 | bullet-seed: 1 | rock-blast: 1 | tail-slap: 1
+  machine: u-turn | dig | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | grass-knot | calm-mind | retaliate | protect | rain-dance | giga-impact | toxic | rest | echoed-voice | focus-blast | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | light-screen | return | safeguard
+  egg: none
+  tutor: after-you | aqua-tail | iron-tail | seed-bomb | snore | uproar | knock-off | helping-hand | last-resort | sleep-talk | hyper-voice | gunk-shot | covet
+evolution_info:
+  evolves_from: minccino
+  evolves_to: none
+  trigger: N/A
+forms: cinccino
+default_form: true

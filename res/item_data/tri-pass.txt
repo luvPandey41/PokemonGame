@@ -1,0 +1,12 @@
+item_name: tri-pass
+flavor_text: A pass for ferries between ONE, TWO, and THREE ISLAND.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to the first three Sevii Islands.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: treecko
+pokedex_num: 252
+generation: III
+types: grass
+height_dm: 5
+weight_hg: 50
+
+abilities: overgrow
+hidden_abilities: unburden
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Doubles Speed upon using or losing a held item.
+
+base_stats: 40 | 45 | 35 | 65 | 55 | 70
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+
+moves:
+  level-up: pound: 1 | slam: 36 | leer: 1 | absorb: 6 | mega-drain: 26 | agility: 31 | quick-attack: 11 | screech: 21 | detect: 41 | giga-drain: 46 | pursuit: 16 | energy-ball: 51
+  machine: cut | dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | protect | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | hidden-power | round | swords-dance | rock-smash | brick-break | energy-ball | return | flash | safeguard
+  egg: synthesis | crunch | magical-leaf | leaf-storm | crush-claw | endeavor | double-kick | mud-sport | leech-seed | bullet-seed | dragon-breath | natural-gift | razor-wind | worry-seed | grass-whistle
+  tutor: low-kick | synthesis | grass-pledge | giga-drain | sleep-talk | iron-tail | drain-punch | thunder-punch | endeavor | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: grovyle
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: treecko
+default_form: true

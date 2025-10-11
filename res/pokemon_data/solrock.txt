@@ -1,0 +1,37 @@
+name: solrock
+pokedex_num: 338
+generation: III
+types: rock | psychic
+height_dm: 12
+weight_hg: 1540
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 90 | 95 | 85 | 55 | 65 | 70
+base_exp: 161
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 25
+
+wild_held_items: sun-stone:5% | stardust:50% | comet-shard:1%
+
+description: "A new Pokémon species, rumored to be from the sun. It gives off light while spinning."
+
+moves:
+  level-up: tackle: 1 | solar-beam: 45 | fire-spin: 9 | rock-throw: 5 | confusion: 1 | psychic: 33 | harden: 1 | psywave: 17 | explosion: 49 | rock-slide: 25 | cosmic-power: 29 | embargo: 21 | heal-block: 37 | rock-polish: 13 | stone-edge: 41 | wonder-room: 53
+  machine: hyper-beam | will-o-wisp | rock-slide | sandstorm | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | flamethrower | overheat | calm-mind | psychic | protect | psych-up | giga-impact | toxic | rest | incinerate | frustration | earthquake | solar-beam | sunny-day | acrobatics | fire-blast | explosion | hidden-power | round | stone-edge | charge-beam | embargo | smack-down | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | zen-headbutt | iron-defense | pain-split | magic-coat | iron-head | snore | heat-wave | helping-hand | sleep-talk | gravity | recycle | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: solrock
+default_form: true

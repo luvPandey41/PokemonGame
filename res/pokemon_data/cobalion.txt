@@ -1,0 +1,37 @@
+name: cobalion
+pokedex_num: 638
+generation: V
+types: steel | fighting
+height_dm: 21
+weight_hg: 2500
+
+abilities: justified
+hidden_abilities: none
+ability_descriptions: Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 91 | 90 | 129 | 90 | 72 | 108
+base_exp: 261
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed."
+
+moves:
+  level-up: swords-dance: 49 | double-kick: 7 | take-down: 19 | leer: 1 | quick-attack: 1 | metal-claw: 13 | helping-hand: 25 | metal-burst: 67 | close-combat: 73 | iron-head: 37 | quick-guard: 55 | retaliate: 31 | work-up: 61 | sacred-sword: 42
+  machine: cut | strength | x-scissor | hyper-beam | sandstorm | facade | double-team | substitute | swagger | reflect | rock-polish | calm-mind | retaliate | roar | protect | volt-switch | psych-up | giga-impact | toxic | rest | poison-jab | focus-blast | thunder-wave | frustration | aerial-ace | hone-claws | work-up | hidden-power | false-swipe | round | swords-dance | rock-smash | stone-edge | flash-cannon | return | taunt | safeguard
+  egg: none
+  tutor: stealth-rock | helping-hand | zen-headbutt | sleep-talk | iron-defense | bounce | magnet-rise | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: cobalion
+default_form: true

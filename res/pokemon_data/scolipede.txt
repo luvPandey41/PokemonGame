@@ -1,0 +1,37 @@
+name: scolipede
+pokedex_num: 545
+generation: V
+types: bug | poison
+height_dm: 25
+weight_hg: 2005
+
+abilities: poison-point | swarm
+hidden_abilities: speed-boost
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Raises Speed one stage after each turn.
+
+base_stats: 60 | 100 | 89 | 55 | 69 | 112
+base_exp: 218
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | poison-barb:5%
+
+description: "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+
+moves:
+  level-up: double-edge: 55 | poison-sting: 1 | poison-sting: 5 | toxic: 44 | agility: 33 | screech: 1 | screech: 8 | defense-curl: 1 | protect: 15 | rollout: 1 | megahorn: 1 | baton-pass: 30 | pursuit: 12 | poison-tail: 19 | rock-climb: 50 | bug-bite: 23 | venoshock: 28 | steamroller: 39
+  machine: cut | dig | strength | x-scissor | attract | hyper-beam | rock-slide | facade | double-team | venoshock | substitute | swagger | bulldoze | gyro-ball | rock-tomb | payback | protect | sludge-bomb | giga-impact | toxic | rest | poison-jab | frustration | earthquake | solar-beam | sunny-day | struggle-bug | hidden-power | round | swords-dance | rock-smash | return
+  egg: none
+  tutor: aqua-tail | sleep-talk | iron-tail | iron-defense | bug-bite | endeavor | snatch | superpower | snore
+evolution_info:
+  evolves_from: whirlipede
+  evolves_to: none
+  trigger: N/A
+forms: scolipede
+default_form: true

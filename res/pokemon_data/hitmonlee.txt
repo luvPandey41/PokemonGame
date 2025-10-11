@@ -1,0 +1,37 @@
+name: hitmonlee
+pokedex_num: 106
+generation: I
+types: fighting
+height_dm: 15
+weight_hg: 498
+
+abilities: limber | reckless
+hidden_abilities: unburden
+ability_descriptions: Prevents paralysis. | Strengthens recoil moves to 1.2× their power. | Doubles Speed upon using or losing a held item.
+
+base_stats: 50 | 120 | 53 | 35 | 110 | 87
+base_exp: 159
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 0
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "Its legs can stretch double. First-time foes are startled by its extensible reach."
+
+moves:
+  level-up: double-kick: 1 | mega-kick: 53 | jump-kick: 13 | rolling-kick: 9 | meditate: 5 | focus-energy: 21 | high-jump-kick: 29 | mind-reader: 33 | reversal: 61 | foresight: 37 | endure: 49 | revenge: 1 | brick-break: 17 | blaze-kick: 45 | feint: 25 | close-combat: 57 | wide-guard: 41
+  machine: strength | thief | attract | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | retaliate | bulk-up | protect | rain-dance | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | return
+  egg: none
+  tutor: low-kick | helping-hand | sleep-talk | bounce | role-play | superpower | covet | snore | knock-off
+evolution_info:
+  evolves_from: tyrogue
+  evolves_to: none
+  trigger: N/A
+forms: hitmonlee
+default_form: true

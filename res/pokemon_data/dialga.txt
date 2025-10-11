@@ -1,0 +1,37 @@
+name: dialga
+pokedex_num: 483
+generation: IV
+types: steel | dragon
+height_dm: 54
+weight_hg: 6830
+
+abilities: pressure
+hidden_abilities: telepathy
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 100 | 120 | 120 | 150 | 100 | 90
+base_exp: 306
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart beats."
+
+moves:
+  level-up: slash: 15 | scary-face: 1 | dragon-breath: 1 | iron-tail: 42 | metal-claw: 6 | ancient-power: 10 | dragon-claw: 28 | metal-burst: 24 | aura-sphere: 37 | power-gem: 19 | earth-power: 33 | flash-cannon: 50 | roar-of-time: 46
+  machine: dragon-tail | cut | strength | thunderbolt | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | flamethrower | overheat | bulk-up | roar | protect | dragon-claw | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | blizzard | echoed-voice | thunder-wave | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | stone-edge | flash-cannon | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | earth-power | iron-tail | iron-defense | outrage | dragon-pulse | iron-head | snore | sleep-talk | gravity | hyper-voice | magnet-rise | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: dialga
+default_form: true

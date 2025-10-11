@@ -1,0 +1,37 @@
+name: octillery
+pokedex_num: 224
+generation: II
+types: water
+height_dm: 9
+weight_hg: 285
+
+abilities: suction-cups | sniper
+hidden_abilities: moody
+ability_descriptions: Prevents being forced out of battle by other Pokémon's moves. | Strengthens critical hits to inflict 3× damage rather than 2×. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 75 | 105 | 75 | 105 | 75 | 45
+base_exp: 168
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth."
+
+moves:
+  level-up: water-gun: 1 | hydro-pump: 52 | ice-beam: 40 | psybeam: 1 | psybeam: 10 | bubble-beam: 18 | aurora-beam: 1 | aurora-beam: 14 | hyper-beam: 58 | focus-energy: 22 | constrict: 1 | constrict: 6 | octazooka: 25 | signal-beam: 34 | bullet-seed: 46 | rock-blast: 1 | wring-out: 28 | gunk-shot: 1 | soak: 64
+  machine: sludge-wave | thief | attract | hyper-beam | facade | scald | double-team | substitute | swagger | ice-beam | flamethrower | waterfall | payback | psychic | protect | dive | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | thunder-wave | frustration | sunny-day | fire-blast | hidden-power | round | charge-beam | energy-ball | flash-cannon | smack-down | return
+  egg: none
+  tutor: signal-beam | bind | sleep-talk | bounce | icy-wind | seed-bomb | gunk-shot | snore
+evolution_info:
+  evolves_from: remoraid
+  evolves_to: none
+  trigger: N/A
+forms: octillery
+default_form: true

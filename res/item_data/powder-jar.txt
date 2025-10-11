@@ -1,0 +1,12 @@
+item_name: powder-jar
+flavor_text: Stores BERRY POWDER made using a BERRY CRUSHER.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Holds Berry Powder from Berry Crushing.
+fling_power: -1
+consumable: no
+move name: 

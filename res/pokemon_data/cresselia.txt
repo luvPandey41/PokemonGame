@@ -1,0 +1,37 @@
+name: cresselia
+pokedex_num: 488
+generation: IV
+types: psychic
+height_dm: 15
+weight_hg: 856
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 120 | 70 | 110 | 75 | 120 | 85
+base_exp: 270
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 100
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 8
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully."
+
+moves:
+  level-up: mist: 20 | aurora-beam: 29 | confusion: 1 | psychic: 93 | double-team: 1 | slash: 47 | safeguard: 11 | moonlight: 57 | future-sight: 38 | psycho-shift: 75 | psycho-cut: 66 | lunar-dance: 84
+  machine: attract | hyper-beam | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | solar-beam | sunny-day | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | helping-hand | zen-headbutt | sleep-talk | icy-wind | gravity | recycle | trick | magic-coat | snore | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: cresselia
+default_form: true

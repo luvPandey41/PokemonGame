@@ -1,0 +1,20 @@
+move name: round
+power: 60
+accuracy: 100
+type: normal
+attack type: special
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: Has double power if it's used more than once per turn.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

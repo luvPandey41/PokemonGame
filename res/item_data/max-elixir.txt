@@ -1,0 +1,12 @@
+item_name: max-elixir
+flavor_text: It fully restores the PP of all the moves learned by the targeted Pokémon.
+cost: 4500
+category: pp-recovery
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores PP to full for each move.
+fling_power: 30
+consumable: yes
+move name: 

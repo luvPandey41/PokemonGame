@@ -1,0 +1,45 @@
+name: gabite
+pokedex_num: 444
+generation: IV
+types: dragon | ground
+height_dm: 14
+weight_hg: 560
+
+abilities: sand-veil
+hidden_abilities: rough-skin
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Damages attacking Pokémon for 1/8 their max HP on contact.
+
+base_stats: 68 | 90 | 65 | 50 | 55 | 82
+base_exp: 144
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: haban-berry:5%
+
+description: "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 3 | tackle: 1 | take-down: 15 | dragon-rage: 7 | dig: 40 | slash: 28 | sandstorm: 13 | sand-tomb: 19 | dragon-claw: 33 | dragon-rush: 49 | dual-chop: 24
+  machine: cut | dig | strength | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | roar | protect | dragon-claw | rain-dance | toxic | rest | incinerate | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: stealth-rock | earth-power | dual-chop | sleep-talk | iron-tail | outrage | dragon-pulse | draco-meteor | iron-head | snore
+evolution_info:
+  evolves_from: gible
+  evolves_to: garchomp
+  trigger: level-up
+  evo_level: 48
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gabite
+default_form: true

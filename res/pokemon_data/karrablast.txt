@@ -1,0 +1,45 @@
+name: karrablast
+pokedex_num: 588
+generation: V
+types: bug
+height_dm: 5
+weight_hg: 59
+
+abilities: swarm | shed-skin
+hidden_abilities: no-guard
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Has a 33% chance of curing any major status ailment after each turn. | Ensures all moves used by and against the Pokémon hit.
+
+base_stats: 50 | 75 | 45 | 40 | 45 | 60
+base_exp: 63
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet."
+
+moves:
+  level-up: swords-dance: 52 | headbutt: 20 | fury-attack: 16 | take-down: 37 | double-edge: 56 | leer: 4 | peck: 1 | slash: 32 | flail: 49 | scary-face: 40 | endure: 8 | false-swipe: 25 | fury-cutter: 13 | x-scissor: 44 | bug-buzz: 28
+  machine: toxic | rest | cut | poison-jab | x-scissor | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | struggle-bug | hidden-power | false-swipe | round | swords-dance | energy-ball | protect | return | rain-dance
+  egg: horn-attack | screech | megahorn | bug-bite | pursuit | counter | feint-attack | knock-off
+  tutor: giga-drain | sleep-talk | iron-defense | bug-bite | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: escavalier
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: karrablast
+default_form: true

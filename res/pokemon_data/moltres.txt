@@ -1,0 +1,37 @@
+name: moltres
+pokedex_num: 146
+generation: I
+types: fire | flying
+height_dm: 20
+weight_hg: 600
+
+abilities: pressure
+hidden_abilities: flame-body
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Has a 30% chance of burning attacking Pokémon on contact.
+
+base_stats: 90 | 100 | 90 | 125 | 85 | 90
+base_exp: 261
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring."
+
+moves:
+  level-up: wing-attack: 1 | ember: 1 | flamethrower: 36 | solar-beam: 71 | fire-spin: 8 | agility: 15 | sky-attack: 78 | endure: 22 | safeguard: 43 | sunny-day: 85 | ancient-power: 29 | heat-wave: 64 | roost: 57 | air-slash: 50 | hurricane: 92
+  machine: u-turn | hyper-beam | will-o-wisp | sandstorm | facade | double-team | substitute | swagger | flamethrower | overheat | roar | protect | rain-dance | sky-drop | giga-impact | toxic | rest | incinerate | frustration | aerial-ace | solar-beam | sunny-day | flame-charge | fire-blast | fly | hidden-power | round | rock-smash | pluck | return | safeguard
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: moltres
+default_form: true

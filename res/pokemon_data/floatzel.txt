@@ -1,0 +1,37 @@
+name: floatzel
+pokedex_num: 419
+generation: IV
+types: water
+height_dm: 11
+weight_hg: 335
+
+abilities: swift-swim
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Prevents burns.
+
+base_stats: 85 | 105 | 55 | 85 | 50 | 115
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: wacan-berry:5%
+
+description: "It is a common sight around fishing ports. It is known to rescue people and carry off prey."
+
+moves:
+  level-up: razor-wind: 41 | growl: 1 | growl: 4 | sonic-boom: 1 | water-gun: 15 | hydro-pump: 57 | agility: 51 | quick-attack: 1 | quick-attack: 11 | swift: 21 | pursuit: 18 | crunch: 1 | whirlpool: 35 | water-sport: 1 | water-sport: 7 | aqua-tail: 46 | ice-fang: 1 | aqua-jet: 24 | double-hit: 29
+  machine: dig | torment | strength | attract | hyper-beam | facade | scald | double-team | substitute | swagger | rock-tomb | ice-beam | waterfall | payback | bulk-up | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | hail | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: low-kick | aqua-tail | sleep-talk | iron-tail | icy-wind | ice-punch | snore
+evolution_info:
+  evolves_from: buizel
+  evolves_to: none
+  trigger: N/A
+forms: floatzel
+default_form: true

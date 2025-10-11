@@ -1,0 +1,45 @@
+name: larvesta
+pokedex_num: 636
+generation: V
+types: bug | fire
+height_dm: 11
+weight_hg: 288
+
+abilities: flame-body
+hidden_abilities: swarm
+ability_descriptions: Has a 30% chance of burning attacking Pokémon on contact. | Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 55 | 85 | 55 | 50 | 55 | 60
+base_exp: 72
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames."
+
+moves:
+  level-up: take-down: 20 | thrash: 90 | double-edge: 50 | ember: 1 | string-shot: 1 | amnesia: 80 | leech-life: 10 | flame-wheel: 60 | flare-blitz: 100 | bug-buzz: 70 | bug-bite: 40 | flame-charge: 30
+  machine: u-turn | wild-charge | will-o-wisp | facade | double-team | substitute | swagger | flamethrower | overheat | calm-mind | psychic | protect | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | acrobatics | fire-blast | struggle-bug | hidden-power | round | light-screen | return | safeguard
+  egg: harden | zen-headbutt | morning-sun | magnet-rise | endure | foresight | string-shot
+  tutor: signal-beam | heat-wave | giga-drain | zen-headbutt | sleep-talk | bug-bite | magnet-rise | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: volcarona
+  trigger: level-up
+  evo_level: 59
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: larvesta
+default_form: true

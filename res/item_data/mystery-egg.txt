@@ -1,0 +1,12 @@
+item_name: mystery-egg
+flavor_text: A mysterious Egg obtained from Mr. Pokémon. What’s in the Egg is unknown.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Must be obtained to trigger the break-in at Professor Elm's lab, the first rival battle, and access to johto route 31.
+fling_power: -1
+consumable: no
+move name: 

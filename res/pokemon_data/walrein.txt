@@ -1,0 +1,37 @@
+name: walrein
+pokedex_num: 365
+generation: III
+types: ice | water
+height_dm: 14
+weight_hg: 1506
+
+abilities: thick-fat | ice-body
+hidden_abilities: oblivious
+ability_descriptions: Halves damage from fire and ice moves. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | Prevents infatuation and protects against captivate.
+
+base_stats: 110 | 80 | 90 | 95 | 90 | 65
+base_exp: 239
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks."
+
+moves:
+  level-up: body-slam: 19 | growl: 1 | water-gun: 1 | blizzard: 52 | aurora-beam: 25 | rest: 39 | snore: 39 | powder-snow: 1 | swagger: 32 | encore: 1 | encore: 7 | crunch: 1 | hail: 31 | ice-ball: 13 | sheer-cold: 65 | ice-fang: 44
+  machine: strength | attract | hyper-beam | rock-slide | facade | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | earthquake | hail | frost-breath | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: signal-beam | aqua-tail | sleep-talk | iron-tail | icy-wind | super-fang | block | iron-head | snore
+evolution_info:
+  evolves_from: sealeo
+  evolves_to: none
+  trigger: N/A
+forms: walrein
+default_form: true

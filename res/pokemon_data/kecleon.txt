@@ -1,0 +1,37 @@
+name: kecleon
+pokedex_num: 352
+generation: III
+types: normal
+height_dm: 10
+weight_hg: 220
+
+abilities: color-change
+hidden_abilities: protean
+ability_descriptions: Changes type to match when hit by a damaging move. | Changes the bearer's type to match each move it uses.
+
+base_stats: 60 | 90 | 70 | 60 | 120 | 40
+base_exp: 154
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:5%
+
+description: "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however."
+
+moves:
+  level-up: scratch: 1 | bind: 4 | tail-whip: 1 | psybeam: 18 | screech: 32 | lick: 1 | fury-swipes: 10 | slash: 27 | substitute: 37 | thief: 1 | feint-attack: 7 | ancient-power: 55 | astonish: 1 | feint: 14 | sucker-punch: 43 | shadow-claw: 49 | shadow-sneak: 22 | synchronoise: 58
+  machine: cut | dig | strength | thunderbolt | thief | attract | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | rock-tomb | ice-beam | flamethrower | retaliate | protect | rain-dance | psych-up | toxic | rest | incinerate | blizzard | thunder-wave | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | charge-beam | return | trick-room | flash
+  egg: recover | disable | fake-out | nasty-plot | foul-play | snatch | dizzy-punch | trick | magic-coat | skill-swap
+  tutor: stealth-rock | after-you | aqua-tail | iron-tail | icy-wind | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | knock-off | low-kick | bind | last-resort | sleep-talk | drain-punch | recycle | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: kecleon
+default_form: true

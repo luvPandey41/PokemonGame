@@ -1,0 +1,12 @@
+item_name: rowap-berry
+flavor_text: If held by a Pokémon and a special attack lands, the attacker also takes damage.
+cost: 80
+category: other
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder takes special damage, it consumes this item to damage the attacking Pokémon for 1/8 its max HP.
+fling_power: 10
+consumable: no
+move name: 

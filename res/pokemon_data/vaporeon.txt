@@ -1,0 +1,37 @@
+name: vaporeon
+pokedex_num: 134
+generation: I
+types: water
+height_dm: 10
+weight_hg: 290
+
+abilities: water-absorb
+hidden_abilities: hydration
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Cures any major status ailment after each turn during rain.
+
+base_stats: 130 | 65 | 60 | 110 | 95 | 65
+base_exp: 184
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "Its cell composition is similar to water molecules. As a result, it can melt away into water."
+
+moves:
+  level-up: sand-attack: 5 | tackle: 1 | tail-whip: 1 | water-gun: 9 | hydro-pump: 45 | aurora-beam: 21 | quick-attack: 13 | haze: 33 | acid-armor: 29 | helping-hand: 1 | muddy-water: 37 | water-pulse: 17 | last-resort: 41 | aqua-ring: 25
+  machine: dig | strength | attract | hyper-beam | facade | scald | double-team | substitute | swagger | shadow-ball | ice-beam | waterfall | retaliate | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | hail | sunny-day | work-up | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: signal-beam | helping-hand | last-resort | aqua-tail | sleep-talk | iron-tail | icy-wind | hyper-voice | heal-bell | covet | snore
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: vaporeon
+default_form: true

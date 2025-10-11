@@ -1,0 +1,12 @@
+item_name: coupon-3
+flavor_text: A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: One of three coupons needed to receive a Pokétch.
+fling_power: -1
+consumable: no
+move name: 

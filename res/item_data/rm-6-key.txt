@@ -1,0 +1,12 @@
+item_name: rm-6-key
+flavor_text: A key that opens a door inside the ABANDONED SHIP.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Unlocks room 6 on the abandoned ship.
+fling_power: -1
+consumable: no
+move name: 

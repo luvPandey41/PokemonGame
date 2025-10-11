@@ -1,0 +1,12 @@
+item_name: hm05
+flavor_text: The user charges the target at an awesome speed. It can also be used to climb a waterfall.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Defog to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Waterfall

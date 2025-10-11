@@ -1,0 +1,45 @@
+name: remoraid
+pokedex_num: 223
+generation: II
+types: water
+height_dm: 6
+weight_hg: 120
+
+abilities: hustle | sniper
+hidden_abilities: moody
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Strengthens critical hits to inflict 3× damage rather than 2×. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 35 | 65 | 35 | 65 | 35 | 65
+base_exp: 60
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea."
+
+moves:
+  level-up: water-gun: 1 | hydro-pump: 42 | ice-beam: 34 | psybeam: 10 | bubble-beam: 18 | aurora-beam: 14 | hyper-beam: 46 | focus-energy: 22 | lock-on: 6 | signal-beam: 30 | bullet-seed: 38 | water-pulse: 26 | soak: 50
+  machine: thief | attract | hyper-beam | facade | scald | double-team | substitute | swagger | ice-beam | flamethrower | waterfall | psychic | protect | dive | rain-dance | surf | toxic | rest | incinerate | blizzard | thunder-wave | frustration | sunny-day | fire-blast | hidden-power | round | charge-beam | smack-down | return
+  egg: rock-blast | mud-shot | octazooka | water-spout | water-pulse | snore | flail | aurora-beam | haze | screech | acid-spray | supersonic | swift
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | seed-bomb | gunk-shot | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: octillery
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: remoraid
+default_form: true

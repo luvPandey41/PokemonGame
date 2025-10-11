@@ -1,0 +1,45 @@
+name: swinub
+pokedex_num: 220
+generation: II
+types: ice | ground
+height_dm: 4
+weight_hg: 65
+
+abilities: oblivious | snow-cloak
+hidden_abilities: thick-fat
+ability_descriptions: Prevents infatuation and protects against captivate. | Increases evasion to 1.25× during hail.  Protects against hail damage. | Halves damage from fire and ice moves.
+
+base_stats: 50 | 50 | 40 | 30 | 30 | 50
+base_exp: 50
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: aspear-berry:50%
+
+description: "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice."
+
+moves:
+  level-up: tackle: 1 | take-down: 28 | mist: 35 | blizzard: 44 | earthquake: 37 | amnesia: 48 | flail: 40 | powder-snow: 8 | mud-slap: 11 | icy-wind: 21 | endure: 14 | mud-sport: 5 | odor-sleuth: 1 | ice-shard: 24 | mud-bomb: 18
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | reflect | rock-tomb | ice-beam | roar | protect | rain-dance | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | light-screen | return
+  egg: stealth-rock | double-edge | icicle-spear | bite | fissure | mud-shot | ancient-power | curse | take-down | avalanche | icicle-crash | body-slam
+  tutor: stealth-rock | earth-power | sleep-talk | icy-wind | endeavor | superpower | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: piloswine
+  trigger: level-up
+  evo_level: 33
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: swinub
+default_form: true

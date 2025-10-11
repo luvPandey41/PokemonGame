@@ -1,0 +1,45 @@
+name: lillipup
+pokedex_num: 506
+generation: V
+types: normal
+height_dm: 4
+weight_hg: 41
+
+abilities: vital-spirit | pickup
+hidden_abilities: run-away
+ability_descriptions: Prevents sleep. | Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Ensures success fleeing from wild battles.
+
+base_stats: 45 | 60 | 45 | 25 | 45 | 55
+base_exp: 55
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees."
+
+moves:
+  level-up: tackle: 1 | take-down: 15 | leer: 1 | bite: 8 | roar: 26 | reversal: 33 | crunch: 22 | helping-hand: 12 | odor-sleuth: 5 | last-resort: 36 | giga-impact: 40 | retaliate: 29 | work-up: 19
+  machine: dig | thunderbolt | wild-charge | attract | facade | double-team | substitute | swagger | shadow-ball | rock-tomb | retaliate | roar | protect | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | snarl | aerial-ace | sunny-day | work-up | hidden-power | round | rock-smash | return
+  egg: thunder-fang | ice-fang | fire-fang | mud-slap | charm | sand-attack | lick | pursuit | yawn | endure | howl
+  tutor: helping-hand | last-resort | sleep-talk | hyper-voice | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: herdier
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lillipup
+default_form: true

@@ -1,0 +1,20 @@
+move name: sleep-talk
+power: 0
+accuracy: 0
+type: normal
+attack type: status
+target: user
+pp: 10
+priority: 0
+flavor text: Randomly uses one of the user's other three moves.  Only works if the user is sleeping.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

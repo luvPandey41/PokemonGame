@@ -1,0 +1,45 @@
+name: spheal
+pokedex_num: 363
+generation: III
+types: ice | water
+height_dm: 8
+weight_hg: 395
+
+abilities: thick-fat | ice-body
+hidden_abilities: oblivious
+ability_descriptions: Halves damage from fire and ice moves. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | Prevents infatuation and protects against captivate.
+
+base_stats: 70 | 40 | 50 | 55 | 50 | 25
+base_exp: 58
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It rolls across ice floes to reach shore because its body is poorly shaped for swimming."
+
+moves:
+  level-up: body-slam: 19 | growl: 1 | water-gun: 1 | blizzard: 43 | aurora-beam: 25 | defense-curl: 1 | rest: 37 | snore: 37 | powder-snow: 1 | encore: 7 | hail: 31 | ice-ball: 13 | sheer-cold: 49
+  machine: strength | attract | rock-slide | facade | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | earthquake | hail | frost-breath | hidden-power | round | rock-smash | return
+  egg: aqua-ring | signal-beam | swallow | rollout | sleep-talk | fissure | yawn | curse | spit-up | stockpile | water-sport | water-pulse
+  tutor: signal-beam | aqua-tail | sleep-talk | iron-tail | icy-wind | super-fang | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: sealeo
+  trigger: level-up
+  evo_level: 32
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: spheal
+default_form: true

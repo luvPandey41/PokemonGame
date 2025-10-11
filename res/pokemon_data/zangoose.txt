@@ -1,0 +1,37 @@
+name: zangoose
+pokedex_num: 335
+generation: III
+types: normal
+height_dm: 13
+weight_hg: 403
+
+abilities: immunity
+hidden_abilities: toxic-boost
+ability_descriptions: Prevents poison. | Increases Attack to 1.5× when poisoned.
+
+base_stats: 73 | 115 | 60 | 60 | 60 | 90
+base_exp: 160
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5%
+
+description: "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 43 | leer: 1 | quick-attack: 5 | slash: 15 | detect: 33 | false-swipe: 29 | fury-cutter: 8 | pursuit: 12 | taunt: 40 | revenge: 26 | crush-claw: 22 | close-combat: 47 | embargo: 19 | x-scissor: 36
+  machine: dig | strength | thunderbolt | thief | x-scissor | attract | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | rock-tomb | ice-beam | flamethrower | payback | retaliate | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | poison-jab | focus-blast | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | fire-blast | work-up | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | embargo | return | taunt
+  egg: night-slash | iron-tail | final-gambit | counter | double-kick | double-hit | flail | disable | razor-wind | curse | metal-claw | fury-swipes | feint
+  tutor: low-kick | giga-drain | last-resort | sleep-talk | iron-tail | icy-wind | thunder-punch | endeavor | ice-punch | fire-punch | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: zangoose
+default_form: true

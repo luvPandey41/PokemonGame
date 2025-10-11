@@ -1,0 +1,37 @@
+name: venomoth
+pokedex_num: 49
+generation: I
+types: bug | poison
+height_dm: 15
+weight_hg: 125
+
+abilities: shield-dust | tinted-lens
+hidden_abilities: wonder-skin
+ability_descriptions: Protects against incoming moves' extra effects. | Doubles damage inflicted with not-very-effective moves. | Lowers incoming non-damaging moves' base accuracy to exactly 50%.
+
+base_stats: 70 | 65 | 60 | 90 | 75 | 90
+base_exp: 158
+ev_yield: 0 | 0 | 0 | 1 | 0 | 1
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: silver-powder:5% | shed-shell:5%
+
+description: "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin."
+
+moves:
+  level-up: gust: 31 | tackle: 1 | supersonic: 1 | supersonic: 5 | disable: 1 | psybeam: 25 | poison-powder: 13 | stun-spore: 23 | sleep-powder: 29 | confusion: 11 | psychic: 55 | leech-life: 17 | foresight: 1 | poison-fang: 47 | silver-wind: 1 | signal-beam: 37 | bug-buzz: 59 | zen-headbutt: 41 | quiver-dance: 63
+  machine: u-turn | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | psychic | protect | sludge-bomb | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | energy-ball | return | flash
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | zen-headbutt | sleep-talk | bug-bite | roost | snore | skill-swap
+evolution_info:
+  evolves_from: venonat
+  evolves_to: none
+  trigger: N/A
+forms: venomoth
+default_form: true

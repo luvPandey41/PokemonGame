@@ -1,0 +1,12 @@
+item_name: float-stone
+flavor_text: A very light stone. It reduces the weight of a Pokémon when held.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : Holder has 0.5× weight.
+fling_power: 30
+consumable: no
+move name: 

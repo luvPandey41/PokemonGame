@@ -1,0 +1,23 @@
+Map: route_one
+
+# Potion Man
+name: potioner
+spriteBase: pokemart_assistant
+x: 32
+y: 270
+direction: right
+dialogue: Here, have this potion.|You can buy more at the pokemart.
+ID: 6
+
+---
+
+# Youngster Barry
+name: Youngster Barry
+spriteBase: youngster
+x: 96
+y: 322 
+direction: right
+dialogue: You got lucky to choose a starter.|I had to get mine the hard way.
+team: Pidgey,30|Pikachu,40
+preBattleDialogue: This battle is presented to you by koopy.
+ID: 7

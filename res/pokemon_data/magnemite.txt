@@ -1,0 +1,45 @@
+name: magnemite
+pokedex_num: 81
+generation: I
+types: electric | steel
+height_dm: 3
+weight_hg: 60
+
+abilities: magnet-pull | sturdy
+hidden_abilities: analytic
+ability_descriptions: Prevents steel opponents from fleeing or switching out. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 25 | 35 | 70 | 95 | 55 | 45
+base_exp: 65
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: metal-coat:5%
+
+description: "The faster the units at its sides rotate, the greater the magnetic force they generate."
+
+moves:
+  level-up: tackle: 1 | supersonic: 4 | sonic-boom: 11 | thunder-shock: 7 | thunder-wave: 15 | screech: 39 | zap-cannon: 57 | lock-on: 46 | spark: 21 | metal-sound: 29 | gyro-ball: 53 | magnet-rise: 49 | mirror-shot: 25 | flash-cannon: 35 | discharge: 43 | magnet-bomb: 18 | electro-ball: 32
+  machine: thunderbolt | wild-charge | facade | thunder | double-team | substitute | swagger | reflect | gyro-ball | protect | volt-switch | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | explosion | hidden-power | round | charge-beam | flash-cannon | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-defense | gravity | recycle | magnet-rise | magic-coat | electroweb | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: magneton
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: magnemite
+default_form: true

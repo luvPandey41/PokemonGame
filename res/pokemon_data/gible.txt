@@ -1,0 +1,45 @@
+name: gible
+pokedex_num: 443
+generation: IV
+types: dragon | ground
+height_dm: 7
+weight_hg: 205
+
+abilities: sand-veil
+hidden_abilities: rough-skin
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Damages attacking Pokémon for 1/8 their max HP on contact.
+
+base_stats: 58 | 70 | 45 | 40 | 45 | 42
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: haban-berry:5%
+
+description: "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too."
+
+moves:
+  level-up: sand-attack: 3 | tackle: 1 | take-down: 15 | dragon-rage: 7 | dig: 31 | slash: 25 | sandstorm: 13 | sand-tomb: 19 | dragon-claw: 27 | dragon-rush: 37
+  machine: cut | dig | strength | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | roar | protect | dragon-claw | rain-dance | toxic | rest | incinerate | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | stone-edge | return
+  egg: scary-face | iron-tail | mud-shot | outrage | sand-tomb | iron-head | dragon-breath | double-edge | rock-climb | twister | metal-claw | thrash | body-slam
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | outrage | dragon-pulse | draco-meteor | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: gabite
+  trigger: level-up
+  evo_level: 24
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gible
+default_form: true

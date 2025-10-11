@@ -1,0 +1,45 @@
+name: purrloin
+pokedex_num: 509
+generation: V
+types: dark
+height_dm: 4
+weight_hg: 101
+
+abilities: limber | unburden
+hidden_abilities: prankster
+ability_descriptions: Prevents paralysis. | Doubles Speed upon using or losing a held item. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 41 | 50 | 37 | 50 | 37 | 66
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 10 | growl: 3 | fury-swipes: 12 | slash: 30 | pursuit: 15 | fake-out: 21 | torment: 19 | assist: 6 | snatch: 39 | assurance: 28 | sucker-punch: 46 | night-slash: 37 | nasty-plot: 42 | captivate: 33 | hone-claws: 24
+  machine: u-turn | cut | torment | thief | attract | facade | double-team | substitute | swagger | shadow-ball | dream-eater | grass-knot | payback | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | snarl | aerial-ace | hone-claws | sunny-day | shadow-claw | hidden-power | round | embargo | return | taunt
+  egg: charm | yawn | pay-day | foul-play | fake-tears | feint-attack | encore | covet
+  tutor: iron-tail | dark-pulse | seed-bomb | snatch | trick | role-play | snore | knock-off | spite | sleep-talk | hyper-voice | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: liepard
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: purrloin
+default_form: true

@@ -1,0 +1,12 @@
+item_name: tm45
+flavor_text: If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Attract to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Attract

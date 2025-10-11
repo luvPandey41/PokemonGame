@@ -1,0 +1,45 @@
+name: whirlipede
+pokedex_num: 544
+generation: V
+types: bug | poison
+height_dm: 12
+weight_hg: 585
+
+abilities: poison-point | swarm
+hidden_abilities: speed-boost
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Raises Speed one stage after each turn.
+
+base_stats: 40 | 55 | 99 | 40 | 79 | 47
+base_exp: 126
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:50% | poison-barb:5%
+
+description: "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies."
+
+moves:
+  level-up: double-edge: 50 | poison-sting: 1 | poison-sting: 5 | toxic: 41 | agility: 32 | screech: 1 | screech: 8 | defense-curl: 1 | protect: 15 | rollout: 1 | pursuit: 12 | iron-defense: 22 | poison-tail: 19 | rock-climb: 46 | bug-bite: 23 | venoshock: 28 | steamroller: 37
+  machine: toxic | rest | poison-jab | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | struggle-bug | hidden-power | gyro-ball | round | rock-smash | payback | protect | sludge-bomb | return
+  egg: none
+  tutor: sleep-talk | iron-defense | bug-bite | endeavor | snore
+evolution_info:
+  evolves_from: venipede
+  evolves_to: scolipede
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: whirlipede
+default_form: true

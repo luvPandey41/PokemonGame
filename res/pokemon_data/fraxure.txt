@@ -1,0 +1,45 @@
+name: fraxure
+pokedex_num: 611
+generation: V
+types: dragon
+height_dm: 10
+weight_hg: 360
+
+abilities: rivalry | mold-breaker
+hidden_abilities: unnerve
+ability_descriptions: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Bypasses targets' abilities if they could hinder or prevent a move. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 66 | 117 | 70 | 40 | 50 | 67
+base_exp: 144
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting."
+
+moves:
+  level-up: scratch: 1 | guillotine: 54 | swords-dance: 48 | leer: 1 | leer: 4 | dragon-rage: 1 | dragon-rage: 10 | slash: 20 | scary-face: 16 | outrage: 60 | false-swipe: 24 | taunt: 36 | dragon-claw: 28 | dragon-dance: 32 | assurance: 1 | assurance: 7 | dragon-pulse: 42 | giga-impact: 66 | dual-chop: 13
+  machine: dragon-tail | cut | dig | strength | x-scissor | attract | facade | double-team | fling | substitute | swagger | rock-tomb | payback | roar | protect | dragon-claw | rain-dance | giga-impact | toxic | rest | incinerate | poison-jab | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | hidden-power | false-swipe | round | swords-dance | rock-smash | return | taunt
+  egg: none
+  tutor: low-kick | dual-chop | aqua-tail | sleep-talk | iron-tail | endeavor | outrage | dragon-pulse | draco-meteor | superpower | snore
+evolution_info:
+  evolves_from: axew
+  evolves_to: haxorus
+  trigger: level-up
+  evo_level: 48
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: fraxure
+default_form: true

@@ -1,0 +1,37 @@
+name: grumpig
+pokedex_num: 326
+generation: III
+types: psychic
+height_dm: 9
+weight_hg: 715
+
+abilities: thick-fat | own-tempo
+hidden_abilities: gluttony
+ability_descriptions: Halves damage from fire and ice moves. | Prevents confusion. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 80 | 45 | 65 | 90 | 110 | 80
+base_exp: 165
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:50% | tanga-berry:5%
+
+description: "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes."
+
+moves:
+  level-up: psybeam: 1 | psybeam: 14 | psychic: 52 | confuse-ray: 18 | psywave: 1 | psywave: 7 | splash: 1 | rest: 29 | snore: 29 | psych-up: 15 | magic-coat: 21 | odor-sleuth: 1 | odor-sleuth: 10 | bounce: 60 | payback: 46 | power-gem: 35 | zen-headbutt: 26 | psyshock: 42
+  machine: torment | thief | attract | hyper-beam | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | sunny-day | hidden-power | round | brick-break | charge-beam | energy-ball | light-screen | psyshock | return | taunt | trick-room | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | iron-tail | bounce | icy-wind | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | sleep-talk | drain-punch | recycle | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: spoink
+  evolves_to: none
+  trigger: N/A
+forms: grumpig
+default_form: true

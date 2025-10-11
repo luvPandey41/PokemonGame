@@ -1,0 +1,45 @@
+name: elekid
+pokedex_num: 239
+generation: II
+types: electric
+height_dm: 6
+weight_hg: 235
+
+abilities: static
+hidden_abilities: vital-spirit
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Prevents sleep.
+
+base_stats: 45 | 63 | 37 | 65 | 55 | 95
+base_exp: 72
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 2
+hatch_cycles: 25
+
+wild_held_items: electirizer:50%
+
+description: "A weak electric current flows between its horns. Sticking a hand there shocks the unwary."
+
+moves:
+  level-up: thunder-punch: 29 | leer: 1 | low-kick: 8 | thunder-shock: 5 | thunderbolt: 40 | thunder-wave: 19 | thunder: 43 | quick-attack: 1 | screech: 36 | light-screen: 26 | swift: 12 | shock-wave: 15 | discharge: 33 | electro-ball: 22
+  machine: thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | psychic | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | flash
+  egg: dynamic-punch | barrier | hammer-arm | karate-chop | rolling-kick | cross-chop | focus-punch | ice-punch | fire-punch | meditate | feint
+  tutor: signal-beam | dual-chop | thunder-punch | ice-punch | fire-punch | electroweb | snore | uproar | low-kick | helping-hand | sleep-talk | magnet-rise | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: electabuzz
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: elekid
+default_form: true

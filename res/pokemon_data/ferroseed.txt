@@ -1,0 +1,45 @@
+name: ferroseed
+pokedex_num: 597
+generation: V
+types: grass | steel
+height_dm: 6
+weight_hg: 188
+
+abilities: iron-barbs
+hidden_abilities: none
+ability_descriptions: Damages attacking Pokémon for 1/8 their max HP on contact.
+
+base_stats: 44 | 50 | 91 | 24 | 86 | 10
+base_exp: 61
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant | mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: sticky-barb:5%
+
+description: "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away."
+
+moves:
+  level-up: tackle: 1 | pin-missile: 18 | harden: 1 | self-destruct: 38 | explosion: 55 | curse: 9 | rollout: 6 | metal-claw: 14 | ingrain: 35 | iron-defense: 26 | gyro-ball: 21 | payback: 47 | mirror-shot: 30 | flash-cannon: 52 | iron-head: 43
+  machine: thunderbolt | facade | double-team | substitute | swagger | gyro-ball | rock-polish | payback | protect | toxic | rest | poison-jab | thunder-wave | frustration | solar-beam | hone-claws | sunny-day | explosion | hidden-power | round | rock-smash | energy-ball | flash-cannon | return | flash
+  egg: stealth-rock | rock-climb | spikes | gravity | seed-bomb | worry-seed | leech-seed | bullet-seed
+  tutor: stealth-rock | giga-drain | sleep-talk | iron-defense | gravity | endeavor | magnet-rise | seed-bomb | worry-seed | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: ferrothorn
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: ferroseed
+default_form: true

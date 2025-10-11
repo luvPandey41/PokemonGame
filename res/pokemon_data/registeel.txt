@@ -1,0 +1,37 @@
+name: registeel
+pokedex_num: 379
+generation: III
+types: steel
+height_dm: 19
+weight_hg: 2050
+
+abilities: clear-body
+hidden_abilities: light-metal
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Halves the Pokémon's weight.
+
+base_stats: 80 | 75 | 150 | 75 | 150 | 50
+base_exp: 261
+ev_yield: 0 | 0 | 2 | 0 | 1 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched."
+
+moves:
+  level-up: stomp: 1 | hyper-beam: 89 | amnesia: 41 | explosion: 1 | curse: 17 | zap-cannon: 65 | lock-on: 57 | metal-claw: 9 | ancient-power: 33 | superpower: 25 | iron-defense: 41 | hammer-arm: 81 | flash-cannon: 73 | iron-head: 73 | charge-beam: 49
+  machine: strength | thunderbolt | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | explosion | hidden-power | round | rock-smash | brick-break | charge-beam | flash-cannon | return | safeguard
+  egg: none
+  tutor: stealth-rock | sleep-talk | iron-defense | gravity | thunder-punch | magnet-rise | ice-punch | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: registeel
+default_form: true

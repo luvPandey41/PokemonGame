@@ -1,0 +1,12 @@
+item_name: shed-shell
+flavor_text: A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: The holder is unaffected by any moves or abilities that would prevent it from actively leaving battle.
+fling_power: 10
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: pinsir
+pokedex_num: 127
+generation: I
+types: bug
+height_dm: 15
+weight_hg: 550
+
+abilities: hyper-cutter | mold-breaker
+hidden_abilities: moxie
+ability_descriptions: Prevents Attack from being lowered by other Pokémon. | Bypasses targets' abilities if they could hinder or prevent a move. | Raises Attack one stage upon KOing a Pokémon.
+
+base_stats: 65 | 125 | 100 | 55 | 70 | 85
+base_exp: 175
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far."
+
+moves:
+  level-up: vice-grip: 1 | guillotine: 47 | swords-dance: 40 | bind: 4 | thrash: 36 | submission: 26 | seismic-toss: 8 | harden: 11 | focus-energy: 1 | vital-throw: 22 | superpower: 43 | revenge: 15 | brick-break: 18 | x-scissor: 29 | storm-throw: 33
+  machine: cut | dig | strength | thief | x-scissor | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | bulk-up | protect | rain-dance | giga-impact | toxic | rest | focus-blast | frustration | earthquake | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: fury-attack | flail | quick-attack | me-first | bug-bite | close-combat | feint-attack | feint | superpower
+  tutor: stealth-rock | bind | sleep-talk | iron-defense | bug-bite | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: pinsir
+default_form: true

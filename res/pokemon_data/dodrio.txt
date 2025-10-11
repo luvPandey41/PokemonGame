@@ -1,0 +1,37 @@
+name: dodrio
+pokedex_num: 85
+generation: I
+types: normal | flying
+height_dm: 18
+weight_hg: 852
+
+abilities: run-away | early-bird
+hidden_abilities: tangled-feet
+ability_descriptions: Ensures success fleeing from wild battles. | Makes sleep pass twice as quickly. | Doubles evasion when confused.
+
+base_stats: 60 | 110 | 70 | 60 | 60 | 110
+base_exp: 165
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: sharp-beak:5%
+
+description: "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph."
+
+moves:
+  level-up: fury-attack: 14 | thrash: 60 | growl: 1 | peck: 1 | drill-peck: 47 | agility: 41 | quick-attack: 1 | quick-attack: 5 | rage: 1 | rage: 10 | tri-attack: 34 | pursuit: 19 | uproar: 23 | endeavor: 54 | pluck: 1 | acupressure: 28
+  machine: giga-impact | toxic | rest | torment | thief | echoed-voice | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | payback | protect | pluck | return | taunt
+  egg: none
+  tutor: sleep-talk | endeavor | sky-attack | roost | snore | uproar | knock-off
+evolution_info:
+  evolves_from: doduo
+  evolves_to: none
+  trigger: N/A
+forms: dodrio
+default_form: true

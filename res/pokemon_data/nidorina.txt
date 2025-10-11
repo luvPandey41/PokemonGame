@@ -1,0 +1,45 @@
+name: nidorina
+pokedex_num: 30
+generation: I
+types: poison
+height_dm: 8
+weight_hg: 200
+
+abilities: poison-point | rivalry
+hidden_abilities: hustle
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 70 | 62 | 67 | 55 | 55 | 56
+base_exp: 128
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s."
+
+moves:
+  level-up: scratch: 1 | double-kick: 9 | tail-whip: 7 | poison-sting: 13 | bite: 23 | growl: 1 | fury-swipes: 20 | crunch: 43 | flatter: 38 | helping-hand: 28 | poison-fang: 58 | toxic-spikes: 35 | captivate: 50
+  machine: cut | dig | strength | thunderbolt | thief | attract | facade | thunder | double-team | venoshock | substitute | swagger | ice-beam | protect | sludge-bomb | rain-dance | toxic | rest | blizzard | poison-jab | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: helping-hand | sleep-talk | iron-tail | super-fang | snore
+evolution_info:
+  evolves_from: nidoran-f
+  evolves_to: nidoqueen
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nidorina
+default_form: true

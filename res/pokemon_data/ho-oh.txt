@@ -1,0 +1,37 @@
+name: ho-oh
+pokedex_num: 250
+generation: II
+types: fire | flying
+height_dm: 38
+weight_hg: 1990
+
+abilities: pressure
+hidden_abilities: regenerator
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 106 | 130 | 90 | 110 | 154 | 90
+base_exp: 306
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: sacred-ash:100%
+
+description: "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
+
+moves:
+  level-up: gust: 9 | whirlwind: 1 | recover: 71 | fire-blast: 37 | sky-attack: 99 | safeguard: 65 | sacred-fire: 43 | sunny-day: 29 | ancient-power: 57 | future-sight: 79 | weather-ball: 1 | extrasensory: 23 | calm-mind: 93 | natural-gift: 85 | punishment: 50 | brave-bird: 15
+  machine: strength | thunderbolt | hyper-beam | will-o-wisp | sandstorm | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | bulldoze | reflect | flamethrower | overheat | calm-mind | roar | psychic | protect | rain-dance | sky-drop | psych-up | giga-impact | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | aerial-ace | earthquake | solar-beam | sunny-day | flame-charge | fire-blast | fly | hidden-power | round | rock-smash | charge-beam | light-screen | pluck | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | heat-wave | earth-power | giga-drain | tailwind | zen-headbutt | sleep-talk | hyper-voice | sky-attack | roost | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: ho-oh
+default_form: true

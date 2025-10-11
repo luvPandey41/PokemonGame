@@ -1,0 +1,45 @@
+name: pidgey
+pokedex_num: 16
+generation: I
+types: normal | flying
+height_dm: 3
+weight_hg: 18
+
+abilities: keen-eye | tangled-feet
+hidden_abilities: big-pecks
+ability_descriptions: Prevents accuracy from being lowered. | Doubles evasion when confused. | Protects against Defense drops.
+
+base_stats: 40 | 45 | 40 | 35 | 35 | 56
+base_exp: 50
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+
+moves:
+  level-up: gust: 9 | wing-attack: 33 | whirlwind: 17 | sand-attack: 5 | tackle: 1 | agility: 29 | quick-attack: 13 | mirror-move: 45 | twister: 21 | feather-dance: 25 | roost: 37 | tailwind: 41 | air-slash: 49 | hurricane: 53
+  machine: toxic | rest | u-turn | thief | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance
+  egg: steel-wing | pursuit | air-cutter | air-slash | feint-attack | foresight | defog | uproar | brave-bird
+  tutor: heat-wave | tailwind | sleep-talk | roost | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: pidgeotto
+  trigger: level-up
+  evo_level: 18
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pidgey
+default_form: true

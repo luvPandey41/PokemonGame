@@ -1,0 +1,52 @@
+name: meowth
+pokedex_num: 52
+generation: I
+types: normal
+height_dm: 4
+weight_hg: 42
+
+abilities: pickup | technician
+hidden_abilities: unnerve
+ability_descriptions: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Strengthens moves of 60 base power or less to 1.5× their power. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 40 | 45 | 35 | 40 | 40 | 90
+base_exp: 58
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: nugget:5% | quick-claw:5%
+
+description: "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+
+moves:
+  level-up: pay-day: 30 | scratch: 1 | bite: 6 | growl: 1 | screech: 17 | fury-swipes: 14 | slash: 33 | feint-attack: 22 | fake-out: 9 | taunt: 25 | feint: 54 | assurance: 41 | night-slash: 49 | nasty-plot: 38 | captivate: 46
+  machine: u-turn | cut | dig | torment | thunderbolt | thief | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | payback | retaliate | protect | rain-dance | psych-up | toxic | rest | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | return | taunt | flash
+  egg: iron-tail | tail-whip | snatch | hypnosis | flail | odor-sleuth | amnesia | punishment | last-resort | spite | charm | foul-play | assist
+  tutor: iron-tail | icy-wind | dark-pulse | seed-bomb | snatch | snore | uproar | knock-off | last-resort | spite | sleep-talk | hyper-voice | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: persian, perrserker
+  trigger: level-up, level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: meowth
+default_form: true

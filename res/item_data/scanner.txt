@@ -1,0 +1,12 @@
+item_name: scanner
+flavor_text: A device found inside the ABANDONED SHIP.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be traded to Captain Stern for a deep sea tooth or a deep sea scale.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,12 @@
+item_name: park-ball
+flavor_text: A special Poké Ball for the Pal Park.
+cost: 0
+category: standard-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by a trainer in battle : Catches a wild Pokémon. This item can only be used in pal park.
+fling_power: -1
+consumable: no
+move name: 

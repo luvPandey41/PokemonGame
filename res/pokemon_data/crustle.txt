@@ -1,0 +1,37 @@
+name: crustle
+pokedex_num: 558
+generation: V
+types: bug | rock
+height_dm: 14
+weight_hg: 2000
+
+abilities: sturdy | shell-armor
+hidden_abilities: weak-armor
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 70 | 105 | 125 | 65 | 75 | 45
+base_exp: 170
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug | mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rare-bone:1% | hard-stone:5%
+
+description: "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 11 | withdraw: 1 | withdraw: 7 | rock-slide: 29 | slash: 31 | flail: 50 | feint-attack: 13 | rock-blast: 1 | rock-blast: 5 | rock-polish: 19 | x-scissor: 38 | rock-wrecker: 55 | stealth-rock: 24 | bug-bite: 23 | smack-down: 17 | shell-smash: 1 | shell-smash: 43
+  machine: cut | dig | strength | x-scissor | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | giga-impact | toxic | rest | poison-jab | frustration | aerial-ace | earthquake | solar-beam | hone-claws | shadow-claw | struggle-bug | hidden-power | round | swords-dance | rock-smash | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | sleep-talk | iron-defense | bug-bite | block | snore | knock-off
+evolution_info:
+  evolves_from: dwebble
+  evolves_to: none
+  trigger: N/A
+forms: crustle
+default_form: true

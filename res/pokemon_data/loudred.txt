@@ -1,0 +1,45 @@
+name: loudred
+pokedex_num: 294
+generation: III
+types: normal
+height_dm: 10
+weight_hg: 405
+
+abilities: soundproof
+hidden_abilities: scrappy
+ability_descriptions: Protects against sound-based moves. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
+
+base_stats: 84 | 71 | 43 | 71 | 43 | 48
+base_exp: 126
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: chesto-berry:5%
+
+description: "The shock waves from its cries can tip over trucks. It stamps its feet to power up."
+
+moves:
+  level-up: pound: 1 | stomp: 29 | bite: 20 | roar: 43 | supersonic: 23 | screech: 37 | rest: 57 | sleep-talk: 57 | uproar: 1 | uproar: 5 | hyper-voice: 65 | astonish: 1 | astonish: 11 | howl: 1 | howl: 15 | synchronoise: 51
+  machine: torment | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | overheat | retaliate | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | echoed-voice | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: low-kick | zen-headbutt | sleep-talk | icy-wind | thunder-punch | endeavor | hyper-voice | ice-punch | fire-punch | snore | uproar
+evolution_info:
+  evolves_from: whismur
+  evolves_to: exploud
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: loudred
+default_form: true

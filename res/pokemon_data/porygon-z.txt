@@ -1,0 +1,37 @@
+name: porygon-z
+pokedex_num: 474
+generation: IV
+types: normal
+height_dm: 9
+weight_hg: 340
+
+abilities: adaptability | download
+hidden_abilities: analytic
+ability_descriptions: Increases the same-type attack bonus from 1.5× to 2×. | Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 85 | 80 | 70 | 135 | 75 | 90
+base_exp: 241
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its programming was modified to enable work in alien dimensions. It did not work as planned."
+
+moves:
+  level-up: tackle: 1 | psybeam: 7 | hyper-beam: 67 | agility: 12 | recover: 18 | conversion: 1 | tri-attack: 51 | conversion-2: 1 | zap-cannon: 62 | lock-on: 45 | magic-coat: 56 | signal-beam: 29 | embargo: 34 | magnet-rise: 23 | nasty-plot: 1 | trick-room: 1 | discharge: 40
+  machine: thunderbolt | thief | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | ice-beam | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | charge-beam | embargo | psyshock | return | trick-room | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | iron-tail | icy-wind | pain-split | dark-pulse | trick | magic-coat | electroweb | snore | uproar | last-resort | sleep-talk | gravity | recycle | magnet-rise | foul-play | wonder-room
+evolution_info:
+  evolves_from: porygon2
+  evolves_to: none
+  trigger: N/A
+forms: porygon-z
+default_form: true

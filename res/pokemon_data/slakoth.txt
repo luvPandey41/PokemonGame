@@ -1,0 +1,45 @@
+name: slakoth
+pokedex_num: 287
+generation: III
+types: normal
+height_dm: 8
+weight_hg: 240
+
+abilities: truant
+hidden_abilities: none
+ability_descriptions: Skips every second turn.
+
+base_stats: 60 | 60 | 60 | 35 | 35 | 30
+base_exp: 56
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy."
+
+moves:
+  level-up: scratch: 1 | counter: 43 | amnesia: 25 | flail: 49 | feint-attack: 19 | encore: 7 | yawn: 1 | slack-off: 13 | covet: 31 | chip-away: 37
+  machine: cut | strength | thunderbolt | attract | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | rock-tomb | ice-beam | flamethrower | retaliate | bulk-up | protect | rain-dance | toxic | rest | incinerate | blizzard | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return
+  egg: after-you | night-slash | hammer-arm | sleep-talk | crush-claw | pursuit | curse | slash | body-slam | tickle | snore
+  tutor: after-you | sleep-talk | icy-wind | thunder-punch | ice-punch | gunk-shot | fire-punch | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: vigoroth
+  trigger: level-up
+  evo_level: 18
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: slakoth
+default_form: true

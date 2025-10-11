@@ -1,0 +1,12 @@
+item_name: berry-pouch
+flavor_text: A convenient container that holds BERRIES.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Stores Berries.
+fling_power: -1
+consumable: no
+move name: 

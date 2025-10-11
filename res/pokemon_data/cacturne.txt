@@ -1,0 +1,37 @@
+name: cacturne
+pokedex_num: 332
+generation: III
+types: grass | dark
+height_dm: 13
+weight_hg: 774
+
+abilities: sand-veil
+hidden_abilities: water-absorb
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 70 | 115 | 60 | 115 | 60 | 55
+base_exp: 166
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 60
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: plant | humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5% | sticky-barb:5%
+
+description: "It becomes active at night, seeking prey that is exhausted from the day’s desert heat."
+
+moves:
+  level-up: sand-attack: 17 | poison-sting: 1 | pin-missile: 21 | leer: 1 | absorb: 1 | absorb: 5 | leech-seed: 13 | growth: 1 | growth: 9 | cotton-spore: 59 | feint-attack: 29 | spikes: 35 | destiny-bond: 71 | sandstorm: 65 | ingrain: 25 | revenge: 1 | needle-arm: 53 | payback: 47 | sucker-punch: 41
+  machine: cut | strength | attract | hyper-beam | sandstorm | facade | double-team | fling | venoshock | substitute | swagger | grass-knot | payback | retaliate | protect | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | brick-break | energy-ball | embargo | return | flash
+  egg: none
+  tutor: synthesis | thunder-punch | dark-pulse | seed-bomb | role-play | superpower | snore | low-kick | giga-drain | spite | sleep-talk | drain-punch | foul-play | block | worry-seed
+evolution_info:
+  evolves_from: cacnea
+  evolves_to: none
+  trigger: N/A
+forms: cacturne
+default_form: true

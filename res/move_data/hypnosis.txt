@@ -1,0 +1,20 @@
+move name: hypnosis
+power: 0
+accuracy: 60
+type: psychic
+attack type: status
+target: selected-pokemon
+pp: 20
+priority: 0
+flavor text: Puts the target to sleep.
+ailment: sleep
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

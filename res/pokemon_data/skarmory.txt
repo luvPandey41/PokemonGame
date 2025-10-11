@@ -1,0 +1,37 @@
+name: skarmory
+pokedex_num: 227
+generation: II
+types: steel | flying
+height_dm: 17
+weight_hg: 505
+
+abilities: keen-eye | sturdy
+hidden_abilities: weak-armor
+ability_descriptions: Prevents accuracy from being lowered. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 65 | 80 | 140 | 40 | 70 | 70
+base_exp: 163
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: metal-coat:5% | sharp-beak:5%
+
+description: "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph."
+
+moves:
+  level-up: sand-attack: 6 | fury-attack: 17 | leer: 1 | peck: 1 | agility: 12 | swift: 9 | slash: 45 | spikes: 28 | steel-wing: 34 | air-cutter: 23 | metal-sound: 31 | feint: 20 | night-slash: 50 | air-slash: 42 | autotomize: 39
+  machine: cut | torment | thief | x-scissor | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | rock-tomb | payback | roar | protect | sky-drop | toxic | rest | frustration | aerial-ace | sunny-day | fly | hidden-power | round | swords-dance | rock-smash | flash-cannon | pluck | return | taunt | flash
+  egg: whirlwind | drill-peck | assurance | stealth-rock | pursuit | curse | sky-attack | endure | guard-swap | brave-bird
+  tutor: stealth-rock | tailwind | sleep-talk | iron-defense | icy-wind | dark-pulse | sky-attack | roost | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: skarmory
+default_form: true

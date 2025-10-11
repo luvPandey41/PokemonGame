@@ -1,0 +1,12 @@
+item_name: tm22
+flavor_text: A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches SolarBeam to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Solar Beam

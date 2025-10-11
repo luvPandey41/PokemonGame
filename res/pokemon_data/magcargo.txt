@@ -1,0 +1,37 @@
+name: magcargo
+pokedex_num: 219
+generation: II
+types: fire | rock
+height_dm: 8
+weight_hg: 550
+
+abilities: magma-armor | flame-body
+hidden_abilities: weak-armor
+ability_descriptions: Prevents freezing. | Has a 30% chance of burning attacking Pokémon on contact. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 60 | 50 | 120 | 90 | 80 | 30
+base_exp: 151
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell."
+
+moves:
+  level-up: body-slam: 52 | ember: 1 | ember: 5 | flamethrower: 59 | rock-throw: 1 | rock-throw: 10 | recover: 19 | harden: 14 | smog: 1 | amnesia: 32 | rock-slide: 44 | ancient-power: 28 | yawn: 1 | earth-power: 67 | lava-plume: 37 | flame-burst: 23 | shell-smash: 38
+  machine: strength | attract | hyper-beam | will-o-wisp | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | flamethrower | overheat | protect | giga-impact | toxic | rest | incinerate | frustration | earthquake | solar-beam | sunny-day | flame-charge | fire-blast | explosion | hidden-power | round | rock-smash | stone-edge | smack-down | light-screen | return
+  egg: none
+  tutor: stealth-rock | after-you | heat-wave | earth-power | sleep-talk | iron-defense | pain-split | snore
+evolution_info:
+  evolves_from: slugma
+  evolves_to: none
+  trigger: N/A
+forms: magcargo
+default_form: true

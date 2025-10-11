@@ -1,0 +1,12 @@
+item_name: burn-drive
+flavor_text: A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
+cost: 0
+category: species-specific
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by genesect : Holder's buster is red, and its techno blast is fire-type.
+fling_power: 70
+consumable: no
+move name: 

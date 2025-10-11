@@ -1,0 +1,20 @@
+move name: water-spout
+power: 150
+accuracy: 100
+type: water
+attack type: special
+target: all-opponents
+pp: 5
+priority: 0
+flavor text: Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

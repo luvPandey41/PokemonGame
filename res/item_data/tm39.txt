@@ -1,0 +1,12 @@
+item_name: tm39
+flavor_text: Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rock Tomb to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Rock Tomb

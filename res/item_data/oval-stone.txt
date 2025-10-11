@@ -1,0 +1,12 @@
+item_name: oval-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.
+cost: 2000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Held by happiny : Holder evolves into chansey when it levels up during the daytime.
+fling_power: 80
+consumable: no
+move name: 

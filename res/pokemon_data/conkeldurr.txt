@@ -1,0 +1,37 @@
+name: conkeldurr
+pokedex_num: 534
+generation: V
+types: fighting
+height_dm: 14
+weight_hg: 870
+
+abilities: guts | sheer-force
+hidden_abilities: iron-fist
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | Strengthens punch-based moves to 1.2× their power.
+
+base_stats: 105 | 140 | 95 | 55 | 65 | 45
+base_exp: 227
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago."
+
+moves:
+  level-up: pound: 1 | leer: 1 | low-kick: 12 | rock-throw: 16 | focus-energy: 1 | focus-energy: 4 | bide: 1 | bide: 8 | rock-slide: 33 | scary-face: 41 | dynamic-punch: 37 | focus-punch: 53 | superpower: 57 | bulk-up: 29 | wake-up-slap: 20 | hammer-arm: 45 | stone-edge: 49 | chip-away: 24
+  machine: dig | strength | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | bulldoze | rock-tomb | payback | retaliate | bulk-up | protect | rain-dance | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: none
+  tutor: low-kick | helping-hand | sleep-talk | drain-punch | thunder-punch | ice-punch | block | fire-punch | superpower | snore | knock-off
+evolution_info:
+  evolves_from: gurdurr
+  evolves_to: none
+  trigger: N/A
+forms: conkeldurr
+default_form: true

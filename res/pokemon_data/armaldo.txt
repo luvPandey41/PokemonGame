@@ -1,0 +1,37 @@
+name: armaldo
+pokedex_num: 348
+generation: III
+types: rock | bug
+height_dm: 15
+weight_hg: 682
+
+abilities: battle-armor
+hidden_abilities: swift-swim
+ability_descriptions: Protects against critical hits. | Doubles Speed during rain.
+
+base_stats: 75 | 125 | 100 | 70 | 80 | 45
+base_exp: 173
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It went ashore after evolving. Its entire body is clad in a sturdy armor."
+
+moves:
+  level-up: scratch: 1 | water-gun: 1 | water-gun: 13 | harden: 1 | slash: 46 | protect: 25 | fury-cutter: 37 | metal-claw: 19 | ancient-power: 31 | mud-sport: 1 | mud-sport: 7 | crush-claw: 67 | rock-blast: 55 | x-scissor: 73
+  machine: cut | dig | strength | x-scissor | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | giga-impact | toxic | rest | frustration | aerial-ace | earthquake | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | stone-edge | flash-cannon | smack-down | return
+  egg: none
+  tutor: low-kick | stealth-rock | earth-power | aqua-tail | sleep-talk | iron-tail | iron-defense | bug-bite | block | superpower | snore | knock-off
+evolution_info:
+  evolves_from: anorith
+  evolves_to: none
+  trigger: N/A
+forms: armaldo
+default_form: true

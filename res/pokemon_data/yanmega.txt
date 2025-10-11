@@ -1,0 +1,37 @@
+name: yanmega
+pokedex_num: 469
+generation: IV
+types: bug | flying
+height_dm: 19
+weight_hg: 515
+
+abilities: speed-boost | tinted-lens
+hidden_abilities: frisk
+ability_descriptions: Raises Speed one stage after each turn. | Doubles damage inflicted with not-very-effective moves. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 86 | 76 | 86 | 116 | 56 | 95
+base_exp: 180
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: wide-lens:5%
+
+description: "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed."
+
+moves:
+  level-up: tackle: 1 | supersonic: 22 | sonic-boom: 14 | quick-attack: 1 | quick-attack: 6 | screech: 46 | double-team: 1 | double-team: 11 | slash: 43 | foresight: 1 | detect: 17 | pursuit: 30 | ancient-power: 33 | uproar: 27 | feint: 38 | u-turn: 49 | night-slash: 1 | air-slash: 54 | bug-buzz: 57 | bug-bite: 1
+  machine: u-turn | thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | dream-eater | psychic | protect | psych-up | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | struggle-bug | hidden-power | round | return | flash
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | bug-bite | roost | snore | uproar
+evolution_info:
+  evolves_from: yanma
+  evolves_to: none
+  trigger: N/A
+forms: yanmega
+default_form: true

@@ -1,0 +1,37 @@
+name: heatmor
+pokedex_num: 631
+generation: V
+types: fire
+height_dm: 14
+weight_hg: 580
+
+abilities: gluttony | flash-fire
+hidden_abilities: white-smoke
+ability_descriptions: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Prevents stats from being lowered by other Pokémon.
+
+base_stats: 85 | 97 | 66 | 105 | 66 | 65
+base_exp: 169
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: flame-orb:1%
+
+description: "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey."
+
+moves:
+  level-up: bind: 11 | flamethrower: 51 | fire-spin: 16 | lick: 1 | amnesia: 46 | fury-swipes: 21 | slash: 41 | stockpile: 56 | spit-up: 56 | swallow: 56 | snatch: 26 | odor-sleuth: 6 | bug-bite: 36 | flame-burst: 31 | incinerate: 1 | inferno: 61
+  machine: cut | dig | thief | attract | will-o-wisp | facade | double-team | fling | substitute | swagger | rock-tomb | flamethrower | protect | rain-dance | giga-impact | toxic | rest | incinerate | focus-blast | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | return | taunt
+  egg: heat-wave | night-slash | sucker-punch | sleep-talk | pursuit | curse | feint-attack | wrap | body-slam | tickle
+  tutor: gastro-acid | bug-bite | thunder-punch | snatch | fire-punch | superpower | snore | knock-off | low-kick | heat-wave | bind | giga-drain | sleep-talk | recycle
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: heatmor
+default_form: true

@@ -1,0 +1,37 @@
+name: suicune
+pokedex_num: 245
+generation: II
+types: water
+height_dm: 20
+weight_hg: 1870
+
+abilities: pressure
+hidden_abilities: inner-focus
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Prevents flinching.
+
+base_stats: 100 | 75 | 115 | 90 | 115 | 85
+base_exp: 261
+ev_yield: 0 | 0 | 1 | 0 | 2 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "It races around the world to purify fouled water. It dashes away with the north wind."
+
+moves:
+  level-up: gust: 22 | leer: 1 | bite: 1 | mist: 36 | hydro-pump: 71 | blizzard: 85 | bubble-beam: 8 | aurora-beam: 29 | rain-dance: 15 | mirror-coat: 43 | extrasensory: 64 | calm-mind: 78 | tailwind: 57 | ice-fang: 50
+  machine: cut | dig | hyper-beam | sandstorm | facade | scald | double-team | substitute | swagger | shadow-ball | bulldoze | reflect | ice-beam | waterfall | calm-mind | roar | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | snarl | hail | sunny-day | hidden-power | round | rock-smash | quash | return
+  egg: none
+  tutor: signal-beam | tailwind | sleep-talk | iron-tail | icy-wind | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: suicune
+default_form: true

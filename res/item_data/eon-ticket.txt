@@ -1,0 +1,12 @@
+item_name: eon-ticket
+flavor_text: The ticket for a ferry to a distant southern island.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to southern island and either latias or latios, whichever is not available roaming around Hoenn.
+fling_power: -1
+consumable: no
+move name: 

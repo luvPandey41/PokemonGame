@@ -1,0 +1,12 @@
+item_name: x-sp-atk
+flavor_text: An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+cost: 1000
+category: stat-boosts
+pocket: battle
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Raises the target's Special Attack by one stage. Increases happiness by 1/1/0.
+fling_power: 30
+consumable: yes
+move name: 

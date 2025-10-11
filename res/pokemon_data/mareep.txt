@@ -1,0 +1,45 @@
+name: mareep
+pokedex_num: 179
+generation: II
+types: electric
+height_dm: 6
+weight_hg: 78
+
+abilities: static
+hidden_abilities: plus
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
+
+base_stats: 55 | 40 | 40 | 65 | 45 | 35
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 235
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking."
+
+moves:
+  level-up: tackle: 1 | take-down: 18 | growl: 1 | thunder-shock: 8 | thunder-wave: 4 | thunder: 46 | confuse-ray: 25 | light-screen: 43 | cotton-spore: 11 | charge: 15 | signal-beam: 39 | power-gem: 29 | discharge: 32 | electro-ball: 22 | cotton-guard: 36
+  machine: toxic | rest | thunderbolt | echoed-voice | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | substitute | swagger | hidden-power | round | charge-beam | protect | light-screen | return | rain-dance | flash | safeguard
+  egg: odor-sleuth | after-you | charge | sand-attack | screech | iron-tail | take-down | agility | flatter | body-slam
+  tutor: signal-beam | after-you | sleep-talk | iron-tail | magnet-rise | heal-bell | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: flaaffy
+  trigger: level-up
+  evo_level: 15
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mareep
+default_form: true

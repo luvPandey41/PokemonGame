@@ -1,0 +1,45 @@
+name: feebas
+pokedex_num: 349
+generation: III
+types: water
+height_dm: 6
+weight_hg: 74
+
+abilities: swift-swim | oblivious
+hidden_abilities: adaptability
+ability_descriptions: Doubles Speed during rain. | Prevents infatuation and protects against captivate. | Increases the same-type attack bonus from 1.5× to 2×.
+
+base_stats: 20 | 15 | 20 | 10 | 55 | 80
+base_exp: 40
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water."
+
+moves:
+  level-up: tackle: 15 | splash: 1 | flail: 30
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | light-screen | return | rain-dance
+  egg: hypnosis | captivate | confuse-ray | haze | iron-tail | brine | mud-sport | dragon-pulse | mist | mirror-coat | tickle | dragon-breath
+  tutor: sleep-talk | iron-tail | icy-wind | dragon-pulse | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: milotic
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: feebas
+default_form: true

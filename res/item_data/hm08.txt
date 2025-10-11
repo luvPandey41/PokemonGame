@@ -1,0 +1,12 @@
+item_name: hm08
+flavor_text: Dives underwater the 1st turn, then attacks next turn.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rock Climb to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: 

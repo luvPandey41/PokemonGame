@@ -1,0 +1,20 @@
+move name: outrage
+power: 120
+accuracy: 100
+type: dragon
+attack type: physical
+target: random-opponent
+pp: 10
+priority: 0
+flavor text: Hits every turn for 2-3 turns, then confuses the user.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

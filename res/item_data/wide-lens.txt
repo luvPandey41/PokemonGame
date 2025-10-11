@@ -1,0 +1,12 @@
+item_name: wide-lens
+flavor_text: An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the accuracy of any move the holder uses by 10% (multiplied; i.e. 70% accuracy is increased to 77%).
+fling_power: 10
+consumable: no
+move name: 

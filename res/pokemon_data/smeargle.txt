@@ -1,0 +1,37 @@
+name: smeargle
+pokedex_num: 235
+generation: II
+types: normal
+height_dm: 12
+weight_hg: 580
+
+abilities: own-tempo | technician
+hidden_abilities: moody
+ability_descriptions: Prevents confusion. | Strengthens moves of 60 base power or less to 1.5× their power. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 55 | 20 | 35 | 20 | 45 | 75
+base_exp: 88
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks."
+
+moves:
+  level-up: sketch: 1 | sketch: 11 | sketch: 21 | sketch: 31 | sketch: 41 | sketch: 51 | sketch: 61 | sketch: 71 | sketch: 81 | sketch: 91
+  machine: none
+  egg: none
+  tutor: none
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: smeargle
+default_form: true

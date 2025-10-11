@@ -1,0 +1,12 @@
+item_name: absorb-bulb
+flavor_text: A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : When the holder takes water-type damage from a move, its Special Attack rises by one stage and this item is consumed.
+fling_power: 30
+consumable: no
+move name: 

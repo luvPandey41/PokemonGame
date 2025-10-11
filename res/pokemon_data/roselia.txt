@@ -1,0 +1,45 @@
+name: roselia
+pokedex_num: 315
+generation: III
+types: grass | poison
+height_dm: 3
+weight_hg: 20
+
+abilities: natural-cure | poison-point
+hidden_abilities: leaf-guard
+ability_descriptions: Cures any major status ailment upon switching out. | Has a 30% chance of poisoning attacking Pokémon on contact. | Protects against major status ailments during strong sunlight.
+
+base_stats: 50 | 60 | 45 | 100 | 80 | 65
+base_exp: 140
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 150
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5% | absorb-bulb:1%
+
+description: "The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people."
+
+moves:
+  level-up: poison-sting: 7 | absorb: 1 | mega-drain: 13 | leech-seed: 16 | growth: 4 | stun-spore: 10 | petal-dance: 37 | toxic: 40 | giga-drain: 25 | sweet-scent: 31 | synthesis: 46 | ingrain: 34 | aromatherapy: 43 | grass-whistle: 22 | magical-leaf: 19 | toxic-spikes: 28
+  machine: cut | attract | facade | double-team | venoshock | substitute | swagger | shadow-ball | grass-knot | protect | sludge-bomb | rain-dance | psych-up | toxic | rest | poison-jab | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: synthesis | giga-drain | mind-reader | leaf-storm | spikes | pin-missile | razor-leaf | natural-gift | seed-bomb | cotton-spore | grass-whistle | sleep-powder
+  tutor: synthesis | giga-drain | sleep-talk | seed-bomb | worry-seed | covet | snore
+evolution_info:
+  evolves_from: budew
+  evolves_to: roserade
+  trigger: use-item
+  evo_level: null
+  evo_item: shiny-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: roselia
+default_form: true

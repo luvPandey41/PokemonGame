@@ -1,0 +1,12 @@
+item_name: ss-ticket
+flavor_text: The ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on it.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Allows passage on a ferry. The same item is used for different ferries between different games.
+fling_power: -1
+consumable: no
+move name: 

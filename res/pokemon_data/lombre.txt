@@ -1,0 +1,45 @@
+name: lombre
+pokedex_num: 271
+generation: III
+types: water | grass
+height_dm: 12
+weight_hg: 325
+
+abilities: swift-swim | rain-dish
+hidden_abilities: own-tempo
+ability_descriptions: Doubles Speed during rain. | Heals for 1/16 max HP after each turn during rain. | Prevents confusion.
+
+base_stats: 60 | 50 | 50 | 60 | 70 | 50
+base_exp: 119
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: mental-herb:5%
+
+description: "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere."
+
+moves:
+  level-up: growl: 3 | hydro-pump: 45 | bubble-beam: 25 | absorb: 5 | fury-swipes: 15 | fake-out: 11 | uproar: 37 | nature-power: 7 | astonish: 1 | water-sport: 19 | zen-headbutt: 31
+  machine: strength | thief | attract | facade | scald | double-team | fling | substitute | swagger | grass-knot | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | hail | solar-beam | hone-claws | sunny-day | hidden-power | round | swords-dance | rock-smash | brick-break | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | zen-headbutt | icy-wind | thunder-punch | seed-bomb | ice-punch | fire-punch | snore | uproar | giga-drain | sleep-talk | drain-punch | hyper-voice
+evolution_info:
+  evolves_from: lotad
+  evolves_to: ludicolo
+  trigger: use-item
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lombre
+default_form: true

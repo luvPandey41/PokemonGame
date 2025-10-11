@@ -1,0 +1,12 @@
+item_name: tm73
+flavor_text: A weak electric charge is launched at the target. It causes paralysis if it hits.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Thunder Wave to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Thunder Wave

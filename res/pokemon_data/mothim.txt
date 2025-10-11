@@ -1,0 +1,37 @@
+name: mothim
+pokedex_num: 414
+generation: IV
+types: bug | flying
+height_dm: 9
+weight_hg: 233
+
+abilities: swarm
+hidden_abilities: tinted-lens
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Doubles damage inflicted with not-very-effective moves.
+
+base_stats: 70 | 94 | 50 | 94 | 50 | 66
+base_exp: 148
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 0
+hatch_cycles: 15
+
+wild_held_items: silver-powder:5%
+
+description: "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee."
+
+moves:
+  level-up: gust: 26 | tackle: 1 | psybeam: 32 | poison-powder: 29 | confusion: 23 | psychic: 44 | protect: 10 | hidden-power: 20 | camouflage: 35 | silver-wind: 38 | air-slash: 41 | bug-buzz: 47 | bug-bite: 15 | quiver-dance: 50
+  machine: u-turn | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | dream-eater | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | energy-ball | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | bug-bite | roost | electroweb | snore | skill-swap
+evolution_info:
+  evolves_from: burmy
+  evolves_to: none
+  trigger: N/A
+forms: mothim-plant | mothim-sandy | mothim-trash
+default_form: true

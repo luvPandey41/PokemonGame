@@ -1,0 +1,45 @@
+name: gligar
+pokedex_num: 207
+generation: II
+types: ground | flying
+height_dm: 11
+weight_hg: 648
+
+abilities: hyper-cutter | sand-veil
+hidden_abilities: immunity
+ability_descriptions: Prevents Attack from being lowered by other Pokémon. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Prevents poison.
+
+base_stats: 65 | 75 | 105 | 35 | 65 | 85
+base_exp: 86
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger."
+
+moves:
+  level-up: guillotine: 55 | swords-dance: 50 | sand-attack: 4 | poison-sting: 1 | quick-attack: 13 | screech: 35 | harden: 7 | slash: 27 | feint-attack: 19 | fury-cutter: 16 | knock-off: 10 | sky-uppercut: 45 | u-turn: 30 | x-scissor: 40 | acrobatics: 22
+  machine: u-turn | cut | dig | torment | strength | thief | x-scissor | attract | rock-slide | sandstorm | facade | double-team | fling | venoshock | substitute | swagger | bulldoze | rock-tomb | rock-polish | payback | protect | sludge-bomb | rain-dance | toxic | rest | poison-jab | frustration | aerial-ace | earthquake | hone-claws | sunny-day | acrobatics | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | stone-edge | return | taunt
+  egg: baton-pass | night-slash | counter | sand-tomb | wing-attack | poison-tail | double-edge | rock-climb | razor-wind | metal-claw | cross-poison | agility | feint | power-trick
+  tutor: stealth-rock | earth-power | tailwind | aqua-tail | sleep-talk | iron-tail | bug-bite | dark-pulse | roost | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: gliscor
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: night
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gligar
+default_form: true

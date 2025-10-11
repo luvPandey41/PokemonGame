@@ -1,0 +1,12 @@
+item_name: tm37
+flavor_text: A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Sandstorm to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Sandstorm

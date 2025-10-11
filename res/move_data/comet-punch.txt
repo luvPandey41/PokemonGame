@@ -1,0 +1,20 @@
+move name: comet-punch
+power: 18
+accuracy: 85
+type: normal
+attack type: physical
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: Hits 2-5 times in one turn.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 2-5
+flinch chance: 0
+stat chance: 0

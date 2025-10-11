@@ -1,0 +1,45 @@
+name: snubbull
+pokedex_num: 209
+generation: II
+types: fairy
+height_dm: 6
+weight_hg: 78
+
+abilities: intimidate | run-away
+hidden_abilities: rattled
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Ensures success fleeing from wild battles. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 60 | 80 | 50 | 40 | 40 | 30
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground | fairy
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Small Pokémon flee from its scary face. It is, however, considered by women to be cute."
+
+moves:
+  level-up: headbutt: 19 | tackle: 1 | take-down: 37 | tail-whip: 1 | bite: 7 | roar: 25 | rage: 31 | lick: 13 | scary-face: 1 | charm: 1 | crunch: 49 | payback: 43 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1
+  machine: dig | torment | strength | thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | reflect | flamethrower | overheat | payback | retaliate | bulk-up | roar | protect | sludge-bomb | rain-dance | toxic | rest | incinerate | thunder-wave | frustration | snarl | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: crunch | thunder-fang | fire-fang | feint-attack | snore | ice-fang | double-edge | focus-punch | metronome | mimic | heal-bell | close-combat | present | smelling-salts
+  tutor: low-kick | last-resort | sleep-talk | thunder-punch | hyper-voice | super-fang | ice-punch | heal-bell | fire-punch | superpower | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: granbull
+  trigger: level-up
+  evo_level: 23
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: snubbull
+default_form: true

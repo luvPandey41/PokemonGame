@@ -1,0 +1,45 @@
+name: magneton
+pokedex_num: 82
+generation: I
+types: electric | steel
+height_dm: 10
+weight_hg: 600
+
+abilities: magnet-pull | sturdy
+hidden_abilities: analytic
+ability_descriptions: Prevents steel opponents from fleeing or switching out. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 50 | 60 | 95 | 120 | 70 | 70
+base_exp: 163
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: metal-coat:5% | magnet:5%
+
+description: "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly."
+
+moves:
+  level-up: tackle: 1 | supersonic: 1 | supersonic: 4 | sonic-boom: 1 | sonic-boom: 11 | thunder-shock: 1 | thunder-shock: 7 | thunder-wave: 15 | screech: 45 | tri-attack: 1 | zap-cannon: 73 | lock-on: 56 | spark: 21 | metal-sound: 29 | gyro-ball: 67 | magnet-rise: 62 | mirror-shot: 25 | flash-cannon: 39 | discharge: 51 | magnet-bomb: 18 | electro-ball: 34
+  machine: thunderbolt | wild-charge | hyper-beam | facade | thunder | double-team | substitute | swagger | reflect | gyro-ball | protect | volt-switch | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | sunny-day | explosion | hidden-power | round | charge-beam | flash-cannon | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-defense | gravity | recycle | magnet-rise | magic-coat | electroweb | snore
+evolution_info:
+  evolves_from: magnemite
+  evolves_to: magnezone
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: mt-coronet
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: magneton
+default_form: true

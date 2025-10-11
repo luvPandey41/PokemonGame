@@ -1,0 +1,37 @@
+name: bronzong
+pokedex_num: 437
+generation: IV
+types: steel | psychic
+height_dm: 13
+weight_hg: 1870
+
+abilities: levitate | heatproof
+hidden_abilities: heavy-metal
+ability_descriptions: Evades ground moves. | Halves damage from fire moves and burns. | Doubles the Pokémon's weight.
+
+base_stats: 67 | 89 | 116 | 79 | 116 | 33
+base_exp: 175
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: metal-coat:5%
+
+description: "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests."
+
+moves:
+  level-up: tackle: 1 | confusion: 1 | hypnosis: 1 | hypnosis: 5 | confuse-ray: 11 | psywave: 15 | feint-attack: 21 | safeguard: 25 | rain-dance: 1 | sunny-day: 1 | future-sight: 29 | imprison: 1 | imprison: 9 | metal-sound: 31 | extrasensory: 42 | iron-defense: 19 | block: 33 | gyro-ball: 36 | payback: 46 | heal-block: 52 | heavy-slam: 58
+  machine: strength | hyper-beam | rock-slide | sandstorm | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | explosion | hidden-power | round | rock-smash | charge-beam | flash-cannon | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | zen-headbutt | iron-defense | trick | iron-head | snore | sleep-talk | gravity | recycle | block | wonder-room | skill-swap
+evolution_info:
+  evolves_from: bronzor
+  evolves_to: none
+  trigger: N/A
+forms: bronzong
+default_form: true

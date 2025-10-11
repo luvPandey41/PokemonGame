@@ -1,0 +1,12 @@
+item_name: big-root
+flavor_text: A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: HP restored from Absorb, Aqua Ring, Drain Punch, Dream Eater, Giga Drain, Ingrain, Leech Life, Leech Seed, and Mega Drain is increased by 30%. Damage inflicted is not affected.
+fling_power: 10
+consumable: no
+move name: 

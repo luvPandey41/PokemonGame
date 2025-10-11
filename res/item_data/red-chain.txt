@@ -1,0 +1,12 @@
+item_name: red-chain
+flavor_text: A mythical chain that is said to link the legendary Pokémon that created the Sinnoh region.
+cost: 0
+category: unused
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Unused.
+fling_power: -1
+consumable: no
+move name: 

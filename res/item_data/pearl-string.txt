@@ -1,0 +1,12 @@
+item_name: pearl-string
+flavor_text: Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
+cost: 20000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cult vendor trash.
+fling_power: 30
+consumable: no
+move name: 

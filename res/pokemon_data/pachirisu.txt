@@ -1,0 +1,37 @@
+name: pachirisu
+pokedex_num: 417
+generation: IV
+types: electric
+height_dm: 4
+weight_hg: 39
+
+abilities: run-away | pickup
+hidden_abilities: volt-absorb
+ability_descriptions: Ensures success fleeing from wild battles. | Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Absorbs electric moves, healing for 1/4 max HP.
+
+base_stats: 60 | 45 | 70 | 45 | 90 | 95
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 200
+base_friendship: 100
+growth_rate: medium
+
+egg_groups: ground | fairy
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+
+moves:
+  level-up: growl: 1 | thunder-wave: 33 | quick-attack: 5 | bide: 1 | swift: 21 | hyper-fang: 49 | super-fang: 37 | sweet-kiss: 29 | endure: 17 | charm: 9 | spark: 13 | last-resort: 45 | discharge: 41 | electro-ball: 25
+  machine: u-turn | cut | dig | thunderbolt | attract | facade | thunder | double-team | fling | substitute | swagger | grass-knot | protect | volt-switch | rain-dance | toxic | rest | echoed-voice | thunder-wave | frustration | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: flail | follow-me | charge | rollout | iron-tail | bite | fake-tears | tail-whip | defense-curl | flatter | bestow | covet
+  tutor: helping-hand | last-resort | sleep-talk | iron-tail | thunder-punch | magnet-rise | seed-bomb | super-fang | gunk-shot | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: pachirisu
+default_form: true

@@ -1,0 +1,37 @@
+name: forretress
+pokedex_num: 205
+generation: II
+types: bug | steel
+height_dm: 12
+weight_hg: 1258
+
+abilities: sturdy
+hidden_abilities: overcoat
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against damage from weather.
+
+base_stats: 75 | 90 | 140 | 60 | 60 | 40
+base_exp: 163
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards."
+
+moves:
+  level-up: tackle: 1 | take-down: 12 | double-edge: 56 | bide: 20 | self-destruct: 1 | self-destruct: 6 | explosion: 42 | protect: 1 | spikes: 28 | zap-cannon: 64 | rapid-spin: 17 | iron-defense: 46 | gyro-ball: 50 | natural-gift: 23 | payback: 36 | toxic-spikes: 1 | magnet-rise: 60 | mirror-shot: 31 | bug-bite: 1 | bug-bite: 9 | autotomize: 32 | heavy-slam: 70
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | venoshock | substitute | swagger | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | payback | protect | volt-switch | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | struggle-bug | explosion | hidden-power | round | rock-smash | flash-cannon | light-screen | return
+  egg: none
+  tutor: stealth-rock | signal-beam | giga-drain | sleep-talk | iron-defense | gravity | bug-bite | pain-split | magnet-rise | block | drill-run | snore
+evolution_info:
+  evolves_from: pineco
+  evolves_to: none
+  trigger: N/A
+forms: forretress
+default_form: true

@@ -1,0 +1,37 @@
+name: serperior
+pokedex_num: 497
+generation: V
+types: grass
+height_dm: 33
+weight_hg: 630
+
+abilities: overgrow
+hidden_abilities: contrary
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Inverts stat changes.
+
+base_stats: 75 | 75 | 95 | 75 | 95 | 113
+base_exp: 238
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | plant
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally."
+
+moves:
+  level-up: slam: 28 | vine-whip: 1 | vine-whip: 7 | tackle: 1 | wrap: 1 | wrap: 10 | leer: 1 | leer: 4 | mega-drain: 24 | leech-seed: 20 | growth: 13 | giga-drain: 44 | leaf-blade: 32 | wring-out: 50 | gastro-acid: 56 | leaf-storm: 62 | coil: 38 | leaf-tornado: 16
+  machine: dragon-tail | cut | torment | strength | attract | hyper-beam | facade | double-team | substitute | swagger | grass-knot | reflect | calm-mind | protect | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | swords-dance | rock-smash | energy-ball | light-screen | return | taunt | flash | safeguard
+  egg: none
+  tutor: synthesis | aqua-tail | gastro-acid | iron-tail | seed-bomb | outrage | snatch | dragon-pulse | snore | knock-off | grass-pledge | bind | giga-drain | sleep-talk | frenzy-plant | worry-seed
+evolution_info:
+  evolves_from: servine
+  evolves_to: none
+  trigger: N/A
+forms: serperior
+default_form: true

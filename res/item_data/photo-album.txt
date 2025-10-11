@@ -1,0 +1,12 @@
+item_name: photo-album
+flavor_text: A nice photo album for storing all the photos taken along your adventure.
+cost: 0
+category: unused
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Does nothing.
+fling_power: -1
+consumable: no
+move name: 

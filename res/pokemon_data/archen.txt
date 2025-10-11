@@ -1,0 +1,45 @@
+name: archen
+pokedex_num: 566
+generation: V
+types: rock | flying
+height_dm: 5
+weight_hg: 95
+
+abilities: defeatist
+hidden_abilities: none
+ability_descriptions: Halves Attack and Special Attack at 50% max HP or less.
+
+base_stats: 55 | 112 | 45 | 74 | 45 | 70
+base_exp: 71
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another."
+
+moves:
+  level-up: wing-attack: 1 | thrash: 51 | leer: 1 | rock-throw: 5 | agility: 21 | quick-attack: 1 | double-team: 8 | rock-slide: 45 | scary-face: 11 | dragon-breath: 31 | crunch: 35 | ancient-power: 18 | endeavor: 38 | dragon-claw: 48 | pluck: 15 | u-turn: 41 | quick-guard: 25 | acrobatics: 28
+  machine: u-turn | cut | dig | torment | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | roar | protect | dragon-claw | toxic | rest | frustration | aerial-ace | earthquake | hone-claws | shadow-claw | acrobatics | hidden-power | round | rock-smash | stone-edge | smack-down | pluck | return | taunt
+  egg: earth-power | steel-wing | bite | head-smash | dragon-pulse | defog | knock-off
+  tutor: stealth-rock | earth-power | tailwind | aqua-tail | iron-tail | iron-defense | bounce | endeavor | roost | dragon-pulse | snore | uproar | heat-wave | sleep-talk
+evolution_info:
+  evolves_from: none
+  evolves_to: archeops
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: archen
+default_form: true

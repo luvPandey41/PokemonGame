@@ -1,0 +1,12 @@
+item_name: apricorn-box
+flavor_text: A handy box where you can store up to 99 Apricorns of each kind.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Stores Apricorns.
+fling_power: -1
+consumable: no
+move name: 

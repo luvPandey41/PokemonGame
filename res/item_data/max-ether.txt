@@ -1,0 +1,12 @@
+item_name: max-ether
+flavor_text: It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+cost: 2000
+category: pp-recovery
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores PP to full for a selected move.
+fling_power: 30
+consumable: yes
+move name: 

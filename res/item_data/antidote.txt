@@ -1,0 +1,12 @@
+item_name: antidote
+flavor_text: A spray-type medicine. It lifts the effect of poison from one Pokémon.
+cost: 200
+category: status-cures
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Cures poison.
+fling_power: 30
+consumable: yes
+move name: 

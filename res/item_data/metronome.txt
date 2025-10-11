@@ -1,0 +1,12 @@
+item_name: metronome
+flavor_text: A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Each time the holder uses the same move consecutively, its power is increased by another 10% of its original, to a maximum of 100%.
+fling_power: 30
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: toxicroak
+pokedex_num: 454
+generation: IV
+types: poison | fighting
+height_dm: 13
+weight_hg: 444
+
+abilities: anticipation | dry-skin
+hidden_abilities: poison-touch
+ability_descriptions: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | Has a 30% chance of poisoning target Pokémon upon contact.
+
+base_stats: 83 | 106 | 65 | 86 | 65 | 85
+base_exp: 172
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: black-sludge:5%
+
+description: "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency."
+
+moves:
+  level-up: poison-sting: 1 | poison-sting: 8 | feint-attack: 17 | sludge-bomb: 54 | mud-slap: 1 | mud-slap: 3 | swagger: 24 | pursuit: 15 | flatter: 62 | taunt: 10 | revenge: 22 | astonish: 1 | sucker-punch: 31 | poison-jab: 49 | nasty-plot: 41 | mud-bomb: 29 | venoshock: 36
+  machine: sludge-wave | cut | dig | torment | strength | thief | x-scissor | attract | hyper-beam | rock-slide | facade | double-team | fling | venoshock | substitute | swagger | shadow-ball | bulldoze | rock-tomb | payback | retaliate | bulk-up | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | embargo | return | taunt
+  egg: none
+  tutor: dual-chop | bounce | icy-wind | thunder-punch | dark-pulse | super-fang | ice-punch | snatch | role-play | snore | knock-off | low-kick | helping-hand | spite | sleep-talk | drain-punch | foul-play | gunk-shot
+evolution_info:
+  evolves_from: croagunk
+  evolves_to: none
+  trigger: N/A
+forms: toxicroak
+default_form: true

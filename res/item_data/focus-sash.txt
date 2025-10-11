@@ -1,0 +1,12 @@
+item_name: focus-sash
+flavor_text: An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: If the holder has full HP and is attacked for regular damage that would faint it, this item is consumed and prevents the holder's HP from lowering below 1. This effect works against multi-hit attacks, but does not work against the effects of Doom Desire or Future Sight.
+fling_power: 10
+consumable: no
+move name: 

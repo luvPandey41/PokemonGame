@@ -1,0 +1,45 @@
+name: porygon
+pokedex_num: 137
+generation: I
+types: normal
+height_dm: 8
+weight_hg: 365
+
+abilities: trace | download
+hidden_abilities: analytic
+ability_descriptions: Copies an opponent's ability upon entering battle. | Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 65 | 60 | 70 | 85 | 75 | 40
+base_exp: 79
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace."
+
+moves:
+  level-up: tackle: 1 | psybeam: 7 | agility: 12 | recover: 18 | sharpen: 1 | conversion: 1 | tri-attack: 51 | conversion-2: 1 | zap-cannon: 62 | lock-on: 45 | magic-coat: 56 | recycle: 34 | signal-beam: 29 | magnet-rise: 23 | discharge: 40
+  machine: thunderbolt | thief | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | ice-beam | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | charge-beam | psyshock | return | trick-room | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | iron-tail | icy-wind | pain-split | trick | magic-coat | electroweb | snore | last-resort | sleep-talk | gravity | recycle | magnet-rise | foul-play | wonder-room
+evolution_info:
+  evolves_from: none
+  evolves_to: porygon2
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: porygon
+default_form: true

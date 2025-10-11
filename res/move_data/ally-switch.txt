@@ -1,0 +1,20 @@
+move name: ally-switch
+power: 0
+accuracy: 0
+type: psychic
+attack type: status
+target: user
+pp: 15
+priority: 2
+flavor text: User switches places with the friendly Pokémon opposite it.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

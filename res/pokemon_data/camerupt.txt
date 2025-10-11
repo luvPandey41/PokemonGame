@@ -1,0 +1,37 @@
+name: camerupt
+pokedex_num: 323
+generation: III
+types: fire | ground
+height_dm: 19
+weight_hg: 2200
+
+abilities: magma-armor | solid-rock
+hidden_abilities: anger-point
+ability_descriptions: Prevents freezing. | Decreases damage taken from super-effective moves by 1/4. | Raises Attack to the maximum of six stages upon receiving a critical hit.
+
+base_stats: 70 | 100 | 70 | 105 | 75 | 40
+base_exp: 161
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 150
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100%
+
+description: "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently."
+
+moves:
+  level-up: tackle: 1 | take-down: 31 | growl: 1 | ember: 1 | ember: 5 | earthquake: 46 | fissure: 59 | focus-energy: 12 | amnesia: 19 | rock-slide: 33 | curse: 29 | magnitude: 1 | magnitude: 8 | yawn: 39 | eruption: 52 | earth-power: 26 | lava-plume: 22 | flame-burst: 15
+  machine: dig | strength | attract | hyper-beam | will-o-wisp | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | flamethrower | overheat | roar | protect | giga-impact | toxic | rest | incinerate | echoed-voice | frustration | earthquake | solar-beam | sunny-day | flame-charge | fire-blast | explosion | hidden-power | round | rock-smash | stone-edge | flash-cannon | return
+  egg: none
+  tutor: stealth-rock | after-you | heat-wave | earth-power | sleep-talk | iron-head | snore
+evolution_info:
+  evolves_from: numel
+  evolves_to: none
+  trigger: N/A
+forms: camerupt
+default_form: true

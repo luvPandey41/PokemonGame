@@ -1,0 +1,45 @@
+name: tynamo
+pokedex_num: 602
+generation: V
+types: electric
+height_dm: 2
+weight_hg: 3
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 35 | 55 | 40 | 45 | 40 | 60
+base_exp: 55
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning."
+
+moves:
+  level-up: tackle: 1 | thunder-wave: 1 | spark: 1 | charge-beam: 1
+  machine: none
+  egg: none
+  tutor: magnet-rise
+evolution_info:
+  evolves_from: none
+  evolves_to: eelektrik
+  trigger: level-up
+  evo_level: 39
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: tynamo
+default_form: true

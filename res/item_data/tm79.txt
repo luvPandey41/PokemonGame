@@ -1,0 +1,12 @@
+item_name: tm79
+flavor_text: The user blows a cold breath on the target. This attack always results in a critical hit.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Dark Pulse to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Frost Breath

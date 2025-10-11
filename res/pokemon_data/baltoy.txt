@@ -1,0 +1,45 @@
+name: baltoy
+pokedex_num: 343
+generation: III
+types: ground | psychic
+height_dm: 5
+weight_hg: 215
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 40 | 40 | 55 | 40 | 70 | 55
+base_exp: 60
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: light-clay:5%
+
+description: "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins."
+
+moves:
+  level-up: psybeam: 13 | confusion: 1 | harden: 1 | self-destruct: 25 | explosion: 49 | mud-slap: 7 | sandstorm: 41 | rapid-spin: 4 | ancient-power: 21 | rock-tomb: 10 | cosmic-power: 31 | extrasensory: 28 | heal-block: 45 | power-trick: 17 | earth-power: 37 | guard-split: 34 | power-split: 34
+  machine: dig | rock-slide | sandstorm | facade | double-team | telekinesis | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | frustration | earthquake | solar-beam | sunny-day | explosion | hidden-power | round | charge-beam | smack-down | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | zen-headbutt | trick | magic-coat | snore | sleep-talk | gravity | recycle | drill-run | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: claydol
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: baltoy
+default_form: true

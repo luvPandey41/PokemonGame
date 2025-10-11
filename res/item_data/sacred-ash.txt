@@ -1,0 +1,12 @@
+item_name: sacred-ash
+flavor_text: It revives all fainted Pokémon. In doing so, it also fully restores their HP.
+cost: 50000
+category: revival
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used : Revives all fainted Pokémon in the party and restores their HP to full.
+fling_power: 30
+consumable: yes
+move name: 

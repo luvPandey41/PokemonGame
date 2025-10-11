@@ -1,0 +1,37 @@
+name: cradily
+pokedex_num: 346
+generation: III
+types: rock | grass
+height_dm: 15
+weight_hg: 604
+
+abilities: suction-cups
+hidden_abilities: storm-drain
+ability_descriptions: Prevents being forced out of battle by other Pokémon's moves. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
+
+base_stats: 86 | 81 | 97 | 81 | 107 | 43
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: big-root:5%
+
+description: "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches."
+
+moves:
+  level-up: acid: 1 | acid: 8 | confuse-ray: 22 | constrict: 1 | amnesia: 29 | ancient-power: 36 | stockpile: 66 | spit-up: 66 | swallow: 66 | ingrain: 1 | ingrain: 15 | astonish: 1 | wring-out: 76 | gastro-acid: 46 | energy-ball: 56
+  machine: sludge-wave | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | grass-knot | bulldoze | rock-tomb | rock-polish | protect | sludge-bomb | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | hidden-power | round | swords-dance | rock-smash | stone-edge | energy-ball | smack-down | return | flash
+  egg: none
+  tutor: synthesis | stealth-rock | earth-power | bind | giga-drain | gastro-acid | sleep-talk | pain-split | seed-bomb | block | worry-seed | snore
+evolution_info:
+  evolves_from: lileep
+  evolves_to: none
+  trigger: N/A
+forms: cradily
+default_form: true

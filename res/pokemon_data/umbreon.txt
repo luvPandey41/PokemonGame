@@ -1,0 +1,37 @@
+name: umbreon
+pokedex_num: 197
+generation: II
+types: dark
+height_dm: 10
+weight_hg: 270
+
+abilities: synchronize
+hidden_abilities: inner-focus
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Prevents flinching.
+
+base_stats: 95 | 65 | 110 | 60 | 130 | 65
+base_exp: 184
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power."
+
+moves:
+  level-up: sand-attack: 5 | tackle: 1 | tail-whip: 1 | quick-attack: 13 | screech: 29 | confuse-ray: 17 | feint-attack: 21 | mean-look: 37 | pursuit: 9 | moonlight: 33 | helping-hand: 1 | assurance: 25 | guard-swap: 45 | last-resort: 41
+  machine: cut | dig | torment | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | dream-eater | payback | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | frustration | snarl | sunny-day | work-up | hidden-power | round | return | taunt | flash
+  egg: none
+  tutor: iron-tail | dark-pulse | snatch | snore | helping-hand | last-resort | spite | sleep-talk | hyper-voice | foul-play | heal-bell | wonder-room | covet
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: umbreon
+default_form: true

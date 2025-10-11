@@ -1,0 +1,37 @@
+name: luvdisc
+pokedex_num: 370
+generation: III
+types: water
+height_dm: 6
+weight_hg: 87
+
+abilities: swift-swim
+hidden_abilities: hydration
+ability_descriptions: Doubles Speed during rain. | Cures any major status ailment after each turn during rain.
+
+base_stats: 43 | 30 | 55 | 40 | 65 | 97
+base_exp: 116
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 225
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water2
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: heart-scale:50%
+
+description: "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love."
+
+moves:
+  level-up: tackle: 1 | take-down: 14 | water-gun: 7 | hydro-pump: 40 | agility: 9 | flail: 31 | sweet-kiss: 37 | charm: 4 | attract: 27 | safeguard: 55 | water-pulse: 22 | lucky-chant: 17 | aqua-ring: 46 | captivate: 51
+  machine: surf | psych-up | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance | safeguard
+  egg: aqua-ring | captivate | heal-pulse | brine | water-sport | mud-sport | splash | aqua-jet | supersonic
+  tutor: sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: luvdisc
+default_form: true

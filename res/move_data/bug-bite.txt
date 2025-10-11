@@ -1,0 +1,20 @@
+move name: bug-bite
+power: 60
+accuracy: 100
+type: bug
+attack type: physical
+target: selected-pokemon
+pp: 20
+priority: 0
+flavor text: If target has a berry, inflicts double damage and uses the berry.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

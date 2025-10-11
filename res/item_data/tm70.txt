@@ -1,0 +1,12 @@
+item_name: tm70
+flavor_text: The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Flash to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Flash

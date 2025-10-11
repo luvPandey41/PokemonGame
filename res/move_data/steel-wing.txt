@@ -1,0 +1,20 @@
+move name: steel-wing
+power: 70
+accuracy: 90
+type: steel
+attack type: physical
+target: selected-pokemon
+pp: 25
+priority: 0
+flavor text: Has a 10% chance to raise the user's Defense by one stage.
+ailment: none
+ailment chance: 0
+status changes: defense:1
+effect chance: 10
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 10

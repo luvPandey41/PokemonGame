@@ -1,0 +1,37 @@
+name: magmortar
+pokedex_num: 467
+generation: IV
+types: fire
+height_dm: 16
+weight_hg: 680
+
+abilities: flame-body
+hidden_abilities: vital-spirit
+ability_descriptions: Has a 30% chance of burning attacking Pokémon on contact. | Prevents sleep.
+
+base_stats: 75 | 95 | 67 | 125 | 95 | 83
+base_exp: 243
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 25
+
+wild_held_items: magmarizer:5%
+
+description: "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat."
+
+moves:
+  level-up: fire-punch: 29 | thunder-punch: 1 | leer: 1 | ember: 1 | ember: 5 | flamethrower: 49 | hyper-beam: 62 | fire-spin: 15 | smokescreen: 1 | smokescreen: 8 | confuse-ray: 26 | smog: 1 | fire-blast: 55 | feint-attack: 12 | sunny-day: 42 | lava-plume: 36 | flame-burst: 22 | clear-smog: 19
+  machine: torment | strength | thunderbolt | thief | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | flamethrower | overheat | psychic | protect | giga-impact | toxic | rest | incinerate | focus-blast | frustration | earthquake | solar-beam | sunny-day | flame-charge | low-sweep | fire-blast | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: low-kick | heat-wave | dual-chop | helping-hand | sleep-talk | iron-tail | thunder-punch | fire-punch | covet | snore
+evolution_info:
+  evolves_from: magmar
+  evolves_to: none
+  trigger: N/A
+forms: magmortar
+default_form: true

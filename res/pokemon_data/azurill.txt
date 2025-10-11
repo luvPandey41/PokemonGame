@@ -1,0 +1,45 @@
+name: azurill
+pokedex_num: 298
+generation: III
+types: normal | fairy
+height_dm: 2
+weight_hg: 20
+
+abilities: thick-fat | huge-power
+hidden_abilities: sap-sipper
+ability_descriptions: Halves damage from fire and ice moves. | Doubles Attack in battle. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 50 | 20 | 40 | 20 | 40 | 20
+base_exp: 38
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 150
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself."
+
+moves:
+  level-up: slam: 20 | tail-whip: 2 | water-gun: 7 | bubble-beam: 13 | bubble: 1 | splash: 1 | charm: 10 | helping-hand: 16 | bounce: 23 | water-sport: 5
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | work-up | hidden-power | ice-beam | round | waterfall | protect | light-screen | return | rain-dance
+  egg: slam | muddy-water | soak | refresh | fake-tears | sing | water-sport | body-slam | encore | tickle
+  tutor: helping-hand | sleep-talk | iron-tail | bounce | icy-wind | hyper-voice | covet | snore | uproar | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: marill
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: azurill
+default_form: true

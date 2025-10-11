@@ -1,0 +1,45 @@
+name: buneary
+pokedex_num: 427
+generation: IV
+types: normal
+height_dm: 4
+weight_hg: 55
+
+abilities: run-away | klutz
+hidden_abilities: limber
+ability_descriptions: Ensures success fleeing from wild battles. | Prevents the Pokémon from using its held item in battle. | Prevents paralysis.
+
+base_stats: 55 | 66 | 44 | 44 | 56 | 85
+base_exp: 70
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 0
+growth_rate: medium
+
+egg_groups: ground | humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | chople-berry:5%
+
+description: "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder."
+
+moves:
+  level-up: pound: 1 | jump-kick: 23 | agility: 33 | quick-attack: 16 | defense-curl: 1 | dizzy-punch: 36 | splash: 1 | foresight: 1 | endure: 6 | charm: 46 | frustration: 13 | baton-pass: 26 | bounce: 56 | healing-wish: 63 | entrainment: 53 | after-you: 43
+  machine: cut | dig | thunderbolt | attract | facade | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | protect | rain-dance | toxic | rest | thunder-wave | frustration | solar-beam | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | return
+  egg: sweet-kiss | sky-uppercut | fake-out | thunder-punch | ice-punch | fire-punch | double-hit | low-kick | flail | copycat | circle-throw | switcheroo | focus-punch | fake-tears | encore
+  tutor: after-you | iron-tail | bounce | thunder-punch | endeavor | ice-punch | fire-punch | magic-coat | snore | uproar | low-kick | helping-hand | last-resort | sleep-talk | drain-punch | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: lopunny
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: buneary
+default_form: true

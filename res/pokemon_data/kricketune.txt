@@ -1,0 +1,37 @@
+name: kricketune
+pokedex_num: 402
+generation: IV
+types: bug
+height_dm: 10
+weight_hg: 255
+
+abilities: swarm
+hidden_abilities: technician
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens moves of 60 base power or less to 1.5× their power.
+
+base_stats: 77 | 85 | 51 | 55 | 51 | 65
+base_exp: 134
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: metronome:5%
+
+description: "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon."
+
+moves:
+  level-up: growl: 1 | sing: 18 | screech: 34 | focus-energy: 22 | bide: 1 | leech-life: 14 | slash: 26 | perish-song: 50 | fury-cutter: 10 | taunt: 38 | night-slash: 42 | x-scissor: 30 | bug-buzz: 46
+  machine: cut | strength | x-scissor | attract | hyper-beam | facade | double-team | substitute | swagger | protect | rain-dance | giga-impact | toxic | rest | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return | taunt | flash
+  egg: none
+  tutor: sleep-talk | bug-bite | endeavor | hyper-voice | heal-bell | snore | uproar | knock-off
+evolution_info:
+  evolves_from: kricketot
+  evolves_to: none
+  trigger: N/A
+forms: kricketune
+default_form: true

@@ -1,0 +1,37 @@
+name: lilligant
+pokedex_num: 549
+generation: V
+types: grass
+height_dm: 11
+weight_hg: 163
+
+abilities: chlorophyll | own-tempo
+hidden_abilities: leaf-guard
+ability_descriptions: Doubles Speed during strong sunlight. | Prevents confusion. | Protects against major status ailments during strong sunlight.
+
+base_stats: 70 | 60 | 75 | 110 | 75 | 90
+base_exp: 168
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities."
+
+moves:
+  level-up: mega-drain: 1 | leech-seed: 1 | growth: 1 | petal-dance: 46 | synthesis: 1 | teeter-dance: 10 | quiver-dance: 28
+  machine: giga-impact | toxic | rest | cut | attract | frustration | hyper-beam | facade | double-team | solar-beam | substitute | swagger | sunny-day | dream-eater | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | light-screen | return | flash | safeguard
+  egg: none
+  tutor: synthesis | after-you | giga-drain | helping-hand | sleep-talk | seed-bomb | heal-bell | worry-seed | role-play | covet | snore
+evolution_info:
+  evolves_from: petilil
+  evolves_to: none
+  trigger: N/A
+forms: lilligant
+default_form: true

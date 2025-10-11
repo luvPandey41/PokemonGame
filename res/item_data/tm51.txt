@@ -1,0 +1,12 @@
+item_name: tm51
+flavor_text: The user teleports using a strange power and switches its place with one of its allies.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Roost to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Ally Switch

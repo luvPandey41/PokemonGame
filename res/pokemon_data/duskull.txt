@@ -1,0 +1,45 @@
+name: duskull
+pokedex_num: 355
+generation: III
+types: ghost
+height_dm: 8
+weight_hg: 150
+
+abilities: levitate
+hidden_abilities: frisk
+ability_descriptions: Evades ground moves. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 20 | 40 | 90 | 30 | 90 | 25
+base_exp: 59
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: kasib-berry:5% | spell-tag:5%
+
+description: "It loves the crying of children. It startles bad kids by passing through walls and making them cry."
+
+moves:
+  level-up: leer: 1 | disable: 6 | night-shade: 1 | confuse-ray: 17 | curse: 30 | foresight: 9 | mean-look: 41 | pursuit: 25 | future-sight: 49 | will-o-wisp: 33 | astonish: 14 | payback: 46 | shadow-sneak: 22 | hex: 38
+  machine: torment | thief | attract | will-o-wisp | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | ice-beam | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | blizzard | frustration | sunny-day | hidden-power | round | charge-beam | embargo | return | taunt | trick-room | flash
+  egg: ominous-wind | destiny-bond | imprison | pain-split | grudge | dark-pulse | memento | feint-attack | skill-swap
+  tutor: spite | sleep-talk | icy-wind | gravity | pain-split | dark-pulse | snatch | trick | wonder-room | snore | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: dusclops
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: duskull
+default_form: true

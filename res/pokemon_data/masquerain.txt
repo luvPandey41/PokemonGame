@@ -1,0 +1,37 @@
+name: masquerain
+pokedex_num: 284
+generation: III
+types: bug | flying
+height_dm: 8
+weight_hg: 36
+
+abilities: intimidate
+hidden_abilities: unnerve
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 70 | 60 | 62 | 100 | 82 | 80
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 1 | 1 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: silver-powder:5%
+
+description: "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction."
+
+moves:
+  level-up: gust: 22 | whirlwind: 54 | stun-spore: 33 | quick-attack: 1 | quick-attack: 7 | bubble: 1 | scary-face: 26 | sweet-scent: 1 | sweet-scent: 13 | silver-wind: 40 | water-sport: 1 | water-sport: 19 | air-slash: 47 | bug-buzz: 61 | ominous-wind: 1 | quiver-dance: 68
+  machine: u-turn | thief | attract | hyper-beam | facade | scald | double-team | substitute | swagger | shadow-ball | ice-beam | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | frustration | aerial-ace | solar-beam | sunny-day | struggle-bug | hidden-power | round | energy-ball | return | flash
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | icy-wind | bug-bite | roost | snore
+evolution_info:
+  evolves_from: surskit
+  evolves_to: none
+  trigger: N/A
+forms: masquerain
+default_form: true

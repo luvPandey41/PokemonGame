@@ -1,0 +1,12 @@
+item_name: tm24
+flavor_text: A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Thunderbolt to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Thunderbolt

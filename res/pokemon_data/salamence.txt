@@ -1,0 +1,37 @@
+name: salamence
+pokedex_num: 373
+generation: III
+types: dragon | flying
+height_dm: 15
+weight_hg: 1026
+
+abilities: intimidate
+hidden_abilities: moxie
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack one stage upon KOing a Pokémon.
+
+base_stats: 95 | 135 | 80 | 110 | 80 | 100
+base_exp: 270
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: dragon-scale:5% | dragon-fang:5%
+
+description: "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+
+moves:
+  level-up: fly: 50 | headbutt: 1 | headbutt: 16 | double-edge: 70 | leer: 1 | leer: 10 | bite: 1 | bite: 5 | ember: 25 | rage: 1 | focus-energy: 20 | protect: 30 | scary-face: 43 | dragon-breath: 32 | crunch: 53 | dragon-claw: 61 | thunder-fang: 1 | fire-fang: 1 | zen-headbutt: 37 | dragon-tail: 80
+  machine: dragon-tail | cut | strength | attract | hyper-beam | rock-slide | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | roar | protect | dragon-claw | rain-dance | giga-impact | toxic | rest | incinerate | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | fire-blast | fly | hidden-power | round | rock-smash | brick-break | stone-edge | return
+  egg: none
+  tutor: heat-wave | tailwind | aqua-tail | zen-headbutt | sleep-talk | iron-tail | hyper-voice | outrage | roost | dragon-pulse | draco-meteor | snore
+evolution_info:
+  evolves_from: shelgon
+  evolves_to: none
+  trigger: N/A
+forms: salamence
+default_form: true

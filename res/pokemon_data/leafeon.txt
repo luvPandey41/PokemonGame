@@ -1,0 +1,37 @@
+name: leafeon
+pokedex_num: 470
+generation: IV
+types: grass
+height_dm: 10
+weight_hg: 255
+
+abilities: leaf-guard
+hidden_abilities: chlorophyll
+ability_descriptions: Protects against major status ailments during strong sunlight. | Doubles Speed during strong sunlight.
+
+base_stats: 65 | 110 | 130 | 60 | 65 | 95
+base_exp: 184
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis."
+
+moves:
+  level-up: swords-dance: 29 | sand-attack: 5 | tackle: 1 | tail-whip: 1 | razor-leaf: 9 | quick-attack: 13 | giga-drain: 25 | synthesis: 33 | sunny-day: 37 | helping-hand: 1 | grass-whistle: 17 | magical-leaf: 21 | leaf-blade: 45 | last-resort: 41
+  machine: dig | strength | x-scissor | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | grass-knot | retaliate | roar | protect | rain-dance | giga-impact | toxic | rest | echoed-voice | frustration | aerial-ace | solar-beam | sunny-day | work-up | hidden-power | round | swords-dance | rock-smash | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | iron-tail | seed-bomb | snore | knock-off | giga-drain | helping-hand | last-resort | sleep-talk | hyper-voice | heal-bell | worry-seed | covet
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: leafeon
+default_form: true

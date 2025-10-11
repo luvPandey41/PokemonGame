@@ -1,0 +1,45 @@
+name: surskit
+pokedex_num: 283
+generation: III
+types: bug | water
+height_dm: 5
+weight_hg: 17
+
+abilities: swift-swim
+hidden_abilities: rain-dish
+ability_descriptions: Doubles Speed during rain. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 40 | 30 | 32 | 50 | 52 | 65
+base_exp: 54
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: honey:50%
+
+description: "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head."
+
+moves:
+  level-up: mist: 37 | bubble-beam: 25 | agility: 31 | quick-attack: 7 | haze: 37 | bubble: 1 | baton-pass: 43 | sweet-scent: 13 | water-sport: 19
+  machine: psych-up | toxic | rest | blizzard | thief | attract | frustration | facade | scald | double-team | solar-beam | substitute | swagger | sunny-day | shadow-ball | struggle-bug | hidden-power | ice-beam | round | protect | return | rain-dance | flash
+  egg: signal-beam | mind-reader | hydro-pump | mud-shot | bug-bite | psybeam | endure | foresight | aqua-jet
+  tutor: signal-beam | giga-drain | sleep-talk | icy-wind | bug-bite | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: masquerain
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: surskit
+default_form: true

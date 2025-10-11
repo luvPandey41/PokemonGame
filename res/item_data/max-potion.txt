@@ -1,0 +1,12 @@
+item_name: max-potion
+flavor_text: A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.
+cost: 2500
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores HP to full.
+fling_power: 30
+consumable: yes
+move name: 

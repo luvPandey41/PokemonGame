@@ -1,0 +1,45 @@
+name: charmander
+pokedex_num: 4
+generation: I
+types: fire
+height_dm: 6
+weight_hg: 85
+
+abilities: blaze
+hidden_abilities: solar-power
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
+
+base_stats: 39 | 52 | 43 | 60 | 50 | 65
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely."
+
+moves:
+  level-up: scratch: 1 | growl: 1 | ember: 7 | flamethrower: 37 | dragon-rage: 16 | fire-spin: 43 | smokescreen: 10 | slash: 34 | scary-face: 19 | fire-fang: 25 | flame-burst: 28 | inferno: 46
+  machine: cut | dig | strength | attract | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | rock-tomb | flamethrower | overheat | protect | dragon-claw | toxic | rest | incinerate | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | flame-charge | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: crunch | flare-blitz | outrage | counter | dragon-pulse | bite | focus-punch | ancient-power | metal-claw | dragon-dance | beat-up | dragon-rush | belly-drum
+  tutor: heat-wave | sleep-talk | iron-tail | thunder-punch | fire-pledge | outrage | fire-punch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: charmeleon
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: charmander
+default_form: true

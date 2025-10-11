@@ -1,0 +1,37 @@
+name: hippowdon
+pokedex_num: 450
+generation: IV
+types: ground
+height_dm: 20
+weight_hg: 3000
+
+abilities: sand-stream
+hidden_abilities: sand-force
+ability_descriptions: Summons a sandstorm that lasts indefinitely upon entering battle. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 108 | 112 | 118 | 68 | 72 | 47
+base_exp: 184
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength."
+
+moves:
+  level-up: sand-attack: 1 | tackle: 1 | take-down: 19 | double-edge: 50 | bite: 1 | bite: 7 | earthquake: 40 | fissure: 60 | dig: 19 | crunch: 31 | yawn: 1 | yawn: 13 | sand-tomb: 25 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | roar | protect | giga-impact | toxic | rest | frustration | earthquake | sunny-day | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | superpower | iron-head | snore
+evolution_info:
+  evolves_from: hippopotas
+  evolves_to: none
+  trigger: N/A
+forms: hippowdon
+default_form: true

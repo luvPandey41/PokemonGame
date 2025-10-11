@@ -1,0 +1,45 @@
+name: skitty
+pokedex_num: 300
+generation: III
+types: normal
+height_dm: 6
+weight_hg: 110
+
+abilities: cute-charm | normalize
+hidden_abilities: wonder-skin
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Makes the Pokémon's moves all act normal-type. | Lowers incoming non-damaging moves' base accuracy to exactly 50%.
+
+base_stats: 50 | 45 | 45 | 35 | 35 | 50
+base_exp: 52
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground | fairy
+gender_ratio_female: 6
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:50% | leppa-berry:5%
+
+description: "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail."
+
+moves:
+  level-up: double-slap: 15 | tackle: 1 | double-edge: 42 | tail-whip: 1 | growl: 1 | sing: 11 | feint-attack: 29 | foresight: 4 | charm: 25 | attract: 8 | heal-bell: 39 | fake-out: 1 | assist: 22 | covet: 36 | wake-up-slap: 32 | copycat: 18 | captivate: 46
+  machine: dig | thunderbolt | wild-charge | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | grass-knot | ice-beam | calm-mind | payback | retaliate | protect | rain-dance | psych-up | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | work-up | hidden-power | round | charge-beam | return | flash | safeguard
+  egg: baton-pass | zen-headbutt | sucker-punch | fake-out | uproar | simple-beam | wish | captivate | helping-hand | last-resort | mud-bomb | fake-tears | tickle
+  tutor: helping-hand | last-resort | zen-headbutt | sleep-talk | iron-tail | icy-wind | hyper-voice | heal-bell | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: delcatty
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: skitty
+default_form: true

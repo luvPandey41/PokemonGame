@@ -1,0 +1,12 @@
+item_name: magma-emblem
+flavor_text: A medal-like item in the same shape as TEAM MAGMA’s mark.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to the magma hideout in the jagged pass.
+fling_power: -1
+consumable: no
+move name: 

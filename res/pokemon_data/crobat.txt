@@ -1,0 +1,37 @@
+name: crobat
+pokedex_num: 169
+generation: II
+types: poison | flying
+height_dm: 18
+weight_hg: 750
+
+abilities: inner-focus
+hidden_abilities: infiltrator
+ability_descriptions: Prevents flinching. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 85 | 90 | 80 | 70 | 80 | 130
+base_exp: 241
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "The transformation of its legs into wings made it better at flying, but more clumsy at walking."
+
+moves:
+  level-up: wing-attack: 15 | bite: 12 | supersonic: 1 | supersonic: 4 | screech: 1 | confuse-ray: 19 | haze: 47 | swift: 24 | leech-life: 1 | mean-look: 38 | poison-fang: 42 | astonish: 1 | astonish: 8 | air-cutter: 28 | air-slash: 52 | cross-poison: 1 | acrobatics: 33
+  machine: u-turn | torment | thief | x-scissor | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | payback | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | frustration | aerial-ace | sunny-day | acrobatics | fly | hidden-power | round | pluck | return | taunt
+  egg: none
+  tutor: heat-wave | giga-drain | tailwind | zen-headbutt | sleep-talk | dark-pulse | sky-attack | super-fang | roost | snatch | snore | uproar
+evolution_info:
+  evolves_from: golbat
+  evolves_to: none
+  trigger: N/A
+forms: crobat
+default_form: true

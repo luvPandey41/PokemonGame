@@ -1,0 +1,45 @@
+name: litwick
+pokedex_num: 607
+generation: V
+types: ghost | fire
+height_dm: 3
+weight_hg: 31
+
+abilities: flash-fire | flame-body
+hidden_abilities: infiltrator
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Has a 30% chance of burning attacking Pokémon on contact. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 50 | 30 | 55 | 65 | 55 | 20
+base_exp: 55
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+
+moves:
+  level-up: ember: 1 | fire-spin: 7 | night-shade: 13 | minimize: 3 | confuse-ray: 10 | smog: 5 | curse: 43 | pain-split: 55 | shadow-ball: 49 | will-o-wisp: 16 | memento: 33 | imprison: 24 | astonish: 1 | overheat: 61 | flame-burst: 20 | hex: 28 | inferno: 38
+  machine: thief | attract | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | flamethrower | overheat | calm-mind | payback | psychic | protect | psych-up | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | energy-ball | embargo | return | taunt | trick-room | flash | safeguard
+  egg: acid | captivate | heat-wave | clear-smog | haze | acid-armor | endure
+  tutor: heat-wave | spite | sleep-talk | pain-split | dark-pulse | trick | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: lampent
+  trigger: level-up
+  evo_level: 41
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: litwick
+default_form: true

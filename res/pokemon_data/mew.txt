@@ -1,0 +1,37 @@
+name: mew
+pokedex_num: 151
+generation: I
+types: psychic
+height_dm: 4
+weight_hg: 40
+
+abilities: synchronize
+hidden_abilities: none
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.
+
+base_stats: 100 | 100 | 100 | 100 | 100 | 100
+base_exp: 270
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 100
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: lum-berry:100%
+
+description: "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+
+moves:
+  level-up: pound: 1 | mega-punch: 10 | psychic: 30 | barrier: 40 | metronome: 20 | amnesia: 60 | transform: 1 | baton-pass: 80 | ancient-power: 50 | me-first: 70 | aura-sphere: 100 | nasty-plot: 90 | reflect-type: 1
+  machine: dragon-tail | torment | facade | double-team | reflect | roar | dragon-claw | volt-switch | sludge-bomb | surf | giga-impact | thunder-wave | frustration | solar-beam | acrobatics | work-up | false-swipe | charge-beam | flash-cannon | flash | safeguard | sludge-wave | cut | thunderbolt | thief | will-o-wisp | rock-slide | substitute | dream-eater | bulldoze | rock-polish | waterfall | overheat | retaliate | protect | rain-dance | blizzard | fire-blast | fly | hidden-power | swords-dance | rock-smash | brick-break | smack-down | light-screen | pluck | psyshock | return | trick-room | u-turn | dig | strength | x-scissor | wild-charge | thunder | fling | swagger | shadow-ball | grass-knot | calm-mind | payback | sky-drop | toxic | incinerate | snarl | earthquake | stone-edge | quash | attract | hyper-beam | sandstorm | scald | telekinesis | venoshock | ally-switch | gyro-ball | rock-tomb | ice-beam | flamethrower | bulk-up | psychic | dive | psych-up | rest | poison-jab | echoed-voice | focus-blast | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | frost-breath | struggle-bug | explosion | round | energy-ball | embargo | taunt
+  egg: none
+  tutor: after-you | earth-power | aqua-tail | gastro-acid | bounce | super-fang | outrage | dragon-pulse | low-kick | bind | spite | recycle | block | heal-bell | worry-seed | covet | skill-swap | stealth-rock | magic-room | zen-headbutt | iron-tail | iron-defense | snore | heat-wave | helping-hand | last-resort | sleep-talk | magnet-rise | wonder-room | tailwind | pain-split | dark-pulse | seed-bomb | roost | ice-punch | snatch | trick | fire-punch | iron-head | uproar | giga-drain | foul-play | drill-run | synthesis | signal-beam | dual-chop | icy-wind | bug-bite | thunder-punch | endeavor | sky-attack | magic-coat | electroweb | role-play | superpower | knock-off | drain-punch | gravity | hyper-voice | gunk-shot
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: mew
+default_form: true

@@ -1,0 +1,37 @@
+name: granbull
+pokedex_num: 210
+generation: II
+types: fairy
+height_dm: 14
+weight_hg: 487
+
+abilities: intimidate | quick-feet
+hidden_abilities: rattled
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Increases Speed to 1.5× with a major status ailment. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 90 | 120 | 75 | 60 | 60 | 45
+base_exp: 158
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground | fairy
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
+
+moves:
+  level-up: headbutt: 19 | tackle: 1 | take-down: 43 | tail-whip: 1 | bite: 7 | roar: 27 | rage: 35 | lick: 13 | scary-face: 1 | outrage: 67 | charm: 1 | crunch: 59 | payback: 51 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1
+  machine: dig | torment | strength | thunderbolt | thief | wild-charge | attract | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | reflect | rock-tomb | flamethrower | overheat | payback | retaliate | bulk-up | roar | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | incinerate | focus-blast | thunder-wave | frustration | snarl | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | return | taunt
+  egg: none
+  tutor: iron-tail | thunder-punch | super-fang | outrage | ice-punch | fire-punch | superpower | snore | low-kick | last-resort | sleep-talk | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: snubbull
+  evolves_to: none
+  trigger: N/A
+forms: granbull
+default_form: true

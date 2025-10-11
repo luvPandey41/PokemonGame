@@ -1,0 +1,37 @@
+name: sawk
+pokedex_num: 539
+generation: V
+types: fighting
+height_dm: 14
+weight_hg: 510
+
+abilities: sturdy | inner-focus
+hidden_abilities: mold-breaker
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Prevents flinching. | Bypasses targets' abilities if they could hinder or prevent a move.
+
+base_stats: 75 | 125 | 75 | 30 | 75 | 85
+base_exp: 163
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: black-belt:5% | expert-belt:1%
+
+description: "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train."
+
+moves:
+  level-up: karate-chop: 25 | double-kick: 13 | leer: 1 | counter: 21 | focus-energy: 9 | bide: 5 | reversal: 53 | endure: 41 | rock-smash: 1 | brick-break: 29 | bulk-up: 33 | close-combat: 49 | low-sweep: 17 | quick-guard: 45 | retaliate: 37
+  machine: dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | bulldoze | rock-tomb | payback | retaliate | bulk-up | protect | rain-dance | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | return | taunt
+  egg: none
+  tutor: low-kick | dual-chop | helping-hand | sleep-talk | thunder-punch | pain-split | ice-punch | block | fire-punch | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: sawk
+default_form: true

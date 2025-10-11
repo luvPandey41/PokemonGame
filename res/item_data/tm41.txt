@@ -1,0 +1,12 @@
+item_name: tm41
+flavor_text: The user torments and enrages the target, making it incapable of using the same move twice in a row.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Torment to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Torment

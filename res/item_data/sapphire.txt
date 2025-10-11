@@ -1,0 +1,12 @@
+item_name: sapphire
+flavor_text: A brilliant blue gem that symbolizes honesty.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Deliver to Celio for use in the Network Machine.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,12 @@
+item_name: hm06
+flavor_text: Diving on the first turn, the user floats up and attacks on the second. It can be used for diving in the ocean.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rock Smash to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Dive

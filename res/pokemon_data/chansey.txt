@@ -1,0 +1,45 @@
+name: chansey
+pokedex_num: 113
+generation: I
+types: normal
+height_dm: 11
+weight_hg: 346
+
+abilities: natural-cure | serene-grace
+hidden_abilities: healer
+ability_descriptions: Cures any major status ailment upon switching out. | Doubles the chance of moves' extra effects occurring. | Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.
+
+base_stats: 250 | 5 | 5 | 35 | 105 | 50
+base_exp: 395
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 8
+hatch_cycles: 40
+
+wild_held_items: oval-stone:50% | lucky-egg:5% | lucky-punch:50%
+
+description: "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people."
+
+moves:
+  level-up: pound: 1 | double-slap: 12 | take-down: 27 | double-edge: 54 | tail-whip: 5 | growl: 1 | sing: 31 | minimize: 23 | defense-curl: 1 | light-screen: 46 | egg-bomb: 42 | soft-boiled: 16 | refresh: 9 | healing-wish: 50 | fling: 34 | heal-pulse: 38 | bestow: 20
+  machine: strength | wild-charge | facade | thunder | double-team | fling | swagger | shadow-ball | grass-knot | calm-mind | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | solar-beam | work-up | charge-beam | flash | safeguard | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | substitute | dream-eater | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | rest | blizzard | echoed-voice | hail | sunny-day | fire-blast | hidden-power | round | rock-smash | brick-break | light-screen | return
+  egg: helping-hand | aromatherapy | mud-bomb | gravity | metronome | natural-gift | counter | endure | heal-bell | present
+  tutor: stealth-rock | zen-headbutt | iron-tail | icy-wind | thunder-punch | endeavor | ice-punch | snatch | fire-punch | snore | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | hyper-voice | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: happiny
+  evolves_to: blissey
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: chansey
+default_form: true

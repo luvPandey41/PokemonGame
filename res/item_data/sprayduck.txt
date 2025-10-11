@@ -1,0 +1,12 @@
+item_name: sprayduck
+flavor_text: A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Waters Berry plants.
+fling_power: -1
+consumable: no
+move name: 

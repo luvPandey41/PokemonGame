@@ -1,0 +1,45 @@
+name: sandile
+pokedex_num: 551
+generation: V
+types: ground | dark
+height_dm: 7
+weight_hg: 152
+
+abilities: intimidate | moxie
+hidden_abilities: anger-point
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack one stage upon KOing a Pokémon. | Raises Attack to the maximum of six stages upon receiving a critical hit.
+
+base_stats: 50 | 72 | 35 | 35 | 35 | 65
+base_exp: 58
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 180
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: black-glasses:5%
+
+description: "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping."
+
+moves:
+  level-up: sand-attack: 7 | thrash: 46 | leer: 1 | bite: 4 | earthquake: 43 | dig: 31 | rage: 1 | scary-face: 34 | mud-slap: 19 | sandstorm: 40 | swagger: 25 | crunch: 28 | torment: 10 | sand-tomb: 13 | assurance: 16 | embargo: 22 | foul-play: 37
+  machine: cut | dig | torment | thief | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | payback | retaliate | roar | protect | sludge-bomb | toxic | rest | incinerate | frustration | snarl | earthquake | hone-claws | hidden-power | round | stone-edge | embargo | return | taunt
+  egg: thunder-fang | double-edge | fire-fang | rock-climb | pursuit | focus-energy | beat-up | counter | mean-look | uproar
+  tutor: stealth-rock | earth-power | aqua-tail | spite | sleep-talk | iron-tail | dark-pulse | foul-play | snatch | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: krokorok
+  trigger: level-up
+  evo_level: 29
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: sandile
+default_form: true

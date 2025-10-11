@@ -1,0 +1,37 @@
+name: simisear
+pokedex_num: 514
+generation: V
+types: fire
+height_dm: 10
+weight_hg: 280
+
+abilities: gluttony
+hidden_abilities: blaze
+ability_descriptions: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 75 | 98 | 63 | 98 | 63 | 101
+base_exp: 174
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: oran-berry:50% | passho-berry:5%
+
+description: "It loves sweets because they become energy for the fire burning inside its body."
+
+moves:
+  level-up: leer: 1 | lick: 1 | fury-swipes: 1 | flame-burst: 1
+  machine: cut | dig | torment | thief | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | flamethrower | overheat | payback | protect | giga-impact | toxic | rest | incinerate | focus-blast | frustration | solar-beam | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | acrobatics | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: iron-tail | endeavor | fire-punch | role-play | superpower | snore | uproar | knock-off | low-kick | heat-wave | helping-hand | sleep-talk | recycle | gunk-shot | covet
+evolution_info:
+  evolves_from: pansear
+  evolves_to: none
+  trigger: N/A
+forms: simisear
+default_form: true

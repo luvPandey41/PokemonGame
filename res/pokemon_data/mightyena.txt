@@ -1,0 +1,37 @@
+name: mightyena
+pokedex_num: 262
+generation: III
+types: dark
+height_dm: 10
+weight_hg: 370
+
+abilities: intimidate | quick-feet
+hidden_abilities: moxie
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Increases Speed to 1.5× with a major status ailment. | Raises Attack one stage upon KOing a Pokémon.
+
+base_stats: 70 | 90 | 70 | 60 | 60 | 70
+base_exp: 147
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 127
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:5%
+
+description: "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 9 | tackle: 1 | take-down: 52 | bite: 1 | bite: 13 | roar: 22 | thief: 57 | scary-face: 37 | swagger: 27 | taunt: 42 | odor-sleuth: 17 | howl: 1 | howl: 5 | assurance: 32 | embargo: 47 | sucker-punch: 62
+  machine: dig | torment | strength | thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | payback | retaliate | roar | protect | rain-dance | giga-impact | toxic | rest | incinerate | frustration | snarl | sunny-day | hidden-power | round | rock-smash | embargo | return | taunt
+  egg: none
+  tutor: spite | sleep-talk | iron-tail | hyper-voice | dark-pulse | foul-play | super-fang | snatch | covet | snore | uproar
+evolution_info:
+  evolves_from: poochyena
+  evolves_to: none
+  trigger: N/A
+forms: mightyena
+default_form: true

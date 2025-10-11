@@ -1,0 +1,45 @@
+name: cottonee
+pokedex_num: 546
+generation: V
+types: grass | fairy
+height_dm: 3
+weight_hg: 6
+
+abilities: prankster | infiltrator
+hidden_abilities: chlorophyll
+ability_descriptions: Raises non-damaging moves' priority by one stage. | Bypasses light screen, reflect, and safeguard. | Doubles Speed during strong sunlight.
+
+base_stats: 40 | 27 | 60 | 37 | 50 | 66
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant | fairy
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker."
+
+moves:
+  level-up: absorb: 1 | mega-drain: 13 | leech-seed: 8 | growth: 4 | razor-leaf: 19 | solar-beam: 46 | poison-powder: 22 | stun-spore: 10 | cotton-spore: 17 | giga-drain: 26 | charm: 28 | sunny-day: 40 | helping-hand: 31 | endeavor: 44 | energy-ball: 35 | cotton-guard: 37
+  machine: toxic | rest | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | dream-eater | grass-knot | hidden-power | round | energy-ball | protect | return | taunt | flash | safeguard
+  egg: switcheroo | natural-gift | memento | fake-tears | beat-up | worry-seed | grass-whistle | encore | tickle
+  tutor: giga-drain | helping-hand | tailwind | sleep-talk | endeavor | seed-bomb | worry-seed | covet | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: whimsicott
+  trigger: use-item
+  evo_level: null
+  evo_item: sun-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cottonee
+default_form: true

@@ -1,0 +1,37 @@
+name: seviper
+pokedex_num: 336
+generation: III
+types: poison
+height_dm: 27
+weight_hg: 525
+
+abilities: shed-skin
+hidden_abilities: infiltrator
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 73 | 100 | 60 | 100 | 60 | 65
+base_exp: 160
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: ground | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:100% | shed-shell:5%
+
+description: "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle."
+
+moves:
+  level-up: wrap: 1 | bite: 5 | screech: 16 | haze: 38 | lick: 1 | glare: 23 | swagger: 9 | crunch: 45 | poison-fang: 27 | poison-tail: 12 | wring-out: 53 | gastro-acid: 34 | poison-jab: 42 | night-slash: 31 | venoshock: 20 | coil: 49
+  machine: dragon-tail | sludge-wave | dig | strength | thief | x-scissor | attract | facade | double-team | venoshock | substitute | swagger | bulldoze | flamethrower | payback | retaliate | protect | sludge-bomb | rain-dance | toxic | rest | poison-jab | frustration | earthquake | sunny-day | hidden-power | round | rock-smash | return | taunt
+  egg: assurance | wring-out | punishment | scary-face | swallow | night-slash | iron-tail | switcheroo | final-gambit | spit-up | stockpile | body-slam
+  tutor: bind | giga-drain | aqua-tail | gastro-acid | sleep-talk | iron-tail | dark-pulse | snatch | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: seviper
+default_form: true

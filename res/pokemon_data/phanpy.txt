@@ -1,0 +1,45 @@
+name: phanpy
+pokedex_num: 231
+generation: II
+types: ground
+height_dm: 5
+weight_hg: 335
+
+abilities: pickup
+hidden_abilities: sand-veil
+ability_descriptions: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 90 | 60 | 60 | 40 | 40 | 40
+base_exp: 66
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: passho-berry:5%
+
+description: "It is strong despite its compact size. It can easily pick up and carry an adult human on its back."
+
+moves:
+  level-up: slam: 24 | tackle: 1 | take-down: 10 | double-edge: 42 | growl: 1 | defense-curl: 1 | flail: 6 | endure: 28 | charm: 33 | rollout: 15 | odor-sleuth: 1 | natural-gift: 19 | last-resort: 37
+  machine: toxic | rest | strength | echoed-voice | attract | frustration | rock-slide | sandstorm | facade | earthquake | double-team | substitute | swagger | sunny-day | bulldoze | hidden-power | rock-tomb | round | rock-smash | roar | protect | return
+  egg: mud-slap | fissure | ice-shard | ancient-power | endeavor | head-smash | focus-energy | heavy-slam | counter | body-slam | snore
+  tutor: stealth-rock | earth-power | last-resort | sleep-talk | iron-tail | endeavor | hyper-voice | seed-bomb | gunk-shot | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: donphan
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: phanpy
+default_form: true

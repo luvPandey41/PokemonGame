@@ -1,0 +1,12 @@
+item_name: magma-stone
+flavor_text: A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Causes Heatran to appear at Reversal Mountain. Unused prior to Black and White 2.
+fling_power: -1
+consumable: no
+move name: 

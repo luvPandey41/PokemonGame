@@ -1,0 +1,37 @@
+name: ampharos
+pokedex_num: 181
+generation: II
+types: electric
+height_dm: 14
+weight_hg: 615
+
+abilities: static
+hidden_abilities: plus
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
+
+base_stats: 90 | 75 | 85 | 115 | 90 | 55
+base_exp: 230
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light."
+
+moves:
+  level-up: fire-punch: 1 | thunder-punch: 30 | tackle: 1 | take-down: 20 | growl: 1 | thunder-shock: 1 | thunder-shock: 8 | thunder-wave: 1 | thunder-wave: 4 | thunder: 62 | confuse-ray: 29 | light-screen: 57 | cotton-spore: 11 | charge: 16 | signal-beam: 51 | power-gem: 35 | discharge: 40 | electro-ball: 25 | cotton-guard: 46
+  machine: strength | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | bulldoze | protect | volt-switch | rain-dance | giga-impact | toxic | rest | echoed-voice | focus-blast | thunder-wave | frustration | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | sleep-talk | iron-tail | thunder-punch | magnet-rise | outrage | heal-bell | fire-punch | snore
+evolution_info:
+  evolves_from: flaaffy
+  evolves_to: none
+  trigger: N/A
+forms: ampharos
+default_form: true

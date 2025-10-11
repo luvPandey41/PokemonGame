@@ -1,0 +1,45 @@
+name: buizel
+pokedex_num: 418
+generation: IV
+types: water
+height_dm: 7
+weight_hg: 295
+
+abilities: swift-swim
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Prevents burns.
+
+base_stats: 55 | 65 | 35 | 60 | 30 | 85
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: wacan-berry:5%
+
+description: "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed."
+
+moves:
+  level-up: razor-wind: 35 | growl: 4 | sonic-boom: 1 | water-gun: 15 | hydro-pump: 45 | agility: 41 | quick-attack: 11 | swift: 21 | pursuit: 18 | whirlpool: 31 | water-sport: 7 | aqua-tail: 38 | aqua-jet: 24 | double-hit: 27
+  machine: dig | strength | attract | facade | scald | double-team | substitute | swagger | rock-tomb | ice-beam | waterfall | bulk-up | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: baton-pass | aqua-ring | aqua-tail | fury-cutter | odor-sleuth | mud-slap | me-first | switcheroo | double-slap | headbutt | slash | fury-swipes | tail-slap
+  tutor: aqua-tail | sleep-talk | iron-tail | icy-wind | ice-punch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: floatzel
+  trigger: level-up
+  evo_level: 26
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: buizel
+default_form: true

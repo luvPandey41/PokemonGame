@@ -1,0 +1,37 @@
+name: infernape
+pokedex_num: 392
+generation: IV
+types: fire | fighting
+height_dm: 12
+weight_hg: 550
+
+abilities: blaze
+hidden_abilities: iron-fist
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens punch-based moves to 1.2× their power.
+
+base_stats: 76 | 104 | 71 | 104 | 71 | 108
+base_exp: 240
+ev_yield: 0 | 1 | 0 | 1 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | humanshape
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | ember: 1 | ember: 7 | fire-spin: 42 | fury-swipes: 16 | flame-wheel: 19 | mach-punch: 14 | taunt: 1 | taunt: 9 | calm-mind: 58 | feint: 26 | close-combat: 36 | punishment: 29 | flare-blitz: 68 | acrobatics: 52
+  machine: u-turn | dig | torment | strength | facade | double-team | fling | swagger | grass-knot | calm-mind | roar | giga-impact | toxic | incinerate | frustration | earthquake | solar-beam | acrobatics | work-up | stone-edge | cut | attract | hyper-beam | will-o-wisp | rock-slide | substitute | bulldoze | rock-tomb | flamethrower | overheat | retaliate | bulk-up | protect | rest | poison-jab | focus-blast | aerial-ace | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: stealth-rock | dual-chop | iron-tail | thunder-punch | endeavor | fire-punch | role-play | snore | low-kick | blast-burn | heat-wave | helping-hand | sleep-talk | fire-pledge | gunk-shot | covet
+evolution_info:
+  evolves_from: monferno
+  evolves_to: none
+  trigger: N/A
+forms: infernape
+default_form: true

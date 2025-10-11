@@ -1,0 +1,37 @@
+name: torterra
+pokedex_num: 389
+generation: IV
+types: grass | ground
+height_dm: 22
+weight_hg: 3100
+
+abilities: overgrow
+hidden_abilities: shell-armor
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against critical hits.
+
+base_stats: 95 | 109 | 105 | 75 | 85 | 56
+base_exp: 236
+ev_yield: 0 | 2 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | plant
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Some Pokémon are born on a Torterra’s back and spend their entire life there."
+
+moves:
+  level-up: tackle: 1 | bite: 22 | absorb: 1 | absorb: 9 | mega-drain: 27 | leech-seed: 33 | razor-leaf: 1 | razor-leaf: 13 | earthquake: 32 | withdraw: 1 | withdraw: 5 | curse: 17 | giga-drain: 51 | synthesis: 39 | crunch: 45 | leaf-storm: 57 | wood-hammer: 1
+  machine: cut | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | grass-knot | bulldoze | reflect | rock-tomb | rock-polish | roar | protect | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | hidden-power | round | swords-dance | rock-smash | stone-edge | energy-ball | light-screen | return | flash | safeguard
+  egg: none
+  tutor: synthesis | stealth-rock | earth-power | iron-tail | seed-bomb | outrage | superpower | iron-head | snore | grass-pledge | giga-drain | sleep-talk | block | frenzy-plant | worry-seed
+evolution_info:
+  evolves_from: grotle
+  evolves_to: none
+  trigger: N/A
+forms: torterra
+default_form: true

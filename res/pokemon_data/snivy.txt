@@ -1,0 +1,45 @@
+name: snivy
+pokedex_num: 495
+generation: V
+types: grass
+height_dm: 6
+weight_hg: 81
+
+abilities: overgrow
+hidden_abilities: contrary
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Inverts stat changes.
+
+base_stats: 45 | 45 | 55 | 45 | 55 | 63
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | plant
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter."
+
+moves:
+  level-up: slam: 25 | vine-whip: 7 | tackle: 1 | wrap: 10 | leer: 4 | mega-drain: 22 | leech-seed: 19 | growth: 13 | giga-drain: 34 | leaf-blade: 28 | wring-out: 37 | gastro-acid: 40 | leaf-storm: 43 | coil: 31 | leaf-tornado: 16
+  machine: cut | torment | attract | facade | double-team | substitute | swagger | grass-knot | reflect | calm-mind | protect | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | light-screen | return | taunt | flash | safeguard
+  egg: captivate | glare | magical-leaf | iron-tail | twister | pursuit | natural-gift | sweet-scent | mirror-coat | mean-look
+  tutor: synthesis | aqua-tail | gastro-acid | iron-tail | seed-bomb | snatch | snore | knock-off | grass-pledge | bind | giga-drain | sleep-talk | worry-seed
+evolution_info:
+  evolves_from: none
+  evolves_to: servine
+  trigger: level-up
+  evo_level: 17
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: snivy
+default_form: true

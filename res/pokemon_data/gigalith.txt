@@ -1,0 +1,37 @@
+name: gigalith
+pokedex_num: 526
+generation: V
+types: rock
+height_dm: 17
+weight_hg: 2600
+
+abilities: sturdy | sand-stream
+hidden_abilities: sand-force
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Summons a sandstorm that lasts indefinitely upon entering battle. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 85 | 135 | 130 | 60 | 80 | 25
+base_exp: 232
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: everstone:50% | hard-stone:5%
+
+description: "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 7 | headbutt: 1 | headbutt: 10 | tackle: 1 | harden: 1 | harden: 4 | explosion: 55 | rock-slide: 30 | mud-slap: 17 | sandstorm: 42 | iron-defense: 20 | rock-blast: 14 | power-gem: 25 | stone-edge: 48 | stealth-rock: 36 | smack-down: 23
+  machine: strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | giga-impact | toxic | rest | frustration | earthquake | solar-beam | explosion | hidden-power | round | rock-smash | stone-edge | flash-cannon | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | gravity | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: boldore
+  evolves_to: none
+  trigger: N/A
+forms: gigalith
+default_form: true

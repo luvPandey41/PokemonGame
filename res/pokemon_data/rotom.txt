@@ -1,0 +1,37 @@
+name: rotom
+pokedex_num: 479
+generation: IV
+types: electric | ghost
+height_dm: 3
+weight_hg: 3
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 50 | 50 | 77 | 95 | 77 | 91
+base_exp: 154
+ev_yield: 0 | 0 | 0 | 1 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its electric-like body can enter some kinds of machines and take control in order to make mischief."
+
+moves:
+  level-up: thunder-shock: 1 | thunder-wave: 1 | double-team: 15 | confuse-ray: 1 | substitute: 36 | uproar: 8 | charge: 57 | trick: 1 | astonish: 1 | shock-wave: 22 | discharge: 64 | ominous-wind: 29 | electro-ball: 43 | hex: 50
+  machine: thunderbolt | thief | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | protect | volt-switch | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | spite | sleep-talk | pain-split | dark-pulse | snatch | trick | electroweb | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: rotom
+default_form: true

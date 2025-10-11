@@ -1,0 +1,37 @@
+name: absol
+pokedex_num: 359
+generation: III
+types: dark
+height_dm: 12
+weight_hg: 470
+
+abilities: pressure | super-luck
+hidden_abilities: justified
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Raises moves' critical hit rates one stage. | Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 65 | 130 | 60 | 75 | 60 | 75
+base_exp: 163
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: life-orb:5%
+
+description: "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains."
+
+moves:
+  level-up: scratch: 1 | razor-wind: 57 | swords-dance: 33 | leer: 4 | bite: 20 | quick-attack: 9 | double-team: 25 | slash: 28 | perish-song: 65 | detect: 44 | pursuit: 12 | future-sight: 36 | taunt: 17 | feint: 1 | me-first: 60 | sucker-punch: 52 | night-slash: 41 | psycho-cut: 49
+  machine: torment | strength | x-scissor | facade | thunder | double-team | swagger | shadow-ball | calm-mind | payback | giga-impact | toxic | incinerate | thunder-wave | frustration | snarl | false-swipe | stone-edge | charge-beam | flash | cut | thunderbolt | thief | attract | hyper-beam | will-o-wisp | rock-slide | sandstorm | substitute | dream-eater | rock-tomb | ice-beam | flamethrower | retaliate | protect | rain-dance | psych-up | rest | blizzard | echoed-voice | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | swords-dance | rock-smash | return | taunt
+  egg: baton-pass | zen-headbutt | sucker-punch | feint-attack | magic-coat | perish-song | assurance | double-edge | punishment | megahorn | me-first | curse | hex | mean-look
+  tutor: zen-headbutt | iron-tail | bounce | icy-wind | dark-pulse | snatch | magic-coat | role-play | superpower | snore | knock-off | spite | sleep-talk | foul-play
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: absol
+default_form: true

@@ -1,0 +1,12 @@
+item_name: tm85
+flavor_text: The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Dream Eater to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Dream Eater

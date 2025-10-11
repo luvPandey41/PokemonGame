@@ -1,0 +1,37 @@
+name: regigigas
+pokedex_num: 486
+generation: IV
+types: normal
+height_dm: 37
+weight_hg: 4200
+
+abilities: slow-start
+hidden_abilities: none
+ability_descriptions: Halves Attack and Speed for five turns upon entering battle.
+
+base_stats: 110 | 160 | 110 | 80 | 110 | 100
+base_exp: 302
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+
+moves:
+  level-up: fire-punch: 1 | ice-punch: 1 | thunder-punch: 1 | confuse-ray: 1 | dizzy-punch: 1 | foresight: 1 | revenge: 25 | knock-off: 1 | payback: 65 | giga-impact: 100 | zen-headbutt: 50 | crush-grip: 75 | wide-guard: 40 | heavy-slam: 90
+  machine: strength | thunderbolt | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | payback | retaliate | rain-dance | psych-up | giga-impact | toxic | focus-blast | thunder-wave | frustration | aerial-ace | earthquake | sunny-day | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | safeguard
+  egg: none
+  tutor: earth-power | zen-headbutt | icy-wind | thunder-punch | ice-punch | fire-punch | superpower | iron-head | snore | knock-off | sleep-talk | drain-punch | gravity | block
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: regigigas
+default_form: true

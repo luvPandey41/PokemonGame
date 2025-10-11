@@ -1,0 +1,12 @@
+item_name: cover-fossil
+flavor_text: A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
+cost: 7000
+category: dex-completion
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Give to a scientist in a museum to receive a tirtouga.
+fling_power: 100
+consumable: no
+move name: 

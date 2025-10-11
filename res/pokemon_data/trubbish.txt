@@ -1,0 +1,45 @@
+name: trubbish
+pokedex_num: 568
+generation: V
+types: poison
+height_dm: 6
+weight_hg: 310
+
+abilities: stench | sticky-hold
+hidden_abilities: aftermath
+ability_descriptions: Has a 10% chance of making target Pokémon flinch with each hit. | Prevents a held item from being removed by other Pokémon. | Damages the attacker for 1/4 its max HP when knocked out by a contact move.
+
+base_stats: 50 | 50 | 62 | 40 | 62 | 65
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: nugget:1% | silk-scarf:5% | black-sludge:5%
+
+description: "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places."
+
+moves:
+  level-up: pound: 1 | double-slap: 14 | take-down: 25 | toxic: 36 | sludge: 18 | amnesia: 40 | poison-gas: 1 | explosion: 47 | sludge-bomb: 29 | stockpile: 23 | swallow: 23 | recycle: 3 | toxic-spikes: 7 | gunk-shot: 45 | acid-spray: 12 | clear-smog: 34
+  machine: toxic | rest | sludge-wave | thief | attract | frustration | facade | double-team | venoshock | substitute | swagger | sunny-day | explosion | hidden-power | round | payback | protect | sludge-bomb | return | rain-dance
+  egg: rock-blast | haze | rollout | sand-attack | spikes | curse | mud-sport | self-destruct
+  tutor: giga-drain | spite | sleep-talk | drain-punch | pain-split | recycle | dark-pulse | seed-bomb | gunk-shot | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: garbodor
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: trubbish
+default_form: true

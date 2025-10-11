@@ -1,0 +1,45 @@
+name: zweilous
+pokedex_num: 634
+generation: V
+types: dark | dragon
+height_dm: 14
+weight_hg: 500
+
+abilities: hustle
+hidden_abilities: none
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 72 | 85 | 70 | 65 | 70 | 58
+base_exp: 147
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+
+moves:
+  level-up: slam: 28 | headbutt: 12 | body-slam: 48 | bite: 1 | bite: 9 | roar: 20 | dragon-rage: 1 | focus-energy: 1 | focus-energy: 4 | scary-face: 55 | outrage: 71 | dragon-breath: 17 | crunch: 25 | hyper-voice: 64 | dragon-pulse: 32 | dragon-rush: 42 | double-hit: 1 | work-up: 38
+  machine: dragon-tail | torment | strength | thief | attract | facade | double-team | substitute | swagger | roar | protect | rain-dance | psych-up | toxic | rest | incinerate | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | return | taunt
+  egg: none
+  tutor: earth-power | aqua-tail | zen-headbutt | dark-pulse | outrage | dragon-pulse | superpower | snore | uproar | spite | sleep-talk | hyper-voice | draco-meteor
+evolution_info:
+  evolves_from: deino
+  evolves_to: hydreigon
+  trigger: level-up
+  evo_level: 64
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: zweilous
+default_form: true

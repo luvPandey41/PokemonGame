@@ -1,0 +1,12 @@
+item_name: bike-voucher
+flavor_text: A voucher for obtaining a bicycle from the BIKE SHOP.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be traded for a bicycle.
+fling_power: -1
+consumable: no
+move name: 

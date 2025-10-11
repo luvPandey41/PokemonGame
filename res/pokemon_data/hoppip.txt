@@ -1,0 +1,45 @@
+name: hoppip
+pokedex_num: 187
+generation: II
+types: grass | flying
+height_dm: 4
+weight_hg: 5
+
+abilities: chlorophyll | leaf-guard
+hidden_abilities: infiltrator
+ability_descriptions: Doubles Speed during strong sunlight. | Protects against major status ailments during strong sunlight. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 35 | 35 | 40 | 35 | 55 | 50
+base_exp: 50
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way."
+
+moves:
+  level-up: tackle: 10 | tail-whip: 7 | mega-drain: 25 | leech-seed: 22 | poison-powder: 12 | stun-spore: 14 | sleep-powder: 16 | splash: 1 | cotton-spore: 34 | giga-drain: 43 | synthesis: 4 | memento: 49 | bullet-seed: 19 | bounce: 46 | u-turn: 37 | worry-seed: 40 | rage-powder: 31 | acrobatics: 28
+  machine: psych-up | toxic | rest | u-turn | attract | frustration | facade | aerial-ace | double-team | solar-beam | substitute | swagger | sunny-day | acrobatics | grass-knot | reflect | hidden-power | round | swords-dance | energy-ball | protect | return | flash
+  egg: cotton-guard | double-edge | amnesia | helping-hand | aromatherapy | seed-bomb | endure | worry-seed | confusion | encore
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | bounce | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: skiploom
+  trigger: level-up
+  evo_level: 18
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: hoppip
+default_form: true

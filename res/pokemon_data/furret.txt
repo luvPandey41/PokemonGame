@@ -1,0 +1,37 @@
+name: furret
+pokedex_num: 162
+generation: II
+types: normal
+height_dm: 18
+weight_hg: 325
+
+abilities: run-away | keen-eye
+hidden_abilities: frisk
+ability_descriptions: Ensures success fleeing from wild battles. | Prevents accuracy from being lowered. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 85 | 76 | 64 | 45 | 55 | 90
+base_exp: 145
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: oran-berry:50% | sitrus-berry:5%
+
+description: "The mother puts its offspring to sleep by curling up around them. It corners foes with speed."
+
+moves:
+  level-up: scratch: 1 | slam: 28 | quick-attack: 1 | quick-attack: 7 | defense-curl: 1 | defense-curl: 4 | amnesia: 42 | fury-swipes: 13 | rest: 32 | foresight: 1 | baton-pass: 46 | follow-me: 21 | helping-hand: 17 | hyper-voice: 56 | me-first: 50 | sucker-punch: 36
+  machine: u-turn | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | flamethrower | retaliate | protect | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | solar-beam | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | rock-smash | brick-break | charge-beam | return
+  egg: none
+  tutor: aqua-tail | iron-tail | thunder-punch | super-fang | ice-punch | trick | fire-punch | snore | uproar | knock-off | helping-hand | last-resort | sleep-talk | hyper-voice | covet
+evolution_info:
+  evolves_from: sentret
+  evolves_to: none
+  trigger: N/A
+forms: furret
+default_form: true

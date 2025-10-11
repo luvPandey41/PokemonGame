@@ -1,0 +1,12 @@
+item_name: tm12
+flavor_text: The target is taunted into a rage that allows it to use only attack moves for three turns.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Taunt to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Taunt

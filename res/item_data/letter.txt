@@ -1,0 +1,12 @@
+item_name: letter
+flavor_text: A letter to STEVEN from the PRESIDENT of the DEVON CORP.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains a letter to be delivered to Steven.
+fling_power: -1
+consumable: no
+move name: 

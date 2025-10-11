@@ -1,0 +1,37 @@
+name: unfezant
+pokedex_num: 521
+generation: V
+types: normal | flying
+height_dm: 12
+weight_hg: 290
+
+abilities: big-pecks | super-luck
+hidden_abilities: rivalry
+ability_descriptions: Protects against Defense drops. | Raises moves' critical hit rates one stage. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.
+
+base_stats: 80 | 115 | 80 | 65 | 55 | 93
+base_exp: 220
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males."
+
+moves:
+  level-up: razor-wind: 38 | gust: 1 | leer: 1 | leer: 8 | growl: 1 | growl: 4 | quick-attack: 1 | quick-attack: 11 | sky-attack: 66 | detect: 23 | swagger: 49 | facade: 55 | taunt: 27 | feather-dance: 44 | air-cutter: 15 | roost: 18 | tailwind: 60 | air-slash: 33
+  machine: psych-up | giga-impact | toxic | rest | u-turn | echoed-voice | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance | taunt
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | snore | uproar
+evolution_info:
+  evolves_from: tranquill
+  evolves_to: none
+  trigger: N/A
+forms: unfezant
+default_form: true

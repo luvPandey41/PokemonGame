@@ -1,0 +1,45 @@
+name: barboach
+pokedex_num: 339
+generation: III
+types: water | ground
+height_dm: 4
+weight_hg: 19
+
+abilities: oblivious | anticipation
+hidden_abilities: hydration
+ability_descriptions: Prevents infatuation and protects against captivate. | Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | Cures any major status ailment after each turn during rain.
+
+base_stats: 50 | 48 | 43 | 46 | 41 | 60
+base_exp: 58
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+
+moves:
+  level-up: water-gun: 10 | earthquake: 39 | fissure: 47 | amnesia: 18 | rest: 31 | snore: 31 | mud-slap: 1 | magnitude: 26 | future-sight: 43 | mud-sport: 6 | water-sport: 6 | water-pulse: 22 | aqua-tail: 35 | mud-bomb: 14
+  machine: surf | toxic | rest | blizzard | attract | frustration | sandstorm | facade | earthquake | scald | double-team | hail | substitute | swagger | bulldoze | hidden-power | rock-tomb | ice-beam | round | waterfall | protect | dive | return | rain-dance
+  egg: flail | earth-power | muddy-water | spark | hydro-pump | mud-shot | dragon-dance | take-down | thrash | whirlpool
+  tutor: earth-power | aqua-tail | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: whiscash
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: barboach
+default_form: true

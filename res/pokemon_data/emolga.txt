@@ -1,0 +1,37 @@
+name: emolga
+pokedex_num: 587
+generation: V
+types: electric | flying
+height_dm: 4
+weight_hg: 50
+
+abilities: static
+hidden_abilities: motor-drive
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Absorbs electric moves, raising Speed one stage.
+
+base_stats: 55 | 75 | 60 | 75 | 60 | 103
+base_exp: 150
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: cheri-berry:100%
+
+description: "The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding."
+
+moves:
+  level-up: tail-whip: 7 | thunder-shock: 1 | agility: 46 | quick-attack: 4 | double-team: 19 | light-screen: 34 | spark: 13 | encore: 38 | pursuit: 16 | charge: 10 | shock-wave: 22 | discharge: 50 | electro-ball: 26 | acrobatics: 30 | volt-switch: 42
+  machine: u-turn | cut | thunderbolt | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | aerial-ace | acrobatics | hidden-power | round | charge-beam | light-screen | return | taunt | flash
+  egg: baton-pass | charm | iron-tail | roost | shock-wave | air-slash | astonish | tickle | covet
+  tutor: signal-beam | helping-hand | tailwind | last-resort | sleep-talk | iron-tail | roost | covet | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: emolga
+default_form: true

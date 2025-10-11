@@ -1,0 +1,12 @@
+item_name: dragon-scale
+flavor_text: A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
+cost: 2000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by Seadra: Evolves the holder into Kingdra when traded.
+fling_power: 30
+consumable: no
+move name: 

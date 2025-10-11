@@ -1,0 +1,45 @@
+name: chinchou
+pokedex_num: 170
+generation: II
+types: water | electric
+height_dm: 5
+weight_hg: 120
+
+abilities: volt-absorb | illuminate
+hidden_abilities: water-absorb
+ability_descriptions: Absorbs electric moves, healing for 1/4 max HP. | Doubles the wild encounter rate. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 75 | 38 | 38 | 56 | 56 | 67
+base_exp: 66
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: yellow-shard:5% | deep-sea-scale:5%
+
+description: "It discharges positive and negative electricity from its antenna tips to shock its foes."
+
+moves:
+  level-up: take-down: 23 | supersonic: 1 | water-gun: 17 | hydro-pump: 45 | bubble-beam: 31 | thunder-wave: 6 | confuse-ray: 12 | bubble: 1 | flail: 9 | spark: 20 | charge: 50 | signal-beam: 34 | aqua-ring: 42 | discharge: 39 | electro-ball: 28
+  machine: thunderbolt | wild-charge | attract | facade | scald | thunder | double-team | substitute | swagger | ice-beam | waterfall | protect | dive | volt-switch | rain-dance | surf | toxic | rest | blizzard | thunder-wave | frustration | hail | hidden-power | round | charge-beam | return | flash
+  egg: flail | amnesia | screech | whirlpool | shock-wave | brine | psybeam | agility | mist | water-pulse
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | heal-bell | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: lanturn
+  trigger: level-up
+  evo_level: 27
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: chinchou
+default_form: true

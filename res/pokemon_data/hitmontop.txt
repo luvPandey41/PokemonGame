@@ -1,0 +1,37 @@
+name: hitmontop
+pokedex_num: 237
+generation: II
+types: fighting
+height_dm: 14
+weight_hg: 480
+
+abilities: intimidate | technician
+hidden_abilities: steadfast
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Strengthens moves of 60 base power or less to 1.5× their power. | Raises Speed one stage upon flinching.
+
+base_stats: 50 | 95 | 95 | 35 | 110 | 70
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 0
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "It fights while spinning like a top. The centrifugal force boosts its destructive power by ten."
+
+moves:
+  level-up: rolling-kick: 1 | counter: 28 | agility: 37 | quick-attack: 15 | focus-energy: 6 | triple-kick: 19 | detect: 51 | pursuit: 10 | rapid-spin: 24 | revenge: 1 | endeavor: 60 | gyro-ball: 42 | feint: 33 | close-combat: 55 | wide-guard: 46 | quick-guard: 46
+  machine: dig | strength | thief | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | gyro-ball | retaliate | bulk-up | protect | rain-dance | toxic | rest | frustration | aerial-ace | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | return
+  egg: none
+  tutor: low-kick | helping-hand | sleep-talk | endeavor | drill-run | role-play | covet | snore
+evolution_info:
+  evolves_from: tyrogue
+  evolves_to: none
+  trigger: N/A
+forms: hitmontop
+default_form: true

@@ -1,0 +1,45 @@
+name: pansear
+pokedex_num: 513
+generation: V
+types: fire
+height_dm: 6
+weight_hg: 110
+
+abilities: gluttony
+hidden_abilities: blaze
+ability_descriptions: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 50 | 53 | 48 | 53 | 48 | 64
+base_exp: 63
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: oran-berry:50% | passho-berry:5%
+
+description: "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries."
+
+moves:
+  level-up: scratch: 1 | leer: 4 | bite: 19 | lick: 7 | fire-blast: 34 | amnesia: 25 | fury-swipes: 13 | crunch: 43 | recycle: 37 | yawn: 16 | natural-gift: 40 | fling: 28 | flame-burst: 22 | incinerate: 10 | acrobatics: 31
+  machine: cut | dig | torment | thief | attract | will-o-wisp | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | flamethrower | overheat | payback | protect | toxic | rest | incinerate | frustration | solar-beam | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | acrobatics | fire-blast | work-up | hidden-power | round | rock-smash | return | taunt
+  egg: low-kick | heat-wave | sleep-talk | fire-spin | nasty-plot | fire-punch | astonish | role-play | tickle | covet
+  tutor: iron-tail | endeavor | fire-punch | role-play | snore | uproar | knock-off | low-kick | heat-wave | helping-hand | sleep-talk | recycle | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: simisear
+  trigger: use-item
+  evo_level: null
+  evo_item: fire-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pansear
+default_form: true

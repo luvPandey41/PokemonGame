@@ -1,0 +1,12 @@
+item_name: lure-ball
+flavor_text: A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+cost: 0
+category: apricorn-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer in battle : Attempts to catch a wild Pokémon. If used in a trainer battle, nothing happens and the ball is lost. If the wild Pokémon was encountered by fishing, the wild Pokémon's catch rate is 3× normal.
+fling_power: -1
+consumable: no
+move name: 

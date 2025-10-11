@@ -1,0 +1,37 @@
+name: krookodile
+pokedex_num: 553
+generation: V
+types: ground | dark
+height_dm: 15
+weight_hg: 963
+
+abilities: intimidate | moxie
+hidden_abilities: anger-point
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack one stage upon KOing a Pokémon. | Raises Attack to the maximum of six stages upon receiving a critical hit.
+
+base_stats: 95 | 117 | 80 | 65 | 70 | 92
+base_exp: 234
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: black-glasses:50%
+
+description: "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 7 | leer: 1 | bite: 1 | bite: 4 | earthquake: 54 | dig: 32 | rage: 1 | scary-face: 36 | mud-slap: 19 | outrage: 60 | sandstorm: 48 | swagger: 25 | crunch: 28 | torment: 10 | sand-tomb: 13 | assurance: 16 | embargo: 22 | foul-play: 42
+  machine: dragon-tail | cut | dig | torment | strength | thief | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | grass-knot | bulldoze | rock-tomb | payback | retaliate | bulk-up | roar | protect | dragon-claw | sludge-bomb | giga-impact | toxic | rest | incinerate | focus-blast | frustration | snarl | aerial-ace | earthquake | hone-claws | shadow-claw | low-sweep | hidden-power | round | rock-smash | brick-break | stone-edge | embargo | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | dark-pulse | outrage | snatch | dragon-pulse | superpower | snore | uproar | knock-off | low-kick | spite | sleep-talk | foul-play | block
+evolution_info:
+  evolves_from: krokorok
+  evolves_to: none
+  trigger: N/A
+forms: krookodile
+default_form: true

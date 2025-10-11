@@ -1,0 +1,37 @@
+name: quagsire
+pokedex_num: 195
+generation: II
+types: water | ground
+height_dm: 14
+weight_hg: 750
+
+abilities: damp | water-absorb
+hidden_abilities: unaware
+ability_descriptions: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Absorbs water moves, healing for 1/4 max HP. | Ignores other Pokémon's stat modifiers for damage and accuracy calculation.
+
+base_stats: 95 | 85 | 85 | 65 | 65 | 35
+base_exp: 151
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming."
+
+moves:
+  level-up: slam: 15 | tail-whip: 1 | mist: 48 | water-gun: 1 | earthquake: 36 | haze: 48 | amnesia: 24 | rain-dance: 41 | yawn: 31 | mud-sport: 1 | mud-sport: 5 | muddy-water: 53 | mud-shot: 9 | mud-bomb: 19
+  machine: sludge-wave | dig | strength | thief | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | protect | dive | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | blizzard | focus-blast | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | stone-edge | return | flash | safeguard
+  egg: none
+  tutor: after-you | earth-power | aqua-tail | sleep-talk | iron-tail | icy-wind | ice-punch | snore
+evolution_info:
+  evolves_from: wooper
+  evolves_to: none
+  trigger: N/A
+forms: quagsire
+default_form: true

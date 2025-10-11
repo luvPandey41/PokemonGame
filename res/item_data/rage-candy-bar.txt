@@ -1,0 +1,12 @@
+item_name: rage-candy-bar
+flavor_text: A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points.
+cost: 350
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be traded for a tm64 in the vertical Underground Path.
+fling_power: 30
+consumable: no
+move name: 

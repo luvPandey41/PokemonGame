@@ -1,0 +1,12 @@
+item_name: lost-item
+flavor_text: The Mime Jr. doll that was lost by the Copycat.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be traded to the Copycat for a pass.
+fling_power: -1
+consumable: no
+move name: 

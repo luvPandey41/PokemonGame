@@ -1,0 +1,12 @@
+item_name: mental-herb
+flavor_text: An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder is attracted, it consumes this item to cure the attraction.
+fling_power: 10
+consumable: no
+move name: 

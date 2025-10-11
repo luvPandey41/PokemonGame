@@ -1,0 +1,12 @@
+item_name: devon-scope
+flavor_text: A device by DEVON that signals any unseeable POKéMON.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Reveals invisble kecleon on the overworld.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,12 @@
+item_name: tm28
+flavor_text: The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+cost: 100000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Dig to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Dig

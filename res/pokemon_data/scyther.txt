@@ -1,0 +1,52 @@
+name: scyther
+pokedex_num: 123
+generation: I
+types: bug | flying
+height_dm: 15
+weight_hg: 560
+
+abilities: swarm | technician
+hidden_abilities: steadfast
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens moves of 60 base power or less to 1.5× their power. | Raises Speed one stage upon flinching.
+
+base_stats: 70 | 110 | 80 | 55 | 80 | 105
+base_exp: 100
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
+
+moves:
+  level-up: razor-wind: 33 | swords-dance: 57 | wing-attack: 21 | leer: 1 | agility: 17 | quick-attack: 1 | double-team: 37 | focus-energy: 5 | slash: 29 | false-swipe: 13 | fury-cutter: 25 | pursuit: 9 | feint: 61 | night-slash: 45 | air-slash: 53 | x-scissor: 41 | vacuum-wave: 1 | double-hit: 49
+  machine: u-turn | cut | thief | x-scissor | attract | hyper-beam | facade | double-team | substitute | swagger | protect | rain-dance | giga-impact | toxic | rest | frustration | aerial-ace | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | light-screen | return | safeguard
+  egg: baton-pass | reversal | night-slash | steel-wing | razor-wind | counter | endure | bug-buzz | silver-wind | defog
+  tutor: tailwind | sleep-talk | bug-bite | roost | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: scizor, kleavor
+  trigger: trade, use-item
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: black-augurite
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: scyther
+default_form: true

@@ -1,0 +1,12 @@
+item_name: tm-case
+flavor_text: A convenient case that holds TMs and HMs.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Stores TMs and HMs.
+fling_power: -1
+consumable: no
+move name: 

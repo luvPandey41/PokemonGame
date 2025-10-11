@@ -1,0 +1,45 @@
+name: staravia
+pokedex_num: 397
+generation: IV
+types: normal | flying
+height_dm: 6
+weight_hg: 155
+
+abilities: intimidate
+hidden_abilities: reckless
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 55 | 75 | 50 | 40 | 40 | 80
+base_exp: 119
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: yache-berry:5%
+
+description: "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily."
+
+moves:
+  level-up: wing-attack: 9 | whirlwind: 23 | tackle: 1 | take-down: 33 | growl: 1 | agility: 38 | quick-attack: 1 | quick-attack: 5 | double-team: 13 | endeavor: 18 | aerial-ace: 28 | brave-bird: 43 | final-gambit: 48
+  machine: toxic | rest | u-turn | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | retaliate | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | endeavor | roost | snore
+evolution_info:
+  evolves_from: starly
+  evolves_to: staraptor
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: staravia
+default_form: true

@@ -1,0 +1,12 @@
+item_name: tm83
+flavor_text: The user is roused, and its Attack and Sp. Atk stats increase.
+cost: 100000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Natural Gift to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Work Up

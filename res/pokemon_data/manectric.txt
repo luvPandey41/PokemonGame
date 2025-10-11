@@ -1,0 +1,37 @@
+name: manectric
+pokedex_num: 310
+generation: III
+types: electric
+height_dm: 15
+weight_hg: 402
+
+abilities: static | lightning-rod
+hidden_abilities: minus
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.
+
+base_stats: 70 | 75 | 60 | 105 | 60 | 105
+base_exp: 166
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts."
+
+moves:
+  level-up: tackle: 1 | leer: 1 | leer: 9 | bite: 30 | roar: 42 | thunder-wave: 1 | thunder-wave: 4 | thunder: 66 | quick-attack: 17 | spark: 20 | charge: 54 | odor-sleuth: 25 | howl: 1 | howl: 12 | thunder-fang: 37 | fire-fang: 1 | discharge: 49 | wild-charge: 61
+  machine: strength | thunderbolt | thief | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | flamethrower | overheat | roar | protect | volt-switch | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | snarl | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-tail | magnet-rise | snore | uproar
+evolution_info:
+  evolves_from: electrike
+  evolves_to: none
+  trigger: N/A
+forms: manectric
+default_form: true

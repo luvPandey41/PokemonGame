@@ -1,0 +1,20 @@
+move name: flare-blitz
+power: 120
+accuracy: 100
+type: fire
+attack type: physical
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: User takes 1/3 the damage inflicted in recoil.  Has a 10% chance to burn the target.
+ailment: burn
+ailment chance: 10
+status changes: none
+effect chance: 10
+critical hit ratio: 0
+drain: -33
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

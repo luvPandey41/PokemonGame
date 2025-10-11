@@ -1,0 +1,37 @@
+name: snorlax
+pokedex_num: 143
+generation: I
+types: normal
+height_dm: 21
+weight_hg: 4600
+
+abilities: immunity | thick-fat
+hidden_abilities: gluttony
+ability_descriptions: Prevents poison. | Halves damage from fire and ice moves. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 160 | 110 | 65 | 65 | 110 | 30
+base_exp: 189
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster
+gender_ratio_female: 1
+hatch_cycles: 40
+
+wild_held_items: chesto-berry:100% | leftovers:100%
+
+description: "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly."
+
+moves:
+  level-up: tackle: 1 | body-slam: 36 | defense-curl: 4 | lick: 12 | amnesia: 9 | rest: 28 | snore: 28 | belly-drum: 17 | rollout: 44 | sleep-talk: 33 | crunch: 49 | yawn: 20 | block: 41 | giga-impact: 57 | heavy-slam: 52 | chip-away: 25
+  machine: strength | thunderbolt | wild-charge | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | focus-blast | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | smack-down | return
+  egg: whirlwind | after-you | double-edge | charm | fissure | lick | pursuit | natural-gift | curse | counter
+  tutor: after-you | zen-headbutt | icy-wind | thunder-punch | seed-bomb | outrage | ice-punch | fire-punch | superpower | iron-head | snore | last-resort | sleep-talk | recycle | hyper-voice | block | gunk-shot | covet
+evolution_info:
+  evolves_from: munchlax
+  evolves_to: none
+  trigger: N/A
+forms: snorlax
+default_form: true

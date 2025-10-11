@@ -1,0 +1,37 @@
+name: vespiquen
+pokedex_num: 416
+generation: IV
+types: bug | flying
+height_dm: 12
+weight_hg: 385
+
+abilities: pressure
+hidden_abilities: unnerve
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 70 | 80 | 102 | 80 | 102 | 40
+base_exp: 166
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 8
+hatch_cycles: 15
+
+wild_held_items: poison-barb:5%
+
+description: "It releases various pheromones to make the grubs in its body do its bidding while fighting foes."
+
+moves:
+  level-up: gust: 1 | poison-sting: 1 | toxic: 33 | confuse-ray: 1 | fury-swipes: 13 | slash: 21 | destiny-bond: 53 | swagger: 49 | fury-cutter: 5 | pursuit: 9 | sweet-scent: 1 | air-slash: 37 | power-gem: 25 | captivate: 41 | attack-order: 45 | defend-order: 17 | heal-order: 29
+  machine: u-turn | cut | thief | x-scissor | attract | hyper-beam | facade | double-team | fling | venoshock | substitute | swagger | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | frustration | aerial-ace | hone-claws | sunny-day | acrobatics | struggle-bug | hidden-power | round | quash | return | flash
+  egg: none
+  tutor: signal-beam | tailwind | sleep-talk | bug-bite | endeavor | roost | snore
+evolution_info:
+  evolves_from: combee
+  evolves_to: none
+  trigger: N/A
+forms: vespiquen
+default_form: true

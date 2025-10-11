@@ -1,0 +1,12 @@
+item_name: power-bracer
+flavor_text: A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
+cost: 3000
+category: effort-training
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Decreases the holder's Speed by 50%. Whenever the holder gains Attack effort from battle, increases that effort by 4; this applies before the PokéRUS doubling effect.
+fling_power: 70
+consumable: no
+move name: 

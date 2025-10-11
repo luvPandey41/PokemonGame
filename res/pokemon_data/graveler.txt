@@ -1,0 +1,45 @@
+name: graveler
+pokedex_num: 75
+generation: I
+types: rock | ground
+height_dm: 10
+weight_hg: 1050
+
+abilities: rock-head | sturdy
+hidden_abilities: sand-veil
+ability_descriptions: Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 55 | 95 | 115 | 45 | 45 | 35
+base_exp: 137
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: everstone:5% | hard-stone:5%
+
+description: "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty."
+
+moves:
+  level-up: tackle: 1 | double-edge: 58 | rock-throw: 11 | earthquake: 47 | defense-curl: 1 | self-destruct: 31 | explosion: 53 | rollout: 18 | magnitude: 15 | mud-sport: 1 | mud-sport: 4 | rock-blast: 22 | rock-polish: 1 | rock-polish: 8 | stone-edge: 64 | stealth-rock: 42 | smack-down: 27 | bulldoze: 36
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | flamethrower | protect | toxic | rest | incinerate | frustration | earthquake | sunny-day | fire-blast | explosion | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | thunder-punch | block | fire-punch | superpower | snore
+evolution_info:
+  evolves_from: geodude
+  evolves_to: golem
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: graveler
+default_form: true

@@ -1,0 +1,20 @@
+move name: perish-song
+power: 0
+accuracy: 0
+type: normal
+attack type: status
+target: all-pokemon
+pp: 5
+priority: 0
+flavor text: User and target both faint after three turns.
+ailment: perish-song
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

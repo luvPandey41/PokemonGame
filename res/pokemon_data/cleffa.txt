@@ -1,0 +1,45 @@
+name: cleffa
+pokedex_num: 173
+generation: II
+types: fairy
+height_dm: 3
+weight_hg: 30
+
+abilities: cute-charm | magic-guard
+hidden_abilities: friend-guard
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Protects against damage not directly caused by a move. | Decreases all direct damage taken by friendly Pokémon to 0.75×.
+
+base_stats: 50 | 25 | 28 | 45 | 55 | 15
+base_exp: 44
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 150
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: moon-stone:5% | leppa-berry:50% | comet-shard:1%
+
+description: "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star."
+
+moves:
+  level-up: pound: 1 | sing: 7 | sweet-kiss: 10 | charm: 1 | encore: 4 | magical-leaf: 16 | copycat: 13
+  machine: dig | attract | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | flamethrower | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | light-screen | psyshock | return | flash | safeguard
+  egg: wish | amnesia | aromatherapy | stored-power | metronome | fake-tears | mimic | present | splash | belly-drum | tickle | covet
+  tutor: signal-beam | after-you | zen-headbutt | iron-tail | icy-wind | endeavor | trick | magic-coat | role-play | snore | uproar | helping-hand | last-resort | sleep-talk | gravity | recycle | hyper-voice | wonder-room | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: clefairy
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cleffa
+default_form: true

@@ -1,0 +1,37 @@
+name: jumpluff
+pokedex_num: 189
+generation: II
+types: grass | flying
+height_dm: 8
+weight_hg: 30
+
+abilities: chlorophyll | leaf-guard
+hidden_abilities: infiltrator
+ability_descriptions: Doubles Speed during strong sunlight. | Protects against major status ailments during strong sunlight. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 75 | 55 | 70 | 55 | 95 | 110
+base_exp: 207
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+
+moves:
+  level-up: tackle: 1 | tackle: 10 | tail-whip: 1 | tail-whip: 7 | mega-drain: 29 | leech-seed: 24 | poison-powder: 12 | stun-spore: 14 | sleep-powder: 16 | splash: 1 | cotton-spore: 44 | giga-drain: 59 | synthesis: 1 | synthesis: 4 | memento: 69 | bullet-seed: 20 | bounce: 64 | u-turn: 49 | worry-seed: 54 | rage-powder: 39 | acrobatics: 34
+  machine: u-turn | attract | hyper-beam | facade | double-team | substitute | swagger | grass-knot | reflect | protect | psych-up | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | bounce | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: skiploom
+  evolves_to: none
+  trigger: N/A
+forms: jumpluff
+default_form: true

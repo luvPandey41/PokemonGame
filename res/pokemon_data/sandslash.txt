@@ -1,0 +1,37 @@
+name: sandslash
+pokedex_num: 28
+generation: I
+types: ground
+height_dm: 10
+weight_hg: 295
+
+abilities: sand-veil
+hidden_abilities: sand-rush
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Doubles Speed during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 75 | 100 | 110 | 45 | 55 | 65
+base_exp: 158
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5% | soft-sand:5% | grip-claw:5%
+
+description: "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 38 | sand-attack: 1 | sand-attack: 3 | poison-sting: 1 | poison-sting: 5 | earthquake: 46 | dig: 30 | defense-curl: 1 | swift: 11 | fury-swipes: 20 | slash: 26 | sandstorm: 42 | rollout: 7 | fury-cutter: 14 | magnitude: 17 | rapid-spin: 9 | crush-claw: 22 | sand-tomb: 23 | gyro-ball: 34
+  machine: cut | dig | strength | thief | x-scissor | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | protect | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | return | safeguard
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | super-fang | covet | snore | knock-off
+evolution_info:
+  evolves_from: sandshrew
+  evolves_to: none
+  trigger: N/A
+forms: sandslash
+default_form: true

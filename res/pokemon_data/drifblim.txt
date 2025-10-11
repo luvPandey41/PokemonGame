@@ -1,0 +1,37 @@
+name: drifblim
+pokedex_num: 426
+generation: IV
+types: ghost | flying
+height_dm: 12
+weight_hg: 150
+
+abilities: aftermath | unburden
+hidden_abilities: flare-boost
+ability_descriptions: Damages the attacker for 1/4 its max HP when knocked out by a contact move. | Doubles Speed upon using or losing a held item. | Increases Special Attack to 1.5× when burned.
+
+base_stats: 150 | 80 | 44 | 90 | 54 | 80
+base_exp: 174
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: air-balloon:1%
+
+description: "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish."
+
+moves:
+  level-up: gust: 1 | gust: 8 | minimize: 1 | focus-energy: 13 | constrict: 1 | amnesia: 46 | explosion: 60 | baton-pass: 52 | shadow-ball: 40 | stockpile: 25 | spit-up: 34 | swallow: 34 | astonish: 1 | astonish: 4 | payback: 16 | ominous-wind: 20 | hex: 27
+  machine: cut | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | gyro-ball | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | sunny-day | acrobatics | explosion | fly | hidden-power | round | charge-beam | embargo | return | flash
+  egg: none
+  tutor: bind | tailwind | spite | sleep-talk | icy-wind | pain-split | recycle | trick | magic-coat | snore | knock-off | skill-swap
+evolution_info:
+  evolves_from: drifloon
+  evolves_to: none
+  trigger: N/A
+forms: drifblim
+default_form: true

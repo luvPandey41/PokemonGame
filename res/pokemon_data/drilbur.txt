@@ -1,0 +1,45 @@
+name: drilbur
+pokedex_num: 529
+generation: V
+types: ground
+height_dm: 3
+weight_hg: 85
+
+abilities: sand-rush | sand-force
+hidden_abilities: mold-breaker
+ability_descriptions: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. | Bypasses targets' abilities if they could hinder or prevent a move.
+
+base_stats: 60 | 85 | 40 | 30 | 45 | 68
+base_exp: 66
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 36 | earthquake: 33 | fissure: 47 | dig: 19 | fury-swipes: 12 | rock-slide: 29 | slash: 26 | mud-slap: 8 | sandstorm: 40 | rapid-spin: 5 | metal-claw: 15 | mud-sport: 1 | hone-claws: 22 | drill-run: 43
+  machine: cut | dig | strength | x-scissor | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | protect | sludge-bomb | toxic | rest | poison-jab | frustration | aerial-ace | earthquake | hone-claws | shadow-claw | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: skull-bash | earth-power | rock-climb | iron-defense | crush-claw | metal-sound | submission | rapid-spin
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | drill-run | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: excadrill
+  trigger: level-up
+  evo_level: 31
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: drilbur
+default_form: true

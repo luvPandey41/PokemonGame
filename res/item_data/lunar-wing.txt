@@ -1,0 +1,12 @@
+item_name: lunar-wing
+flavor_text: A feather that glows like the moon. It is said to possess the power to dispel nightmares.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cures the sailor's son of his nightmares; no reward, only a side effect of seeing Cresselia.
+fling_power: -1
+consumable: no
+move name: 

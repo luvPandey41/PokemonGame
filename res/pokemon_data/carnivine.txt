@@ -1,0 +1,37 @@
+name: carnivine
+pokedex_num: 455
+generation: IV
+types: grass
+height_dm: 14
+weight_hg: 270
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 74 | 100 | 72 | 90 | 72 | 46
+base_exp: 159
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down."
+
+moves:
+  level-up: bind: 1 | vine-whip: 11 | bite: 7 | growth: 1 | feint-attack: 27 | sweet-scent: 17 | crunch: 41 | stockpile: 37 | spit-up: 37 | swallow: 37 | ingrain: 21 | wring-out: 47 | power-whip: 51 | leaf-tornado: 31
+  machine: cut | thief | attract | hyper-beam | facade | double-team | fling | substitute | swagger | grass-knot | payback | protect | sludge-bomb | giga-impact | toxic | rest | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: slam | synthesis | magical-leaf | giga-drain | razor-leaf | stun-spore | worry-seed | rage-powder | grass-whistle | leech-seed | sleep-powder
+  tutor: synthesis | bind | giga-drain | gastro-acid | sleep-talk | bug-bite | seed-bomb | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: carnivine
+default_form: true

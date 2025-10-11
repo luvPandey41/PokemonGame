@@ -1,0 +1,37 @@
+name: staraptor
+pokedex_num: 398
+generation: IV
+types: normal | flying
+height_dm: 12
+weight_hg: 249
+
+abilities: intimidate
+hidden_abilities: reckless
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 85 | 120 | 70 | 50 | 60 | 100
+base_exp: 218
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: yache-berry:5%
+
+description: "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+
+moves:
+  level-up: wing-attack: 1 | wing-attack: 9 | whirlwind: 23 | tackle: 1 | take-down: 33 | growl: 1 | agility: 41 | quick-attack: 1 | quick-attack: 5 | double-team: 13 | endeavor: 18 | aerial-ace: 28 | close-combat: 34 | brave-bird: 49 | final-gambit: 57
+  machine: giga-impact | toxic | rest | u-turn | thief | echoed-voice | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | retaliate | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | endeavor | sky-attack | roost | snore
+evolution_info:
+  evolves_from: staravia
+  evolves_to: none
+  trigger: N/A
+forms: staraptor
+default_form: true

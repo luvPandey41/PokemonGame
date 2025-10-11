@@ -1,0 +1,12 @@
+item_name: silk-scarf
+flavor_text: An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power of Normal-type moves.
+cost: 1000
+category: type-enhancement
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the power of the holder's Normal moves by 20%.
+fling_power: 10
+consumable: no
+move name: 

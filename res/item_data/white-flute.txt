@@ -1,0 +1,12 @@
+item_name: white-flute
+flavor_text: A toy flute made from white glass. A maniac will buy it for a high price.
+cost: 20
+category: spelunking
+pocket: misc
+attributes: countable | consumable | usable-overworld | holdable
+holdable: yes
+stackable: yes
+effect_description: Used outside of battle : Doubles the wild Pokémon encounter rate.
+fling_power: 30
+consumable: yes
+move name: 

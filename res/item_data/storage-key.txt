@@ -1,0 +1,12 @@
+item_name: storage-key
+flavor_text: The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Grants access to the Team Galactic warehouse in Veilstone City.
+fling_power: -1
+consumable: no
+move name: 

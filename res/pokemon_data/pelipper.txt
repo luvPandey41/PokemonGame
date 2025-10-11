@@ -1,0 +1,37 @@
+name: pelipper
+pokedex_num: 279
+generation: III
+types: water | flying
+height_dm: 12
+weight_hg: 280
+
+abilities: keen-eye | drizzle
+hidden_abilities: rain-dish
+ability_descriptions: Prevents accuracy from being lowered. | Summons rain that lasts indefinitely upon entering battle. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 60 | 50 | 100 | 95 | 70 | 65
+base_exp: 154
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: lucky-egg:5% | pretty-wing:50%
+
+description: "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+
+moves:
+  level-up: wing-attack: 1 | wing-attack: 9 | growl: 1 | supersonic: 6 | mist: 14 | water-gun: 1 | hydro-pump: 58 | protect: 25 | stockpile: 39 | spit-up: 39 | swallow: 39 | water-sport: 1 | water-pulse: 17 | roost: 28 | brine: 34 | tailwind: 52 | payback: 22 | fling: 46 | soak: 1 | hurricane: 63
+  machine: u-turn | thief | attract | hyper-beam | facade | scald | double-team | fling | substitute | swagger | ice-beam | payback | protect | rain-dance | sky-drop | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | aerial-ace | hail | fly | hidden-power | round | pluck | return
+  egg: none
+  tutor: tailwind | sleep-talk | icy-wind | seed-bomb | sky-attack | roost | gunk-shot | snore | uproar | knock-off
+evolution_info:
+  evolves_from: wingull
+  evolves_to: none
+  trigger: N/A
+forms: pelipper
+default_form: true

@@ -1,0 +1,37 @@
+name: spiritomb
+pokedex_num: 442
+generation: IV
+types: ghost | dark
+height_dm: 10
+weight_hg: 1080
+
+abilities: pressure
+hidden_abilities: infiltrator
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 50 | 92 | 108 | 92 | 108 | 35
+base_exp: 170
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 100
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
+
+moves:
+  level-up: hypnosis: 13 | confuse-ray: 1 | dream-eater: 19 | curse: 1 | spite: 1 | feint-attack: 7 | pursuit: 1 | memento: 43 | sucker-punch: 31 | dark-pulse: 49 | nasty-plot: 37 | shadow-sneak: 1 | ominous-wind: 25
+  machine: torment | thief | attract | hyper-beam | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | rock-tomb | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | snarl | sunny-day | hidden-power | round | embargo | quash | return | taunt | flash
+  egg: captivate | destiny-bond | imprison | pain-split | grudge | shadow-sneak | smokescreen | nightmare
+  tutor: spite | sleep-talk | icy-wind | pain-split | dark-pulse | foul-play | snatch | trick | wonder-room | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: spiritomb
+default_form: true

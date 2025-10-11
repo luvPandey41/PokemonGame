@@ -1,0 +1,45 @@
+name: charmeleon
+pokedex_num: 5
+generation: I
+types: fire
+height_dm: 11
+weight_hg: 190
+
+abilities: blaze
+hidden_abilities: solar-power
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
+
+base_stats: 58 | 64 | 58 | 80 | 65 | 80
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 1 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+
+moves:
+  level-up: scratch: 1 | growl: 1 | ember: 1 | ember: 7 | flamethrower: 43 | dragon-rage: 17 | fire-spin: 50 | smokescreen: 10 | slash: 39 | scary-face: 21 | fire-fang: 28 | flame-burst: 32 | inferno: 54
+  machine: cut | dig | strength | attract | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | rock-tomb | flamethrower | overheat | protect | dragon-claw | toxic | rest | incinerate | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | flame-charge | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: none
+  tutor: heat-wave | sleep-talk | iron-tail | thunder-punch | fire-pledge | outrage | fire-punch | snore
+evolution_info:
+  evolves_from: charmander
+  evolves_to: charizard
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: charmeleon
+default_form: true

@@ -1,0 +1,37 @@
+name: seaking
+pokedex_num: 119
+generation: I
+types: water
+height_dm: 13
+weight_hg: 390
+
+abilities: swift-swim | water-veil
+hidden_abilities: lightning-rod
+ability_descriptions: Doubles Speed during rain. | Prevents burns. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 80 | 92 | 65 | 65 | 80 | 68
+base_exp: 158
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: mystic-water:5%
+
+description: "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+
+moves:
+  level-up: horn-attack: 11 | fury-attack: 31 | horn-drill: 47 | tail-whip: 1 | supersonic: 1 | supersonic: 7 | peck: 1 | agility: 56 | waterfall: 40 | flail: 21 | megahorn: 72 | water-sport: 1 | water-pulse: 17 | aqua-ring: 27 | poison-jab: 1 | soak: 63
+  machine: surf | giga-impact | toxic | rest | blizzard | poison-jab | attract | frustration | hyper-beam | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance
+  egg: none
+  tutor: signal-beam | aqua-tail | sleep-talk | bounce | icy-wind | drill-run | snore | knock-off
+evolution_info:
+  evolves_from: goldeen
+  evolves_to: none
+  trigger: N/A
+forms: seaking
+default_form: true

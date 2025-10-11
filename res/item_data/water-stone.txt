@@ -1,0 +1,12 @@
+item_name: water-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves an eevee into vaporeon, a lombre into ludicolo, a panpour into simipour, a poliwhirl into poliwrath, a shellder into cloyster, or a staryu into starmie.
+fling_power: 30
+consumable: no
+move name: 

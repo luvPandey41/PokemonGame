@@ -1,0 +1,12 @@
+item_name: blue-apricorn
+flavor_text: A blue Apricorn. It smells a bit like grass.
+cost: 200
+category: apricorn-box
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be given to Kurt in azalea town to produce a lure ball.
+fling_power: 10
+consumable: no
+move name: 

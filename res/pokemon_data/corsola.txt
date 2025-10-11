@@ -1,0 +1,45 @@
+name: corsola
+pokedex_num: 222
+generation: II
+types: water | rock
+height_dm: 6
+weight_hg: 50
+
+abilities: hustle | natural-cure
+hidden_abilities: regenerator
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Cures any major status ailment upon switching out. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 65 | 55 | 95 | 65 | 95 | 35
+base_exp: 144
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water1 | water3
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: red-shard:5% | hard-stone:5% | luminous-moss:5%
+
+description: "Many live in the clean seas of the south. They apparently can’t live in polluted waters."
+
+moves:
+  level-up: tackle: 1 | bubble-beam: 17 | recover: 10 | harden: 4 | spike-cannon: 27 | bubble: 8 | flail: 52 | endure: 35 | mirror-coat: 45 | ancient-power: 20 | refresh: 13 | iron-defense: 29 | rock-blast: 31 | lucky-chant: 23 | aqua-ring: 38 | power-gem: 41 | earth-power: 47
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | shadow-ball | bulldoze | reflect | rock-tomb | rock-polish | ice-beam | calm-mind | psychic | protect | rain-dance | surf | toxic | rest | blizzard | frustration | earthquake | hail | sunny-day | explosion | hidden-power | round | rock-smash | stone-edge | light-screen | return | safeguard
+  egg: aqua-ring | confuse-ray | bide | head-smash | mist | water-pulse | nature-power | amnesia | ingrain | icicle-spear | barrier | screech | curse
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | icy-wind | endeavor | magic-coat | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: cursola
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: corsola
+default_form: true

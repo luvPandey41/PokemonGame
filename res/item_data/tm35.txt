@@ -1,0 +1,12 @@
+item_name: tm35
+flavor_text: The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Flamethrower to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Flamethrower

@@ -1,0 +1,37 @@
+name: delcatty
+pokedex_num: 301
+generation: III
+types: normal
+height_dm: 11
+weight_hg: 326
+
+abilities: cute-charm | normalize
+hidden_abilities: wonder-skin
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Makes the Pokémon's moves all act normal-type. | Lowers incoming non-damaging moves' base accuracy to exactly 50%.
+
+base_stats: 70 | 65 | 65 | 55 | 55 | 90
+base_exp: 140
+ev_yield: 1 | 0 | 0 | 0 | 0 | 1
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground | fairy
+gender_ratio_female: 6
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:50% | leppa-berry:5%
+
+description: "It is highly popular among female Trainers for its sublime fur. It does not keep a nest."
+
+moves:
+  level-up: double-slap: 1 | sing: 1 | attract: 1 | fake-out: 1
+  machine: dig | strength | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | grass-knot | ice-beam | calm-mind | payback | retaliate | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | return | flash | safeguard
+  egg: none
+  tutor: helping-hand | last-resort | zen-headbutt | sleep-talk | iron-tail | icy-wind | hyper-voice | heal-bell | covet | snore | uproar
+evolution_info:
+  evolves_from: skitty
+  evolves_to: none
+  trigger: N/A
+forms: delcatty
+default_form: true

@@ -1,0 +1,45 @@
+name: natu
+pokedex_num: 177
+generation: II
+types: psychic | flying
+height_dm: 2
+weight_hg: 20
+
+abilities: synchronize | early-bird
+hidden_abilities: magic-bounce
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Makes sleep pass twice as quickly. | Reflects most non-damaging moves back at their user.
+
+base_stats: 40 | 50 | 45 | 70 | 45 | 70
+base_exp: 64
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
+
+moves:
+  level-up: leer: 1 | peck: 1 | psychic: 50 | teleport: 9 | night-shade: 6 | confuse-ray: 23 | future-sight: 36 | wish: 28 | miracle-eye: 17 | psycho-shift: 33 | lucky-chant: 12 | me-first: 20 | power-swap: 47 | guard-swap: 47 | ominous-wind: 44 | stored-power: 39
+  machine: u-turn | thief | attract | facade | double-team | telekinesis | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | light-screen | pluck | psyshock | return | trick-room | flash
+  egg: drill-peck | quick-attack | zen-headbutt | haze | steel-wing | feather-dance | sucker-punch | synchronoise | refresh | roost | feint-attack | skill-swap
+  tutor: signal-beam | magic-room | tailwind | zen-headbutt | pain-split | roost | trick | magic-coat | snore | heat-wave | giga-drain | sleep-talk | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: xatu
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: natu
+default_form: true

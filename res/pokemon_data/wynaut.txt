@@ -1,0 +1,45 @@
+name: wynaut
+pokedex_num: 360
+generation: III
+types: psychic
+height_dm: 6
+weight_hg: 140
+
+abilities: shadow-tag
+hidden_abilities: telepathy
+ability_descriptions: Prevents opponents from fleeing or switching out. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 95 | 23 | 48 | 23 | 48 | 23
+base_exp: 52
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 125
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It grows strong by pushing up against others en masse. It loves eating sweet fruit."
+
+moves:
+  level-up: counter: 15 | splash: 1 | destiny-bond: 15 | charm: 1 | safeguard: 15 | encore: 1 | mirror-coat: 15
+  machine: none
+  egg: none
+  tutor: none
+evolution_info:
+  evolves_from: none
+  evolves_to: wobbuffet
+  trigger: level-up
+  evo_level: 15
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: wynaut
+default_form: true

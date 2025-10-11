@@ -1,0 +1,20 @@
+move name: egg-bomb
+power: 100
+accuracy: 75
+type: normal
+attack type: physical
+target: selected-pokemon
+pp: 10
+priority: 0
+flavor text: Inflicts regular damage with no additional effect.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

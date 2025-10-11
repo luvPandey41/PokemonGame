@@ -1,0 +1,45 @@
+name: oshawott
+pokedex_num: 501
+generation: V
+types: water
+height_dm: 5
+weight_hg: 59
+
+abilities: torrent
+hidden_abilities: shell-armor
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against critical hits.
+
+base_stats: 55 | 55 | 45 | 63 | 45 | 45
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+
+moves:
+  level-up: swords-dance: 41 | tackle: 1 | tail-whip: 5 | water-gun: 7 | hydro-pump: 43 | focus-energy: 13 | fury-cutter: 19 | encore: 31 | revenge: 25 | water-sport: 11 | water-pulse: 23 | aqua-tail: 35 | aqua-jet: 29 | retaliate: 37 | razor-shell: 17
+  machine: cut | dig | x-scissor | attract | facade | scald | double-team | fling | substitute | swagger | grass-knot | ice-beam | waterfall | retaliate | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | aerial-ace | hail | hidden-power | false-swipe | round | swords-dance | rock-smash | return | taunt
+  egg: assurance | night-slash | copycat | screech | detect | brine | trump-card | air-slash
+  tutor: helping-hand | aqua-tail | sleep-talk | iron-tail | icy-wind | covet | water-pledge | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: dewott
+  trigger: level-up
+  evo_level: 17
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: oshawott
+default_form: true

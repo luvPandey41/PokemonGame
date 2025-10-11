@@ -1,0 +1,37 @@
+name: durant
+pokedex_num: 632
+generation: V
+types: bug | steel
+height_dm: 3
+weight_hg: 330
+
+abilities: swarm | hustle
+hidden_abilities: truant
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Skips every second turn.
+
+base_stats: 58 | 109 | 112 | 48 | 48 | 109
+base_exp: 169
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor."
+
+moves:
+  level-up: vice-grip: 1 | guillotine: 61 | sand-attack: 1 | bite: 11 | dig: 41 | agility: 16 | fury-cutter: 6 | metal-claw: 21 | crunch: 31 | metal-sound: 66 | iron-defense: 56 | x-scissor: 51 | iron-head: 36 | bug-bite: 26 | entrainment: 46
+  machine: cut | dig | strength | x-scissor | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | rock-tomb | rock-polish | retaliate | protect | giga-impact | toxic | rest | thunder-wave | frustration | aerial-ace | hone-claws | shadow-claw | struggle-bug | hidden-power | round | rock-smash | stone-edge | energy-ball | flash-cannon | return
+  egg: baton-pass | thunder-fang | rock-climb | screech | endure | feint-attack
+  tutor: sleep-talk | iron-defense | bug-bite | endeavor | superpower | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: durant
+default_form: true

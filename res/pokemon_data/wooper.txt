@@ -1,0 +1,52 @@
+name: wooper
+pokedex_num: 194
+generation: II
+types: water | ground
+height_dm: 4
+weight_hg: 85
+
+abilities: damp | water-absorb
+hidden_abilities: unaware
+ability_descriptions: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Absorbs water moves, healing for 1/4 max HP. | Ignores other Pokémon's stat modifiers for damage and accuracy calculation.
+
+base_stats: 55 | 45 | 45 | 25 | 25 | 15
+base_exp: 42
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
+
+moves:
+  level-up: slam: 15 | tail-whip: 1 | mist: 43 | water-gun: 1 | earthquake: 33 | haze: 43 | amnesia: 23 | rain-dance: 37 | yawn: 29 | mud-sport: 5 | muddy-water: 47 | mud-shot: 9 | mud-bomb: 19
+  machine: sludge-wave | dig | attract | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | ice-beam | waterfall | protect | dive | sludge-bomb | rain-dance | surf | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | return | flash | safeguard
+  egg: after-you | recover | swallow | spit-up | stockpile | counter | double-kick | mud-sport | sleep-talk | acid-spray | ancient-power | curse | body-slam | encore
+  tutor: after-you | earth-power | aqua-tail | sleep-talk | iron-tail | icy-wind | ice-punch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: quagsire, clodsire
+  trigger: level-up, level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: wooper
+default_form: true

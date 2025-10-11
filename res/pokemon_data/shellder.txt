@@ -1,0 +1,45 @@
+name: shellder
+pokedex_num: 90
+generation: I
+types: water
+height_dm: 3
+weight_hg: 40
+
+abilities: shell-armor | skill-link
+hidden_abilities: overcoat
+ability_descriptions: Protects against critical hits. | Extends two-to-five-hit moves and triple kick to their full length every time. | Protects against damage from weather.
+
+base_stats: 30 | 65 | 100 | 45 | 25 | 40
+base_exp: 61
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water3
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pearl:50% | big-pearl:5%
+
+description: "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+
+moves:
+  level-up: tackle: 1 | leer: 20 | supersonic: 8 | hydro-pump: 61 | ice-beam: 52 | aurora-beam: 37 | withdraw: 4 | clamp: 25 | protect: 16 | whirlpool: 40 | icicle-spear: 13 | iron-defense: 49 | brine: 44 | ice-shard: 28 | shell-smash: 56 | razor-shell: 32
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | double-team | hail | substitute | swagger | explosion | hidden-power | ice-beam | round | payback | protect | dive | return | rain-dance
+  egg: aqua-ring | rock-blast | icicle-spear | barrier | twineedle | bubble-beam | screech | mud-shot | take-down | avalanche | rapid-spin | water-pulse
+  tutor: sleep-talk | iron-defense | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: cloyster
+  trigger: use-item
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shellder
+default_form: true

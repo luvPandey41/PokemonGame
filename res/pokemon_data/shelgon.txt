@@ -1,0 +1,45 @@
+name: shelgon
+pokedex_num: 372
+generation: III
+types: dragon
+height_dm: 11
+weight_hg: 1105
+
+abilities: rock-head
+hidden_abilities: overcoat
+ability_descriptions: Protects against recoil damage. | Protects against damage from weather.
+
+base_stats: 65 | 95 | 100 | 60 | 50 | 50
+base_exp: 147
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: dragon-scale:5% | dragon-fang:5%
+
+description: "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves."
+
+moves:
+  level-up: headbutt: 1 | headbutt: 16 | double-edge: 61 | leer: 1 | leer: 10 | bite: 1 | bite: 5 | ember: 25 | rage: 1 | focus-energy: 20 | protect: 30 | scary-face: 43 | dragon-breath: 32 | crunch: 50 | dragon-claw: 55 | zen-headbutt: 37
+  machine: cut | strength | attract | rock-slide | facade | double-team | substitute | swagger | rock-tomb | flamethrower | roar | protect | dragon-claw | rain-dance | toxic | rest | incinerate | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: zen-headbutt | sleep-talk | iron-defense | hyper-voice | outrage | dragon-pulse | draco-meteor | snore
+evolution_info:
+  evolves_from: bagon
+  evolves_to: salamence
+  trigger: level-up
+  evo_level: 50
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shelgon
+default_form: true

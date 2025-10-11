@@ -1,0 +1,20 @@
+move name: dragon-tail
+power: 60
+accuracy: 90
+type: dragon
+attack type: physical
+target: selected-pokemon
+pp: 10
+priority: -6
+flavor text: Ends wild battles.  Forces trainers to switch Pokémon.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

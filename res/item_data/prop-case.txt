@@ -1,0 +1,12 @@
+item_name: prop-case
+flavor_text: A lovely case to store colorful Props for your Pokémon to wear in a musical.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Stores props for the Pokémon Musical.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: ditto
+pokedex_num: 132
+generation: I
+types: normal
+height_dm: 3
+weight_hg: 40
+
+abilities: limber
+hidden_abilities: imposter
+ability_descriptions: Prevents paralysis. | Transforms upon entering battle.
+
+base_stats: 48 | 48 | 48 | 48 | 48 | 48
+base_exp: 101
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 35
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ditto
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: metal-powder:5% | quick-powder:50%
+
+description: "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+
+moves:
+  level-up: transform: 1
+  machine: none
+  egg: none
+  tutor: none
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: ditto
+default_form: true

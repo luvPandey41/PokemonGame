@@ -1,0 +1,45 @@
+name: klink
+pokedex_num: 599
+generation: V
+types: steel
+height_dm: 3
+weight_hg: 210
+
+abilities: plus | minus
+hidden_abilities: clear-body
+ability_descriptions: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Prevents stats from being lowered by other Pokémon.
+
+base_stats: 40 | 55 | 70 | 45 | 60 | 30
+base_exp: 60
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 130
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing."
+
+moves:
+  level-up: vice-grip: 1 | bind: 21 | hyper-beam: 57 | thunder-shock: 11 | screech: 39 | zap-cannon: 54 | lock-on: 51 | charge: 6 | metal-sound: 45 | mirror-shot: 36 | discharge: 42 | charge-beam: 26 | autotomize: 31 | shift-gear: 48 | gear-grind: 16
+  machine: toxic | rest | thunderbolt | wild-charge | thunder-wave | frustration | hyper-beam | sandstorm | facade | double-team | substitute | swagger | hidden-power | rock-polish | round | rock-smash | charge-beam | flash-cannon | protect | volt-switch | return
+  egg: none
+  tutor: signal-beam | bind | sleep-talk | iron-defense | gravity | recycle | magnet-rise | magic-coat | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: klang
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: klink
+default_form: true

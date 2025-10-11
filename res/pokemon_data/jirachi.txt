@@ -1,0 +1,37 @@
+name: jirachi
+pokedex_num: 385
+generation: III
+types: steel | psychic
+height_dm: 3
+weight_hg: 11
+
+abilities: serene-grace
+hidden_abilities: none
+ability_descriptions: Doubles the chance of moves' extra effects occurring.
+
+base_stats: 100 | 100 | 100 | 100 | 100 | 100
+base_exp: 270
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 100
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: star-piece:100%
+
+description: "It is said to have the ability to grant any wish for just one week every thousand years."
+
+moves:
+  level-up: double-edge: 40 | confusion: 1 | psychic: 20 | swift: 10 | rest: 5 | rest: 30 | future-sight: 55 | helping-hand: 15 | wish: 1 | refresh: 25 | cosmic-power: 60 | doom-desire: 70 | gravity: 45 | healing-wish: 50 | last-resort: 65 | zen-headbutt: 35
+  machine: u-turn | thunderbolt | hyper-beam | sandstorm | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | aerial-ace | sunny-day | hidden-power | round | charge-beam | energy-ball | flash-cannon | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | magic-room | zen-headbutt | iron-defense | icy-wind | thunder-punch | ice-punch | trick | fire-punch | magic-coat | iron-head | snore | uproar | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: jirachi
+default_form: true

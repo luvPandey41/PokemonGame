@@ -1,0 +1,12 @@
+item_name: pecha-berry
+flavor_text: If held by a Pokémon, it recovers from poison.
+cost: 80
+category: medicine
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder is poisoned, it consumes this item to cure the poison. Used on a party Pokémon : Cures poison.
+fling_power: 10
+consumable: no
+move name: 

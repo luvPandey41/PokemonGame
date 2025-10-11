@@ -1,0 +1,12 @@
+item_name: tm77
+flavor_text: The user hypnotizes itself into copying any stat change made by the target.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Psych Up to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Psych Up

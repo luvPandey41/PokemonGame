@@ -1,0 +1,12 @@
+item_name: tm69
+flavor_text: The user polishes its body to reduce drag. It sharply raises the Speed stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rock Polish to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Rock Polish

@@ -1,0 +1,12 @@
+item_name: chesto-berry
+flavor_text: If held by a Pokémon, it recovers from sleep.
+cost: 80
+category: medicine
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder is asleep, it consumes this item to wake up. Used on a party Pokémon : Cures sleep.
+fling_power: 10
+consumable: no
+move name: 

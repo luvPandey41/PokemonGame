@@ -1,0 +1,37 @@
+name: manaphy
+pokedex_num: 490
+generation: IV
+types: water
+height_dm: 3
+weight_hg: 14
+
+abilities: hydration
+hidden_abilities: none
+ability_descriptions: Cures any major status ailment after each turn during rain.
+
+base_stats: 100 | 100 | 100 | 100 | 100 | 100
+base_exp: 270
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water1 | fairy
+gender_ratio_female: -1
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "It is born with a wondrous power that lets it bond with any kind of Pokémon."
+
+moves:
+  level-up: supersonic: 16 | bubble-beam: 24 | bubble: 1 | acid-armor: 31 | charm: 9 | rain-dance: 69 | whirlpool: 39 | dive: 61 | tail-glow: 1 | water-sport: 1 | water-pulse: 46 | heart-swap: 76 | aqua-ring: 54
+  machine: u-turn | hyper-beam | facade | scald | double-team | fling | substitute | swagger | shadow-ball | grass-knot | reflect | ice-beam | waterfall | calm-mind | psychic | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | energy-ball | light-screen | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | helping-hand | last-resort | sleep-talk | bounce | icy-wind | heal-bell | covet | snore | uproar | knock-off | skill-swap
+evolution_info:
+  evolves_from: phione
+  evolves_to: none
+  trigger: N/A
+forms: manaphy
+default_form: true

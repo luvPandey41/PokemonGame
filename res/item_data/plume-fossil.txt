@@ -1,0 +1,12 @@
+item_name: plume-fossil
+flavor_text: A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
+cost: 7000
+category: dex-completion
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Give to a scientist in a museum to receive an archen.
+fling_power: 100
+consumable: no
+move name: 

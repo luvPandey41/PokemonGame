@@ -1,0 +1,12 @@
+item_name: rock-incense
+flavor_text: An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves.
+cost: 2000
+category: type-enhancement
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the power of the holder's Rock moves by 20%.
+fling_power: 10
+consumable: no
+move name: 

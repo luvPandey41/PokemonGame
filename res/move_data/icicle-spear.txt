@@ -1,0 +1,20 @@
+move name: icicle-spear
+power: 25
+accuracy: 100
+type: ice
+attack type: physical
+target: selected-pokemon
+pp: 30
+priority: 0
+flavor text: Hits 2-5 times in one turn.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 2-5
+flinch chance: 0
+stat chance: 0

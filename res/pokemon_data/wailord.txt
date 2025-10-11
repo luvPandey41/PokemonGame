@@ -1,0 +1,37 @@
+name: wailord
+pokedex_num: 321
+generation: III
+types: water
+height_dm: 145
+weight_hg: 3980
+
+abilities: water-veil | oblivious
+hidden_abilities: pressure
+ability_descriptions: Prevents burns. | Prevents infatuation and protects against captivate. | Increases the PP cost of moves targetting the Pokémon by one.
+
+base_stats: 170 | 90 | 45 | 90 | 45 | 60
+base_exp: 175
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: ground | water2
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath."
+
+moves:
+  level-up: growl: 1 | growl: 4 | mist: 24 | water-gun: 1 | water-gun: 7 | hydro-pump: 62 | amnesia: 37 | splash: 1 | rest: 27 | rollout: 1 | rollout: 11 | whirlpool: 14 | dive: 46 | astonish: 17 | water-spout: 34 | bounce: 54 | water-pulse: 21 | brine: 31 | heavy-slam: 70
+  machine: strength | attract | hyper-beam | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | earthquake | hail | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: zen-headbutt | sleep-talk | bounce | icy-wind | hyper-voice | block | iron-head | snore
+evolution_info:
+  evolves_from: wailmer
+  evolves_to: none
+  trigger: N/A
+forms: wailord
+default_form: true

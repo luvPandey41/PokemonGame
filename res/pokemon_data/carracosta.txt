@@ -1,0 +1,37 @@
+name: carracosta
+pokedex_num: 565
+generation: V
+types: water | rock
+height_dm: 12
+weight_hg: 810
+
+abilities: solid-rock | sturdy
+hidden_abilities: swift-swim
+ability_descriptions: Decreases damage taken from super-effective moves by 1/4. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Doubles Speed during rain.
+
+base_stats: 74 | 108 | 133 | 83 | 65 | 32
+base_exp: 173
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker."
+
+moves:
+  level-up: bite: 8 | water-gun: 1 | hydro-pump: 61 | withdraw: 1 | bide: 1 | rock-slide: 51 | curse: 35 | protect: 11 | rollout: 1 | rollout: 5 | rain-dance: 56 | crunch: 21 | ancient-power: 18 | brine: 28 | aqua-tail: 45 | aqua-jet: 15 | wide-guard: 25 | smack-down: 31 | shell-smash: 40
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | focus-blast | frustration | earthquake | hidden-power | round | rock-smash | stone-edge | smack-down | return
+  egg: none
+  tutor: low-kick | stealth-rock | earth-power | aqua-tail | sleep-talk | iron-tail | iron-defense | icy-wind | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: tirtouga
+  evolves_to: none
+  trigger: N/A
+forms: carracosta
+default_form: true

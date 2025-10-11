@@ -1,0 +1,12 @@
+item_name: fire-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves an eevee into flareon, a growlithe into arcanine, a pansear into simisear, or a vulpix into ninetales.
+fling_power: 30
+consumable: no
+move name: 

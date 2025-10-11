@@ -1,0 +1,45 @@
+name: pidove
+pokedex_num: 519
+generation: V
+types: normal | flying
+height_dm: 3
+weight_hg: 21
+
+abilities: big-pecks | super-luck
+hidden_abilities: rivalry
+ability_descriptions: Protects against Defense drops. | Raises moves' critical hit rates one stage. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.
+
+base_stats: 50 | 55 | 50 | 36 | 30 | 43
+base_exp: 53
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands."
+
+moves:
+  level-up: razor-wind: 32 | gust: 1 | leer: 8 | growl: 4 | quick-attack: 11 | sky-attack: 50 | detect: 22 | swagger: 39 | facade: 43 | taunt: 25 | feather-dance: 36 | air-cutter: 15 | roost: 18 | tailwind: 46 | air-slash: 29
+  machine: toxic | rest | u-turn | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance | taunt
+  egg: hypnosis | wish | steel-wing | morning-sun | bestow | lucky-chant | uproar
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: tranquill
+  trigger: level-up
+  evo_level: 21
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pidove
+default_form: true

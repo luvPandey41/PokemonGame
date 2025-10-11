@@ -1,0 +1,12 @@
+item_name: repel
+flavor_text: An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+cost: 400
+category: spelunking
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used outside of battle : Trainer will skip encounters with wild Pokémon of a lower level than the lead party Pokémon. This effect wears off after the trainer takes 100 steps.
+fling_power: 30
+consumable: no
+move name: 

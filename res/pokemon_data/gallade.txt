@@ -1,0 +1,37 @@
+name: gallade
+pokedex_num: 475
+generation: IV
+types: psychic | fighting
+height_dm: 16
+weight_hg: 520
+
+abilities: steadfast | sharpness
+hidden_abilities: justified
+ability_descriptions: Raises Speed one stage upon flinching. | Powers up slicing moves. | Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 68 | 125 | 65 | 65 | 115 | 80
+base_exp: 233
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: humanshape | indeterminate
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "When trying to protect someone, it extends its elbows as if they were swords and fights savagely."
+
+moves:
+  level-up: swords-dance: 31 | leer: 1 | confusion: 1 | confusion: 6 | teleport: 1 | teleport: 12 | double-team: 1 | double-team: 10 | slash: 22 | protect: 53 | false-swipe: 50 | fury-cutter: 17 | helping-hand: 39 | leaf-blade: 1 | feint: 45 | close-combat: 59 | night-slash: 1 | psycho-cut: 36 | stored-power: 64 | heal-pulse: 25
+  machine: torment | strength | x-scissor | facade | double-team | fling | swagger | shadow-ball | grass-knot | reflect | calm-mind | giga-impact | toxic | thunder-wave | frustration | earthquake | work-up | false-swipe | stone-edge | charge-beam | flash | safeguard | cut | thunderbolt | thief | attract | hyper-beam | will-o-wisp | rock-slide | telekinesis | ally-switch | substitute | dream-eater | bulldoze | rock-tomb | retaliate | bulk-up | psychic | protect | rain-dance | psych-up | rest | poison-jab | echoed-voice | focus-blast | aerial-ace | sunny-day | low-sweep | hidden-power | round | swords-dance | rock-smash | brick-break | light-screen | psyshock | return | taunt | trick-room
+  egg: none
+  tutor: signal-beam | magic-room | dual-chop | zen-headbutt | thunder-punch | pain-split | ice-punch | snatch | trick | fire-punch | magic-coat | snore | knock-off | low-kick | helping-hand | sleep-talk | drain-punch | recycle | hyper-voice | wonder-room | skill-swap
+evolution_info:
+  evolves_from: kirlia
+  evolves_to: none
+  trigger: N/A
+forms: gallade
+default_form: true

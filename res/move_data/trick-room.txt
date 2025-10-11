@@ -1,0 +1,20 @@
+move name: trick-room
+power: 0
+accuracy: 0
+type: psychic
+attack type: status
+target: entire-field
+pp: 5
+priority: -7
+flavor text: For five turns, slower Pokémon will act before faster Pokémon.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

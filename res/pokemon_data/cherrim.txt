@@ -1,0 +1,37 @@
+name: cherrim
+pokedex_num: 421
+generation: IV
+types: grass
+height_dm: 5
+weight_hg: 93
+
+abilities: flower-gift
+hidden_abilities: none
+ability_descriptions: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
+
+base_stats: 70 | 60 | 70 | 87 | 78 | 85
+base_exp: 158
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: miracle-seed:5%
+
+description: "If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body."
+
+moves:
+  level-up: tackle: 1 | take-down: 35 | leech-seed: 10 | growth: 1 | growth: 7 | solar-beam: 43 | petal-dance: 25 | morning-sun: 1 | sunny-day: 22 | helping-hand: 13 | magical-leaf: 19 | lucky-chant: 48 | worry-seed: 30
+  machine: giga-impact | toxic | rest | attract | frustration | hyper-beam | facade | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | return | flash | safeguard
+  egg: none
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: cherubi
+  evolves_to: none
+  trigger: N/A
+forms: cherrim-overcast | cherrim-sunshine
+default_form: true

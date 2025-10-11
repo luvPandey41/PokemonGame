@@ -1,0 +1,37 @@
+name: tropius
+pokedex_num: 357
+generation: III
+types: grass | flying
+height_dm: 20
+weight_hg: 1000
+
+abilities: chlorophyll | solar-power
+hidden_abilities: harvest
+ability_descriptions: Doubles Speed during strong sunlight. | Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.
+
+base_stats: 99 | 68 | 83 | 72 | 87 | 51
+base_exp: 161
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | plant
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+
+moves:
+  level-up: gust: 1 | whirlwind: 27 | stomp: 17 | body-slam: 37 | leer: 1 | growth: 7 | razor-leaf: 11 | solar-beam: 61 | sweet-scent: 21 | synthesis: 41 | magical-leaf: 31 | natural-gift: 67 | air-slash: 51 | leaf-storm: 71 | bestow: 57 | leaf-tornado: 47
+  machine: cut | strength | attract | hyper-beam | facade | double-team | substitute | swagger | grass-knot | bulldoze | roar | protect | giga-impact | toxic | rest | frustration | aerial-ace | earthquake | solar-beam | sunny-day | fly | hidden-power | round | swords-dance | rock-smash | energy-ball | return | flash | safeguard
+  egg: slam | synthesis | nature-power | leaf-blade | leaf-storm | headbutt | natural-gift | razor-wind | curse | dragon-dance | leech-seed | bullet-seed
+  tutor: synthesis | giga-drain | tailwind | sleep-talk | seed-bomb | outrage | roost | worry-seed | dragon-pulse | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: tropius
+default_form: true

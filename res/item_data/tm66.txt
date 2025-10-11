@@ -1,0 +1,12 @@
+item_name: tm66
+flavor_text: The user stores power, then attacks. If the user can use this attack after the target, its power is doubled.
+cost: 30000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Payback to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Payback

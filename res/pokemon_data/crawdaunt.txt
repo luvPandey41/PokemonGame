@@ -1,0 +1,37 @@
+name: crawdaunt
+pokedex_num: 342
+generation: III
+types: water | dark
+height_dm: 11
+weight_hg: 328
+
+abilities: hyper-cutter | shell-armor
+hidden_abilities: adaptability
+ability_descriptions: Prevents Attack from being lowered by other Pokémon. | Protects against critical hits. | Increases the same-type attack bonus from 1.5× to 2×.
+
+base_stats: 63 | 120 | 85 | 90 | 55 | 55
+base_exp: 164
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 155
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: water1 | water3
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond."
+
+moves:
+  level-up: vice-grip: 1 | vice-grip: 10 | guillotine: 65 | swords-dance: 52 | leer: 1 | leer: 13 | bubble-beam: 20 | harden: 1 | harden: 7 | swift: 30 | bubble: 1 | crabhammer: 44 | protect: 23 | crunch: 57 | taunt: 34 | knock-off: 26 | night-slash: 39
+  machine: sludge-wave | cut | dig | strength | x-scissor | attract | hyper-beam | rock-slide | facade | scald | double-team | fling | substitute | swagger | rock-tomb | ice-beam | waterfall | payback | retaliate | protect | dive | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | snarl | aerial-ace | hail | hone-claws | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: spite | sleep-talk | iron-defense | icy-wind | endeavor | dark-pulse | superpower | snore | knock-off
+evolution_info:
+  evolves_from: corphish
+  evolves_to: none
+  trigger: N/A
+forms: crawdaunt
+default_form: true

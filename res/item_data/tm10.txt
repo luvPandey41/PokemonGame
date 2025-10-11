@@ -1,0 +1,12 @@
+item_name: tm10
+flavor_text: A unique attack that varies in type and intensity depending on the Pokémon using it.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Hidden Power to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Hidden Power

@@ -1,0 +1,12 @@
+item_name: razor-fang
+flavor_text: An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
+cost: 5000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: When the holder attacks with most damaging moves, provides an extra 11.7% (30/256) chance for the target to flinch. Held by Gligar: Evolves the holder into Gliscor when it levels up.
+fling_power: 30
+consumable: no
+move name: 

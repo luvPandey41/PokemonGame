@@ -1,0 +1,37 @@
+name: togekiss
+pokedex_num: 468
+generation: IV
+types: fairy | flying
+height_dm: 15
+weight_hg: 380
+
+abilities: hustle | serene-grace
+hidden_abilities: super-luck
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Doubles the chance of moves' extra effects occurring. | Raises moves' critical hit rates one stage.
+
+base_stats: 85 | 50 | 95 | 120 | 115 | 80
+base_exp: 245
+ev_yield: 0 | 0 | 0 | 2 | 1 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: flying | fairy
+gender_ratio_female: 1
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "It shares many blessings with people who respect one another’s rights and avoid needless strife."
+
+moves:
+  level-up: sky-attack: 1 | extreme-speed: 1 | aura-sphere: 1 | air-slash: 1
+  machine: attract | hyper-beam | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | fire-blast | work-up | fly | hidden-power | round | rock-smash | brick-break | light-screen | pluck | psyshock | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | tailwind | zen-headbutt | endeavor | sky-attack | roost | trick | magic-coat | snore | heat-wave | last-resort | sleep-talk | drain-punch | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: togetic
+  evolves_to: none
+  trigger: N/A
+forms: togekiss
+default_form: true

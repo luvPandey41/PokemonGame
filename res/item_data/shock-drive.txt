@@ -1,0 +1,12 @@
+item_name: shock-drive
+flavor_text: A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
+cost: 0
+category: species-specific
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by genesect : Holder's buster is yellow, and its techno blast is electric-type.
+fling_power: 70
+consumable: no
+move name: 

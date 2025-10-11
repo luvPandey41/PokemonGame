@@ -1,0 +1,20 @@
+move name: ingrain
+power: 0
+accuracy: 0
+type: grass
+attack type: status
+target: user
+pp: 20
+priority: 0
+flavor text: Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.
+ailment: ingrain
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

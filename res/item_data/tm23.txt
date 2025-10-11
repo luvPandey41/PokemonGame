@@ -1,0 +1,12 @@
+item_name: tm23
+flavor_text: The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Iron Tail to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Smack Down

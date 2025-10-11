@@ -1,0 +1,37 @@
+name: sableye
+pokedex_num: 302
+generation: III
+types: dark | ghost
+height_dm: 5
+weight_hg: 110
+
+abilities: keen-eye | stall
+hidden_abilities: prankster
+ability_descriptions: Prevents accuracy from being lowered. | Makes the Pokémon move last within its move's priority bracket. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 50 | 75 | 75 | 65 | 65 | 50
+base_exp: 133
+ev_yield: 0 | 1 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: wide-lens:5%
+
+description: "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | night-shade: 8 | confuse-ray: 46 | fury-swipes: 15 | feint-attack: 32 | foresight: 4 | detect: 22 | mean-look: 60 | shadow-ball: 57 | fake-out: 18 | knock-off: 29 | astonish: 11 | punishment: 36 | power-gem: 43 | shadow-claw: 39 | shadow-sneak: 25 | zen-headbutt: 53 | foul-play: 50
+  machine: cut | dig | torment | thief | attract | will-o-wisp | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | rock-tomb | calm-mind | payback | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | poison-jab | frustration | snarl | aerial-ace | hone-claws | sunny-day | shadow-claw | low-sweep | hidden-power | round | rock-smash | brick-break | embargo | return | taunt | flash
+  egg: captivate | recover | moonlight | sucker-punch | nasty-plot | trick | flatter | feint | mean-look | metal-burst
+  tutor: signal-beam | zen-headbutt | icy-wind | thunder-punch | dark-pulse | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | knock-off | low-kick | spite | sleep-talk | gravity | foul-play | wonder-room
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: sableye
+default_form: true

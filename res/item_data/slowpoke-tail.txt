@@ -1,0 +1,12 @@
+item_name: slowpoke-tail
+flavor_text: A very tasty tail of something. It sells for a high price.
+cost: 0
+category: unused
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Does nothing.
+fling_power: -1
+consumable: no
+move name: 

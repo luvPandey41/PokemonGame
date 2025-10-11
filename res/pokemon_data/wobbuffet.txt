@@ -1,0 +1,37 @@
+name: wobbuffet
+pokedex_num: 202
+generation: II
+types: psychic
+height_dm: 13
+weight_hg: 285
+
+abilities: shadow-tag
+hidden_abilities: telepathy
+ability_descriptions: Prevents opponents from fleeing or switching out. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 190 | 33 | 58 | 33 | 58 | 33
+base_exp: 142
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret."
+
+moves:
+  level-up: counter: 1 | destiny-bond: 1 | safeguard: 1 | mirror-coat: 1
+  machine: none
+  egg: none
+  tutor: none
+evolution_info:
+  evolves_from: wynaut
+  evolves_to: none
+  trigger: N/A
+forms: wobbuffet
+default_form: true

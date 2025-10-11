@@ -1,0 +1,12 @@
+item_name: relic-band
+flavor_text: A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+cost: 0
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cult vendor trash.
+fling_power: 30
+consumable: no
+move name: 

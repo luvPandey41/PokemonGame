@@ -1,0 +1,45 @@
+name: ducklett
+pokedex_num: 580
+generation: V
+types: water | flying
+height_dm: 5
+weight_hg: 55
+
+abilities: keen-eye | big-pecks
+hidden_abilities: hydration
+ability_descriptions: Prevents accuracy from being lowered. | Protects against Defense drops. | Cures any major status ailment after each turn during rain.
+
+base_stats: 62 | 44 | 50 | 44 | 50 | 55
+base_exp: 61
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss."
+
+moves:
+  level-up: wing-attack: 9 | water-gun: 1 | bubble-beam: 19 | rain-dance: 34 | feather-dance: 21 | aerial-ace: 15 | water-sport: 3 | water-pulse: 13 | roost: 30 | tailwind: 37 | aqua-ring: 24 | air-slash: 27 | brave-bird: 41 | defog: 6 | hurricane: 46
+  machine: surf | toxic | rest | attract | frustration | facade | aerial-ace | scald | double-team | hail | substitute | swagger | fly | hidden-power | ice-beam | round | protect | dive | pluck | return | rain-dance
+  egg: steel-wing | me-first | mirror-move | air-cutter | brine | lucky-chant | gust
+  tutor: tailwind | sleep-talk | icy-wind | endeavor | roost | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: swanna
+  trigger: level-up
+  evo_level: 35
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: ducklett
+default_form: true

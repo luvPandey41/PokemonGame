@@ -1,0 +1,37 @@
+name: raichu
+pokedex_num: 26
+generation: I
+types: electric
+height_dm: 8
+weight_hg: 300
+
+abilities: static
+hidden_abilities: lightning-rod
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 60 | 90 | 55 | 90 | 80 | 110
+base_exp: 218
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | fairy
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: oran-berry:5%
+
+description: "Its tail discharges electricity into the ground, protecting it from getting shocked."
+
+moves:
+  level-up: tail-whip: 1 | thunder-shock: 1 | thunderbolt: 1 | quick-attack: 1
+  machine: dig | strength | thunderbolt | thief | wild-charge | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | grass-knot | protect | volt-switch | rain-dance | giga-impact | toxic | rest | echoed-voice | focus-blast | thunder-wave | frustration | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | helping-hand | sleep-talk | iron-tail | thunder-punch | magnet-rise | covet | snore | knock-off
+evolution_info:
+  evolves_from: pikachu
+  evolves_to: none
+  trigger: N/A
+forms: raichu
+default_form: true

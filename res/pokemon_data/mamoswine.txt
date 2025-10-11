@@ -1,0 +1,37 @@
+name: mamoswine
+pokedex_num: 473
+generation: IV
+types: ice | ground
+height_dm: 25
+weight_hg: 2910
+
+abilities: oblivious | snow-cloak
+hidden_abilities: thick-fat
+ability_descriptions: Prevents infatuation and protects against captivate. | Increases evasion to 1.25× during hail.  Protects against hail damage. | Halves damage from fire and ice moves.
+
+base_stats: 110 | 130 | 80 | 70 | 60 | 80
+base_exp: 239
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement."
+
+moves:
+  level-up: take-down: 28 | thrash: 41 | mist: 37 | blizzard: 52 | peck: 1 | earthquake: 46 | powder-snow: 1 | powder-snow: 8 | scary-face: 58 | mud-slap: 11 | endure: 14 | ancient-power: 1 | hail: 21 | mud-sport: 1 | mud-sport: 5 | odor-sleuth: 1 | ice-fang: 24 | mud-bomb: 18 | double-hit: 33
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | reflect | rock-tomb | ice-beam | roar | protect | rain-dance | giga-impact | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | stone-edge | light-screen | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | icy-wind | endeavor | block | superpower | iron-head | snore | knock-off
+evolution_info:
+  evolves_from: piloswine
+  evolves_to: none
+  trigger: N/A
+forms: mamoswine
+default_form: true

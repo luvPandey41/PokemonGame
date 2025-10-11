@@ -1,0 +1,12 @@
+item_name: shoal-salt
+flavor_text: Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+cost: 20
+category: collectibles
+pocket: misc
+attributes: countable
+holdable: no
+stackable: yes
+effect_description: No effect.
+fling_power: 30
+consumable: no
+move name: 

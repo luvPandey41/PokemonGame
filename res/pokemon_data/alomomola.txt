@@ -1,0 +1,37 @@
+name: alomomola
+pokedex_num: 594
+generation: V
+types: water
+height_dm: 12
+weight_hg: 316
+
+abilities: healer | hydration
+hidden_abilities: regenerator
+ability_descriptions: Has a 30% chance of curing each adjacent ally of any major status ailment after each turn. | Cures any major status ailment after each turn during rain. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 165 | 75 | 80 | 40 | 45 | 65
+base_exp: 165
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water1 | water2
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "The special membrane enveloping Alomomola has the ability to heal wounds."
+
+moves:
+  level-up: pound: 1 | double-slap: 13 | hydro-pump: 61 | protect: 21 | safeguard: 45 | helping-hand: 49 | wish: 37 | water-sport: 1 | water-pulse: 25 | wake-up-slap: 29 | healing-wish: 57 | brine: 41 | aqua-ring: 5 | aqua-jet: 9 | wide-guard: 53 | soak: 33 | heal-pulse: 17
+  machine: attract | facade | scald | double-team | substitute | swagger | shadow-ball | ice-beam | waterfall | calm-mind | psychic | protect | dive | rain-dance | surf | psych-up | toxic | rest | blizzard | frustration | hail | hidden-power | round | light-screen | return | safeguard
+  egg: pain-split | refresh | endure | mist | mirror-coat | tickle
+  tutor: helping-hand | sleep-talk | bounce | icy-wind | pain-split | magic-coat | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: alomomola
+default_form: true

@@ -1,0 +1,37 @@
+name: pidgeot
+pokedex_num: 18
+generation: I
+types: normal | flying
+height_dm: 15
+weight_hg: 395
+
+abilities: keen-eye | tangled-feet
+hidden_abilities: big-pecks
+ability_descriptions: Prevents accuracy from being lowered. | Doubles evasion when confused. | Protects against Defense drops.
+
+base_stats: 83 | 80 | 75 | 70 | 70 | 101
+base_exp: 216
+ev_yield: 0 | 0 | 0 | 0 | 0 | 3
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
+
+moves:
+  level-up: gust: 1 | gust: 9 | wing-attack: 38 | whirlwind: 17 | sand-attack: 1 | sand-attack: 5 | tackle: 1 | agility: 32 | quick-attack: 1 | quick-attack: 13 | mirror-move: 56 | twister: 22 | feather-dance: 27 | roost: 44 | tailwind: 50 | air-slash: 62 | hurricane: 68
+  machine: giga-impact | toxic | rest | u-turn | thief | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | snore | uproar
+evolution_info:
+  evolves_from: pidgeotto
+  evolves_to: none
+  trigger: N/A
+forms: pidgeot
+default_form: true

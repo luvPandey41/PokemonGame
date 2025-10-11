@@ -1,0 +1,37 @@
+name: regirock
+pokedex_num: 377
+generation: III
+types: rock
+height_dm: 17
+weight_hg: 2300
+
+abilities: clear-body
+hidden_abilities: sturdy
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
+
+base_stats: 80 | 100 | 200 | 50 | 100 | 50
+base_exp: 261
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself."
+
+moves:
+  level-up: stomp: 1 | hyper-beam: 89 | rock-throw: 9 | explosion: 1 | curse: 17 | zap-cannon: 65 | lock-on: 57 | ancient-power: 33 | superpower: 25 | iron-defense: 41 | hammer-arm: 81 | stone-edge: 73 | charge-beam: 49
+  machine: dig | strength | thunderbolt | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | earthquake | sunny-day | explosion | hidden-power | round | rock-smash | brick-break | stone-edge | charge-beam | smack-down | return | safeguard
+  egg: none
+  tutor: stealth-rock | earth-power | iron-defense | thunder-punch | ice-punch | fire-punch | superpower | iron-head | snore | sleep-talk | drain-punch | gravity | block
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: regirock
+default_form: true

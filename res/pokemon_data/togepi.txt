@@ -1,0 +1,45 @@
+name: togepi
+pokedex_num: 175
+generation: II
+types: fairy
+height_dm: 3
+weight_hg: 15
+
+abilities: hustle | serene-grace
+hidden_abilities: super-luck
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Doubles the chance of moves' extra effects occurring. | Raises moves' critical hit rates one stage.
+
+base_stats: 35 | 20 | 65 | 40 | 65 | 20
+base_exp: 49
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 1
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "It transforms the kindness and joy of others into happiness, which it stores in its shell."
+
+moves:
+  level-up: double-edge: 45 | growl: 1 | metronome: 5 | sweet-kiss: 9 | charm: 1 | safeguard: 37 | baton-pass: 41 | encore: 17 | ancient-power: 33 | follow-me: 21 | wish: 29 | yawn: 13 | last-resort: 49 | after-you: 53 | bestow: 25
+  machine: attract | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | flamethrower | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | light-screen | psyshock | return | flash | safeguard
+  egg: secret-power | morning-sun | future-sight | stored-power | psycho-shift | nasty-plot | mirror-move | peck | extrasensory | present | foresight | lucky-chant
+  tutor: signal-beam | after-you | zen-headbutt | endeavor | trick | magic-coat | snore | uproar | last-resort | sleep-talk | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: togetic
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: togepi
+default_form: true

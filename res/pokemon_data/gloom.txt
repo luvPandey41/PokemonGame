@@ -1,0 +1,52 @@
+name: gloom
+pokedex_num: 44
+generation: I
+types: grass | poison
+height_dm: 8
+weight_hg: 86
+
+abilities: chlorophyll
+hidden_abilities: stench
+ability_descriptions: Doubles Speed during strong sunlight. | Has a 10% chance of making target Pokémon flinch with each hit.
+
+base_stats: 60 | 65 | 70 | 85 | 75 | 40
+base_exp: 138
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away."
+
+moves:
+  level-up: acid: 1 | acid: 9 | absorb: 1 | mega-drain: 23 | poison-powder: 13 | stun-spore: 15 | sleep-powder: 17 | petal-dance: 53 | giga-drain: 47 | sweet-scent: 1 | sweet-scent: 5 | moonlight: 41 | natural-gift: 35 | lucky-chant: 29
+  machine: toxic | rest | cut | attract | frustration | facade | double-team | fling | venoshock | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | sludge-bomb | return | flash
+  egg: none
+  tutor: synthesis | after-you | giga-drain | gastro-acid | sleep-talk | drain-punch | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: oddish
+  evolves_to: vileplume, bellossom
+  trigger: use-item, use-item
+  evo_level: null
+  evo_item: leaf-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: sun-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gloom
+default_form: true

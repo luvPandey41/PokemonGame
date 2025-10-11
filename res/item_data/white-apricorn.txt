@@ -1,0 +1,12 @@
+item_name: white-apricorn
+flavor_text: A white Apricorn. It doesn’t smell like anything.
+cost: 200
+category: apricorn-box
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be given to Kurt in azalea town to produce a fast ball.
+fling_power: 10
+consumable: no
+move name: 

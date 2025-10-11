@@ -1,0 +1,12 @@
+item_name: tm61
+flavor_text: The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+cost: 30000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Will-O-Wisp to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Will O Wisp

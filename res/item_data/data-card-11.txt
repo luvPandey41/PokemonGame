@@ -1,0 +1,12 @@
+item_name: data-card-11
+flavor_text: It holds Pokéathlon records. It’s a card that shows how many points your Pokémon scored.
+cost: 0
+category: data-cards
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Records the number of points the trainer has earned in the Pokéathlon.
+fling_power: -1
+consumable: no
+move name: 

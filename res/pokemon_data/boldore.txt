@@ -1,0 +1,45 @@
+name: boldore
+pokedex_num: 525
+generation: V
+types: rock
+height_dm: 9
+weight_hg: 1020
+
+abilities: sturdy | weak-armor
+hidden_abilities: sand-force
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 70 | 105 | 105 | 50 | 40 | 20
+base_exp: 137
+ev_yield: 0 | 1 | 1 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: everstone:50% | hard-stone:5%
+
+description: "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 7 | headbutt: 1 | headbutt: 10 | tackle: 1 | harden: 1 | harden: 4 | explosion: 55 | rock-slide: 30 | mud-slap: 17 | sandstorm: 42 | iron-defense: 20 | rock-blast: 14 | power-gem: 25 | stone-edge: 48 | stealth-rock: 36 | smack-down: 23
+  machine: toxic | rest | strength | attract | frustration | rock-slide | sandstorm | facade | earthquake | double-team | substitute | swagger | explosion | bulldoze | hidden-power | rock-tomb | rock-polish | round | rock-smash | stone-edge | flash-cannon | protect | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | gravity | block | snore
+evolution_info:
+  evolves_from: roggenrola
+  evolves_to: gigalith
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: boldore
+default_form: true

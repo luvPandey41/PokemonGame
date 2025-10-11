@@ -1,0 +1,12 @@
+item_name: old-charm
+flavor_text: An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Given to Cynthia's grandmother to get the Surf HM.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: scizor
+pokedex_num: 212
+generation: II
+types: bug | steel
+height_dm: 18
+weight_hg: 1180
+
+abilities: swarm | technician
+hidden_abilities: light-metal
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens moves of 60 base power or less to 1.5× their power. | Halves the Pokémon's weight.
+
+base_stats: 70 | 130 | 100 | 55 | 80 | 65
+base_exp: 175
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+
+moves:
+  level-up: razor-wind: 33 | swords-dance: 57 | leer: 1 | agility: 17 | quick-attack: 1 | focus-energy: 5 | slash: 29 | false-swipe: 13 | fury-cutter: 25 | pursuit: 9 | metal-claw: 21 | iron-defense: 37 | feint: 61 | night-slash: 45 | x-scissor: 41 | bullet-punch: 1 | iron-head: 53 | double-hit: 49
+  machine: u-turn | cut | strength | thief | x-scissor | attract | hyper-beam | sandstorm | facade | double-team | fling | venoshock | substitute | swagger | protect | rain-dance | giga-impact | toxic | rest | frustration | aerial-ace | sunny-day | acrobatics | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | flash-cannon | light-screen | return | safeguard
+  egg: none
+  tutor: tailwind | sleep-talk | iron-defense | bug-bite | roost | superpower | iron-head | snore | knock-off
+evolution_info:
+  evolves_from: scyther
+  evolves_to: none
+  trigger: N/A
+forms: scizor
+default_form: true

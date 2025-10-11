@@ -1,0 +1,45 @@
+name: grovyle
+pokedex_num: 253
+generation: III
+types: grass
+height_dm: 9
+weight_hg: 216
+
+abilities: overgrow
+hidden_abilities: unburden
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Doubles Speed upon using or losing a held item.
+
+base_stats: 50 | 65 | 45 | 85 | 65 | 95
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch."
+
+moves:
+  level-up: pound: 1 | slam: 41 | leer: 1 | absorb: 1 | absorb: 6 | agility: 35 | quick-attack: 1 | quick-attack: 11 | screech: 23 | detect: 47 | false-swipe: 53 | fury-cutter: 16 | pursuit: 17 | leaf-blade: 29 | leaf-storm: 59
+  machine: cut | dig | strength | x-scissor | attract | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | protect | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | low-sweep | acrobatics | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | energy-ball | return | flash | safeguard
+  egg: none
+  tutor: low-kick | synthesis | grass-pledge | giga-drain | sleep-talk | iron-tail | drain-punch | thunder-punch | endeavor | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: treecko
+  evolves_to: sceptile
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: grovyle
+default_form: true

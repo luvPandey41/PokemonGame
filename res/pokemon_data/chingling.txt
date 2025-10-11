@@ -1,0 +1,45 @@
+name: chingling
+pokedex_num: 433
+generation: IV
+types: psychic
+height_dm: 2
+weight_hg: 6
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 45 | 30 | 50 | 65 | 50 | 45
+base_exp: 57
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: colbur-berry:5% | cleanse-tag:5%
+
+description: "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+
+moves:
+  level-up: wrap: 1 | growl: 6 | confusion: 14 | uproar: 17 | astonish: 9 | last-resort: 22 | entrainment: 25
+  machine: torment | attract | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: hypnosis | wish | recover | future-sight | stored-power | disable | curse | skill-swap
+  tutor: signal-beam | zen-headbutt | icy-wind | snatch | trick | magic-coat | snore | uproar | knock-off | bind | helping-hand | last-resort | sleep-talk | gravity | recycle | hyper-voice | heal-bell | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: chimecho
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: night
+  evo_move_required: null
+  evo_min_friendship: 220
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: chingling
+default_form: true

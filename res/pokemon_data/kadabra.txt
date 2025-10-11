@@ -1,0 +1,45 @@
+name: kadabra
+pokedex_num: 64
+generation: I
+types: psychic
+height_dm: 13
+weight_hg: 565
+
+abilities: synchronize | inner-focus
+hidden_abilities: magic-guard
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Prevents flinching. | Protects against damage not directly caused by a move.
+
+base_stats: 40 | 35 | 30 | 120 | 70 | 105
+base_exp: 140
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 100
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: twisted-spoon:5%
+
+description: "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so."
+
+moves:
+  level-up: disable: 18 | psybeam: 28 | confusion: 1 | confusion: 16 | psychic: 46 | teleport: 1 | recover: 36 | reflect: 30 | kinesis: 1 | future-sight: 48 | trick: 52 | role-play: 42 | miracle-eye: 22 | psycho-cut: 40 | telekinesis: 34 | ally-switch: 24
+  machine: torment | thief | attract | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | iron-tail | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | knock-off | sleep-talk | drain-punch | gravity | recycle | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: abra
+  evolves_to: alakazam
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: kadabra
+default_form: true

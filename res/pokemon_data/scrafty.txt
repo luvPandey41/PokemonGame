@@ -1,0 +1,37 @@
+name: scrafty
+pokedex_num: 560
+generation: V
+types: dark | fighting
+height_dm: 11
+weight_hg: 300
+
+abilities: shed-skin | moxie
+hidden_abilities: intimidate
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn. | Raises Attack one stage upon KOing a Pokémon. | Lowers opponents' Attack one stage upon entering battle.
+
+base_stats: 65 | 90 | 115 | 45 | 115 | 58
+base_exp: 171
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | dragon
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: shed-shell:5%
+
+description: "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 5 | headbutt: 12 | leer: 1 | low-kick: 1 | high-jump-kick: 31 | scary-face: 34 | feint-attack: 1 | feint-attack: 9 | swagger: 16 | crunch: 38 | facade: 45 | focus-punch: 58 | brick-break: 20 | payback: 23 | rock-climb: 51 | head-smash: 65 | chip-away: 27
+  machine: dragon-tail | dig | torment | strength | thief | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | payback | retaliate | bulk-up | roar | protect | dragon-claw | sludge-bomb | rain-dance | giga-impact | toxic | rest | incinerate | poison-jab | focus-blast | frustration | snarl | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: none
+  tutor: dual-chop | zen-headbutt | iron-tail | iron-defense | thunder-punch | dark-pulse | super-fang | outrage | ice-punch | snatch | fire-punch | dragon-pulse | iron-head | snore | knock-off | low-kick | spite | sleep-talk | drain-punch | foul-play
+evolution_info:
+  evolves_from: scraggy
+  evolves_to: none
+  trigger: N/A
+forms: scrafty
+default_form: true

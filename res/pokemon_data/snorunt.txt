@@ -1,0 +1,52 @@
+name: snorunt
+pokedex_num: 361
+generation: III
+types: ice
+height_dm: 7
+weight_hg: 168
+
+abilities: inner-focus | ice-body
+hidden_abilities: moody
+ability_descriptions: Prevents flinching. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 50 | 50 | 50 | 50 | 50 | 50
+base_exp: 60
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy | mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: babiri-berry:5% | snowball:5%
+
+description: "It is said that several Snorunt gather under giant leaves and live together in harmony."
+
+moves:
+  level-up: headbutt: 19 | leer: 1 | bite: 10 | blizzard: 46 | double-team: 4 | powder-snow: 1 | protect: 22 | icy-wind: 13 | crunch: 31 | hail: 40 | ice-shard: 37 | ice-fang: 28
+  machine: toxic | rest | blizzard | attract | frustration | facade | double-team | hail | substitute | swagger | shadow-ball | frost-breath | hidden-power | ice-beam | round | protect | light-screen | return | rain-dance | flash | safeguard
+  egg: rollout | spikes | disable | bide | fake-tears | avalanche | block | hex | weather-ball
+  tutor: spite | sleep-talk | icy-wind | block | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: glalie, froslass
+  trigger: level-up, use-item
+  evo_level: 42
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: dawn-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: 1
+  evo_party_requirement: null
+forms: snorunt
+default_form: true

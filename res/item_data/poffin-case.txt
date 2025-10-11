@@ -1,0 +1,12 @@
+item_name: poffin-case
+flavor_text: A case for storing Poffin cooked from Berries.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains up to 100 Poffins.
+fling_power: -1
+consumable: no
+move name: 

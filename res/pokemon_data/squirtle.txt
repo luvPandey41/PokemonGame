@@ -1,0 +1,45 @@
+name: squirtle
+pokedex_num: 7
+generation: I
+types: water
+height_dm: 5
+weight_hg: 90
+
+abilities: torrent
+hidden_abilities: rain-dish
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 44 | 48 | 65 | 50 | 64 | 43
+base_exp: 63
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | water1
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It shelters itself in its shell, then strikes back with spouts of water at every opportunity."
+
+moves:
+  level-up: tackle: 1 | tail-whip: 4 | bite: 16 | water-gun: 13 | hydro-pump: 40 | withdraw: 10 | skull-bash: 31 | bubble: 7 | protect: 22 | rapid-spin: 19 | rain-dance: 37 | iron-defense: 34 | water-pulse: 25 | aqua-tail: 28
+  machine: dig | strength | attract | facade | scald | double-team | fling | substitute | swagger | gyro-ball | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: aqua-ring | muddy-water | fake-out | yawn | refresh | brine | mud-sport | foresight | mist | mirror-coat | water-spout | aqua-jet | flail | haze
+  tutor: aqua-tail | zen-headbutt | sleep-talk | iron-tail | iron-defense | icy-wind | ice-punch | water-pledge | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: wartortle
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: squirtle
+default_form: true

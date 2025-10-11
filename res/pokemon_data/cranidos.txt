@@ -1,0 +1,45 @@
+name: cranidos
+pokedex_num: 408
+generation: IV
+types: rock
+height_dm: 9
+weight_hg: 315
+
+abilities: mold-breaker
+hidden_abilities: sheer-force
+ability_descriptions: Bypasses targets' abilities if they could hinder or prevent a move. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 67 | 125 | 40 | 30 | 30 | 58
+base_exp: 70
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: monster
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts."
+
+moves:
+  level-up: headbutt: 1 | take-down: 15 | leer: 1 | screech: 42 | focus-energy: 6 | scary-face: 19 | pursuit: 10 | ancient-power: 33 | assurance: 24 | zen-headbutt: 37 | head-smash: 46 | chip-away: 28
+  machine: dig | strength | thunderbolt | thief | attract | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | payback | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | frustration | earthquake | sunny-day | fire-blast | hidden-power | round | swords-dance | rock-smash | stone-edge | smack-down | return
+  egg: whirlwind | slam | crunch | double-edge | leer | hammer-arm | iron-tail | curse | thrash | stomp | iron-head
+  tutor: stealth-rock | earth-power | zen-headbutt | iron-tail | thunder-punch | endeavor | fire-punch | dragon-pulse | superpower | iron-head | snore | uproar | spite | sleep-talk
+evolution_info:
+  evolves_from: none
+  evolves_to: rampardos
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cranidos
+default_form: true

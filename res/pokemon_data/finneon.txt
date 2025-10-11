@@ -1,0 +1,45 @@
+name: finneon
+pokedex_num: 456
+generation: IV
+types: water
+height_dm: 4
+weight_hg: 70
+
+abilities: swift-swim | storm-drain
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | Prevents burns.
+
+base_stats: 49 | 49 | 56 | 49 | 61 | 66
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rindo-berry:5%
+
+description: "The line running down its side can store sunlight. It shines vividly at night."
+
+moves:
+  level-up: pound: 1 | gust: 17 | water-gun: 6 | attract: 10 | safeguard: 29 | rain-dance: 13 | whirlpool: 38 | silver-wind: 49 | bounce: 45 | water-pulse: 22 | u-turn: 42 | aqua-ring: 33 | captivate: 26 | soak: 54
+  machine: u-turn | attract | facade | scald | double-team | substitute | swagger | ice-beam | waterfall | payback | protect | dive | rain-dance | surf | psych-up | toxic | rest | blizzard | frustration | hail | hidden-power | round | return | flash | safeguard
+  egg: flail | signal-beam | sweet-kiss | aqua-tail | aurora-beam | charm | brine | psybeam | agility | splash | tickle
+  tutor: signal-beam | tailwind | aqua-tail | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: lumineon
+  trigger: level-up
+  evo_level: 31
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: finneon
+default_form: true

@@ -1,0 +1,37 @@
+name: altaria
+pokedex_num: 334
+generation: III
+types: dragon | flying
+height_dm: 11
+weight_hg: 206
+
+abilities: natural-cure
+hidden_abilities: cloud-nine
+ability_descriptions: Cures any major status ailment upon switching out. | Negates all effects of weather, but does not prevent the weather itself.
+
+base_stats: 75 | 70 | 90 | 70 | 105 | 80
+base_exp: 172
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: flying | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum."
+
+moves:
+  level-up: fury-attack: 10 | take-down: 25 | growl: 1 | sing: 1 | sing: 8 | mist: 15 | peck: 1 | sky-attack: 64 | perish-song: 57 | safeguard: 13 | dragon-breath: 35 | refresh: 29 | astonish: 1 | astonish: 4 | dragon-dance: 34 | natural-gift: 21 | pluck: 1 | dragon-pulse: 48 | round: 18 | cotton-guard: 42
+  machine: thief | attract | hyper-beam | facade | double-team | substitute | swagger | dream-eater | bulldoze | ice-beam | flamethrower | roar | protect | dragon-claw | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | echoed-voice | frustration | aerial-ace | earthquake | solar-beam | hone-claws | sunny-day | fire-blast | fly | hidden-power | round | rock-smash | pluck | return | safeguard
+  egg: none
+  tutor: tailwind | iron-tail | sky-attack | outrage | roost | dragon-pulse | snore | uproar | heat-wave | sleep-talk | hyper-voice | heal-bell | wonder-room | draco-meteor
+evolution_info:
+  evolves_from: swablu
+  evolves_to: none
+  trigger: N/A
+forms: altaria
+default_form: true

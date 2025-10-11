@@ -1,0 +1,45 @@
+name: riolu
+pokedex_num: 447
+generation: IV
+types: fighting
+height_dm: 7
+weight_hg: 202
+
+abilities: steadfast | inner-focus
+hidden_abilities: prankster
+ability_descriptions: Raises Speed one stage upon flinching. | Prevents flinching. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 40 | 70 | 40 | 35 | 40 | 60
+base_exp: 57
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: 1
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves."
+
+moves:
+  level-up: counter: 6 | quick-attack: 1 | screech: 24 | reversal: 29 | foresight: 1 | endure: 1 | feint: 11 | copycat: 19 | force-palm: 15 | nasty-plot: 47 | final-gambit: 55
+  machine: dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | payback | retaliate | bulk-up | roar | protect | rain-dance | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | shadow-claw | low-sweep | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: crunch | mind-reader | sky-uppercut | iron-defense | cross-chop | detect | high-jump-kick | low-kick | follow-me | circle-throw | bullet-punch | bite | vacuum-wave | agility | blaze-kick
+  tutor: dual-chop | zen-headbutt | iron-tail | iron-defense | thunder-punch | ice-punch | role-play | snore | low-kick | helping-hand | sleep-talk | drain-punch | magnet-rise
+evolution_info:
+  evolves_from: none
+  evolves_to: lucario
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: day
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: riolu
+default_form: true

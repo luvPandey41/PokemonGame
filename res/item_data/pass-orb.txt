@@ -1,0 +1,12 @@
+item_name: pass-orb
+flavor_text: A mysterious orb containing the power of the Unova region, to be used when generating Pass Power.
+cost: 200
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Acts as currency to activate Pass Powers in the Entralink.
+fling_power: 30
+consumable: no
+move name: 

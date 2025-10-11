@@ -1,0 +1,12 @@
+item_name: tm14
+flavor_text: A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Blizzard to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Blizzard

@@ -1,0 +1,12 @@
+item_name: micle-berry
+flavor_text: If held by a Pokémon, it raises the accuracy of a move just once in a pinch.
+cost: 80
+category: in-a-pinch
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder has 1/4 its max HP remaining or less, it consumes this item, and its next used move has 1.2× its normal accuracy.
+fling_power: 10
+consumable: no
+move name: 

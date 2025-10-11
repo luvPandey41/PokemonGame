@@ -1,0 +1,45 @@
+name: magmar
+pokedex_num: 126
+generation: I
+types: fire
+height_dm: 13
+weight_hg: 445
+
+abilities: flame-body
+hidden_abilities: vital-spirit
+ability_descriptions: Has a 30% chance of burning attacking Pokémon on contact. | Prevents sleep.
+
+base_stats: 65 | 95 | 57 | 100 | 85 | 93
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 25
+
+wild_held_items: rawst-berry:100% | magmarizer:5%
+
+description: "When it breathes deeply, heat waves form around its body, making it hard to see clearly."
+
+moves:
+  level-up: fire-punch: 29 | leer: 1 | ember: 1 | ember: 5 | flamethrower: 49 | fire-spin: 15 | smokescreen: 8 | confuse-ray: 26 | smog: 1 | fire-blast: 55 | feint-attack: 12 | sunny-day: 42 | lava-plume: 36 | flame-burst: 22 | clear-smog: 19
+  machine: strength | thief | attract | hyper-beam | will-o-wisp | facade | double-team | fling | substitute | swagger | flamethrower | overheat | psychic | protect | giga-impact | toxic | rest | incinerate | focus-blast | frustration | sunny-day | flame-charge | low-sweep | fire-blast | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: low-kick | heat-wave | dual-chop | helping-hand | sleep-talk | iron-tail | thunder-punch | fire-punch | covet | snore
+evolution_info:
+  evolves_from: magby
+  evolves_to: magmortar
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: magmar
+default_form: true

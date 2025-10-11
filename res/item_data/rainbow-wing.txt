@@ -1,0 +1,12 @@
+item_name: rainbow-wing
+flavor_text: A mystical rainbow feather that sparkles.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Causes ho oh to appear at the top of bell tower.
+fling_power: -1
+consumable: no
+move name: 

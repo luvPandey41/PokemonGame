@@ -1,0 +1,45 @@
+name: stunky
+pokedex_num: 434
+generation: IV
+types: poison | dark
+height_dm: 4
+weight_hg: 192
+
+abilities: stench | aftermath
+hidden_abilities: keen-eye
+ability_descriptions: Has a 10% chance of making target Pokémon flinch with each hit. | Damages the attacker for 1/4 its max HP when knocked out by a contact move. | Prevents accuracy from being lowered.
+
+base_stats: 63 | 63 | 47 | 41 | 41 | 74
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 225
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:5%
+
+description: "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+
+moves:
+  level-up: scratch: 1 | toxic: 27 | screech: 7 | smokescreen: 14 | focus-energy: 1 | poison-gas: 4 | explosion: 49 | fury-swipes: 10 | slash: 22 | memento: 43 | feint: 18 | night-slash: 37 | acid-spray: 32
+  machine: cut | dig | torment | thief | attract | facade | double-team | venoshock | substitute | swagger | shadow-ball | flamethrower | payback | roar | protect | sludge-bomb | rain-dance | toxic | rest | incinerate | frustration | snarl | hone-claws | sunny-day | shadow-claw | fire-blast | explosion | hidden-power | round | rock-smash | return | taunt
+  egg: crunch | double-edge | punishment | flame-burst | scary-face | leer | haze | iron-tail | smog | pursuit | foul-play | astonish
+  tutor: sleep-talk | iron-tail | dark-pulse | foul-play | snatch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: skuntank
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: stunky
+default_form: true

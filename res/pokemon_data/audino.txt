@@ -1,0 +1,37 @@
+name: audino
+pokedex_num: 531
+generation: V
+types: normal
+height_dm: 11
+weight_hg: 310
+
+abilities: healer | regenerator
+hidden_abilities: klutz
+ability_descriptions: Has a 30% chance of curing each adjacent ally of any major status ailment after each turn. | Heals for 1/3 max HP upon switching out. | Prevents the Pokémon from using its held item in battle.
+
+base_stats: 103 | 60 | 86 | 60 | 86 | 50
+base_exp: 390
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: oran-berry:50% | sitrus-berry:5%
+
+description: "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling."
+
+moves:
+  level-up: pound: 1 | double-slap: 10 | take-down: 30 | double-edge: 50 | growl: 1 | attract: 15 | helping-hand: 1 | refresh: 5 | secret-power: 20 | last-resort: 55 | simple-beam: 45 | entrainment: 25 | after-you: 40 | heal-pulse: 35
+  machine: dig | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | flamethrower | calm-mind | retaliate | psychic | protect | rain-dance | surf | psych-up | toxic | rest | incinerate | blizzard | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | charge-beam | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: wish | amnesia | sweet-kiss | sleep-talk | yawn | heal-bell | healing-wish | bestow | lucky-chant | encore
+  tutor: after-you | pain-split | ice-punch | snatch | fire-punch | uproar | low-kick | heal-bell | covet | skill-swap | signal-beam | zen-headbutt | iron-tail | icy-wind | thunder-punch | magic-coat | role-play | snore | knock-off | helping-hand | last-resort | sleep-talk | drain-punch | gravity | hyper-voice
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: audino
+default_form: true

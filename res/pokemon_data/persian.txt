@@ -1,0 +1,37 @@
+name: persian
+pokedex_num: 53
+generation: I
+types: normal
+height_dm: 10
+weight_hg: 320
+
+abilities: limber | technician
+hidden_abilities: unnerve
+ability_descriptions: Prevents paralysis. | Strengthens moves of 60 base power or less to 1.5× their power. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 65 | 70 | 60 | 65 | 65 | 115
+base_exp: 154
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5%
+
+description: "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+
+moves:
+  level-up: scratch: 1 | bite: 1 | bite: 6 | growl: 1 | screech: 17 | swift: 28 | fury-swipes: 14 | slash: 37 | feint-attack: 22 | fake-out: 1 | fake-out: 9 | taunt: 25 | feint: 68 | assurance: 49 | night-slash: 61 | power-gem: 32 | switcheroo: 1 | nasty-plot: 44 | captivate: 56
+  machine: u-turn | cut | dig | torment | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | payback | retaliate | roar | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | embargo | return | taunt | flash
+  egg: none
+  tutor: iron-tail | icy-wind | dark-pulse | seed-bomb | snatch | snore | uproar | knock-off | last-resort | spite | sleep-talk | hyper-voice | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: meowth
+  evolves_to: none
+  trigger: N/A
+forms: persian
+default_form: true

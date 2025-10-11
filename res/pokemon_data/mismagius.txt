@@ -1,0 +1,37 @@
+name: mismagius
+pokedex_num: 429
+generation: IV
+types: ghost
+height_dm: 9
+weight_hg: 44
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 60 | 60 | 60 | 105 | 105 | 105
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 1 | 1 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power."
+
+moves:
+  level-up: growl: 1 | psywave: 1 | spite: 1 | astonish: 1 | magical-leaf: 1 | lucky-chant: 1
+  machine: torment | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | thunder-wave | frustration | aerial-ace | sunny-day | hidden-power | round | charge-beam | energy-ball | embargo | return | taunt | trick-room | flash
+  egg: none
+  tutor: magic-room | icy-wind | pain-split | dark-pulse | snatch | trick | magic-coat | snore | uproar | spite | sleep-talk | hyper-voice | foul-play | heal-bell | wonder-room | skill-swap
+evolution_info:
+  evolves_from: misdreavus
+  evolves_to: none
+  trigger: N/A
+forms: mismagius
+default_form: true

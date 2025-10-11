@@ -1,0 +1,12 @@
+item_name: binding-band
+flavor_text: A band that increases the power of binding moves when held.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : Moves used by the holder that trap and damage a target for multiple turns (e.g. bind, fire spin) inflict twice their usual per-turn damage.
+fling_power: 30
+consumable: no
+move name: 

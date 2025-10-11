@@ -1,0 +1,45 @@
+name: geodude
+pokedex_num: 74
+generation: I
+types: rock | ground
+height_dm: 4
+weight_hg: 200
+
+abilities: rock-head | sturdy
+hidden_abilities: sand-veil
+ability_descriptions: Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 40 | 80 | 100 | 30 | 30 | 20
+base_exp: 60
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: everstone:5%
+
+description: "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily."
+
+moves:
+  level-up: tackle: 1 | double-edge: 46 | rock-throw: 11 | earthquake: 39 | defense-curl: 1 | self-destruct: 29 | explosion: 43 | rollout: 18 | magnitude: 15 | mud-sport: 4 | rock-blast: 22 | rock-polish: 8 | stone-edge: 50 | stealth-rock: 36 | smack-down: 25 | bulldoze: 32
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | flamethrower | protect | toxic | rest | incinerate | frustration | earthquake | sunny-day | fire-blast | explosion | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: flail | rock-climb | hammer-arm | mega-punch | focus-punch | curse | autotomize | block | endure
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | thunder-punch | block | fire-punch | superpower | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: graveler
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: geodude
+default_form: true

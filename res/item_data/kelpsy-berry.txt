@@ -1,0 +1,12 @@
+item_name: kelpsy-berry
+flavor_text: Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.
+cost: 80
+category: effort-drop
+pocket: berries
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Increases happiness by 10/5/2. Lowers Attack effort by 10.
+fling_power: 10
+consumable: no
+move name: 

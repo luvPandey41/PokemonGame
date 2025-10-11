@@ -1,0 +1,45 @@
+name: seedot
+pokedex_num: 273
+generation: III
+types: grass
+height_dm: 5
+weight_hg: 40
+
+abilities: chlorophyll | early-bird
+hidden_abilities: pickpocket
+ability_descriptions: Doubles Speed during strong sunlight. | Makes sleep pass twice as quickly. | Steals attacking Pokémon's held items on contact.
+
+base_stats: 40 | 40 | 50 | 30 | 30 | 30
+base_exp: 44
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: power-herb:5%
+
+description: "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon."
+
+moves:
+  level-up: growth: 7 | harden: 3 | bide: 1 | explosion: 43 | synthesis: 21 | sunny-day: 31 | nature-power: 13
+  machine: toxic | rest | dig | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | shadow-ball | explosion | grass-knot | hidden-power | false-swipe | round | swords-dance | rock-smash | energy-ball | retaliate | protect | return | flash
+  egg: amnesia | quick-attack | nasty-plot | razor-wind | foul-play | take-down | beat-up | worry-seed | power-swap | defog | leech-seed | bullet-seed
+  tutor: synthesis | giga-drain | spite | sleep-talk | seed-bomb | foul-play | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: nuzleaf
+  trigger: level-up
+  evo_level: 14
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: seedot
+default_form: true

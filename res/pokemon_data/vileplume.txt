@@ -1,0 +1,37 @@
+name: vileplume
+pokedex_num: 45
+generation: I
+types: grass | poison
+height_dm: 12
+weight_hg: 186
+
+abilities: chlorophyll
+hidden_abilities: effect-spore
+ability_descriptions: Doubles Speed during strong sunlight. | Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.
+
+base_stats: 75 | 80 | 85 | 110 | 90 | 50
+base_exp: 221
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+
+moves:
+  level-up: mega-drain: 1 | solar-beam: 65 | poison-powder: 1 | stun-spore: 1 | petal-dance: 53 | aromatherapy: 1
+  machine: giga-impact | toxic | rest | cut | attract | frustration | hyper-beam | facade | double-team | fling | venoshock | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | sludge-bomb | return | flash
+  egg: none
+  tutor: synthesis | after-you | giga-drain | gastro-acid | sleep-talk | drain-punch | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: gloom
+  evolves_to: none
+  trigger: N/A
+forms: vileplume
+default_form: true

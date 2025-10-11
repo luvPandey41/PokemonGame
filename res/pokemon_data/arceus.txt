@@ -1,0 +1,37 @@
+name: arceus
+pokedex_num: 493
+generation: IV
+types: normal
+height_dm: 32
+weight_hg: 3200
+
+abilities: multitype
+hidden_abilities: none
+ability_descriptions: Changes arceus's type and form to match its held Plate.
+
+base_stats: 120 | 120 | 120 | 120 | 120 | 120
+base_exp: 324
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It is said to have emerged from an egg in a place where there was nothing, then shaped the world."
+
+moves:
+  level-up: hyper-beam: 80 | seismic-toss: 1 | recover: 70 | perish-song: 90 | extreme-speed: 40 | future-sight: 60 | refresh: 50 | hyper-voice: 30 | cosmic-power: 1 | gravity: 10 | natural-gift: 1 | punishment: 1 | earth-power: 20 | judgment: 100
+  machine: strength | x-scissor | facade | thunder | double-team | swagger | shadow-ball | grass-knot | reflect | calm-mind | payback | roar | dragon-claw | sludge-bomb | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | snarl | earthquake | solar-beam | work-up | stone-edge | charge-beam | flash-cannon | quash | flash | safeguard | cut | thunderbolt | hyper-beam | will-o-wisp | rock-slide | sandstorm | telekinesis | substitute | dream-eater | bulldoze | rock-tomb | ice-beam | flamethrower | waterfall | overheat | retaliate | psychic | protect | rain-dance | psych-up | rest | blizzard | poison-jab | echoed-voice | focus-blast | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | fire-blast | fly | hidden-power | round | swords-dance | rock-smash | brick-break | energy-ball | light-screen | psyshock | return | trick-room
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | tailwind | aqua-tail | zen-headbutt | iron-tail | iron-defense | icy-wind | dark-pulse | outrage | trick | magic-coat | dragon-pulse | iron-head | snore | heat-wave | giga-drain | last-resort | sleep-talk | gravity | recycle | hyper-voice | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: arceus-normal | arceus-bug | arceus-dark | arceus-dragon | arceus-electric | arceus-fighting | arceus-fire | arceus-flying | arceus-ghost | arceus-grass | arceus-ground | arceus-ice | arceus-poison | arceus-psychic | arceus-rock | arceus-steel | arceus-water | arceus-unknown | arceus-fairy
+default_form: true

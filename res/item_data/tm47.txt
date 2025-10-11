@@ -1,0 +1,12 @@
+item_name: tm47
+flavor_text: The user attacks the target’s legs swiftly, reducing the target’s Speed stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Steel Wing to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Low Sweep

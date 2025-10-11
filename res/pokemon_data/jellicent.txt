@@ -1,0 +1,37 @@
+name: jellicent
+pokedex_num: 593
+generation: V
+types: water | ghost
+height_dm: 22
+weight_hg: 1350
+
+abilities: water-absorb | cursed-body
+hidden_abilities: damp
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Has a 30% chance of Disabling any move that hits the Pokémon. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 100 | 60 | 70 | 85 | 105 | 60
+base_exp: 168
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished."
+
+moves:
+  level-up: hydro-pump: 53 | bubble-beam: 13 | absorb: 1 | absorb: 5 | night-shade: 1 | night-shade: 9 | recover: 17 | bubble: 1 | rain-dance: 37 | water-spout: 69 | water-sport: 1 | water-pulse: 22 | brine: 32 | wring-out: 61 | ominous-wind: 27 | hex: 45
+  machine: sludge-wave | attract | hyper-beam | will-o-wisp | facade | scald | double-team | substitute | swagger | shadow-ball | dream-eater | ice-beam | waterfall | psychic | protect | dive | sludge-bomb | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | energy-ball | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: bind | giga-drain | spite | sleep-talk | icy-wind | pain-split | dark-pulse | trick | magic-coat | snore
+evolution_info:
+  evolves_from: frillish
+  evolves_to: none
+  trigger: N/A
+forms: jellicent
+default_form: true

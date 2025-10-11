@@ -1,0 +1,12 @@
+item_name: pal-pad
+flavor_text: A convenient notepad that is used for registering your friends, Friend Codes, and keeping a record of game play.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains friend codes for up to 32 other players, as well as their sprite, gender, and basic statistics for those that have been seen on WFC.
+fling_power: -1
+consumable: no
+move name: 

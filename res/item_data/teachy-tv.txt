@@ -1,0 +1,12 @@
+item_name: teachy-tv
+flavor_text: A TV set tuned to an advice program for TRAINERS.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches beginning trainers basic information.
+fling_power: -1
+consumable: no
+move name: 

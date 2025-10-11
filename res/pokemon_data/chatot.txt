@@ -1,0 +1,37 @@
+name: chatot
+pokedex_num: 441
+generation: IV
+types: normal | flying
+height_dm: 5
+weight_hg: 19
+
+abilities: keen-eye | tangled-feet
+hidden_abilities: big-pecks
+ability_descriptions: Prevents accuracy from being lowered. | Doubles evasion when confused. | Protects against Defense drops.
+
+base_stats: 76 | 65 | 45 | 92 | 42 | 91
+base_exp: 144
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: metronome:5%
+
+description: "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech."
+
+moves:
+  level-up: fury-attack: 17 | growl: 5 | sing: 13 | peck: 1 | mimic: 33 | mirror-move: 9 | uproar: 45 | taunt: 25 | feather-dance: 53 | hyper-voice: 57 | roost: 41 | chatter: 21 | synchronoise: 49 | round: 29 | echoed-voice: 37
+  machine: toxic | rest | u-turn | torment | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance | taunt
+  egg: night-shade | steel-wing | sleep-talk | nasty-plot | air-cutter | agility | defog | encore | supersonic
+  tutor: heat-wave | tailwind | sleep-talk | hyper-voice | sky-attack | roost | role-play | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: chatot
+default_form: true

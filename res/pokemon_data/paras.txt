@@ -1,0 +1,45 @@
+name: paras
+pokedex_num: 46
+generation: I
+types: bug | grass
+height_dm: 3
+weight_hg: 54
+
+abilities: effect-spore | dry-skin
+hidden_abilities: damp
+ability_descriptions: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 35 | 70 | 55 | 45 | 55 | 25
+base_exp: 57
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: tiny-mushroom:50% | big-mushroom:5% | balm-mushroom:1%
+
+description: "Mushrooms named tochukaso grow on its back. They grow along with the host Paras."
+
+moves:
+  level-up: scratch: 1 | growth: 33 | poison-powder: 6 | stun-spore: 6 | leech-life: 11 | spore: 22 | slash: 27 | giga-drain: 38 | fury-cutter: 17 | aromatherapy: 43 | x-scissor: 54 | rage-powder: 49
+  machine: cut | dig | thief | x-scissor | attract | facade | double-team | venoshock | substitute | swagger | grass-knot | protect | sludge-bomb | toxic | rest | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | energy-ball | light-screen | return | flash
+  egg: bug-bite | pursuit | sweet-scent | psybeam | counter | leech-seed | flail | screech | natural-gift | metal-claw | cross-poison | endure | agility
+  tutor: synthesis | after-you | giga-drain | sleep-talk | bug-bite | seed-bomb | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: parasect
+  trigger: level-up
+  evo_level: 24
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: paras
+default_form: true

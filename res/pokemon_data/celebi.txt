@@ -1,0 +1,37 @@
+name: celebi
+pokedex_num: 251
+generation: II
+types: psychic | grass
+height_dm: 6
+weight_hg: 50
+
+abilities: natural-cure
+hidden_abilities: none
+ability_descriptions: Cures any major status ailment upon switching out.
+
+base_stats: 100 | 100 | 100 | 100 | 100 | 100
+base_exp: 270
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 100
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: lum-berry:100%
+
+description: "It has the power to travel across time, but it is said to appear only in peaceful times."
+
+moves:
+  level-up: leech-seed: 1 | confusion: 1 | recover: 1 | perish-song: 91 | heal-bell: 1 | safeguard: 10 | baton-pass: 37 | ancient-power: 28 | future-sight: 64 | magical-leaf: 19 | healing-wish: 73 | natural-gift: 46 | heal-block: 55 | leaf-storm: 82
+  machine: u-turn | cut | hyper-beam | sandstorm | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | swords-dance | charge-beam | energy-ball | light-screen | return | trick-room | flash | safeguard
+  egg: none
+  tutor: synthesis | stealth-rock | signal-beam | earth-power | magic-room | zen-headbutt | seed-bomb | trick | magic-coat | snore | uproar | giga-drain | helping-hand | last-resort | sleep-talk | heal-bell | worry-seed | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: celebi
+default_form: true

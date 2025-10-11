@@ -1,0 +1,12 @@
+item_name: tm01
+flavor_text: The user sharpens its claws to boost its Attack stat and accuracy.
+cost: 40000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Focus Punch to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Hone Claws

@@ -1,0 +1,12 @@
+item_name: iron
+flavor_text: A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
+cost: 10000
+category: vitamins
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Increases Defense effort by 10, but won't increase it beyond 100. Increases happiness by 5/3/2.
+fling_power: 30
+consumable: yes
+move name: 

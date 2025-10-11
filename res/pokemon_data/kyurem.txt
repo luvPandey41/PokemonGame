@@ -1,0 +1,37 @@
+name: kyurem
+pokedex_num: 646
+generation: V
+types: dragon | ice
+height_dm: 30
+weight_hg: 3250
+
+abilities: pressure
+hidden_abilities: none
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one.
+
+base_stats: 125 | 130 | 90 | 130 | 90 | 95
+base_exp: 297
+ev_yield: 1 | 1 | 0 | 1 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out."
+
+moves:
+  level-up: ice-beam: 22 | blizzard: 78 | dragon-rage: 1 | slash: 36 | scary-face: 43 | icy-wind: 1 | outrage: 85 | dragon-breath: 29 | ancient-power: 15 | endeavor: 71 | imprison: 8 | imprison: 64 | hyper-voice: 92 | dragon-pulse: 57 | glaciate: 50
+  machine: dragon-tail | cut | strength | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | shadow-ball | reflect | rock-tomb | ice-beam | payback | psychic | protect | dragon-claw | rain-dance | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | hail | hone-claws | sunny-day | shadow-claw | fly | hidden-power | round | rock-smash | stone-edge | flash-cannon | light-screen | return | safeguard
+  egg: none
+  tutor: signal-beam | earth-power | zen-headbutt | icy-wind | endeavor | outrage | roost | dragon-pulse | iron-head | snore | sleep-talk | hyper-voice | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: kyurem
+default_form: true

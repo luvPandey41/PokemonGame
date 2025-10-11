@@ -1,0 +1,12 @@
+item_name: liberty-pass
+flavor_text: A special pass to go to Liberty Garden. Board the ship in Castelia City.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Allows passage on the castelia city ship, which leads to liberty garden and victini.
+fling_power: -1
+consumable: no
+move name: 

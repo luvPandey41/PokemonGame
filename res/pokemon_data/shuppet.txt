@@ -1,0 +1,45 @@
+name: shuppet
+pokedex_num: 353
+generation: III
+types: ghost
+height_dm: 6
+weight_hg: 23
+
+abilities: insomnia | frisk
+hidden_abilities: cursed-body
+ability_descriptions: Prevents sleep. | Reveals an opponent's held item upon entering battle. | Has a 30% chance of Disabling any move that hits the Pokémon.
+
+base_stats: 44 | 75 | 35 | 63 | 33 | 45
+base_exp: 59
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: spell-tag:5%
+
+description: "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live."
+
+moves:
+  level-up: night-shade: 7 | screech: 4 | curse: 19 | spite: 10 | feint-attack: 22 | shadow-ball: 30 | will-o-wisp: 13 | trick: 50 | knock-off: 1 | grudge: 46 | snatch: 42 | embargo: 38 | sucker-punch: 34 | shadow-sneak: 16 | hex: 26
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | embargo | return | taunt | trick-room | flash
+  egg: ominous-wind | confuse-ray | destiny-bond | disable | imprison | pursuit | shadow-sneak | gunk-shot | foresight | astonish
+  tutor: magic-room | icy-wind | pain-split | dark-pulse | snatch | trick | magic-coat | role-play | knock-off | spite | sleep-talk | foul-play | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: banette
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shuppet
+default_form: true

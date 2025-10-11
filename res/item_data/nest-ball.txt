@@ -1,0 +1,12 @@
+item_name: nest-ball
+flavor_text: A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+cost: 1000
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon. Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pokémon's level, to a maximum of 3.9× for level 1 Pokémon. If the wild Pokémon's level is higher than 30, this ball has a catch rate of 1×. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

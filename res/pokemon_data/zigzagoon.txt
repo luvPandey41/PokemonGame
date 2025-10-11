@@ -1,0 +1,45 @@
+name: zigzagoon
+pokedex_num: 263
+generation: III
+types: normal
+height_dm: 4
+weight_hg: 175
+
+abilities: pickup | gluttony
+hidden_abilities: quick-feet
+ability_descriptions: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Increases Speed to 1.5× with a major status ailment.
+
+base_stats: 38 | 30 | 41 | 30 | 41 | 60
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: potion:50% | revive:5% | oran-berry:5%
+
+description: "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground."
+
+moves:
+  level-up: sand-attack: 13 | headbutt: 9 | tackle: 1 | tail-whip: 5 | pin-missile: 25 | growl: 1 | rest: 41 | flail: 37 | belly-drum: 45 | mud-sport: 21 | odor-sleuth: 17 | covet: 29 | fling: 49 | bestow: 33
+  machine: cut | dig | thunderbolt | thief | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | protect | rain-dance | surf | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | hone-claws | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | return
+  egg: rock-climb | helping-hand | mud-slap | charm | sleep-talk | pursuit | trick | tickle | simple-beam
+  tutor: helping-hand | last-resort | sleep-talk | iron-tail | icy-wind | hyper-voice | seed-bomb | super-fang | gunk-shot | trick | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: linoone
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: zigzagoon
+default_form: true

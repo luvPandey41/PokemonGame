@@ -1,0 +1,12 @@
+item_name: casteliacone
+flavor_text: Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+cost: 350
+category: status-cures
+pocket: medicine
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Cures any status ailment and confusion.
+fling_power: 30
+consumable: no
+move name: 

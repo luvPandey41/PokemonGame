@@ -1,0 +1,12 @@
+item_name: premier-ball
+flavor_text: A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+cost: 20
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon, using a catch rate of 1×. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

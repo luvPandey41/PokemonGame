@@ -1,0 +1,45 @@
+name: ralts
+pokedex_num: 280
+generation: III
+types: psychic | fairy
+height_dm: 4
+weight_hg: 66
+
+abilities: synchronize | trace
+hidden_abilities: telepathy
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Copies an opponent's ability upon entering battle. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 28 | 25 | 25 | 45 | 35 | 40
+base_exp: 40
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 235
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: humanshape | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly."
+
+moves:
+  level-up: growl: 1 | confusion: 6 | psychic: 32 | hypnosis: 45 | teleport: 12 | double-team: 10 | dream-eater: 50 | charm: 43 | future-sight: 39 | imprison: 34 | magical-leaf: 21 | calm-mind: 28 | lucky-chant: 17 | stored-power: 54 | heal-pulse: 23
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: confuse-ray | destiny-bond | disable | grudge | shadow-sneak | synchronoise | memento | encore | mean-look | skill-swap
+  tutor: signal-beam | magic-room | zen-headbutt | icy-wind | thunder-punch | pain-split | ice-punch | snatch | trick | fire-punch | magic-coat | snore | helping-hand | sleep-talk | recycle | hyper-voice | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: kirlia
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: ralts
+default_form: true

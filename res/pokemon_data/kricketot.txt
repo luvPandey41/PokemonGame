@@ -1,0 +1,45 @@
+name: kricketot
+pokedex_num: 401
+generation: IV
+types: bug
+height_dm: 3
+weight_hg: 22
+
+abilities: shed-skin
+hidden_abilities: run-away
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn. | Ensures success fleeing from wild battles.
+
+base_stats: 37 | 25 | 41 | 25 | 41 | 25
+base_exp: 39
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: metronome:5%
+
+description: "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+
+moves:
+  level-up: growl: 1 | bide: 1 | bug-bite: 16 | struggle-bug: 6
+  machine: none
+  egg: none
+  tutor: bug-bite | endeavor | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: kricketune
+  trigger: level-up
+  evo_level: 10
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: kricketot
+default_form: true

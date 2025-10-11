@@ -1,0 +1,45 @@
+name: haunter
+pokedex_num: 93
+generation: I
+types: ghost | poison
+height_dm: 16
+weight_hg: 1
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 45 | 50 | 45 | 115 | 55 | 95
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: spell-tag:5%
+
+description: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
+
+moves:
+  level-up: hypnosis: 1 | night-shade: 15 | confuse-ray: 19 | lick: 1 | dream-eater: 39 | nightmare: 61 | curse: 12 | spite: 1 | spite: 5 | destiny-bond: 50 | mean-look: 8 | shadow-ball: 33 | shadow-punch: 25 | payback: 28 | sucker-punch: 22 | dark-pulse: 44 | hex: 55
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | double-team | telekinesis | fling | venoshock | substitute | swagger | shadow-ball | dream-eater | payback | psychic | protect | sludge-bomb | rain-dance | psych-up | toxic | rest | poison-jab | frustration | sunny-day | shadow-claw | explosion | hidden-power | round | energy-ball | embargo | return | taunt | trick-room
+  egg: none
+  tutor: icy-wind | thunder-punch | pain-split | dark-pulse | ice-punch | snatch | trick | fire-punch | snore | uproar | knock-off | giga-drain | spite | sleep-talk | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: gastly
+  evolves_to: gengar
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: haunter
+default_form: true

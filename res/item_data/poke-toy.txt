@@ -1,0 +1,12 @@
+item_name: poke-toy
+flavor_text: An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+cost: 100
+category: spelunking
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used in battle : Ends a wild battle. Cannot be used in trainer battles.
+fling_power: 30
+consumable: no
+move name: 

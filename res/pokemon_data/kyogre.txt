@@ -1,0 +1,37 @@
+name: kyogre
+pokedex_num: 382
+generation: III
+types: water
+height_dm: 45
+weight_hg: 3520
+
+abilities: drizzle
+hidden_abilities: none
+ability_descriptions: Summons rain that lasts indefinitely upon entering battle.
+
+base_stats: 100 | 100 | 90 | 150 | 140 | 90
+base_exp: 302
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench."
+
+moves:
+  level-up: body-slam: 15 | double-edge: 80 | hydro-pump: 90 | ice-beam: 35 | scary-face: 5 | ancient-power: 45 | water-spout: 50 | sheer-cold: 75 | muddy-water: 20 | calm-mind: 60 | water-pulse: 1 | aqua-ring: 30 | aqua-tail: 65
+  machine: strength | thunderbolt | hyper-beam | rock-slide | facade | scald | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | calm-mind | roar | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | return | safeguard
+  egg: none
+  tutor: signal-beam | aqua-tail | sleep-talk | icy-wind | block | iron-head | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: kyogre
+default_form: true

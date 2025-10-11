@@ -1,0 +1,12 @@
+item_name: soot-sack
+flavor_text: A sack used to gather and hold volcanic ash.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Collects soot when walking through tall grass on hoenn route 113.
+fling_power: -1
+consumable: no
+move name: 

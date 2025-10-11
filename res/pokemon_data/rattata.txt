@@ -1,0 +1,45 @@
+name: rattata
+pokedex_num: 19
+generation: I
+types: normal
+height_dm: 3
+weight_hg: 35
+
+abilities: run-away | guts
+hidden_abilities: hustle
+ability_descriptions: Ensures success fleeing from wild battles. | Increases Attack to 1.5× with a major status ailment. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 30 | 56 | 35 | 25 | 35 | 72
+base_exp: 51
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: chilan-berry:5%
+
+description: "Cautious in the extreme, its hardy vitality lets it live in any kind of environment."
+
+moves:
+  level-up: tackle: 1 | double-edge: 31 | tail-whip: 1 | bite: 10 | quick-attack: 4 | focus-energy: 7 | hyper-fang: 16 | super-fang: 28 | pursuit: 13 | crunch: 22 | endeavor: 34 | assurance: 25 | sucker-punch: 19
+  machine: u-turn | cut | dig | thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | protect | rain-dance | toxic | rest | blizzard | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | pluck | return | taunt
+  egg: reversal | last-resort | revenge | screech | me-first | bite | flame-wheel | final-gambit | counter | fury-swipes | uproar
+  tutor: last-resort | zen-headbutt | sleep-talk | iron-tail | icy-wind | endeavor | super-fang | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: raticate
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: rattata
+default_form: true

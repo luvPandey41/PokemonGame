@@ -1,0 +1,45 @@
+name: dunsparce
+pokedex_num: 206
+generation: II
+types: normal
+height_dm: 15
+weight_hg: 140
+
+abilities: serene-grace | run-away
+hidden_abilities: rattled
+ability_descriptions: Doubles the chance of moves' extra effects occurring. | Ensures success fleeing from wild battles. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 100 | 70 | 70 | 65 | 65 | 45
+base_exp: 145
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+
+moves:
+  level-up: take-down: 22 | double-edge: 34 | dig: 31 | rage: 1 | screech: 13 | defense-curl: 1 | glare: 28 | flail: 49 | spite: 7 | endure: 40 | rollout: 4 | pursuit: 10 | ancient-power: 19 | yawn: 16 | endeavor: 46 | roost: 25 | coil: 37 | drill-run: 43
+  machine: dig | strength | thunderbolt | thief | wild-charge | attract | rock-slide | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | bulldoze | gyro-ball | rock-tomb | ice-beam | flamethrower | calm-mind | retaliate | protect | rain-dance | psych-up | toxic | rest | incinerate | blizzard | poison-jab | thunder-wave | frustration | earthquake | solar-beam | sunny-day | fire-blast | hidden-power | round | rock-smash | charge-beam | return
+  egg: bide | magic-coat | snore | secret-power | sleep-talk | headbutt | bite | ancient-power | curse | hex | trump-card | agility | astonish
+  tutor: stealth-rock | aqua-tail | zen-headbutt | iron-tail | endeavor | pain-split | roost | magic-coat | snore | bind | last-resort | spite | sleep-talk | drill-run
+evolution_info:
+  evolves_from: none
+  evolves_to: dudunsparce
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: hyper-drill
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: dunsparce
+default_form: true

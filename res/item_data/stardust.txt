@@ -1,0 +1,12 @@
+item_name: stardust
+flavor_text: Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
+cost: 3000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

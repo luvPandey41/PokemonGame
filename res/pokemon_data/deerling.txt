@@ -1,0 +1,45 @@
+name: deerling
+pokedex_num: 585
+generation: V
+types: normal | grass
+height_dm: 6
+weight_hg: 195
+
+abilities: chlorophyll | sap-sipper
+hidden_abilities: serene-grace
+ability_descriptions: Doubles Speed during strong sunlight. | Absorbs grass moves, raising Attack one stage. | Doubles the chance of moves' extra effects occurring.
+
+base_stats: 60 | 60 | 50 | 40 | 50 | 75
+base_exp: 67
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass."
+
+moves:
+  level-up: double-kick: 10 | jump-kick: 24 | sand-attack: 7 | tackle: 1 | take-down: 20 | double-edge: 46 | growl: 4 | leech-seed: 13 | solar-beam: 51 | feint-attack: 16 | charm: 36 | nature-power: 41 | camouflage: 1 | aromatherapy: 28 | energy-ball: 32
+  machine: wild-charge | attract | facade | double-team | substitute | swagger | shadow-ball | grass-knot | retaliate | protect | rain-dance | toxic | rest | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | work-up | hidden-power | round | energy-ball | light-screen | return | flash | safeguard
+  egg: baton-pass | synthesis | odor-sleuth | sleep-talk | natural-gift | fake-tears | worry-seed | agility | grass-whistle
+  tutor: synthesis | giga-drain | last-resort | sleep-talk | bounce | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: sawsbuck
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: deerling-spring | deerling-summer | deerling-autumn | deerling-winter
+default_form: true

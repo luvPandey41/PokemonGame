@@ -1,0 +1,12 @@
+item_name: tm62
+flavor_text: The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.
+cost: 30000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Silver Wind to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Acrobatics

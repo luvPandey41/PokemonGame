@@ -1,0 +1,45 @@
+name: rhyhorn
+pokedex_num: 111
+generation: I
+types: ground | rock
+height_dm: 10
+weight_hg: 1150
+
+abilities: lightning-rod | rock-head
+hidden_abilities: reckless
+ability_descriptions: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Protects against recoil damage. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 80 | 85 | 95 | 30 | 30 | 25
+base_exp: 69
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
+
+moves:
+  level-up: stomp: 8 | horn-attack: 1 | fury-attack: 12 | horn-drill: 63 | take-down: 41 | tail-whip: 1 | earthquake: 56 | scary-face: 19 | megahorn: 67 | rock-blast: 23 | stone-edge: 52 | chip-away: 34 | bulldoze: 30 | drill-run: 45
+  machine: dig | strength | thunderbolt | thief | attract | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | payback | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | poison-jab | frustration | earthquake | sunny-day | fire-blast | hidden-power | round | swords-dance | rock-smash | stone-edge | return
+  egg: crunch | thunder-fang | fire-fang | iron-tail | crush-claw | counter | ice-fang | skull-bash | reversal | rock-climb | curse | magnitude | dragon-rush
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | endeavor | dragon-pulse | superpower | snore | uproar | spite | sleep-talk | drill-run
+evolution_info:
+  evolves_from: none
+  evolves_to: rhydon
+  trigger: level-up
+  evo_level: 42
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: rhyhorn
+default_form: true

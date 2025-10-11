@@ -1,0 +1,12 @@
+item_name: silver-wing
+flavor_text: A strange, silvery feather that sparkles.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Causes lugia to appear in the whirl islands.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: caterpie
+pokedex_num: 10
+generation: I
+types: bug
+height_dm: 3
+weight_hg: 29
+
+abilities: shield-dust
+hidden_abilities: run-away
+ability_descriptions: Protects against incoming moves' extra effects. | Ensures success fleeing from wild battles.
+
+base_stats: 45 | 30 | 35 | 20 | 20 | 45
+base_exp: 39
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly."
+
+moves:
+  level-up: tackle: 1 | string-shot: 1 | bug-bite: 15
+  machine: none
+  egg: none
+  tutor: bug-bite | electroweb | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: metapod
+  trigger: level-up
+  evo_level: 7
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: caterpie
+default_form: true

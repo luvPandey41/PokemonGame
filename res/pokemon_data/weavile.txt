@@ -1,0 +1,37 @@
+name: weavile
+pokedex_num: 461
+generation: IV
+types: dark | ice
+height_dm: 11
+weight_hg: 340
+
+abilities: pressure
+hidden_abilities: pickpocket
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Steals attacking Pokémon's held items on contact.
+
+base_stats: 70 | 120 | 65 | 45 | 85 | 125
+base_exp: 179
+ev_yield: 0 | 1 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5% | grip-claw:50%
+
+description: "Evolution made it even more devious. It communicates by clawing signs in boulders."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | quick-attack: 1 | quick-attack: 8 | screech: 32 | fury-swipes: 16 | feint-attack: 10 | icy-wind: 14 | metal-claw: 22 | taunt: 1 | revenge: 1 | snatch: 40 | assurance: 1 | embargo: 1 | fling: 28 | punishment: 44 | dark-pulse: 47 | night-slash: 35 | nasty-plot: 20 | hone-claws: 25
+  machine: cut | dig | torment | strength | thief | x-scissor | attract | hyper-beam | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | reflect | ice-beam | calm-mind | payback | retaliate | protect | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | poison-jab | focus-blast | frustration | snarl | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | low-sweep | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | embargo | return | taunt
+  egg: none
+  tutor: low-kick | spite | sleep-talk | iron-tail | icy-wind | dark-pulse | foul-play | ice-punch | snatch | snore | knock-off
+evolution_info:
+  evolves_from: sneasel
+  evolves_to: none
+  trigger: N/A
+forms: weavile
+default_form: true

@@ -1,0 +1,37 @@
+name: terrakion
+pokedex_num: 639
+generation: V
+types: rock | fighting
+height_dm: 19
+weight_hg: 2600
+
+abilities: justified
+hidden_abilities: none
+ability_descriptions: Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 91 | 129 | 90 | 72 | 90 | 108
+base_exp: 261
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans."
+
+moves:
+  level-up: swords-dance: 49 | double-kick: 7 | take-down: 19 | leer: 1 | quick-attack: 1 | rock-slide: 37 | helping-hand: 25 | close-combat: 73 | stone-edge: 67 | smack-down: 13 | quick-guard: 55 | retaliate: 31 | work-up: 61 | sacred-sword: 42
+  machine: cut | strength | x-scissor | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | reflect | rock-tomb | rock-polish | calm-mind | retaliate | roar | protect | psych-up | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | earthquake | work-up | hidden-power | false-swipe | round | swords-dance | rock-smash | stone-edge | smack-down | return | taunt | safeguard
+  egg: none
+  tutor: stealth-rock | earth-power | helping-hand | zen-headbutt | sleep-talk | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: terrakion
+default_form: true

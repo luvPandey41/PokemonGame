@@ -1,0 +1,45 @@
+name: kabuto
+pokedex_num: 140
+generation: I
+types: rock | water
+height_dm: 5
+weight_hg: 115
+
+abilities: swift-swim | battle-armor
+hidden_abilities: weak-armor
+ability_descriptions: Doubles Speed during rain. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 30 | 80 | 90 | 55 | 45 | 55
+base_exp: 71
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 21 | leer: 11 | absorb: 6 | mega-drain: 36 | harden: 1 | endure: 26 | ancient-power: 46 | metal-sound: 41 | mud-shot: 16 | wring-out: 51 | aqua-jet: 31
+  machine: dig | thief | attract | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | rock-tomb | rock-polish | ice-beam | waterfall | protect | rain-dance | surf | toxic | rest | blizzard | frustration | hail | hone-claws | hidden-power | round | rock-smash | smack-down | return
+  egg: flail | giga-drain | aurora-beam | confuse-ray | bubble-beam | screech | icy-wind | mud-shot | rapid-spin | foresight | knock-off
+  tutor: stealth-rock | earth-power | giga-drain | sleep-talk | iron-defense | icy-wind | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: kabutops
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: kabuto
+default_form: true

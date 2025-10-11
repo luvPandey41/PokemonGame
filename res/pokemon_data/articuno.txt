@@ -1,0 +1,37 @@
+name: articuno
+pokedex_num: 144
+generation: I
+types: ice | flying
+height_dm: 17
+weight_hg: 554
+
+abilities: pressure
+hidden_abilities: snow-cloak
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Increases evasion to 1.25× during hail.  Protects against hail damage.
+
+base_stats: 90 | 85 | 100 | 95 | 125 | 85
+base_exp: 261
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air."
+
+moves:
+  level-up: gust: 1 | mist: 8 | ice-beam: 43 | blizzard: 71 | agility: 36 | reflect: 50 | mind-reader: 22 | powder-snow: 1 | ancient-power: 29 | hail: 85 | sheer-cold: 78 | roost: 57 | tailwind: 64 | ice-shard: 15 | hurricane: 92
+  machine: u-turn | hyper-beam | sandstorm | facade | double-team | substitute | swagger | reflect | ice-beam | roar | protect | rain-dance | sky-drop | giga-impact | toxic | rest | blizzard | frustration | aerial-ace | hail | sunny-day | frost-breath | fly | hidden-power | round | rock-smash | pluck | return
+  egg: none
+  tutor: signal-beam | tailwind | sleep-talk | icy-wind | sky-attack | roost | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: articuno
+default_form: true

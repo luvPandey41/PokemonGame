@@ -1,0 +1,45 @@
+name: machop
+pokedex_num: 66
+generation: I
+types: fighting
+height_dm: 8
+weight_hg: 195
+
+abilities: guts | no-guard
+hidden_abilities: steadfast
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Ensures all moves used by and against the Pokémon hit. | Raises Speed one stage upon flinching.
+
+base_stats: 70 | 80 | 50 | 35 | 35 | 35
+base_exp: 61
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 180
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: focus-band:5%
+
+description: "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once."
+
+moves:
+  level-up: karate-chop: 10 | leer: 1 | submission: 34 | low-kick: 1 | seismic-toss: 22 | focus-energy: 7 | scary-face: 46 | foresight: 19 | dynamic-punch: 49 | vital-throw: 31 | cross-chop: 43 | revenge: 25 | wake-up-slap: 37 | low-sweep: 13
+  machine: dig | strength | thief | attract | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | flamethrower | payback | retaliate | bulk-up | protect | rain-dance | toxic | rest | incinerate | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | smack-down | light-screen | return
+  egg: thunder-punch | ice-punch | counter | fire-punch | meditate | knock-off | bullet-punch | rolling-kick | heavy-slam | close-combat | encore | smelling-salts | tickle | power-trick
+  tutor: low-kick | dual-chop | helping-hand | sleep-talk | thunder-punch | ice-punch | fire-punch | role-play | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: machoke
+  trigger: level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: machop
+default_form: true

@@ -1,0 +1,37 @@
+name: ninetales
+pokedex_num: 38
+generation: I
+types: fire
+height_dm: 11
+weight_hg: 199
+
+abilities: flash-fire
+hidden_abilities: drought
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Summons strong sunlight that lasts indefinitely upon entering battle.
+
+base_stats: 73 | 76 | 75 | 81 | 100 | 100
+base_exp: 177
+ev_yield: 0 | 0 | 0 | 0 | 1 | 1
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100% | charcoal:5%
+
+description: "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years."
+
+moves:
+  level-up: ember: 1 | quick-attack: 1 | confuse-ray: 1 | safeguard: 1 | nasty-plot: 1
+  machine: dig | attract | hyper-beam | will-o-wisp | facade | double-team | substitute | swagger | dream-eater | flamethrower | overheat | calm-mind | payback | roar | protect | psych-up | giga-impact | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | energy-ball | psyshock | return | safeguard
+  egg: none
+  tutor: heat-wave | zen-headbutt | spite | sleep-talk | iron-tail | pain-split | dark-pulse | foul-play | role-play | covet | snore
+evolution_info:
+  evolves_from: vulpix
+  evolves_to: none
+  trigger: N/A
+forms: ninetales
+default_form: true

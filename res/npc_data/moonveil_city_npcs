@@ -1,0 +1,10 @@
+Map: moonveil_city
+
+# gentleman
+name: The Gentleman 
+spriteBase: gentleman
+x: 60
+y: 312
+direction: right
+dialogue: giggitygiggitygiggitygoo
+ID: 8

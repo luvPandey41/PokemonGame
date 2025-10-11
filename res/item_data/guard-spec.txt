@@ -1,0 +1,12 @@
+item_name: guard-spec
+flavor_text: An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after use.
+cost: 1500
+category: stat-boosts
+pocket: battle
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Protects the target's stats from being lowered for the next five turns. Increases happiness by 1/1/0.
+fling_power: 30
+consumable: yes
+move name: 

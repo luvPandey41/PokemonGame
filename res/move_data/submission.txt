@@ -1,0 +1,20 @@
+move name: submission
+power: 80
+accuracy: 80
+type: fighting
+attack type: physical
+target: selected-pokemon
+pp: 20
+priority: 0
+flavor text: User receives 1/4 the damage it inflicts in recoil.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: -25
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

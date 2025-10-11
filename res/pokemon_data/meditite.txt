@@ -1,0 +1,45 @@
+name: meditite
+pokedex_num: 307
+generation: III
+types: fighting | psychic
+height_dm: 6
+weight_hg: 112
+
+abilities: pure-power
+hidden_abilities: telepathy
+ability_descriptions: Doubles Attack in battle. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 30 | 40 | 55 | 40 | 55 | 60
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 180
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation."
+
+moves:
+  level-up: confusion: 8 | meditate: 4 | recover: 50 | bide: 1 | high-jump-kick: 32 | mind-reader: 18 | reversal: 46 | detect: 11 | hidden-power: 15 | psych-up: 36 | calm-mind: 25 | feint: 22 | acupressure: 39 | power-trick: 43 | force-palm: 29
+  machine: strength | attract | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | rock-tomb | calm-mind | retaliate | bulk-up | psychic | protect | rain-dance | psych-up | toxic | rest | poison-jab | focus-blast | frustration | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | light-screen | psyshock | return | flash
+  egg: baton-pass | fake-out | thunder-punch | psycho-cut | ice-punch | fire-punch | foresight | dynamic-punch | secret-power | drain-punch | bullet-punch | guard-swap | power-swap
+  tutor: signal-beam | zen-headbutt | thunder-punch | pain-split | ice-punch | trick | fire-punch | magic-coat | role-play | snore | low-kick | helping-hand | sleep-talk | drain-punch | gravity | recycle
+evolution_info:
+  evolves_from: none
+  evolves_to: medicham
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: meditite
+default_form: true

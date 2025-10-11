@@ -1,0 +1,12 @@
+item_name: loot-sack
+flavor_text: A sturdy, spacious bag that is used to carry loot obtained in the coal mine.
+cost: 0
+category: unused
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Unused.
+fling_power: -1
+consumable: no
+move name: 

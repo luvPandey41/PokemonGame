@@ -1,0 +1,12 @@
+item_name: blue-flute
+flavor_text: A toy flute made from blue glass. A maniac will buy it for a high price.
+cost: 20
+category: flutes
+pocket: battle
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Cures sleep.
+fling_power: 30
+consumable: yes
+move name: 

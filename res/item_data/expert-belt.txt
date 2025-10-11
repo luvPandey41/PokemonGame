@@ -1,0 +1,12 @@
+item_name: expert-belt
+flavor_text: An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: When the holder hits with a super-effective move, its power is raised by 20%.
+fling_power: 10
+consumable: no
+move name: 

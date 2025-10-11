@@ -1,0 +1,12 @@
+item_name: berry-juice
+flavor_text: A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+cost: 200
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores 20 HP.
+fling_power: 30
+consumable: yes
+move name: 

@@ -1,0 +1,12 @@
+item_name: tm29
+flavor_text: The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Psychic to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Psychic

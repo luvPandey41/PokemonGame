@@ -1,0 +1,45 @@
+name: panpour
+pokedex_num: 515
+generation: V
+types: water
+height_dm: 6
+weight_hg: 135
+
+abilities: gluttony
+hidden_abilities: torrent
+ability_descriptions: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 50 | 53 | 48 | 53 | 48 | 64
+base_exp: 63
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: oran-berry:50% | rindo-berry:5%
+
+description: "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+
+moves:
+  level-up: scratch: 1 | leer: 4 | bite: 19 | water-gun: 10 | lick: 7 | fury-swipes: 13 | crunch: 43 | taunt: 25 | recycle: 37 | water-sport: 16 | brine: 34 | natural-gift: 40 | fling: 28 | scald: 22 | acrobatics: 31
+  machine: cut | dig | torment | thief | attract | facade | scald | double-team | fling | substitute | swagger | grass-knot | rock-tomb | ice-beam | waterfall | payback | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | hail | hone-claws | shadow-claw | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | return | taunt
+  egg: low-kick | aqua-ring | aqua-tail | hydro-pump | nasty-plot | mud-sport | astonish | role-play | tickle | covet
+  tutor: aqua-tail | iron-tail | icy-wind | endeavor | ice-punch | role-play | snore | uproar | knock-off | low-kick | helping-hand | sleep-talk | recycle | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: simipour
+  trigger: use-item
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: panpour
+default_form: true

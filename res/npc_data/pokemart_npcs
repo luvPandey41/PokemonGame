@@ -1,0 +1,22 @@
+Map: moonveil_pokemart
+
+# Pokemart feller
+name: mart guy
+spriteBase: pokemart_guy_1
+x: 19
+y: 34
+direction: right
+dialogue: Welcome to the pokemart!|What can I help you with today?
+longRangeInteractor: true
+ID: 10
+
+---
+
+# Pokemart yapper
+name: Pokemart yapman
+spriteBase: pokemart_assistant
+x: 77
+y: 32
+direction: left
+dialogue: These aisles are very unorganized.
+ID: 11

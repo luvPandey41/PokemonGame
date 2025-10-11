@@ -1,0 +1,37 @@
+name: medicham
+pokedex_num: 308
+generation: III
+types: fighting | psychic
+height_dm: 13
+weight_hg: 315
+
+abilities: pure-power
+hidden_abilities: telepathy
+ability_descriptions: Doubles Attack in battle. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 60 | 60 | 75 | 60 | 75 | 80
+base_exp: 144
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It gains the ability to see the aura of its opponents by honing its mind through starvation."
+
+moves:
+  level-up: fire-punch: 1 | ice-punch: 1 | thunder-punch: 1 | confusion: 1 | confusion: 8 | meditate: 1 | meditate: 4 | recover: 62 | bide: 1 | high-jump-kick: 32 | mind-reader: 18 | reversal: 55 | detect: 1 | detect: 11 | hidden-power: 15 | psych-up: 36 | calm-mind: 25 | feint: 22 | acupressure: 42 | power-trick: 49 | force-palm: 29
+  machine: strength | attract | hyper-beam | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | rock-tomb | calm-mind | retaliate | bulk-up | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | energy-ball | light-screen | psyshock | return | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | thunder-punch | pain-split | ice-punch | trick | fire-punch | magic-coat | role-play | snore | low-kick | helping-hand | sleep-talk | drain-punch | gravity | recycle
+evolution_info:
+  evolves_from: meditite
+  evolves_to: none
+  trigger: N/A
+forms: medicham
+default_form: true

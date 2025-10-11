@@ -1,0 +1,45 @@
+name: dragonair
+pokedex_num: 148
+generation: I
+types: dragon
+height_dm: 40
+weight_hg: 165
+
+abilities: shed-skin
+hidden_abilities: marvel-scale
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn. | Increases Defense to 1.5× with a major status ailment.
+
+base_stats: 61 | 84 | 65 | 70 | 70 | 70
+base_exp: 147
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: dragon-scale:5% | dragon-fang:5%
+
+description: "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+
+moves:
+  level-up: slam: 21 | wrap: 1 | leer: 1 | hyper-beam: 75 | dragon-rage: 15 | thunder-wave: 1 | thunder-wave: 5 | agility: 25 | outrage: 67 | safeguard: 53 | twister: 1 | twister: 11 | dragon-dance: 61 | aqua-tail: 39 | dragon-rush: 47 | dragon-tail: 33
+  machine: dragon-tail | thunderbolt | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | ice-beam | flamethrower | waterfall | protect | rain-dance | surf | toxic | rest | incinerate | blizzard | thunder-wave | frustration | hail | sunny-day | fire-blast | hidden-power | round | light-screen | return | safeguard
+  egg: none
+  tutor: bind | aqua-tail | sleep-talk | iron-tail | icy-wind | outrage | dragon-pulse | draco-meteor | snore
+evolution_info:
+  evolves_from: dratini
+  evolves_to: dragonite
+  trigger: level-up
+  evo_level: 55
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: dragonair
+default_form: true

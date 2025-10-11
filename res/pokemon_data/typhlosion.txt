@@ -1,0 +1,37 @@
+name: typhlosion
+pokedex_num: 157
+generation: II
+types: fire
+height_dm: 17
+weight_hg: 795
+
+abilities: blaze
+hidden_abilities: flash-fire
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
+
+base_stats: 78 | 84 | 78 | 109 | 85 | 100
+base_exp: 240
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+
+moves:
+  level-up: tackle: 1 | double-edge: 69 | leer: 1 | ember: 1 | ember: 10 | flamethrower: 48 | quick-attack: 13 | smokescreen: 1 | smokescreen: 6 | defense-curl: 24 | swift: 31 | flame-wheel: 20 | rollout: 61 | eruption: 74 | gyro-ball: 1 | lava-plume: 43 | flame-charge: 35 | inferno: 56
+  machine: cut | dig | strength | wild-charge | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | flamethrower | overheat | roar | protect | giga-impact | toxic | rest | incinerate | focus-blast | frustration | aerial-ace | earthquake | solar-beam | sunny-day | shadow-claw | flame-charge | fire-blast | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: low-kick | blast-burn | heat-wave | sleep-talk | thunder-punch | fire-pledge | fire-punch | covet | snore
+evolution_info:
+  evolves_from: quilava
+  evolves_to: none
+  trigger: N/A
+forms: typhlosion
+default_form: true

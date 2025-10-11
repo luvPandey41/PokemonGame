@@ -1,0 +1,45 @@
+name: grimer
+pokedex_num: 88
+generation: I
+types: poison
+height_dm: 9
+weight_hg: 300
+
+abilities: stench | sticky-hold
+hidden_abilities: poison-touch
+ability_descriptions: Has a 10% chance of making target Pokémon flinch with each hit. | Prevents a held item from being removed by other Pokémon. | Has a 30% chance of poisoning target Pokémon upon contact.
+
+base_stats: 80 | 80 | 50 | 40 | 50 | 25
+base_exp: 65
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: nugget:5% | black-sludge:5%
+
+description: "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth."
+
+moves:
+  level-up: pound: 1 | disable: 12 | screech: 32 | harden: 4 | minimize: 18 | sludge: 15 | poison-gas: 1 | acid-armor: 40 | sludge-bomb: 26 | mud-slap: 7 | memento: 48 | fling: 29 | mud-bomb: 21 | gunk-shot: 43 | sludge-wave: 37
+  machine: sludge-wave | dig | torment | strength | thunderbolt | thief | attract | rock-slide | facade | thunder | double-team | fling | venoshock | substitute | swagger | shadow-ball | rock-tomb | flamethrower | payback | protect | sludge-bomb | rain-dance | toxic | rest | incinerate | poison-jab | frustration | sunny-day | fire-blast | explosion | hidden-power | round | return | taunt
+  egg: scary-face | swallow | haze | acid-spray | imprison | lick | curse | spit-up | shadow-sneak | stockpile | shadow-punch | mean-look
+  tutor: giga-drain | sleep-talk | thunder-punch | pain-split | ice-punch | gunk-shot | fire-punch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: muk
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: grimer
+default_form: true

@@ -1,0 +1,10 @@
+Map: maplewood_town
+
+# Tech Guy
+name: Tech guy
+spriteBase: tech_guy
+x: 32
+y: 208
+direction: right
+dialogue: Wow! Technology is incredible!|Nowadays, you can play this game with little computing power.
+ID: 2

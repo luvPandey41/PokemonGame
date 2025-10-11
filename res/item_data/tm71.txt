@@ -1,0 +1,12 @@
+item_name: tm71
+flavor_text: The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Stone Edge to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Stone Edge

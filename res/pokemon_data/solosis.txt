@@ -1,0 +1,45 @@
+name: solosis
+pokedex_num: 577
+generation: V
+types: psychic
+height_dm: 3
+weight_hg: 10
+
+abilities: overcoat | magic-guard
+hidden_abilities: regenerator
+ability_descriptions: Protects against damage from weather. | Protects against damage not directly caused by a move. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 45 | 30 | 40 | 105 | 50 | 20
+base_exp: 58
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:50%
+
+description: "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others."
+
+moves:
+  level-up: psychic: 37 | recover: 24 | light-screen: 16 | reflect: 3 | psywave: 1 | charm: 19 | rollout: 7 | pain-split: 33 | hidden-power: 14 | future-sight: 31 | endeavor: 28 | skill-swap: 40 | snatch: 10 | heal-block: 46 | wonder-room: 48 | psyshock: 25
+  machine: attract | rock-slide | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | gyro-ball | rock-tomb | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | explosion | hidden-power | round | energy-ball | flash-cannon | embargo | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: night-shade | secret-power | confuse-ray | acid-armor | imprison | trick | astonish
+  tutor: signal-beam | after-you | zen-headbutt | endeavor | pain-split | snatch | trick | magic-coat | role-play | snore | sleep-talk | gravity | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: duosion
+  trigger: level-up
+  evo_level: 32
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: solosis
+default_form: true

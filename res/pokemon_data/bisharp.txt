@@ -1,0 +1,45 @@
+name: bisharp
+pokedex_num: 625
+generation: V
+types: dark | steel
+height_dm: 16
+weight_hg: 700
+
+abilities: defiant | inner-focus
+hidden_abilities: pressure
+ability_descriptions: Raises Attack two stages upon having any stat lowered. | Prevents flinching. | Increases the PP cost of moves targetting the Pokémon by one.
+
+base_stats: 65 | 125 | 100 | 60 | 70 | 70
+base_exp: 172
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses."
+
+moves:
+  level-up: scratch: 1 | guillotine: 71 | swords-dance: 63 | leer: 1 | leer: 6 | slash: 30 | scary-face: 22 | feint-attack: 17 | fury-cutter: 1 | fury-cutter: 9 | metal-claw: 25 | torment: 1 | torment: 14 | metal-sound: 38 | iron-defense: 46 | metal-burst: 1 | assurance: 33 | embargo: 41 | night-slash: 49 | iron-head: 57
+  machine: cut | dig | torment | thief | x-scissor | attract | hyper-beam | sandstorm | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | rock-polish | payback | retaliate | protect | rain-dance | giga-impact | toxic | rest | poison-jab | focus-blast | thunder-wave | frustration | snarl | aerial-ace | hone-claws | shadow-claw | low-sweep | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | stone-edge | embargo | return | taunt
+  egg: none
+  tutor: stealth-rock | dual-chop | iron-defense | dark-pulse | snatch | role-play | iron-head | snore | knock-off | low-kick | spite | sleep-talk | magnet-rise | foul-play
+evolution_info:
+  evolves_from: pawniard
+  evolves_to: kingambit
+  trigger: other
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: bisharp
+default_form: true

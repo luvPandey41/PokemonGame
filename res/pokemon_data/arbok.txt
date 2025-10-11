@@ -1,0 +1,37 @@
+name: arbok
+pokedex_num: 24
+generation: I
+types: poison
+height_dm: 35
+weight_hg: 650
+
+abilities: intimidate | shed-skin
+hidden_abilities: unnerve
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Has a 33% chance of curing any major status ailment after each turn. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 60 | 95 | 69 | 65 | 79 | 80
+base_exp: 157
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5%
+
+description: "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear."
+
+moves:
+  level-up: wrap: 1 | poison-sting: 1 | poison-sting: 4 | leer: 1 | bite: 1 | bite: 9 | acid: 20 | screech: 17 | haze: 51 | glare: 12 | crunch: 22 | stockpile: 27 | spit-up: 27 | swallow: 27 | gastro-acid: 44 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | mud-bomb: 39 | gunk-shot: 63 | coil: 56 | acid-spray: 32
+  machine: dragon-tail | sludge-wave | dig | torment | strength | thief | attract | hyper-beam | rock-slide | facade | double-team | venoshock | substitute | swagger | bulldoze | rock-tomb | payback | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | poison-jab | frustration | earthquake | sunny-day | hidden-power | round | return
+  egg: none
+  tutor: bind | giga-drain | aqua-tail | spite | gastro-acid | sleep-talk | iron-tail | dark-pulse | seed-bomb | snatch | gunk-shot | snore
+evolution_info:
+  evolves_from: ekans
+  evolves_to: none
+  trigger: N/A
+forms: arbok
+default_form: true

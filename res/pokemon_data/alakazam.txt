@@ -1,0 +1,37 @@
+name: alakazam
+pokedex_num: 65
+generation: I
+types: psychic
+height_dm: 15
+weight_hg: 480
+
+abilities: synchronize | inner-focus
+hidden_abilities: magic-guard
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Prevents flinching. | Protects against damage not directly caused by a move.
+
+base_stats: 55 | 50 | 45 | 135 | 95 | 120
+base_exp: 225
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: twisted-spoon:5%
+
+description: "The spoons clutched in its hands are said to have been created by its psychic powers."
+
+moves:
+  level-up: disable: 18 | psybeam: 28 | confusion: 1 | confusion: 16 | psychic: 46 | teleport: 1 | recover: 36 | reflect: 30 | kinesis: 1 | future-sight: 48 | trick: 52 | calm-mind: 42 | miracle-eye: 22 | psycho-cut: 40 | telekinesis: 34 | ally-switch: 24
+  machine: torment | thief | attract | hyper-beam | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | iron-tail | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | knock-off | sleep-talk | drain-punch | gravity | recycle | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: kadabra
+  evolves_to: none
+  trigger: N/A
+forms: alakazam
+default_form: true

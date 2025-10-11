@@ -1,0 +1,37 @@
+name: poliwrath
+pokedex_num: 62
+generation: I
+types: water | fighting
+height_dm: 13
+weight_hg: 540
+
+abilities: water-absorb | damp
+hidden_abilities: swift-swim
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Doubles Speed during rain.
+
+base_stats: 90 | 95 | 95 | 70 | 90 | 70
+base_exp: 230
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: kings-rock:5%
+
+description: "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting."
+
+moves:
+  level-up: double-slap: 1 | bubble-beam: 1 | submission: 1 | hypnosis: 1 | mind-reader: 43 | dynamic-punch: 32 | circle-throw: 53
+  machine: dig | strength | thief | attract | hyper-beam | rock-slide | facade | scald | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | payback | bulk-up | psychic | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | poison-jab | focus-blast | frustration | earthquake | hail | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: helping-hand | sleep-talk | icy-wind | endeavor | ice-punch | snore
+evolution_info:
+  evolves_from: poliwhirl
+  evolves_to: none
+  trigger: N/A
+forms: poliwrath
+default_form: true

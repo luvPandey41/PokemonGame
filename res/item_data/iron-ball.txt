@@ -1,0 +1,12 @@
+item_name: iron-ball
+flavor_text: A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+cost: 4000
+category: bad-held-items
+pocket: misc
+attributes: holdable | holdable-active | underground
+holdable: yes
+stackable: yes
+effect_description: Held: Decreases the holder's Speed by 50%. If the holder is Flying or has Levitate, it takes regular damage from Ground attacks and is suspectible to Spikes and Toxic Spikes.
+fling_power: 130
+consumable: no
+move name: 

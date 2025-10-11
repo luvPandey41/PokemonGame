@@ -1,0 +1,45 @@
+name: pineco
+pokedex_num: 204
+generation: II
+types: bug
+height_dm: 6
+weight_hg: 72
+
+abilities: sturdy
+hidden_abilities: overcoat
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against damage from weather.
+
+base_stats: 50 | 65 | 90 | 35 | 35 | 15
+base_exp: 58
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+
+moves:
+  level-up: tackle: 1 | take-down: 12 | double-edge: 45 | bide: 20 | self-destruct: 6 | explosion: 34 | protect: 1 | spikes: 28 | rapid-spin: 17 | iron-defense: 39 | gyro-ball: 42 | natural-gift: 23 | payback: 31 | bug-bite: 9
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | double-team | venoshock | substitute | swagger | bulldoze | reflect | gyro-ball | rock-tomb | payback | protect | toxic | rest | frustration | earthquake | solar-beam | sunny-day | struggle-bug | explosion | hidden-power | round | rock-smash | light-screen | return
+  egg: stealth-rock | flail | double-edge | revenge | pin-missile | counter | endure | sand-tomb | power-trick | swift | toxic-spikes
+  tutor: stealth-rock | giga-drain | sleep-talk | iron-defense | gravity | bug-bite | pain-split | drill-run | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: forretress
+  trigger: level-up
+  evo_level: 31
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pineco
+default_form: true

@@ -1,0 +1,12 @@
+item_name: energy-root
+flavor_text: A very bitter root. It restores the HP of one Pokémon by 200 points.
+cost: 1200
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores 200 HP. Decreases happiness by 10/10/15.
+fling_power: 30
+consumable: yes
+move name: 

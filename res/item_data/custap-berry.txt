@@ -1,0 +1,12 @@
+item_name: custap-berry
+flavor_text: If held by a Pokémon, it gets to move first just once in a pinch.
+cost: 80
+category: in-a-pinch
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder has 1/4 its max HP remaining or less, it consumes this item. On the following turn, the holder will act first among moves with the same priority, regardless of Speed.
+fling_power: 10
+consumable: no
+move name: 

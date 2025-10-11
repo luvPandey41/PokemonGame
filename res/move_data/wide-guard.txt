@@ -1,0 +1,20 @@
+move name: wide-guard
+power: 0
+accuracy: 0
+type: rock
+attack type: status
+target: users-field
+pp: 10
+priority: 3
+flavor text: Prevents any multi-target moves from hitting friendly Pokémon this turn.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

@@ -1,0 +1,12 @@
+item_name: tm17
+flavor_text: It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Protect to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Protect

@@ -1,0 +1,12 @@
+item_name: razor-claw
+flavor_text: An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder’s critical-hit ratio.
+cost: 5000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Raises the holder's critical hit counter by 1. Held by Sneasel: Evolves the holder into Weavile when it levels up during the night.
+fling_power: 80
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: marill
+pokedex_num: 183
+generation: II
+types: water | fairy
+height_dm: 4
+weight_hg: 85
+
+abilities: thick-fat | huge-power
+hidden_abilities: sap-sipper
+ability_descriptions: Halves damage from fire and ice moves. | Doubles Attack in battle. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 70 | 20 | 50 | 20 | 50 | 40
+base_exp: 88
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water1 | fairy
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current."
+
+moves:
+  level-up: tackle: 1 | double-edge: 23 | tail-whip: 2 | water-gun: 7 | hydro-pump: 40 | bubble-beam: 13 | defense-curl: 10 | bubble: 1 | rollout: 10 | rain-dance: 31 | helping-hand: 16 | superpower: 37 | water-sport: 5 | aqua-ring: 28 | aqua-tail: 20
+  machine: dig | strength | attract | facade | scald | double-team | fling | substitute | swagger | grass-knot | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | hail | work-up | hidden-power | round | rock-smash | brick-break | light-screen | return
+  egg: perish-song | amnesia | muddy-water | future-sight | refresh | water-sport | present | belly-drum | body-slam | superpower | aqua-jet | supersonic
+  tutor: helping-hand | aqua-tail | sleep-talk | iron-tail | bounce | icy-wind | hyper-voice | ice-punch | superpower | covet | snore | knock-off
+evolution_info:
+  evolves_from: azurill
+  evolves_to: azumarill
+  trigger: level-up
+  evo_level: 18
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: marill
+default_form: true

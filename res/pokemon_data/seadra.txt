@@ -1,0 +1,45 @@
+name: seadra
+pokedex_num: 117
+generation: I
+types: water
+height_dm: 12
+weight_hg: 250
+
+abilities: poison-point | sniper
+hidden_abilities: damp
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Strengthens critical hits to inflict 3× damage rather than 2×. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 55 | 65 | 95 | 95 | 45 | 85
+base_exp: 154
+ev_yield: 0 | 0 | 1 | 1 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: dragon-scale:5%
+
+description: "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients."
+
+moves:
+  level-up: leer: 1 | leer: 8 | water-gun: 1 | water-gun: 11 | hydro-pump: 40 | bubble-beam: 18 | agility: 23 | smokescreen: 1 | smokescreen: 4 | focus-energy: 14 | bubble: 1 | twister: 26 | dragon-dance: 48 | brine: 30 | dragon-pulse: 57
+  machine: surf | giga-impact | toxic | rest | blizzard | attract | frustration | hyper-beam | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | flash-cannon | protect | dive | return | rain-dance
+  egg: none
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | outrage | dragon-pulse | snore
+evolution_info:
+  evolves_from: horsea
+  evolves_to: kingdra
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: seadra
+default_form: true

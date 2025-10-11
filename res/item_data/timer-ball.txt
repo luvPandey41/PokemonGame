@@ -1,0 +1,12 @@
+item_name: timer-ball
+flavor_text: A somewhat different Ball that becomes progressively better the more turns there are in a battle.
+cost: 1000
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon. Has a catch rate of 1.1× on the first turn of the battle and increases by 0.1× every turn, to a maximum of 4× on turn 30. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

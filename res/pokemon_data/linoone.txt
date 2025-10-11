@@ -1,0 +1,45 @@
+name: linoone
+pokedex_num: 264
+generation: III
+types: normal
+height_dm: 5
+weight_hg: 325
+
+abilities: pickup | gluttony
+hidden_abilities: quick-feet
+ability_descriptions: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Increases Speed to 1.5× with a major status ailment.
+
+base_stats: 78 | 70 | 61 | 50 | 61 | 100
+base_exp: 147
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: potion:50% | max-revive:5% | oran-berry:50% | sitrus-berry:5%
+
+description: "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails."
+
+moves:
+  level-up: sand-attack: 13 | headbutt: 1 | headbutt: 9 | tackle: 1 | tail-whip: 1 | tail-whip: 5 | growl: 1 | fury-swipes: 29 | rest: 53 | slash: 47 | belly-drum: 59 | mud-sport: 23 | odor-sleuth: 17 | covet: 35 | fling: 65 | switcheroo: 1 | bestow: 41
+  machine: cut | dig | strength | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | roar | protect | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | rock-smash | charge-beam | return
+  egg: none
+  tutor: helping-hand | last-resort | sleep-talk | iron-tail | icy-wind | hyper-voice | seed-bomb | super-fang | gunk-shot | trick | covet | snore
+evolution_info:
+  evolves_from: zigzagoon
+  evolves_to: obstagoon
+  trigger: level-up
+  evo_level: 35
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: night
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: linoone
+default_form: true

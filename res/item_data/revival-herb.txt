@@ -1,0 +1,12 @@
+item_name: revival-herb
+flavor_text: A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.
+cost: 2800
+category: revival
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Revives a fainted Pokémon and restores its HP to full. Decreases happiness by 10/10/15.
+fling_power: 30
+consumable: yes
+move name: 

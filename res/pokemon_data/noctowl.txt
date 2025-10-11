@@ -1,0 +1,37 @@
+name: noctowl
+pokedex_num: 164
+generation: II
+types: normal | flying
+height_dm: 16
+weight_hg: 408
+
+abilities: insomnia | keen-eye
+hidden_abilities: tinted-lens
+ability_descriptions: Prevents sleep. | Prevents accuracy from being lowered. | Doubles damage inflicted with not-very-effective moves.
+
+base_stats: 100 | 50 | 50 | 86 | 96 | 70
+base_exp: 158
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light."
+
+moves:
+  level-up: tackle: 1 | take-down: 32 | growl: 1 | peck: 9 | confusion: 22 | hypnosis: 1 | hypnosis: 5 | reflect: 17 | dream-eater: 67 | sky-attack: 1 | foresight: 1 | uproar: 13 | extrasensory: 52 | roost: 62 | psycho-shift: 57 | air-slash: 37 | zen-headbutt: 42 | synchronoise: 47 | echoed-voice: 27
+  machine: thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | dream-eater | reflect | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | frustration | aerial-ace | sunny-day | work-up | fly | hidden-power | round | pluck | return
+  egg: none
+  tutor: heat-wave | tailwind | zen-headbutt | sleep-talk | recycle | hyper-voice | sky-attack | roost | magic-coat | uproar
+evolution_info:
+  evolves_from: hoothoot
+  evolves_to: none
+  trigger: N/A
+forms: noctowl
+default_form: true

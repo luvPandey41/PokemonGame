@@ -1,0 +1,37 @@
+name: ferrothorn
+pokedex_num: 598
+generation: V
+types: grass | steel
+height_dm: 10
+weight_hg: 1100
+
+abilities: iron-barbs
+hidden_abilities: anticipation
+ability_descriptions: Damages attacking Pokémon for 1/8 their max HP on contact. | Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.
+
+base_stats: 74 | 94 | 131 | 54 | 116 | 20
+base_exp: 171
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant | mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: sticky-barb:5%
+
+description: "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble."
+
+moves:
+  level-up: tackle: 1 | pin-missile: 18 | harden: 1 | self-destruct: 38 | explosion: 67 | curse: 1 | curse: 9 | rollout: 1 | rollout: 6 | metal-claw: 14 | ingrain: 35 | iron-defense: 26 | gyro-ball: 21 | payback: 53 | mirror-shot: 30 | flash-cannon: 61 | rock-climb: 1 | power-whip: 40 | iron-head: 46
+  machine: cut | strength | thunderbolt | hyper-beam | sandstorm | facade | thunder | double-team | substitute | swagger | grass-knot | bulldoze | gyro-ball | rock-polish | payback | protect | giga-impact | toxic | rest | poison-jab | thunder-wave | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | explosion | hidden-power | round | swords-dance | rock-smash | energy-ball | flash-cannon | return | flash
+  egg: none
+  tutor: stealth-rock | giga-drain | sleep-talk | iron-defense | gravity | endeavor | magnet-rise | seed-bomb | worry-seed | iron-head | snore | knock-off
+evolution_info:
+  evolves_from: ferroseed
+  evolves_to: none
+  trigger: N/A
+forms: ferrothorn
+default_form: true

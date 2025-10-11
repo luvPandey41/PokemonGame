@@ -1,0 +1,12 @@
+item_name: gracidea
+flavor_text: A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer on a shaymin : Changes the target Shaymin from Land Forme to Sky Forme. This item cannot be used on a frozen Shaymin or at night. Sky Forme Shaymin will revert to Land Forme overnight, when frozen, and upon entering a link battle. This item must be used again to change it back.
+fling_power: -1
+consumable: no
+move name: 

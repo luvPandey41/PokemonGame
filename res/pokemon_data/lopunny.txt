@@ -1,0 +1,37 @@
+name: lopunny
+pokedex_num: 428
+generation: IV
+types: normal
+height_dm: 12
+weight_hg: 333
+
+abilities: cute-charm | klutz
+hidden_abilities: limber
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Prevents the Pokémon from using its held item in battle. | Prevents paralysis.
+
+base_stats: 65 | 76 | 84 | 54 | 96 | 105
+base_exp: 168
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 60
+base_friendship: 140
+growth_rate: medium
+
+egg_groups: ground | humanshape
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | chople-berry:5%
+
+description: "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs."
+
+moves:
+  level-up: pound: 1 | jump-kick: 23 | agility: 33 | quick-attack: 16 | defense-curl: 1 | dizzy-punch: 36 | splash: 1 | foresight: 1 | endure: 6 | charm: 46 | return: 13 | baton-pass: 26 | mirror-coat: 1 | magic-coat: 1 | bounce: 56 | healing-wish: 63 | entrainment: 53 | after-you: 43
+  machine: cut | dig | strength | thunderbolt | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | protect | rain-dance | giga-impact | toxic | rest | blizzard | focus-blast | thunder-wave | frustration | solar-beam | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | charge-beam | return
+  egg: none
+  tutor: after-you | iron-tail | bounce | thunder-punch | endeavor | ice-punch | fire-punch | magic-coat | snore | uproar | low-kick | helping-hand | last-resort | sleep-talk | drain-punch | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: buneary
+  evolves_to: none
+  trigger: N/A
+forms: lopunny
+default_form: true

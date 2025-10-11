@@ -1,0 +1,37 @@
+name: weezing
+pokedex_num: 110
+generation: I
+types: poison
+height_dm: 12
+weight_hg: 95
+
+abilities: levitate | neutralizing-gas
+hidden_abilities: stench
+ability_descriptions: Evades ground moves. | Neutralizes abilities of all Pokémon in battle. | Has a 10% chance of making target Pokémon flinch with each hit.
+
+base_stats: 65 | 90 | 120 | 85 | 70 | 60
+base_exp: 172
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: smoke-ball:5%
+
+description: "It grows by feeding on gases released by garbage. Though very rare, triplets have been found."
+
+moves:
+  level-up: tackle: 1 | smokescreen: 1 | smokescreen: 7 | haze: 26 | self-destruct: 23 | smog: 1 | smog: 4 | sludge: 18 | poison-gas: 1 | explosion: 40 | sludge-bomb: 34 | destiny-bond: 46 | memento: 54 | assurance: 12 | double-hit: 29 | clear-smog: 15
+  machine: torment | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | thunder | double-team | venoshock | substitute | swagger | shadow-ball | gyro-ball | flamethrower | payback | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | incinerate | frustration | sunny-day | fire-blast | explosion | hidden-power | round | return | taunt | flash
+  egg: none
+  tutor: spite | sleep-talk | pain-split | dark-pulse | snore | uproar
+evolution_info:
+  evolves_from: koffing
+  evolves_to: none
+  trigger: N/A
+forms: weezing
+default_form: true

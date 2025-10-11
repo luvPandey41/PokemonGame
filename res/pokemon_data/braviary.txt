@@ -1,0 +1,37 @@
+name: braviary
+pokedex_num: 628
+generation: V
+types: normal | flying
+height_dm: 15
+weight_hg: 410
+
+abilities: keen-eye | sheer-force
+hidden_abilities: defiant
+ability_descriptions: Prevents accuracy from being lowered. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | Raises Attack two stages upon having any stat lowered.
+
+base_stats: 100 | 123 | 75 | 57 | 75 | 80
+base_exp: 179
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: flying
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They fight for their friends without any thought about danger to themselves. One can carry a car while flying."
+
+moves:
+  level-up: wing-attack: 1 | wing-attack: 10 | whirlwind: 57 | fury-attack: 1 | fury-attack: 5 | thrash: 70 | leer: 1 | peck: 1 | slash: 28 | scary-face: 19 | superpower: 51 | crush-claw: 46 | aerial-ace: 23 | tailwind: 37 | air-slash: 41 | brave-bird: 63 | defog: 32 | hone-claws: 14 | sky-drop: 50
+  machine: u-turn | cut | strength | attract | hyper-beam | rock-slide | facade | double-team | substitute | swagger | rock-tomb | retaliate | bulk-up | protect | rain-dance | sky-drop | giga-impact | toxic | rest | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | work-up | fly | hidden-power | round | rock-smash | pluck | return
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | superpower | snore
+evolution_info:
+  evolves_from: rufflet
+  evolves_to: none
+  trigger: N/A
+forms: braviary
+default_form: true

@@ -1,0 +1,45 @@
+name: axew
+pokedex_num: 610
+generation: V
+types: dragon
+height_dm: 6
+weight_hg: 180
+
+abilities: rivalry | mold-breaker
+hidden_abilities: unnerve
+ability_descriptions: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Bypasses targets' abilities if they could hinder or prevent a move. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 46 | 87 | 60 | 30 | 40 | 57
+base_exp: 64
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp."
+
+moves:
+  level-up: scratch: 1 | guillotine: 51 | swords-dance: 46 | leer: 4 | dragon-rage: 10 | slash: 20 | scary-face: 16 | outrage: 56 | false-swipe: 24 | taunt: 36 | dragon-claw: 28 | dragon-dance: 32 | assurance: 7 | dragon-pulse: 41 | giga-impact: 61 | dual-chop: 13
+  machine: cut | dig | strength | x-scissor | attract | facade | double-team | fling | substitute | swagger | rock-tomb | payback | roar | protect | dragon-claw | rain-dance | giga-impact | toxic | rest | incinerate | poison-jab | frustration | aerial-ace | hone-claws | sunny-day | hidden-power | false-swipe | round | swords-dance | rock-smash | return | taunt
+  egg: harden | reversal | night-slash | iron-tail | endeavor | razor-wind | focus-energy | counter | endure | dragon-pulse
+  tutor: dual-chop | aqua-tail | sleep-talk | iron-tail | endeavor | outrage | dragon-pulse | draco-meteor | superpower | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: fraxure
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: axew
+default_form: true

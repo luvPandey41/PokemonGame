@@ -1,0 +1,45 @@
+name: joltik
+pokedex_num: 595
+generation: V
+types: bug | electric
+height_dm: 1
+weight_hg: 6
+
+abilities: compound-eyes | unnerve
+hidden_abilities: swarm
+ability_descriptions: Increases moves' accuracy to 1.3×. | Prevents opposing Pokémon from eating held Berries. | Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 50 | 47 | 50 | 57 | 50 | 65
+base_exp: 64
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses."
+
+moves:
+  level-up: string-shot: 1 | thunder-wave: 4 | agility: 37 | screech: 7 | leech-life: 1 | slash: 26 | spider-web: 1 | fury-cutter: 12 | signal-beam: 34 | gastro-acid: 23 | sucker-punch: 40 | bug-buzz: 48 | discharge: 45 | bug-bite: 18 | electro-ball: 29 | electroweb: 15
+  machine: cut | thunderbolt | thief | x-scissor | wild-charge | attract | facade | double-team | substitute | swagger | protect | volt-switch | rain-dance | toxic | rest | poison-jab | thunder-wave | frustration | struggle-bug | hidden-power | round | charge-beam | energy-ball | light-screen | return | flash
+  egg: rock-climb | pin-missile | disable | pursuit | cross-poison | feint-attack | poison-sting
+  tutor: signal-beam | giga-drain | gastro-acid | sleep-talk | bounce | bug-bite | magnet-rise | electroweb | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: galvantula
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: joltik
+default_form: true

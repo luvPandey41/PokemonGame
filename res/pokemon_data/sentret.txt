@@ -1,0 +1,45 @@
+name: sentret
+pokedex_num: 161
+generation: II
+types: normal
+height_dm: 8
+weight_hg: 60
+
+abilities: run-away | keen-eye
+hidden_abilities: frisk
+ability_descriptions: Ensures success fleeing from wild battles. | Prevents accuracy from being lowered. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 35 | 46 | 34 | 35 | 45 | 20
+base_exp: 43
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: oran-berry:5%
+
+description: "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+
+moves:
+  level-up: scratch: 1 | slam: 25 | quick-attack: 7 | defense-curl: 4 | amnesia: 36 | fury-swipes: 13 | rest: 28 | foresight: 1 | baton-pass: 39 | follow-me: 19 | helping-hand: 16 | hyper-voice: 47 | me-first: 42 | sucker-punch: 31
+  machine: u-turn | cut | dig | thunderbolt | thief | attract | facade | double-team | fling | substitute | swagger | shadow-ball | grass-knot | ice-beam | flamethrower | retaliate | protect | rain-dance | surf | toxic | rest | echoed-voice | frustration | solar-beam | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | brick-break | charge-beam | return
+  egg: double-edge | reversal | last-resort | charm | iron-tail | pursuit | natural-gift | focus-energy | assist | slash | trick | covet
+  tutor: aqua-tail | iron-tail | thunder-punch | super-fang | ice-punch | trick | fire-punch | snore | uproar | knock-off | helping-hand | last-resort | sleep-talk | hyper-voice | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: furret
+  trigger: level-up
+  evo_level: 15
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: sentret
+default_form: true

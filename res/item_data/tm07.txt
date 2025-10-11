@@ -1,0 +1,12 @@
+item_name: tm07
+flavor_text: Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Hail to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Hail

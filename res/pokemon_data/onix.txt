@@ -1,0 +1,45 @@
+name: onix
+pokedex_num: 95
+generation: I
+types: rock | ground
+height_dm: 88
+weight_hg: 2100
+
+abilities: rock-head | sturdy
+hidden_abilities: weak-armor
+ability_descriptions: Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 35 | 45 | 160 | 30 | 45 | 70
+base_exp: 77
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: hard-stone:5%
+
+description: "It burrows through the ground at a speed of 50 mph while feeding on large boulders."
+
+moves:
+  level-up: bind: 1 | slam: 28 | tackle: 1 | double-edge: 49 | rock-throw: 7 | dig: 43 | rage: 10 | screech: 31 | harden: 1 | rock-slide: 34 | curse: 4 | sandstorm: 52 | dragon-breath: 25 | iron-tail: 40 | mud-sport: 1 | rock-tomb: 13 | sand-tomb: 37 | rock-polish: 19 | stone-edge: 46 | stealth-rock: 16 | smack-down: 22
+  machine: dragon-tail | dig | torment | strength | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | payback | roar | protect | psych-up | toxic | rest | frustration | earthquake | sunny-day | explosion | hidden-power | round | rock-smash | stone-edge | flash-cannon | smack-down | return | taunt
+  egg: stealth-rock | flail | rock-blast | rock-climb | rollout | block | heavy-slam | defense-curl
+  tutor: stealth-rock | earth-power | bind | sleep-talk | iron-tail | block | dragon-pulse | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: steelix
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: onix
+default_form: true

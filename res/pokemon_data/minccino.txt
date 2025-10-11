@@ -1,0 +1,45 @@
+name: minccino
+pokedex_num: 572
+generation: V
+types: normal
+height_dm: 4
+weight_hg: 58
+
+abilities: cute-charm | technician
+hidden_abilities: skill-link
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Strengthens moves of 60 base power or less to 1.5× their power. | Extends two-to-five-hit moves and triple kick to their full length every time.
+
+base_stats: 55 | 50 | 40 | 40 | 40 | 75
+base_exp: 60
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 15
+
+wild_held_items: chesto-berry:50%
+
+description: "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean."
+
+moves:
+  level-up: pound: 1 | double-slap: 13 | slam: 37 | growl: 3 | sing: 21 | swift: 19 | charm: 27 | encore: 15 | helping-hand: 7 | hyper-voice: 43 | tickle: 9 | wake-up-slap: 31 | last-resort: 45 | captivate: 39 | after-you: 49 | echoed-voice: 33 | tail-slap: 25
+  machine: u-turn | dig | thunderbolt | thief | attract | facade | double-team | fling | substitute | swagger | grass-knot | calm-mind | retaliate | protect | rain-dance | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | return | safeguard
+  egg: flail | aqua-tail | mud-slap | sleep-talk | iron-tail | fake-tears | tail-whip | endure | knock-off
+  tutor: after-you | aqua-tail | iron-tail | seed-bomb | snore | uproar | knock-off | helping-hand | last-resort | sleep-talk | hyper-voice | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: cinccino
+  trigger: use-item
+  evo_level: null
+  evo_item: shiny-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: minccino
+default_form: true

@@ -1,0 +1,37 @@
+name: swalot
+pokedex_num: 317
+generation: III
+types: poison
+height_dm: 17
+weight_hg: 800
+
+abilities: liquid-ooze | sticky-hold
+hidden_abilities: gluttony
+ability_descriptions: Damages opponents using leeching moves for as much as they would heal. | Prevents a held item from being removed by other Pokémon. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 100 | 73 | 83 | 73 | 83 | 55
+base_exp: 163
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: big-pearl:5% | oran-berry:5% | sitrus-berry:5%
+
+description: "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes."
+
+moves:
+  level-up: pound: 1 | body-slam: 26 | toxic: 30 | sludge: 1 | sludge: 14 | amnesia: 17 | poison-gas: 1 | poison-gas: 9 | sludge-bomb: 52 | encore: 23 | stockpile: 45 | spit-up: 45 | swallow: 45 | yawn: 1 | yawn: 6 | wring-out: 66 | gastro-acid: 59 | gunk-shot: 73 | acid-spray: 38
+  machine: sludge-wave | strength | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | dream-eater | bulldoze | ice-beam | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | frustration | earthquake | solar-beam | sunny-day | explosion | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: giga-drain | gastro-acid | sleep-talk | thunder-punch | pain-split | seed-bomb | ice-punch | snatch | block | gunk-shot | fire-punch | snore
+evolution_info:
+  evolves_from: gulpin
+  evolves_to: none
+  trigger: N/A
+forms: swalot
+default_form: true

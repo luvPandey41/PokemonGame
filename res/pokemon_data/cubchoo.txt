@@ -1,0 +1,45 @@
+name: cubchoo
+pokedex_num: 613
+generation: V
+types: ice
+height_dm: 5
+weight_hg: 85
+
+abilities: snow-cloak | slush-rush
+hidden_abilities: rattled
+ability_descriptions: Increases evasion to 1.25× during hail.  Protects against hail damage. | During Hail, this Pokémon has double Speed. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 55 | 70 | 40 | 60 | 40 | 40
+base_exp: 61
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: aspear-berry:50%
+
+description: "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases."
+
+moves:
+  level-up: thrash: 53 | growl: 5 | blizzard: 45 | bide: 9 | fury-swipes: 17 | rest: 41 | slash: 33 | flail: 36 | powder-snow: 1 | icy-wind: 13 | endure: 25 | charm: 29 | hail: 49 | sheer-cold: 57 | brine: 21
+  machine: cut | dig | strength | attract | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | ice-beam | protect | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | aerial-ace | hail | hone-claws | shadow-claw | frost-breath | hidden-power | round | rock-smash | return
+  egg: assurance | night-slash | sleep-talk | focus-punch | yawn | avalanche | ice-punch | encore
+  tutor: low-kick | sleep-talk | icy-wind | ice-punch | superpower | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: beartic
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cubchoo
+default_form: true

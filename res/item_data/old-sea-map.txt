@@ -1,0 +1,12 @@
+item_name: old-sea-map
+flavor_text: A faded sea chart that shows the way to a certain island.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to Faraway Island and mew.
+fling_power: -1
+consumable: no
+move name: 

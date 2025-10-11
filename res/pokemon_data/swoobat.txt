@@ -1,0 +1,37 @@
+name: swoobat
+pokedex_num: 528
+generation: V
+types: psychic | flying
+height_dm: 9
+weight_hg: 105
+
+abilities: unaware | klutz
+hidden_abilities: simple
+ability_descriptions: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | Prevents the Pokémon from using its held item in battle. | Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.
+
+base_stats: 67 | 57 | 55 | 77 | 55 | 114
+base_exp: 149
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks."
+
+moves:
+  level-up: gust: 1 | gust: 8 | confusion: 1 | psychic: 41 | amnesia: 29 | attract: 25 | future-sight: 36 | endeavor: 47 | imprison: 19 | air-cutter: 21 | odor-sleuth: 1 | odor-sleuth: 4 | calm-mind: 29 | assurance: 1 | assurance: 12 | air-slash: 32 | heart-stamp: 15
+  machine: u-turn | torment | thief | attract | hyper-beam | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | gyro-ball | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | aerial-ace | acrobatics | fly | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | pluck | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | tailwind | zen-headbutt | endeavor | sky-attack | super-fang | roost | trick | magic-coat | snore | uproar | knock-off | heat-wave | giga-drain | helping-hand | sleep-talk | skill-swap
+evolution_info:
+  evolves_from: woobat
+  evolves_to: none
+  trigger: N/A
+forms: swoobat
+default_form: true

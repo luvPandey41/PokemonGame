@@ -1,0 +1,12 @@
+item_name: power-herb
+flavor_text: A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Whenever the holder uses a move that requires a turn to charge first (Bounce, Dig, Dive, Fly, Razor Wind, Skull Bash, Sky Attack, or Solarbeam), this item is consumed and the charge is skipped. Skull Bash still provides a Defense boost.
+fling_power: 10
+consumable: no
+move name: 

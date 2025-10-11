@@ -1,0 +1,37 @@
+name: dragonite
+pokedex_num: 149
+generation: I
+types: dragon | flying
+height_dm: 22
+weight_hg: 2100
+
+abilities: inner-focus
+hidden_abilities: multiscale
+ability_descriptions: Prevents flinching. | Halves damage taken from full HP.
+
+base_stats: 91 | 134 | 95 | 100 | 100 | 80
+base_exp: 270
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: dragon-scale:5% | dragon-fang:5%
+
+description: "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore."
+
+moves:
+  level-up: fire-punch: 1 | thunder-punch: 1 | wing-attack: 55 | slam: 21 | wrap: 1 | leer: 1 | hyper-beam: 75 | dragon-rage: 15 | thunder-wave: 1 | thunder-wave: 5 | agility: 25 | outrage: 67 | safeguard: 53 | twister: 1 | twister: 11 | dragon-dance: 61 | roost: 1 | aqua-tail: 39 | dragon-rush: 47 | dragon-tail: 33 | hurricane: 81
+  machine: dragon-tail | strength | facade | thunder | double-team | fling | swagger | roar | dragon-claw | sky-drop | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | stone-edge | safeguard | cut | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | substitute | bulldoze | rock-tomb | ice-beam | flamethrower | waterfall | protect | dive | rain-dance | rest | blizzard | focus-blast | aerial-ace | hail | hone-claws | sunny-day | fire-blast | fly | hidden-power | round | rock-smash | brick-break | light-screen | return
+  egg: none
+  tutor: tailwind | aqua-tail | iron-tail | icy-wind | thunder-punch | outrage | roost | ice-punch | fire-punch | dragon-pulse | superpower | iron-head | snore | heat-wave | bind | sleep-talk | draco-meteor
+evolution_info:
+  evolves_from: dragonair
+  evolves_to: none
+  trigger: N/A
+forms: dragonite
+default_form: true

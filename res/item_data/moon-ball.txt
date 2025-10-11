@@ -1,0 +1,12 @@
+item_name: moon-ball
+flavor_text: A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+cost: 0
+category: apricorn-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer in battle : Attempts to catch a wild Pokémon. If used in a trainer battle, nothing happens and the ball is lost. If the wild Pokémon is a clefairy, nidoran m, nidoran f, jigglypuff, skitty, or any evolution thereof, the wild Pokémon has 4× its catch rate.
+fling_power: -1
+consumable: no
+move name: 

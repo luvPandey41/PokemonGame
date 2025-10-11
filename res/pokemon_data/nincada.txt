@@ -1,0 +1,52 @@
+name: nincada
+pokedex_num: 290
+generation: III
+types: bug | ground
+height_dm: 5
+weight_hg: 55
+
+abilities: compound-eyes
+hidden_abilities: run-away
+ability_descriptions: Increases moves' accuracy to 1.3×. | Ensures success fleeing from wild battles.
+
+base_stats: 31 | 45 | 90 | 30 | 30 | 40
+base_exp: 53
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: soft-sand:5%
+
+description: "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 9 | dig: 45 | harden: 1 | leech-life: 5 | fury-swipes: 14 | mind-reader: 19 | mud-slap: 31 | false-swipe: 25 | metal-claw: 38
+  machine: toxic | rest | cut | dig | x-scissor | frustration | sandstorm | facade | aerial-ace | double-team | solar-beam | hone-claws | substitute | swagger | sunny-day | shadow-ball | struggle-bug | hidden-power | false-swipe | round | protect | return | flash
+  egg: night-slash | bug-bite | final-gambit | endure | bug-buzz | feint-attack | silver-wind | gust
+  tutor: giga-drain | spite | sleep-talk | bug-bite | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: ninjask, shedinja
+  trigger: level-up, shed
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nincada
+default_form: true

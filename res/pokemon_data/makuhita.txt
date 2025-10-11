@@ -1,0 +1,45 @@
+name: makuhita
+pokedex_num: 296
+generation: III
+types: fighting
+height_dm: 10
+weight_hg: 864
+
+abilities: thick-fat | guts
+hidden_abilities: sheer-force
+ability_descriptions: Halves damage from fire and ice moves. | Increases Attack to 1.5× with a major status ailment. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 72 | 60 | 30 | 20 | 30 | 25
+base_exp: 47
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 180
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: black-belt:5%
+
+description: "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+
+moves:
+  level-up: whirlwind: 16 | sand-attack: 4 | tackle: 1 | seismic-toss: 31 | focus-energy: 1 | reversal: 43 | belly-drum: 25 | endure: 37 | vital-throw: 10 | fake-out: 13 | smelling-salts: 22 | knock-off: 19 | arm-thrust: 7 | wake-up-slap: 34 | close-combat: 40 | force-palm: 28 | heavy-slam: 46
+  machine: dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | retaliate | bulk-up | protect | rain-dance | surf | toxic | rest | poison-jab | focus-blast | frustration | earthquake | sunny-day | low-sweep | work-up | hidden-power | round | rock-smash | brick-break | smack-down | return
+  egg: revenge | cross-chop | wide-guard | detect | chip-away | counter | feint-attack | foresight | dynamic-punch | helping-hand | bullet-punch | focus-punch | wake-up-slap | feint
+  tutor: low-kick | helping-hand | sleep-talk | thunder-punch | ice-punch | fire-punch | role-play | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: hariyama
+  trigger: level-up
+  evo_level: 24
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: makuhita
+default_form: true

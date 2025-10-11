@@ -1,0 +1,45 @@
+name: wingull
+pokedex_num: 278
+generation: III
+types: water | flying
+height_dm: 6
+weight_hg: 95
+
+abilities: keen-eye | hydration
+hidden_abilities: rain-dish
+ability_descriptions: Prevents accuracy from being lowered. | Cures any major status ailment after each turn during rain. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 40 | 30 | 30 | 55 | 30 | 85
+base_exp: 54
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pretty-wing:50%
+
+description: "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill."
+
+moves:
+  level-up: wing-attack: 9 | growl: 1 | supersonic: 6 | mist: 14 | water-gun: 1 | agility: 38 | quick-attack: 22 | pursuit: 30 | air-cutter: 33 | aerial-ace: 42 | water-pulse: 17 | roost: 26 | air-slash: 46 | hurricane: 49
+  machine: toxic | rest | u-turn | blizzard | thief | echoed-voice | attract | frustration | facade | aerial-ace | scald | double-team | hail | substitute | swagger | fly | hidden-power | ice-beam | round | protect | pluck | return | rain-dance
+  egg: aqua-ring | twister | roost | brine | water-sport | agility | mist | gust | knock-off
+  tutor: tailwind | sleep-talk | icy-wind | roost | snore | uproar | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: pelipper
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: wingull
+default_form: true

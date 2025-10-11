@@ -1,0 +1,11 @@
+Map: moonveil_pokecenter_floor_one
+
+# Nurse 
+name: nurse
+spriteBase: nurse
+x: 64
+y: 24
+direction: down
+dialogue: Here, heal your pokemon!|Your pokemon have been healed.|Have a good day, and come again!
+longRangeInteractor: true
+ID: 9

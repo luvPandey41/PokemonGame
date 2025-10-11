@@ -1,0 +1,37 @@
+name: rayquaza
+pokedex_num: 384
+generation: III
+types: dragon | flying
+height_dm: 70
+weight_hg: 2065
+
+abilities: air-lock
+hidden_abilities: none
+ability_descriptions: Negates all effects of weather, but does not prevent the weather itself.
+
+base_stats: 105 | 150 | 90 | 150 | 90 | 95
+base_exp: 306
+ev_yield: 0 | 2 | 0 | 1 | 0 | 0
+capture_rate: 45
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+
+moves:
+  level-up: fly: 65 | hyper-beam: 80 | rest: 30 | scary-face: 5 | outrage: 50 | twister: 1 | crunch: 15 | extreme-speed: 75 | ancient-power: 45 | hyper-voice: 20 | dragon-dance: 60 | air-slash: 35 | dragon-pulse: 90
+  machine: dragon-tail | strength | facade | thunder | double-team | fling | swagger | roar | dragon-claw | sky-drop | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | solar-beam | stone-edge | thunderbolt | hyper-beam | rock-slide | sandstorm | substitute | bulldoze | gyro-ball | rock-tomb | ice-beam | flamethrower | waterfall | overheat | bulk-up | protect | dive | rain-dance | psych-up | rest | blizzard | echoed-voice | focus-blast | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | fly | hidden-power | round | swords-dance | rock-smash | brick-break | energy-ball | return
+  egg: none
+  tutor: earth-power | tailwind | aqua-tail | iron-tail | icy-wind | outrage | dragon-pulse | iron-head | snore | uproar | bind | sleep-talk | hyper-voice | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: rayquaza
+default_form: true

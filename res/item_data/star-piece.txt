@@ -1,0 +1,12 @@
+item_name: star-piece
+flavor_text: A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+cost: 12000
+category: loot
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

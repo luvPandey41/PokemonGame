@@ -1,0 +1,37 @@
+name: lanturn
+pokedex_num: 171
+generation: II
+types: water | electric
+height_dm: 12
+weight_hg: 225
+
+abilities: volt-absorb | illuminate
+hidden_abilities: water-absorb
+ability_descriptions: Absorbs electric moves, healing for 1/4 max HP. | Doubles the wild encounter rate. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 125 | 58 | 58 | 76 | 76 | 67
+base_exp: 161
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: yellow-shard:5% | deep-sea-scale:5%
+
+description: "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”"
+
+moves:
+  level-up: take-down: 23 | supersonic: 1 | water-gun: 12 | hydro-pump: 57 | bubble-beam: 35 | thunder-wave: 1 | thunder-wave: 6 | confuse-ray: 17 | bubble: 1 | flail: 9 | spark: 20 | stockpile: 27 | spit-up: 27 | swallow: 27 | charge: 64 | signal-beam: 40 | aqua-ring: 52 | discharge: 47 | electro-ball: 30
+  machine: thunderbolt | wild-charge | attract | hyper-beam | facade | scald | thunder | double-team | substitute | swagger | ice-beam | waterfall | protect | dive | volt-switch | rain-dance | surf | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | hail | hidden-power | round | charge-beam | return | flash
+  egg: none
+  tutor: signal-beam | aqua-tail | sleep-talk | bounce | icy-wind | heal-bell | snore
+evolution_info:
+  evolves_from: chinchou
+  evolves_to: none
+  trigger: N/A
+forms: lanturn
+default_form: true

@@ -1,0 +1,37 @@
+name: azumarill
+pokedex_num: 184
+generation: II
+types: water | fairy
+height_dm: 8
+weight_hg: 285
+
+abilities: thick-fat | huge-power
+hidden_abilities: sap-sipper
+ability_descriptions: Halves damage from fire and ice moves. | Doubles Attack in battle. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 100 | 50 | 80 | 60 | 80 | 50
+base_exp: 189
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water1 | fairy
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "It can spend all day in water, since it can inhale and store a large volume of air."
+
+moves:
+  level-up: tackle: 1 | double-edge: 25 | tail-whip: 1 | tail-whip: 2 | water-gun: 7 | hydro-pump: 46 | bubble-beam: 13 | defense-curl: 10 | bubble: 1 | rollout: 10 | rain-dance: 35 | helping-hand: 16 | superpower: 42 | water-sport: 1 | water-sport: 5 | aqua-ring: 31 | aqua-tail: 21
+  machine: dig | strength | attract | hyper-beam | facade | scald | double-team | fling | substitute | swagger | grass-knot | bulldoze | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | focus-blast | frustration | hail | work-up | hidden-power | round | rock-smash | brick-break | light-screen | return
+  egg: none
+  tutor: helping-hand | aqua-tail | sleep-talk | iron-tail | bounce | icy-wind | hyper-voice | ice-punch | superpower | covet | snore | knock-off
+evolution_info:
+  evolves_from: marill
+  evolves_to: none
+  trigger: N/A
+forms: azumarill
+default_form: true

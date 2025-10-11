@@ -1,0 +1,37 @@
+name: swampert
+pokedex_num: 260
+generation: III
+types: water | ground
+height_dm: 15
+weight_hg: 819
+
+abilities: torrent
+hidden_abilities: damp
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 100 | 110 | 90 | 85 | 90 | 60
+base_exp: 241
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | water1
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+
+moves:
+  level-up: tackle: 1 | take-down: 31 | growl: 1 | water-gun: 1 | water-gun: 10 | earthquake: 52 | bide: 15 | protect: 46 | mud-slap: 1 | mud-slap: 6 | foresight: 20 | endeavor: 61 | muddy-water: 39 | mud-shot: 16 | hammer-arm: 69 | mud-bomb: 25
+  machine: sludge-wave | dig | strength | attract | hyper-beam | rock-slide | facade | scald | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | stone-edge | return
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | endeavor | outrage | ice-punch | superpower | water-pledge | snore | low-kick | sleep-talk | hydro-cannon
+evolution_info:
+  evolves_from: marshtomp
+  evolves_to: none
+  trigger: N/A
+forms: swampert
+default_form: true

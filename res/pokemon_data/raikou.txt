@@ -1,0 +1,37 @@
+name: raikou
+pokedex_num: 243
+generation: II
+types: electric
+height_dm: 19
+weight_hg: 1780
+
+abilities: pressure
+hidden_abilities: inner-focus
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Prevents flinching.
+
+base_stats: 90 | 85 | 75 | 115 | 100 | 115
+base_exp: 261
+ev_yield: 0 | 0 | 0 | 1 | 0 | 2
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+
+moves:
+  level-up: leer: 1 | bite: 1 | roar: 15 | thunder-shock: 8 | thunder: 85 | quick-attack: 22 | reflect: 36 | spark: 29 | rain-dance: 71 | crunch: 43 | extrasensory: 64 | calm-mind: 78 | thunder-fang: 50 | discharge: 57
+  machine: cut | dig | strength | thunderbolt | wild-charge | hyper-beam | sandstorm | facade | thunder | double-team | substitute | swagger | shadow-ball | bulldoze | reflect | calm-mind | roar | protect | volt-switch | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | snarl | sunny-day | hidden-power | round | rock-smash | charge-beam | light-screen | quash | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-tail | magnet-rise | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: raikou
+default_form: true

@@ -1,0 +1,12 @@
+item_name: fire-gem
+flavor_text: A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once.
+cost: 200
+category: jewels
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : When the holder uses a damaging fire-type move, the move has 1.5× power and this item is consumed.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: staryu
+pokedex_num: 120
+generation: I
+types: water
+height_dm: 8
+weight_hg: 345
+
+abilities: illuminate | natural-cure
+hidden_abilities: analytic
+ability_descriptions: Doubles the wild encounter rate. | Cures any major status ailment upon switching out. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 30 | 45 | 55 | 70 | 55 | 85
+base_exp: 68
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 225
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water3
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: stardust:50% | star-piece:5%
+
+description: "If its body is torn, it can grow back if the red core remains. The core flashes at midnight."
+
+moves:
+  level-up: tackle: 1 | water-gun: 6 | hydro-pump: 52 | bubble-beam: 22 | recover: 12 | harden: 1 | minimize: 25 | light-screen: 33 | swift: 18 | rapid-spin: 10 | camouflage: 15 | cosmic-power: 48 | gyro-ball: 30 | brine: 36 | power-gem: 43 | reflect-type: 40
+  machine: thunderbolt | facade | scald | thunder | double-team | substitute | swagger | reflect | gyro-ball | ice-beam | waterfall | psychic | protect | dive | rain-dance | surf | psych-up | toxic | rest | blizzard | thunder-wave | frustration | hail | hidden-power | round | flash-cannon | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | icy-wind | gravity | pain-split | recycle | magic-coat | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: starmie
+  trigger: use-item
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: staryu
+default_form: true

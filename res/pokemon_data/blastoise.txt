@@ -1,0 +1,37 @@
+name: blastoise
+pokedex_num: 9
+generation: I
+types: water
+height_dm: 16
+weight_hg: 855
+
+abilities: torrent
+hidden_abilities: rain-dish
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 79 | 83 | 100 | 85 | 105 | 78
+base_exp: 239
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | water1
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel."
+
+moves:
+  level-up: tackle: 1 | tail-whip: 1 | tail-whip: 4 | bite: 16 | water-gun: 13 | hydro-pump: 60 | withdraw: 1 | withdraw: 10 | skull-bash: 39 | bubble: 1 | bubble: 7 | protect: 24 | rapid-spin: 20 | rain-dance: 53 | iron-defense: 46 | water-pulse: 28 | aqua-tail: 32 | flash-cannon: 1
+  machine: dragon-tail | dig | strength | attract | hyper-beam | rock-slide | facade | scald | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | ice-beam | waterfall | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | focus-blast | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | flash-cannon | smack-down | return
+  egg: none
+  tutor: signal-beam | aqua-tail | zen-headbutt | sleep-talk | iron-tail | iron-defense | icy-wind | hydro-cannon | outrage | ice-punch | water-pledge | snore
+evolution_info:
+  evolves_from: wartortle
+  evolves_to: none
+  trigger: N/A
+forms: blastoise
+default_form: true

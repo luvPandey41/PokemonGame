@@ -1,0 +1,37 @@
+name: seismitoad
+pokedex_num: 537
+generation: V
+types: water | ground
+height_dm: 15
+weight_hg: 620
+
+abilities: swift-swim | poison-touch
+hidden_abilities: water-absorb
+ability_descriptions: Doubles Speed during rain. | Has a 30% chance of poisoning target Pokémon upon contact. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 105 | 95 | 75 | 85 | 75 | 74
+base_exp: 229
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | persim-berry:50%
+
+description: "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents."
+
+moves:
+  level-up: growl: 1 | supersonic: 1 | supersonic: 5 | acid: 36 | hydro-pump: 53 | bubble-beam: 12 | bubble: 1 | flail: 39 | rain-dance: 33 | uproar: 23 | hyper-voice: 59 | muddy-water: 28 | mud-shot: 16 | aqua-ring: 20 | drain-punch: 44 | round: 1 | round: 9 | echoed-voice: 49
+  machine: sludge-wave | dig | strength | attract | hyper-beam | rock-slide | facade | scald | double-team | fling | venoshock | substitute | swagger | grass-knot | bulldoze | rock-tomb | payback | protect | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | poison-jab | echoed-voice | focus-blast | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: stealth-rock | earth-power | gastro-acid | bounce | icy-wind | endeavor | ice-punch | snore | uproar | knock-off | low-kick | sleep-talk | drain-punch | hyper-voice
+evolution_info:
+  evolves_from: palpitoad
+  evolves_to: none
+  trigger: N/A
+forms: seismitoad
+default_form: true

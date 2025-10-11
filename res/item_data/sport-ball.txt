@@ -1,0 +1,12 @@
+item_name: sport-ball
+flavor_text: A special Poké Ball for the Bug-Catching Contest.
+cost: 300
+category: standard-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by a trainer in battle : Attempts to catch a wild Pokémon. The wild Pokémon's catch rate is 1.5× normal.
+fling_power: -1
+consumable: no
+move name: 

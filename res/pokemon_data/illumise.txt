@@ -1,0 +1,37 @@
+name: illumise
+pokedex_num: 314
+generation: III
+types: bug
+height_dm: 6
+weight_hg: 177
+
+abilities: oblivious | tinted-lens
+hidden_abilities: prankster
+ability_descriptions: Prevents infatuation and protects against captivate. | Doubles damage inflicted with not-very-effective moves. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 65 | 47 | 75 | 73 | 85 | 85
+base_exp: 151
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 150
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: bug | humanshape
+gender_ratio_female: 8
+hatch_cycles: 15
+
+wild_held_items: bright-powder:5%
+
+description: "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+
+moves:
+  level-up: tackle: 1 | quick-attack: 17 | charm: 9 | encore: 25 | sweet-scent: 5 | moonlight: 13 | flatter: 29 | helping-hand: 33 | wish: 21 | covet: 45 | bug-buzz: 41 | zen-headbutt: 37
+  machine: u-turn | thunderbolt | thief | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | brick-break | charge-beam | light-screen | return | flash
+  egg: baton-pass | captivate | confuse-ray | fake-tears | growth | bug-buzz | silver-wind | encore
+  tutor: giga-drain | helping-hand | tailwind | zen-headbutt | sleep-talk | bug-bite | thunder-punch | roost | ice-punch | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: illumise
+default_form: true

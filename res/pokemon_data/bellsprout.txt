@@ -1,0 +1,45 @@
+name: bellsprout
+pokedex_num: 69
+generation: I
+types: grass | poison
+height_dm: 7
+weight_hg: 40
+
+abilities: chlorophyll
+hidden_abilities: gluttony
+ability_descriptions: Doubles Speed during strong sunlight. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 50 | 75 | 35 | 70 | 30 | 40
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It prefers hot and humid environments. It is quick at capturing prey with its vines."
+
+moves:
+  level-up: slam: 41 | vine-whip: 1 | wrap: 11 | acid: 23 | growth: 7 | razor-leaf: 39 | poison-powder: 15 | stun-spore: 17 | sleep-powder: 13 | sweet-scent: 29 | knock-off: 27 | wring-out: 47 | gastro-acid: 35
+  machine: toxic | rest | cut | thief | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | grass-knot | reflect | hidden-power | round | swords-dance | energy-ball | protect | sludge-bomb | return | flash
+  egg: synthesis | magical-leaf | clear-smog | leech-life | power-whip | bullet-seed | ingrain | giga-drain | natural-gift | worry-seed | weather-ball | encore | tickle
+  tutor: synthesis | bind | giga-drain | gastro-acid | sleep-talk | seed-bomb | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: weepinbell
+  trigger: level-up
+  evo_level: 21
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: bellsprout
+default_form: true

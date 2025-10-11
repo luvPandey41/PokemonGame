@@ -1,0 +1,12 @@
+item_name: tm87
+flavor_text: The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Swagger to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Swagger

@@ -1,0 +1,12 @@
+item_name: contest-pass
+flavor_text: The pass required for entering Pokémon Contests. It has a drawing of an award ribbon on it.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Allows the trainer to enter Contests.
+fling_power: -1
+consumable: no
+move name: 

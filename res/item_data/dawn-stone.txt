@@ -1,0 +1,12 @@
+item_name: dawn-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves a male kirlia into gallade or a female snorunt into froslass.
+fling_power: 80
+consumable: no
+move name: 

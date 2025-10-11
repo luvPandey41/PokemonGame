@@ -1,0 +1,12 @@
+item_name: white-herb
+flavor_text: An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : At the end of each turn, if any of the holder's stats have a negative stat modifier, the holder consumes this item to remove the modifiers from those stats.
+fling_power: 10
+consumable: no
+move name: 

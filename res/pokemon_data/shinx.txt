@@ -1,0 +1,45 @@
+name: shinx
+pokedex_num: 403
+generation: IV
+types: electric
+height_dm: 5
+weight_hg: 95
+
+abilities: rivalry | intimidate
+hidden_abilities: guts
+ability_descriptions: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Lowers opponents' Attack one stage upon entering battle. | Increases Attack to 1.5× with a major status ailment.
+
+base_stats: 45 | 65 | 34 | 40 | 34 | 45
+base_exp: 53
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 235
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "The extension and contraction of its muscles generates electricity. It glows when in trouble."
+
+moves:
+  level-up: tackle: 1 | leer: 5 | bite: 17 | roar: 21 | scary-face: 37 | swagger: 25 | spark: 13 | crunch: 33 | charge: 9 | thunder-fang: 29 | discharge: 41 | wild-charge: 45
+  machine: strength | thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | substitute | swagger | roar | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | snarl | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: thunder-fang | signal-beam | ice-fang | fire-fang | quick-attack | helping-hand | night-slash | take-down | shock-wave | double-kick | howl | swift
+  tutor: signal-beam | sleep-talk | iron-tail | magnet-rise | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: luxio
+  trigger: level-up
+  evo_level: 15
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shinx
+default_form: true

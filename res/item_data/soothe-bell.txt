@@ -1,0 +1,12 @@
+item_name: soothe-bell
+flavor_text: An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.
+cost: 4000
+category: training
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held : When the holder would earn happiness for any reason, it earns twice that amount instead.
+fling_power: 10
+consumable: no
+move name: 

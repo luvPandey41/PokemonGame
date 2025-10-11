@@ -1,0 +1,45 @@
+name: porygon2
+pokedex_num: 233
+generation: II
+types: normal
+height_dm: 6
+weight_hg: 325
+
+abilities: trace | download
+hidden_abilities: analytic
+ability_descriptions: Copies an opponent's ability upon entering battle. | Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 85 | 80 | 90 | 105 | 95 | 60
+base_exp: 180
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: up-grade:100%
+
+description: "It was upgraded to enable the exploration of other planets. However, it failed to measure up."
+
+moves:
+  level-up: tackle: 1 | psybeam: 7 | hyper-beam: 67 | agility: 12 | recover: 18 | defense-curl: 1 | conversion: 1 | tri-attack: 51 | conversion-2: 1 | zap-cannon: 62 | lock-on: 45 | magic-coat: 56 | recycle: 34 | signal-beam: 29 | magnet-rise: 23 | discharge: 40
+  machine: thunderbolt | thief | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | ice-beam | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | hidden-power | round | charge-beam | psyshock | return | trick-room | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | iron-tail | icy-wind | pain-split | trick | magic-coat | electroweb | snore | last-resort | sleep-talk | gravity | recycle | magnet-rise | foul-play | wonder-room
+evolution_info:
+  evolves_from: porygon
+  evolves_to: porygon-z
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: porygon2
+default_form: true

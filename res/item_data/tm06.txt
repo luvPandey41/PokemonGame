@@ -1,0 +1,12 @@
+item_name: tm06
+flavor_text: A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Toxic to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Toxic

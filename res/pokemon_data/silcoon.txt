@@ -1,0 +1,45 @@
+name: silcoon
+pokedex_num: 266
+generation: III
+types: bug
+height_dm: 6
+weight_hg: 100
+
+abilities: shed-skin
+hidden_abilities: none
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn.
+
+base_stats: 50 | 35 | 55 | 25 | 25 | 15
+base_exp: 72
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution."
+
+moves:
+  level-up: harden: 1 | harden: 7
+  machine: none
+  egg: none
+  tutor: iron-defense | bug-bite | electroweb
+evolution_info:
+  evolves_from: wurmple
+  evolves_to: beautifly
+  trigger: level-up
+  evo_level: 10
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: silcoon
+default_form: true

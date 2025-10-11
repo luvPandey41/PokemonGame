@@ -1,0 +1,12 @@
+item_name: shoal-shell
+flavor_text: A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
+cost: 20
+category: collectibles
+pocket: misc
+attributes: countable
+holdable: no
+stackable: yes
+effect_description: No effect.
+fling_power: 30
+consumable: no
+move name: 

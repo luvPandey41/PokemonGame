@@ -1,0 +1,45 @@
+name: prinplup
+pokedex_num: 394
+generation: IV
+types: water
+height_dm: 8
+weight_hg: 230
+
+abilities: torrent
+hidden_abilities: competitive
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Raises Special Attack by two stages upon having any stat lowered.
+
+base_stats: 64 | 66 | 68 | 81 | 76 | 50
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Because every Prinplup considers itself to be the most important, they can never form a group."
+
+moves:
+  level-up: fury-attack: 28 | tackle: 1 | growl: 1 | growl: 4 | mist: 42 | hydro-pump: 51 | bubble-beam: 19 | peck: 15 | drill-peck: 46 | bide: 24 | bubble: 8 | metal-claw: 16 | whirlpool: 37 | water-sport: 11 | brine: 33
+  machine: cut | dig | strength | attract | facade | scald | double-team | fling | substitute | swagger | grass-knot | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | aerial-ace | hail | hone-claws | shadow-claw | hidden-power | round | rock-smash | brick-break | pluck | quash | return
+  egg: none
+  tutor: stealth-rock | signal-beam | sleep-talk | icy-wind | covet | water-pledge | snore
+evolution_info:
+  evolves_from: piplup
+  evolves_to: empoleon
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: prinplup
+default_form: true

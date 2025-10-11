@@ -1,0 +1,45 @@
+name: monferno
+pokedex_num: 391
+generation: IV
+types: fire | fighting
+height_dm: 9
+weight_hg: 220
+
+abilities: blaze
+hidden_abilities: iron-fist
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens punch-based moves to 1.2× their power.
+
+base_stats: 64 | 78 | 52 | 78 | 52 | 81
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 1 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | humanshape
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | ember: 1 | ember: 7 | fire-spin: 39 | fury-swipes: 16 | flame-wheel: 19 | mach-punch: 14 | torment: 29 | taunt: 9 | slack-off: 49 | feint: 26 | close-combat: 36 | flare-blitz: 56 | acrobatics: 46
+  machine: u-turn | cut | dig | torment | strength | attract | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | flamethrower | overheat | retaliate | bulk-up | protect | toxic | rest | incinerate | poison-jab | focus-blast | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | acrobatics | fire-blast | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: stealth-rock | dual-chop | iron-tail | thunder-punch | endeavor | fire-punch | role-play | snore | low-kick | heat-wave | helping-hand | sleep-talk | fire-pledge | gunk-shot | covet
+evolution_info:
+  evolves_from: chimchar
+  evolves_to: infernape
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: monferno
+default_form: true

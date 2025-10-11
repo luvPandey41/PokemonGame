@@ -1,0 +1,45 @@
+name: corphish
+pokedex_num: 341
+generation: III
+types: water
+height_dm: 6
+weight_hg: 115
+
+abilities: hyper-cutter | shell-armor
+hidden_abilities: adaptability
+ability_descriptions: Prevents Attack from being lowered by other Pokémon. | Protects against critical hits. | Increases the same-type attack bonus from 1.5× to 2×.
+
+base_stats: 43 | 80 | 65 | 50 | 35 | 35
+base_exp: 62
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 205
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: water1 | water3
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey."
+
+moves:
+  level-up: vice-grip: 10 | guillotine: 53 | swords-dance: 44 | leer: 13 | bubble-beam: 20 | harden: 7 | bubble: 1 | crabhammer: 38 | protect: 23 | crunch: 47 | taunt: 32 | knock-off: 26 | night-slash: 35
+  machine: cut | dig | strength | x-scissor | attract | rock-slide | facade | scald | double-team | fling | substitute | swagger | rock-tomb | ice-beam | waterfall | payback | protect | sludge-bomb | rain-dance | surf | toxic | rest | blizzard | frustration | aerial-ace | hail | hone-claws | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return | taunt
+  egg: double-edge | ancient-power | endeavor | metal-claw | dragon-dance | chip-away | trump-card | mud-sport | body-slam | superpower | knock-off
+  tutor: spite | sleep-talk | iron-defense | icy-wind | endeavor | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: crawdaunt
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: corphish
+default_form: true

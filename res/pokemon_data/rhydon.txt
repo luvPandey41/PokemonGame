@@ -1,0 +1,45 @@
+name: rhydon
+pokedex_num: 112
+generation: I
+types: ground | rock
+height_dm: 19
+weight_hg: 1200
+
+abilities: lightning-rod | rock-head
+hidden_abilities: reckless
+ability_descriptions: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Protects against recoil damage. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 105 | 130 | 120 | 45 | 45 | 40
+base_exp: 170
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however."
+
+moves:
+  level-up: stomp: 1 | stomp: 9 | horn-attack: 1 | fury-attack: 1 | fury-attack: 12 | horn-drill: 71 | take-down: 41 | tail-whip: 1 | earthquake: 62 | scary-face: 19 | megahorn: 77 | rock-blast: 23 | hammer-arm: 42 | stone-edge: 56 | chip-away: 34 | bulldoze: 30 | drill-run: 47
+  machine: dragon-tail | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | payback | roar | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | poison-jab | focus-blast | frustration | earthquake | sunny-day | shadow-claw | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | thunder-punch | endeavor | outrage | ice-punch | fire-punch | dragon-pulse | superpower | snore | uproar | spite | sleep-talk | block | drill-run
+evolution_info:
+  evolves_from: rhyhorn
+  evolves_to: rhyperior
+  trigger: trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: rhydon
+default_form: true

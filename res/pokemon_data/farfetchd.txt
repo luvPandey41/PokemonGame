@@ -1,0 +1,45 @@
+name: farfetchd
+pokedex_num: 83
+generation: I
+types: normal | flying
+height_dm: 8
+weight_hg: 150
+
+abilities: keen-eye | inner-focus
+hidden_abilities: defiant
+ability_descriptions: Prevents accuracy from being lowered. | Prevents flinching. | Raises Attack two stages upon having any stat lowered.
+
+base_stats: 52 | 90 | 55 | 58 | 62 | 60
+base_exp: 132
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: stick:5%
+
+description: "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life."
+
+moves:
+  level-up: swords-dance: 25 | sand-attack: 1 | fury-attack: 7 | leer: 1 | peck: 1 | agility: 31 | slash: 19 | false-swipe: 45 | fury-cutter: 1 | knock-off: 9 | air-cutter: 21 | aerial-ace: 13 | feint: 43 | poison-jab: 1 | night-slash: 33 | air-slash: 49 | brave-bird: 55 | acrobatics: 37
+  machine: u-turn | cut | thief | attract | facade | double-team | substitute | swagger | retaliate | protect | psych-up | toxic | rest | poison-jab | frustration | aerial-ace | sunny-day | acrobatics | work-up | fly | hidden-power | false-swipe | round | swords-dance | pluck | return
+  egg: leaf-blade | night-slash | steel-wing | revenge | roost | foresight | flail | quick-attack | mud-slap | feather-dance | mirror-move | curse | trump-card | covet | gust
+  tutor: heat-wave | helping-hand | tailwind | last-resort | sleep-talk | iron-tail | sky-attack | roost | covet | snore | uproar | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: sirfetchd
+  trigger: three-critical-hits
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: farfetchd
+default_form: true

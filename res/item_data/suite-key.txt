@@ -1,0 +1,12 @@
+item_name: suite-key
+flavor_text: A key to one of the suites at the luxury hotel by a lake. For some odd reason, it often disappears.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Opens the locked building in the lakeside resort.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: kangaskhan
+pokedex_num: 115
+generation: I
+types: normal
+height_dm: 22
+weight_hg: 800
+
+abilities: early-bird | scrappy
+hidden_abilities: inner-focus
+ability_descriptions: Makes sleep pass twice as quickly. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon. | Prevents flinching.
+
+base_stats: 105 | 95 | 80 | 40 | 80 | 90
+base_exp: 172
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe."
+
+moves:
+  level-up: comet-punch: 1 | mega-punch: 25 | tail-whip: 10 | leer: 1 | bite: 13 | rage: 22 | dizzy-punch: 34 | reversal: 55 | outrage: 46 | endure: 43 | crunch: 37 | fake-out: 7 | sucker-punch: 49 | double-hit: 19 | chip-away: 31
+  machine: cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | roar | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | focus-blast | frustration | aerial-ace | earthquake | hail | solar-beam | sunny-day | shadow-claw | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return | safeguard
+  egg: crush-claw | endeavor | focus-energy | counter | foresight | uproar | double-edge | hammer-arm | circle-throw | disable | focus-punch | stomp | trump-card
+  tutor: aqua-tail | iron-tail | icy-wind | thunder-punch | endeavor | outrage | ice-punch | fire-punch | snore | uproar | low-kick | helping-hand | spite | sleep-talk | drain-punch | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: kangaskhan
+default_form: true

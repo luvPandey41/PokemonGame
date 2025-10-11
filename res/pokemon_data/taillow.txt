@@ -1,0 +1,45 @@
+name: taillow
+pokedex_num: 276
+generation: III
+types: normal | flying
+height_dm: 3
+weight_hg: 23
+
+abilities: guts
+hidden_abilities: scrappy
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
+
+base_stats: 40 | 55 | 30 | 30 | 30 | 85
+base_exp: 54
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: charti-berry:5%
+
+description: "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates."
+
+moves:
+  level-up: wing-attack: 13 | growl: 1 | peck: 1 | agility: 43 | quick-attack: 8 | double-team: 19 | focus-energy: 4 | endeavor: 26 | aerial-ace: 34 | air-slash: 53
+  machine: toxic | rest | u-turn | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance
+  egg: whirlwind | steel-wing | mirror-move | pursuit | rage | sky-attack | refresh | roost | defog | supersonic | brave-bird
+  tutor: heat-wave | tailwind | sleep-talk | endeavor | roost | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: swellow
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: taillow
+default_form: true

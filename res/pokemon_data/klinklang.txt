@@ -1,0 +1,37 @@
+name: klinklang
+pokedex_num: 601
+generation: V
+types: steel
+height_dm: 6
+weight_hg: 810
+
+abilities: plus | minus
+hidden_abilities: clear-body
+ability_descriptions: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Prevents stats from being lowered by other Pokémon.
+
+base_stats: 60 | 100 | 115 | 70 | 85 | 90
+base_exp: 234
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area."
+
+moves:
+  level-up: vice-grip: 1 | bind: 21 | hyper-beam: 72 | thunder-shock: 1 | thunder-shock: 11 | screech: 40 | zap-cannon: 66 | lock-on: 60 | charge: 1 | charge: 6 | metal-sound: 48 | mirror-shot: 36 | discharge: 44 | charge-beam: 25 | autotomize: 31 | shift-gear: 54 | gear-grind: 1 | gear-grind: 16
+  machine: giga-impact | toxic | rest | thunderbolt | wild-charge | thunder-wave | frustration | hyper-beam | sandstorm | facade | thunder | double-team | substitute | swagger | hidden-power | rock-polish | round | rock-smash | charge-beam | flash-cannon | protect | volt-switch | return | trick-room
+  egg: none
+  tutor: signal-beam | bind | sleep-talk | iron-defense | gravity | recycle | magnet-rise | magic-coat | snore | uproar
+evolution_info:
+  evolves_from: klang
+  evolves_to: none
+  trigger: N/A
+forms: klinklang
+default_form: true

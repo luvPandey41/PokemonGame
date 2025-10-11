@@ -1,0 +1,12 @@
+item_name: lax-incense
+flavor_text: An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
+cost: 5000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the holder's Evasion by 5%.
+fling_power: 10
+consumable: no
+move name: 

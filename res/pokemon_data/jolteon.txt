@@ -1,0 +1,37 @@
+name: jolteon
+pokedex_num: 135
+generation: I
+types: electric
+height_dm: 8
+weight_hg: 245
+
+abilities: volt-absorb
+hidden_abilities: quick-feet
+ability_descriptions: Absorbs electric moves, healing for 1/4 max HP. | Increases Speed to 1.5× with a major status ailment.
+
+base_stats: 65 | 65 | 60 | 110 | 95 | 130
+base_exp: 184
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "If agitated, it uses electricity to straighten out its fur and launch it in small bunches."
+
+moves:
+  level-up: double-kick: 17 | sand-attack: 5 | tackle: 1 | tail-whip: 1 | pin-missile: 25 | thunder-shock: 9 | thunder-wave: 33 | thunder: 45 | agility: 29 | quick-attack: 13 | helping-hand: 1 | last-resort: 41 | thunder-fang: 21 | discharge: 37
+  machine: dig | strength | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | retaliate | roar | protect | volt-switch | rain-dance | giga-impact | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | helping-hand | last-resort | sleep-talk | iron-tail | hyper-voice | magnet-rise | heal-bell | covet | snore
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: jolteon
+default_form: true

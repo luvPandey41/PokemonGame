@@ -1,0 +1,12 @@
+item_name: bicycle
+flavor_text: A folding Bicycle that enables much faster movement than the Running Shoes.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Increases movement speed outside or in caves. In high gear, allows the trainer to hop over some rocks and ascend muddy slopes.
+fling_power: -1
+consumable: no
+move name: 

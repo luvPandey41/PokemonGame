@@ -1,0 +1,37 @@
+name: skuntank
+pokedex_num: 435
+generation: IV
+types: poison | dark
+height_dm: 10
+weight_hg: 380
+
+abilities: stench | aftermath
+hidden_abilities: keen-eye
+ability_descriptions: Has a 10% chance of making target Pokémon flinch with each hit. | Damages the attacker for 1/4 its max HP when knocked out by a contact move. | Prevents accuracy from being lowered.
+
+base_stats: 103 | 93 | 67 | 71 | 61 | 84
+base_exp: 168
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:5%
+
+description: "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it."
+
+moves:
+  level-up: scratch: 1 | flamethrower: 34 | toxic: 27 | screech: 7 | smokescreen: 14 | focus-energy: 1 | poison-gas: 1 | poison-gas: 4 | explosion: 61 | fury-swipes: 10 | slash: 22 | memento: 51 | feint: 18 | night-slash: 41 | acid-spray: 32
+  machine: cut | dig | torment | strength | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | flamethrower | payback | roar | protect | sludge-bomb | rain-dance | giga-impact | toxic | rest | incinerate | poison-jab | frustration | snarl | hone-claws | sunny-day | shadow-claw | fire-blast | explosion | hidden-power | round | rock-smash | return | taunt
+  egg: none
+  tutor: sleep-talk | iron-tail | dark-pulse | foul-play | snatch | snore
+evolution_info:
+  evolves_from: stunky
+  evolves_to: none
+  trigger: N/A
+forms: skuntank
+default_form: true

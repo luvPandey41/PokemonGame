@@ -1,0 +1,37 @@
+name: bastiodon
+pokedex_num: 411
+generation: IV
+types: rock | steel
+height_dm: 13
+weight_hg: 1495
+
+abilities: sturdy
+hidden_abilities: soundproof
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against sound-based moves.
+
+base_stats: 60 | 52 | 168 | 47 | 138 | 30
+base_exp: 173
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: monster
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "When they lined up side by side, no foe could break through. They shielded their young in that way."
+
+moves:
+  level-up: tackle: 1 | take-down: 15 | protect: 1 | endure: 36 | swagger: 24 | ancient-power: 28 | taunt: 1 | taunt: 6 | metal-sound: 1 | metal-sound: 10 | iron-defense: 19 | block: 30 | metal-burst: 43 | iron-head: 51 | heavy-slam: 58
+  machine: dig | torment | strength | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | roar | protect | rain-dance | giga-impact | toxic | rest | incinerate | blizzard | frustration | earthquake | sunny-day | fire-blast | hidden-power | round | rock-smash | stone-edge | flash-cannon | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | iron-defense | magnet-rise | outrage | block | magic-coat | iron-head | snore
+evolution_info:
+  evolves_from: shieldon
+  evolves_to: none
+  trigger: N/A
+forms: bastiodon
+default_form: true

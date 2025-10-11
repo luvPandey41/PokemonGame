@@ -1,0 +1,45 @@
+name: mudkip
+pokedex_num: 258
+generation: III
+types: water
+height_dm: 4
+weight_hg: 76
+
+abilities: torrent
+hidden_abilities: damp
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 50 | 70 | 50 | 50 | 50 | 40
+base_exp: 62
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | water1
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders."
+
+moves:
+  level-up: tackle: 1 | take-down: 28 | growl: 1 | water-gun: 10 | hydro-pump: 42 | bide: 15 | protect: 37 | mud-slap: 6 | foresight: 19 | whirlpool: 33 | endeavor: 46 | mud-sport: 24
+  machine: sludge-wave | dig | strength | attract | rock-slide | facade | scald | double-team | substitute | swagger | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | hail | hidden-power | round | rock-smash | return
+  egg: sludge | ice-ball | yawn | wide-guard | whirlpool | refresh | counter | mirror-coat | uproar | double-edge | mud-bomb | bite | ancient-power | curse | avalanche | stomp
+  tutor: low-kick | earth-power | aqua-tail | sleep-talk | iron-tail | icy-wind | endeavor | superpower | water-pledge | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: marshtomp
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mudkip
+default_form: true

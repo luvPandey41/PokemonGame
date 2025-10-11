@@ -1,0 +1,45 @@
+name: drifloon
+pokedex_num: 425
+generation: IV
+types: ghost | flying
+height_dm: 4
+weight_hg: 12
+
+abilities: aftermath | unburden
+hidden_abilities: flare-boost
+ability_descriptions: Damages the attacker for 1/4 its max HP when knocked out by a contact move. | Doubles Speed upon using or losing a held item. | Increases Special Attack to 1.5× when burned.
+
+base_stats: 90 | 50 | 34 | 60 | 44 | 70
+base_exp: 70
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 125
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”"
+
+moves:
+  level-up: gust: 8 | minimize: 1 | focus-energy: 13 | constrict: 1 | amnesia: 40 | explosion: 50 | baton-pass: 44 | shadow-ball: 36 | stockpile: 25 | spit-up: 32 | swallow: 32 | astonish: 4 | payback: 16 | ominous-wind: 20 | hex: 27
+  machine: cut | thunderbolt | thief | attract | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | gyro-ball | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | acrobatics | explosion | hidden-power | round | charge-beam | embargo | return | flash
+  egg: hypnosis | clear-smog | haze | destiny-bond | disable | memento | weather-ball | defog | body-slam
+  tutor: bind | tailwind | spite | sleep-talk | icy-wind | pain-split | recycle | trick | magic-coat | snore | knock-off | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: drifblim
+  trigger: level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: drifloon
+default_form: true

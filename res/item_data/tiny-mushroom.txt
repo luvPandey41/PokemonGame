@@ -1,0 +1,12 @@
+item_name: tiny-mushroom
+flavor_text: A small and rare mushroom. It is sought after by collectors.
+cost: 500
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

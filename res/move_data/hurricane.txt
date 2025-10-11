@@ -1,0 +1,20 @@
+move name: hurricane
+power: 110
+accuracy: 70
+type: flying
+attack type: special
+target: selected-pokemon
+pp: 10
+priority: 0
+flavor text: Has a 30% chance to confuse the target.
+ailment: confusion
+ailment chance: 30
+status changes: none
+effect chance: 30
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

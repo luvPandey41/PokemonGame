@@ -1,0 +1,45 @@
+name: pikachu
+pokedex_num: 25
+generation: I
+types: electric
+height_dm: 4
+weight_hg: 60
+
+abilities: static
+hidden_abilities: lightning-rod
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 35 | 55 | 40 | 50 | 50 | 90
+base_exp: 112
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | fairy
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: oran-berry:50% | light-ball:5%
+
+description: "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state."
+
+moves:
+  level-up: slam: 26 | tail-whip: 5 | growl: 1 | thunder-shock: 1 | thunderbolt: 29 | thunder-wave: 10 | thunder: 50 | agility: 37 | quick-attack: 13 | double-team: 21 | light-screen: 45 | feint: 34 | discharge: 42 | electro-ball: 18
+  machine: dig | strength | thunderbolt | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | grass-knot | protect | volt-switch | rain-dance | toxic | rest | echoed-voice | thunder-wave | frustration | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | helping-hand | sleep-talk | iron-tail | thunder-punch | magnet-rise | covet | snore | knock-off
+evolution_info:
+  evolves_from: pichu
+  evolves_to: raichu
+  trigger: use-item
+  evo_level: null
+  evo_item: thunder-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pikachu
+default_form: true

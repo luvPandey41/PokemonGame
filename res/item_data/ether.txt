@@ -1,0 +1,12 @@
+item_name: ether
+flavor_text: It restores the PP of a Pokémon’s selected move by a maximum of 10 points.
+cost: 1200
+category: pp-recovery
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores 10 PP for a selected move.
+fling_power: 30
+consumable: yes
+move name: 

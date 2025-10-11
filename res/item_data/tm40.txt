@@ -1,0 +1,12 @@
+item_name: tm40
+flavor_text: The user confounds the target with speed, then slashes. The attack lands without fail.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Aerial Ace to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Aerial Ace

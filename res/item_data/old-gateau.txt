@@ -1,0 +1,12 @@
+item_name: old-gateau
+flavor_text: Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.
+cost: 350
+category: status-cures
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Cures any status ailment and confusion.
+fling_power: 30
+consumable: yes
+move name: 

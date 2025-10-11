@@ -1,0 +1,37 @@
+name: musharna
+pokedex_num: 518
+generation: V
+types: psychic
+height_dm: 11
+weight_hg: 605
+
+abilities: forewarn | synchronize
+hidden_abilities: telepathy
+ability_descriptions: Reveals the opponents' strongest move upon entering battle. | Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 116 | 55 | 85 | 107 | 95 | 29
+base_exp: 170
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "The mist emanating from their foreheads is packed with the dreams of people and Pokémon."
+
+moves:
+  level-up: psybeam: 1 | hypnosis: 1 | defense-curl: 1 | lucky-chant: 1
+  machine: torment | attract | hyper-beam | rock-slide | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | gyro-ball | rock-tomb | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | zen-headbutt | pain-split | trick | magic-coat | snore | helping-hand | sleep-talk | gravity | heal-bell | worry-seed | wonder-room | skill-swap
+evolution_info:
+  evolves_from: munna
+  evolves_to: none
+  trigger: N/A
+forms: musharna
+default_form: true

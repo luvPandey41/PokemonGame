@@ -1,0 +1,37 @@
+name: gastrodon
+pokedex_num: 423
+generation: IV
+types: water | ground
+height_dm: 9
+weight_hg: 299
+
+abilities: sticky-hold | storm-drain
+hidden_abilities: sand-force
+ability_descriptions: Prevents a held item from being removed by other Pokémon. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 111 | 83 | 68 | 92 | 82 | 39
+base_exp: 166
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells."
+
+moves:
+  level-up: body-slam: 29 | recover: 54 | harden: 1 | harden: 4 | mud-slap: 1 | hidden-power: 16 | rain-dance: 22 | mud-sport: 1 | mud-sport: 2 | muddy-water: 41 | water-pulse: 1 | water-pulse: 7 | mud-bomb: 11
+  machine: sludge-wave | dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | protect | dive | sludge-bomb | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | stone-edge | return | flash
+  egg: none
+  tutor: earth-power | sleep-talk | icy-wind | pain-split | block | snore
+evolution_info:
+  evolves_from: shellos
+  evolves_to: none
+  trigger: N/A
+forms: gastrodon-west | gastrodon-east
+default_form: true

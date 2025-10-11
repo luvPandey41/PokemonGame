@@ -1,0 +1,45 @@
+name: carvanha
+pokedex_num: 318
+generation: III
+types: water | dark
+height_dm: 8
+weight_hg: 208
+
+abilities: rough-skin
+hidden_abilities: speed-boost
+ability_descriptions: Damages attacking Pokémon for 1/8 their max HP on contact. | Raises Speed one stage after each turn.
+
+base_stats: 45 | 90 | 20 | 65 | 20 | 65
+base_exp: 61
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: deep-sea-tooth:5%
+
+description: "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls."
+
+moves:
+  level-up: take-down: 38 | leer: 1 | bite: 1 | agility: 36 | rage: 6 | screech: 18 | focus-energy: 8 | scary-face: 11 | swagger: 21 | crunch: 28 | assurance: 26 | ice-fang: 16 | aqua-jet: 31
+  machine: torment | thief | attract | facade | scald | double-team | substitute | swagger | ice-beam | waterfall | payback | retaliate | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | snarl | hail | hidden-power | round | return | taunt
+  egg: double-edge | hydro-pump | ancient-power | thrash | brine | swift
+  tutor: zen-headbutt | spite | sleep-talk | bounce | icy-wind | dark-pulse | super-fang | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: sharpedo
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: carvanha
+default_form: true

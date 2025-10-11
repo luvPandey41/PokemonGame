@@ -1,0 +1,37 @@
+name: latios
+pokedex_num: 381
+generation: III
+types: dragon | psychic
+height_dm: 20
+weight_hg: 600
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 80 | 90 | 80 | 130 | 110 | 110
+base_exp: 270
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 90
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 0
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes."
+
+moves:
+  level-up: psychic: 60 | recover: 45 | psywave: 1 | protect: 25 | safeguard: 15 | dragon-breath: 20 | memento: 85 | helping-hand: 10 | refresh: 30 | luster-purge: 35 | dragon-dance: 55 | psycho-shift: 50 | heal-block: 5 | dragon-pulse: 80 | zen-headbutt: 40 | power-split: 75 | telekinesis: 70 | heal-pulse: 65
+  machine: facade | thunder | double-team | swagger | shadow-ball | grass-knot | reflect | calm-mind | roar | dragon-claw | surf | giga-impact | toxic | thunder-wave | frustration | earthquake | solar-beam | charge-beam | flash | safeguard | cut | thunderbolt | attract | hyper-beam | sandstorm | telekinesis | substitute | dream-eater | bulldoze | ice-beam | waterfall | retaliate | psychic | protect | dive | rain-dance | psych-up | rest | aerial-ace | hone-claws | sunny-day | shadow-claw | fly | hidden-power | round | energy-ball | light-screen | psyshock | return
+  egg: none
+  tutor: tailwind | zen-headbutt | icy-wind | outrage | roost | trick | magic-coat | dragon-pulse | snore | helping-hand | last-resort | sleep-talk | wonder-room | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: latios
+default_form: true

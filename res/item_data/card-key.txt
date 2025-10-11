@@ -1,0 +1,12 @@
+item_name: card-key
+flavor_text: A card key that opens a shutter in the Radio Tower.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer outside of battle : Opens doors in the goldenrod city Radio Tower.
+fling_power: -1
+consumable: no
+move name: 

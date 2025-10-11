@@ -1,0 +1,37 @@
+name: entei
+pokedex_num: 244
+generation: II
+types: fire
+height_dm: 21
+weight_hg: 1980
+
+abilities: pressure
+hidden_abilities: inner-focus
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Prevents flinching.
+
+base_stats: 115 | 115 | 85 | 90 | 75 | 100
+base_exp: 261
+ev_yield: 1 | 2 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "It is said that when it roars, a volcano erupts somewhere around the globe."
+
+moves:
+  level-up: stomp: 29 | leer: 1 | bite: 1 | roar: 15 | ember: 8 | flamethrower: 36 | fire-spin: 22 | fire-blast: 71 | swagger: 43 | eruption: 85 | extrasensory: 64 | calm-mind: 78 | fire-fang: 50 | lava-plume: 57
+  machine: cut | dig | strength | hyper-beam | will-o-wisp | sandstorm | facade | double-team | substitute | swagger | shadow-ball | bulldoze | reflect | flamethrower | overheat | calm-mind | roar | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | frustration | snarl | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | stone-edge | quash | return | flash
+  egg: none
+  tutor: heat-wave | sleep-talk | iron-tail | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: entei
+default_form: true

@@ -1,0 +1,45 @@
+name: voltorb
+pokedex_num: 100
+generation: I
+types: electric
+height_dm: 5
+weight_hg: 104
+
+abilities: soundproof | static
+hidden_abilities: aftermath
+ability_descriptions: Protects against sound-based moves. | Has a 30% chance of paralyzing attacking Pokémon on contact. | Damages the attacker for 1/4 its max HP when knocked out by a contact move.
+
+base_stats: 40 | 30 | 50 | 55 | 55 | 100
+base_exp: 66
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch."
+
+moves:
+  level-up: tackle: 5 | sonic-boom: 8 | screech: 19 | light-screen: 26 | self-destruct: 33 | swift: 36 | explosion: 47 | rollout: 15 | spark: 12 | mirror-coat: 50 | charge: 1 | gyro-ball: 43 | magnet-rise: 40 | charge-beam: 22 | electro-ball: 29
+  machine: torment | thunderbolt | thief | wild-charge | facade | thunder | double-team | substitute | swagger | gyro-ball | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | explosion | hidden-power | round | charge-beam | light-screen | return | taunt | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | magnet-rise | foul-play | magic-coat | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: electrode
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: voltorb
+default_form: true

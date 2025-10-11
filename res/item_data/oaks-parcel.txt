@@ -1,0 +1,12 @@
+item_name: oaks-parcel
+flavor_text: A parcel for PROF. OAK from a POKéMON MART’s clerk.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: A parcel to be delivered to Professor Oak for a Pokédex.
+fling_power: -1
+consumable: no
+move name: 

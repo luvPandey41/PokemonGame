@@ -1,0 +1,12 @@
+item_name: fast-ball
+flavor_text: A Poké Ball that makes it easier to catch Pokémon which are quick to run away.
+cost: 0
+category: apricorn-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by a trainer in battle : Attempts to catch a wild Pokémon. If used in a trainer battle, nothing happens and the ball is lost. : If the wild Pokémon's base speed is 100 or more, its catch rate is 4× normal.
+fling_power: -1
+consumable: no
+move name: 

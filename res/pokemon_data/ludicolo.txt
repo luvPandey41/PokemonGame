@@ -1,0 +1,37 @@
+name: ludicolo
+pokedex_num: 272
+generation: III
+types: water | grass
+height_dm: 15
+weight_hg: 550
+
+abilities: swift-swim | rain-dish
+hidden_abilities: own-tempo
+ability_descriptions: Doubles Speed during rain. | Heals for 1/16 max HP after each turn during rain. | Prevents confusion.
+
+base_stats: 80 | 70 | 70 | 90 | 100 | 70
+base_exp: 216
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1 | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: mental-herb:5%
+
+description: "If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance."
+
+moves:
+  level-up: growl: 1 | mega-drain: 1 | nature-power: 1 | astonish: 1
+  machine: strength | thief | attract | hyper-beam | facade | scald | double-team | fling | substitute | swagger | grass-knot | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | hail | solar-beam | hone-claws | sunny-day | hidden-power | round | swords-dance | rock-smash | brick-break | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | zen-headbutt | icy-wind | thunder-punch | seed-bomb | ice-punch | fire-punch | snore | uproar | giga-drain | sleep-talk | drain-punch | hyper-voice
+evolution_info:
+  evolves_from: lombre
+  evolves_to: none
+  trigger: N/A
+forms: ludicolo
+default_form: true

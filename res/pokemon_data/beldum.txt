@@ -1,0 +1,45 @@
+name: beldum
+pokedex_num: 374
+generation: III
+types: steel | psychic
+height_dm: 6
+weight_hg: 952
+
+abilities: clear-body
+hidden_abilities: light-metal
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Halves the Pokémon's weight.
+
+base_stats: 40 | 55 | 80 | 35 | 60 | 30
+base_exp: 60
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 40
+
+wild_held_items: metal-coat:5%
+
+description: "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison."
+
+moves:
+  level-up: take-down: 1
+  machine: none
+  egg: none
+  tutor: zen-headbutt | iron-defense | iron-head
+evolution_info:
+  evolves_from: none
+  evolves_to: metang
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: beldum
+default_form: true

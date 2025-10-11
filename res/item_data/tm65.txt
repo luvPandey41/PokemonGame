@@ -1,0 +1,12 @@
+item_name: tm65
+flavor_text: The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Shadow Claw to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Shadow Claw

@@ -1,0 +1,45 @@
+name: doduo
+pokedex_num: 84
+generation: I
+types: normal | flying
+height_dm: 14
+weight_hg: 392
+
+abilities: run-away | early-bird
+hidden_abilities: tangled-feet
+ability_descriptions: Ensures success fleeing from wild battles. | Makes sleep pass twice as quickly. | Doubles evasion when confused.
+
+base_stats: 35 | 85 | 45 | 35 | 35 | 75
+base_exp: 62
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: sharp-beak:5%
+
+description: "The brains in its two heads appear to communicate emotions to each other with a telepathic power."
+
+moves:
+  level-up: fury-attack: 14 | thrash: 50 | growl: 1 | peck: 1 | drill-peck: 41 | agility: 37 | quick-attack: 5 | rage: 10 | pursuit: 19 | uproar: 23 | endeavor: 46 | acupressure: 28 | double-hit: 32
+  machine: toxic | rest | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return
+  egg: assurance | flail | quick-attack | haze | mirror-move | endeavor | natural-gift | feint-attack | supersonic | brave-bird
+  tutor: sleep-talk | endeavor | roost | snore | uproar | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: dodrio
+  trigger: level-up
+  evo_level: 31
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: doduo
+default_form: true

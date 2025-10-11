@@ -1,0 +1,45 @@
+name: vulpix
+pokedex_num: 37
+generation: I
+types: fire
+height_dm: 6
+weight_hg: 99
+
+abilities: flash-fire
+hidden_abilities: drought
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Summons strong sunlight that lasts indefinitely upon entering battle.
+
+base_stats: 38 | 41 | 40 | 50 | 65 | 65
+base_exp: 60
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100% | charcoal:5%
+
+description: "It controls balls of fire. As it grows, its six tails split from their tips to make more tails."
+
+moves:
+  level-up: tail-whip: 4 | roar: 7 | ember: 1 | flamethrower: 34 | fire-spin: 12 | quick-attack: 10 | confuse-ray: 15 | fire-blast: 42 | feint-attack: 20 | safeguard: 36 | will-o-wisp: 26 | imprison: 18 | grudge: 44 | extrasensory: 39 | payback: 31 | captivate: 47 | flame-burst: 23 | hex: 28 | inferno: 50
+  machine: dig | attract | will-o-wisp | facade | double-team | substitute | swagger | flamethrower | overheat | payback | roar | protect | psych-up | toxic | rest | incinerate | frustration | sunny-day | flame-charge | fire-blast | hidden-power | round | energy-ball | return | safeguard
+  egg: flare-blitz | extrasensory | feint-attack | howl | hypnosis | flail | heat-wave | secret-power | spite | disable | hex | tail-slap | power-swap
+  tutor: heat-wave | zen-headbutt | spite | sleep-talk | iron-tail | pain-split | dark-pulse | foul-play | role-play | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: ninetales
+  trigger: use-item
+  evo_level: null
+  evo_item: fire-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: vulpix
+default_form: true

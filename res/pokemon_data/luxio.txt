@@ -1,0 +1,45 @@
+name: luxio
+pokedex_num: 404
+generation: IV
+types: electric
+height_dm: 9
+weight_hg: 305
+
+abilities: rivalry | intimidate
+hidden_abilities: guts
+ability_descriptions: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Lowers opponents' Attack one stage upon entering battle. | Increases Attack to 1.5× with a major status ailment.
+
+base_stats: 60 | 85 | 49 | 60 | 49 | 60
+base_exp: 127
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 100
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes."
+
+moves:
+  level-up: tackle: 1 | leer: 1 | leer: 5 | bite: 18 | roar: 23 | scary-face: 43 | swagger: 28 | spark: 13 | crunch: 38 | charge: 9 | thunder-fang: 33 | discharge: 48 | wild-charge: 53
+  machine: strength | thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | substitute | swagger | roar | protect | volt-switch | rain-dance | toxic | rest | thunder-wave | frustration | snarl | hidden-power | round | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-tail | magnet-rise | snore
+evolution_info:
+  evolves_from: shinx
+  evolves_to: luxray
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: luxio
+default_form: true

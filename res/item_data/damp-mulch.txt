@@ -1,0 +1,12 @@
+item_name: damp-mulch
+flavor_text: A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+cost: 200
+category: mulch
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a patch of soil : Plant's growth stages will each last 25% more time. Dries soil out more slowly.
+fling_power: 30
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: regice
+pokedex_num: 378
+generation: III
+types: ice
+height_dm: 18
+weight_hg: 1750
+
+abilities: clear-body
+hidden_abilities: ice-body
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.
+
+base_stats: 80 | 50 | 100 | 100 | 200 | 50
+base_exp: 261
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit."
+
+moves:
+  level-up: stomp: 1 | ice-beam: 73 | hyper-beam: 89 | amnesia: 41 | explosion: 1 | curse: 17 | zap-cannon: 65 | icy-wind: 9 | lock-on: 57 | ancient-power: 33 | superpower: 25 | hammer-arm: 81 | charge-beam: 49
+  machine: strength | thunderbolt | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | focus-blast | thunder-wave | frustration | earthquake | hail | frost-breath | explosion | hidden-power | round | rock-smash | brick-break | charge-beam | flash-cannon | return | safeguard
+  egg: none
+  tutor: signal-beam | sleep-talk | icy-wind | gravity | thunder-punch | ice-punch | block | superpower | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: regice
+default_form: true

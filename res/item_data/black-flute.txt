@@ -1,0 +1,12 @@
+item_name: black-flute
+flavor_text: A toy flute made from black glass. A maniac will buy it for a high price.
+cost: 20
+category: spelunking
+pocket: misc
+attributes: countable | consumable | usable-overworld | holdable
+holdable: yes
+stackable: yes
+effect_description: Used outside of battle : Decreases the wild Pokémon encounter rate by 50%.
+fling_power: 30
+consumable: yes
+move name: 

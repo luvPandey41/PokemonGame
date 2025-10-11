@@ -1,0 +1,45 @@
+name: nidoran-m
+pokedex_num: 32
+generation: I
+types: poison
+height_dm: 5
+weight_hg: 90
+
+abilities: poison-point | rivalry
+hidden_abilities: hustle
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 46 | 57 | 40 | 40 | 40 | 50
+base_exp: 55
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 235
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+
+moves:
+  level-up: double-kick: 9 | horn-attack: 21 | fury-attack: 19 | horn-drill: 45 | poison-sting: 13 | leer: 1 | peck: 1 | focus-energy: 7 | flatter: 33 | helping-hand: 25 | toxic-spikes: 31 | poison-jab: 37 | captivate: 43
+  machine: cut | dig | strength | thunderbolt | thief | attract | facade | thunder | double-team | venoshock | substitute | swagger | ice-beam | protect | sludge-bomb | rain-dance | toxic | rest | blizzard | poison-jab | echoed-voice | frustration | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | return
+  egg: sucker-punch | iron-tail | head-smash | chip-away | counter | poison-tail | amnesia | disable | take-down | beat-up | endure | confusion | supersonic
+  tutor: helping-hand | sleep-talk | iron-tail | super-fang | drill-run | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: nidorino
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nidoran-m
+default_form: true

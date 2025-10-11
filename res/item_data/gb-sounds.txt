@@ -1,0 +1,12 @@
+item_name: gb-sounds
+flavor_text: A music player that allows you to listen to nostalgic songs. It’s operated with a single switch.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by trainer outside of battle : Changes the background music to the equivalent 8-bit music.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,12 @@
+item_name: soul-dew
+flavor_text: A wondrous orb to be held by Latios or Latias. It raises both the Sp. Atk and Sp. Def stats.
+cost: 0
+category: species-specific
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by Latias or Latios: Increases the holder's Special Attack and Special Defense by 50%.
+fling_power: 30
+consumable: no
+move name: 

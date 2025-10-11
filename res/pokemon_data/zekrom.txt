@@ -1,0 +1,37 @@
+name: zekrom
+pokedex_num: 644
+generation: V
+types: dragon | electric
+height_dm: 29
+weight_hg: 3450
+
+abilities: teravolt
+hidden_abilities: none
+ability_descriptions: Bypasses targets' abilities if they could hinder or prevent moves.
+
+base_stats: 100 | 150 | 120 | 120 | 100 | 90
+base_exp: 306
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail."
+
+moves:
+  level-up: dragon-rage: 1 | thunderbolt: 22 | thunder: 78 | slash: 36 | outrage: 85 | dragon-breath: 29 | crunch: 71 | ancient-power: 15 | imprison: 8 | imprison: 64 | hyper-voice: 92 | dragon-claw: 54 | thunder-fang: 1 | zen-headbutt: 43 | bolt-strike: 100 | fusion-bolt: 50
+  machine: dragon-tail | cut | strength | thunderbolt | wild-charge | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | reflect | rock-tomb | payback | psychic | protect | dragon-claw | volt-switch | rain-dance | giga-impact | toxic | rest | echoed-voice | focus-blast | thunder-wave | frustration | hone-claws | shadow-claw | fly | hidden-power | round | rock-smash | stone-edge | charge-beam | flash-cannon | light-screen | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | earth-power | tailwind | zen-headbutt | thunder-punch | outrage | roost | dragon-pulse | snore | sleep-talk | hyper-voice | magnet-rise | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: zekrom
+default_form: true

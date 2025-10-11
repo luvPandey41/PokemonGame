@@ -1,0 +1,37 @@
+name: amoonguss
+pokedex_num: 591
+generation: V
+types: grass | poison
+height_dm: 6
+weight_hg: 105
+
+abilities: effect-spore
+hidden_abilities: regenerator
+ability_descriptions: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 114 | 85 | 70 | 85 | 80 | 30
+base_exp: 162
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: tiny-mushroom:50% | big-mushroom:5% | balm-mushroom:1%
+
+description: "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion."
+
+moves:
+  level-up: absorb: 1 | mega-drain: 15 | growth: 1 | growth: 6 | solar-beam: 49 | toxic: 32 | bide: 1 | bide: 12 | spore: 62 | feint-attack: 20 | giga-drain: 28 | sweet-scent: 24 | synthesis: 35 | ingrain: 18 | astonish: 1 | astonish: 8 | rage-powder: 54 | clear-smog: 43
+  machine: giga-impact | toxic | rest | attract | frustration | hyper-beam | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | energy-ball | payback | protect | sludge-bomb | return | rain-dance | flash
+  egg: none
+  tutor: synthesis | after-you | giga-drain | gastro-acid | sleep-talk | seed-bomb | foul-play | worry-seed | snore
+evolution_info:
+  evolves_from: foongus
+  evolves_to: none
+  trigger: N/A
+forms: amoonguss
+default_form: true

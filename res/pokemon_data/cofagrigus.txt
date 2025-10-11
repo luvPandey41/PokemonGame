@@ -1,0 +1,37 @@
+name: cofagrigus
+pokedex_num: 563
+generation: V
+types: ghost
+height_dm: 17
+weight_hg: 765
+
+abilities: mummy
+hidden_abilities: none
+ability_descriptions: Changes attacking Pokémon's abilities to Mummy on contact.
+
+base_stats: 58 | 50 | 145 | 95 | 105 | 30
+base_exp: 169
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: spell-tag:5%
+
+description: "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets."
+
+moves:
+  level-up: disable: 1 | disable: 5 | night-shade: 13 | haze: 1 | haze: 9 | curse: 29 | protect: 1 | scary-face: 34 | destiny-bond: 57 | mean-look: 51 | shadow-ball: 39 | will-o-wisp: 21 | grudge: 45 | astonish: 1 | ominous-wind: 25 | guard-split: 33 | power-split: 33 | hex: 17
+  machine: thief | attract | hyper-beam | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | frustration | hidden-power | round | energy-ball | embargo | return | trick-room | flash | safeguard
+  egg: none
+  tutor: after-you | iron-defense | pain-split | dark-pulse | snatch | trick | magic-coat | role-play | snore | knock-off | spite | sleep-talk | block | wonder-room | skill-swap
+evolution_info:
+  evolves_from: yamask
+  evolves_to: none
+  trigger: N/A
+forms: cofagrigus
+default_form: true

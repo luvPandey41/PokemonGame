@@ -1,0 +1,12 @@
+item_name: dive-ball
+flavor_text: A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
+cost: 1000
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon. If the wild Pokémon was encountered by surfing or fishing, this ball has a catch rate of 3.5×. Otherwise, it has a catch rate of 1×. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

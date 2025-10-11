@@ -1,0 +1,37 @@
+name: castform
+pokedex_num: 351
+generation: III
+types: normal
+height_dm: 3
+weight_hg: 8
+
+abilities: forecast
+hidden_abilities: none
+ability_descriptions: Changes castform's type and form to match the weather.
+
+base_stats: 70 | 70 | 70 | 70 | 70 | 70
+base_exp: 147
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: mystic-water:100%
+
+description: "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+
+moves:
+  level-up: headbutt: 15 | tackle: 1 | ember: 10 | water-gun: 10 | hydro-pump: 40 | blizzard: 40 | fire-blast: 40 | powder-snow: 10 | rain-dance: 20 | sunny-day: 20 | hail: 20 | weather-ball: 30
+  machine: thunderbolt | thief | attract | sandstorm | facade | scald | thunder | double-team | substitute | swagger | shadow-ball | ice-beam | flamethrower | retaliate | protect | rain-dance | psych-up | toxic | rest | incinerate | blizzard | thunder-wave | frustration | hail | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | energy-ball | return | flash
+  egg: amnesia | ominous-wind | clear-smog | future-sight | disable | hex | lucky-chant
+  tutor: tailwind | last-resort | sleep-talk | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: castform
+default_form: true

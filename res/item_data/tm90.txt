@@ -1,0 +1,12 @@
+item_name: tm90
+flavor_text: The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.
+cost: 20000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Substitute to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Substitute

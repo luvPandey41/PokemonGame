@@ -1,0 +1,45 @@
+name: mantyke
+pokedex_num: 458
+generation: IV
+types: water | flying
+height_dm: 10
+weight_hg: 650
+
+abilities: swift-swim | water-absorb
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Absorbs water moves, healing for 1/4 max HP. | Prevents burns.
+
+base_stats: 45 | 20 | 50 | 60 | 120 | 50
+base_exp: 69
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid."
+
+moves:
+  level-up: wing-attack: 14 | headbutt: 16 | tackle: 1 | take-down: 27 | supersonic: 3 | hydro-pump: 49 | bubble-beam: 7 | agility: 32 | confuse-ray: 11 | bubble: 1 | bounce: 46 | water-pulse: 19 | aqua-ring: 39 | air-slash: 36 | wide-guard: 23
+  machine: attract | rock-slide | facade | scald | double-team | substitute | swagger | bulldoze | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | aerial-ace | earthquake | hail | acrobatics | hidden-power | round | return
+  egg: slam | signal-beam | amnesia | haze | twister | hydro-pump | wide-guard | water-sport | mud-sport | splash | mirror-coat
+  tutor: signal-beam | helping-hand | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: mantine
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: remoraid
+forms: mantyke
+default_form: true

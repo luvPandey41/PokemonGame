@@ -1,0 +1,12 @@
+item_name: eviolite
+flavor_text: A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by a Pokémon that is not fully evolved : Holder has 1.5× Defense and Special Defense.
+fling_power: 40
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: mandibuzz
+pokedex_num: 630
+generation: V
+types: dark | flying
+height_dm: 12
+weight_hg: 395
+
+abilities: big-pecks | overcoat
+hidden_abilities: weak-armor
+ability_descriptions: Protects against Defense drops. | Protects against damage from weather. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 110 | 65 | 105 | 55 | 95 | 80
+base_exp: 179
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 60
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: flying
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones."
+
+moves:
+  level-up: gust: 1 | whirlwind: 57 | fury-attack: 1 | fury-attack: 5 | leer: 1 | mirror-move: 70 | feint-attack: 23 | bone-rush: 51 | flatter: 19 | pluck: 1 | pluck: 10 | tailwind: 37 | embargo: 50 | punishment: 28 | dark-pulse: 46 | air-slash: 41 | brave-bird: 63 | nasty-plot: 14 | defog: 32
+  machine: u-turn | cut | torment | thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | rock-tomb | payback | retaliate | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | frustration | snarl | aerial-ace | sunny-day | fly | hidden-power | round | rock-smash | embargo | pluck | return | taunt
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | iron-defense | dark-pulse | foul-play | sky-attack | roost | snatch | block | snore | knock-off
+evolution_info:
+  evolves_from: vullaby
+  evolves_to: none
+  trigger: N/A
+forms: mandibuzz
+default_form: true

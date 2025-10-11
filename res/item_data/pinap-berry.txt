@@ -1,0 +1,12 @@
+item_name: pinap-berry
+flavor_text: A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+cost: 200
+category: baking-only
+pocket: berries
+attributes: 
+holdable: no
+stackable: yes
+effect_description: No effect; only useful for planting and cooking.
+fling_power: 10
+consumable: no
+move name: 

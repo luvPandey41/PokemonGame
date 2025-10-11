@@ -1,0 +1,45 @@
+name: tirtouga
+pokedex_num: 564
+generation: V
+types: water | rock
+height_dm: 7
+weight_hg: 165
+
+abilities: solid-rock | sturdy
+hidden_abilities: swift-swim
+ability_descriptions: Decreases damage taken from super-effective moves by 1/4. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Doubles Speed during rain.
+
+base_stats: 54 | 78 | 103 | 53 | 45 | 22
+base_exp: 71
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "Restored from a fossil, this Pokémon can dive to depths beyond half a mile."
+
+moves:
+  level-up: bite: 8 | water-gun: 1 | hydro-pump: 51 | withdraw: 1 | bide: 1 | rock-slide: 45 | curse: 35 | protect: 11 | rollout: 5 | rain-dance: 48 | crunch: 21 | ancient-power: 18 | brine: 28 | aqua-tail: 41 | aqua-jet: 15 | wide-guard: 25 | smack-down: 31 | shell-smash: 38
+  machine: dig | strength | attract | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | earthquake | hidden-power | round | rock-smash | stone-edge | smack-down | return
+  egg: slam | flail | rock-throw | iron-defense | bide | whirlpool | body-slam | water-pulse | knock-off
+  tutor: stealth-rock | earth-power | aqua-tail | sleep-talk | iron-tail | iron-defense | icy-wind | block | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: carracosta
+  trigger: level-up
+  evo_level: 37
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: tirtouga
+default_form: true

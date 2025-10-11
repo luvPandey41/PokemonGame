@@ -1,0 +1,37 @@
+name: lunatone
+pokedex_num: 337
+generation: III
+types: rock | psychic
+height_dm: 10
+weight_hg: 1680
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 90 | 55 | 65 | 95 | 85 | 70
+base_exp: 161
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 25
+
+wild_held_items: moon-stone:5% | stardust:50% | comet-shard:1%
+
+description: "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases."
+
+moves:
+  level-up: tackle: 1 | rock-throw: 5 | confusion: 1 | psychic: 33 | hypnosis: 9 | harden: 1 | psywave: 17 | explosion: 49 | rock-slide: 25 | future-sight: 45 | cosmic-power: 29 | embargo: 21 | heal-block: 37 | rock-polish: 13 | stone-edge: 41 | magic-room: 53
+  machine: hyper-beam | rock-slide | sandstorm | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | frustration | earthquake | acrobatics | explosion | hidden-power | round | stone-edge | charge-beam | embargo | smack-down | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | earth-power | magic-room | zen-headbutt | icy-wind | pain-split | magic-coat | iron-head | snore | helping-hand | sleep-talk | gravity | recycle | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: lunatone
+default_form: true

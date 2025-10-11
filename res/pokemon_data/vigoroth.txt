@@ -1,0 +1,45 @@
+name: vigoroth
+pokedex_num: 288
+generation: III
+types: normal
+height_dm: 14
+weight_hg: 465
+
+abilities: vital-spirit
+hidden_abilities: none
+ability_descriptions: Prevents sleep.
+
+base_stats: 80 | 80 | 80 | 55 | 55 | 90
+base_exp: 154
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment."
+
+moves:
+  level-up: scratch: 1 | counter: 37 | focus-energy: 1 | fury-swipes: 19 | slash: 31 | reversal: 55 | endure: 25 | encore: 1 | encore: 7 | uproar: 1 | uproar: 13 | focus-punch: 49 | chip-away: 43
+  machine: cut | strength | thunderbolt | attract | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | bulk-up | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | focus-blast | frustration | aerial-ace | earthquake | solar-beam | hone-claws | sunny-day | shadow-claw | low-sweep | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: low-kick | after-you | sleep-talk | icy-wind | thunder-punch | ice-punch | gunk-shot | fire-punch | covet | uproar
+evolution_info:
+  evolves_from: slakoth
+  evolves_to: slaking
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: vigoroth
+default_form: true

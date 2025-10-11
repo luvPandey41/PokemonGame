@@ -1,0 +1,37 @@
+name: exeggutor
+pokedex_num: 103
+generation: I
+types: grass | psychic
+height_dm: 20
+weight_hg: 1200
+
+abilities: chlorophyll
+hidden_abilities: harvest
+ability_descriptions: Doubles Speed during strong sunlight. | Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.
+
+base_stats: 95 | 95 | 85 | 125 | 75 | 55
+base_exp: 186
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute."
+
+moves:
+  level-up: stomp: 1 | confusion: 1 | hypnosis: 1 | egg-bomb: 27 | barrage: 1 | seed-bomb: 1 | leaf-storm: 47 | wood-hammer: 37 | psyshock: 17
+  machine: strength | thief | attract | hyper-beam | facade | double-team | telekinesis | substitute | swagger | dream-eater | grass-knot | reflect | psychic | protect | sludge-bomb | psych-up | giga-impact | toxic | rest | frustration | solar-beam | sunny-day | explosion | hidden-power | round | swords-dance | energy-ball | light-screen | psyshock | return | trick-room | flash
+  egg: none
+  tutor: low-kick | synthesis | giga-drain | zen-headbutt | sleep-talk | gravity | seed-bomb | block | worry-seed | snore | skill-swap
+evolution_info:
+  evolves_from: exeggcute
+  evolves_to: none
+  trigger: N/A
+forms: exeggutor
+default_form: true

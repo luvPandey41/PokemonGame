@@ -1,0 +1,45 @@
+name: magby
+pokedex_num: 240
+generation: II
+types: fire
+height_dm: 7
+weight_hg: 214
+
+abilities: flame-body
+hidden_abilities: vital-spirit
+ability_descriptions: Has a 30% chance of burning attacking Pokémon on contact. | Prevents sleep.
+
+base_stats: 45 | 75 | 37 | 70 | 55 | 83
+base_exp: 73
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 2
+hatch_cycles: 25
+
+wild_held_items: rawst-berry:100% | magmarizer:5%
+
+description: "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F."
+
+moves:
+  level-up: fire-punch: 29 | leer: 1 | ember: 5 | flamethrower: 40 | fire-spin: 15 | smokescreen: 8 | confuse-ray: 26 | smog: 1 | fire-blast: 43 | feint-attack: 12 | sunny-day: 36 | lava-plume: 33 | flame-burst: 22 | clear-smog: 19
+  machine: toxic | rest | incinerate | thief | attract | frustration | will-o-wisp | facade | double-team | fling | substitute | swagger | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | flamethrower | brick-break | overheat | psychic | protect | return
+  egg: mach-punch | flare-blitz | dynamic-punch | barrier | screech | iron-tail | karate-chop | mega-punch | cross-chop | thunder-punch | focus-energy | belly-drum
+  tutor: heat-wave | dual-chop | helping-hand | sleep-talk | iron-tail | thunder-punch | fire-punch | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: magmar
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: magby
+default_form: true

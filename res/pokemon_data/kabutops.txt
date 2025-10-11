@@ -1,0 +1,37 @@
+name: kabutops
+pokedex_num: 141
+generation: I
+types: rock | water
+height_dm: 13
+weight_hg: 405
+
+abilities: swift-swim | battle-armor
+hidden_abilities: weak-armor
+ability_descriptions: Doubles Speed during rain. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 60 | 115 | 105 | 65 | 70 | 80
+base_exp: 173
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 21 | leer: 1 | leer: 11 | absorb: 1 | absorb: 6 | mega-drain: 36 | harden: 1 | slash: 40 | endure: 26 | ancient-power: 54 | metal-sound: 45 | mud-shot: 16 | feint: 1 | wring-out: 63 | night-slash: 72 | aqua-jet: 31
+  machine: cut | dig | thief | x-scissor | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | rock-tomb | rock-polish | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | aerial-ace | hail | hone-claws | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: low-kick | stealth-rock | earth-power | giga-drain | aqua-tail | sleep-talk | iron-defense | icy-wind | superpower | snore | knock-off
+evolution_info:
+  evolves_from: kabuto
+  evolves_to: none
+  trigger: N/A
+forms: kabutops
+default_form: true

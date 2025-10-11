@@ -1,0 +1,37 @@
+name: liepard
+pokedex_num: 510
+generation: V
+types: dark
+height_dm: 11
+weight_hg: 375
+
+abilities: limber | unburden
+hidden_abilities: prankster
+ability_descriptions: Prevents paralysis. | Doubles Speed upon using or losing a held item. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 64 | 88 | 50 | 88 | 50 | 106
+base_exp: 156
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 1 | sand-attack: 10 | growl: 1 | growl: 3 | fury-swipes: 12 | slash: 34 | pursuit: 15 | fake-out: 22 | torment: 19 | taunt: 38 | assist: 1 | assist: 6 | snatch: 47 | assurance: 31 | sucker-punch: 55 | night-slash: 43 | nasty-plot: 50 | hone-claws: 26
+  machine: u-turn | cut | torment | thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | dream-eater | grass-knot | payback | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | thunder-wave | frustration | snarl | aerial-ace | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | embargo | return | taunt
+  egg: none
+  tutor: iron-tail | dark-pulse | seed-bomb | snatch | trick | role-play | snore | knock-off | spite | sleep-talk | hyper-voice | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: purrloin
+  evolves_to: none
+  trigger: N/A
+forms: liepard
+default_form: true

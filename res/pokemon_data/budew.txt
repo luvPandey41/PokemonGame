@@ -1,0 +1,45 @@
+name: budew
+pokedex_num: 406
+generation: IV
+types: grass | poison
+height_dm: 2
+weight_hg: 12
+
+abilities: natural-cure | poison-point
+hidden_abilities: leaf-guard
+ability_descriptions: Cures any major status ailment upon switching out. | Has a 30% chance of poisoning attacking Pokémon on contact. | Protects against major status ailments during strong sunlight.
+
+base_stats: 40 | 30 | 35 | 50 | 70 | 55
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5%
+
+description: "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch."
+
+moves:
+  level-up: absorb: 1 | mega-drain: 13 | growth: 4 | stun-spore: 10 | water-sport: 7 | worry-seed: 16
+  machine: psych-up | toxic | rest | cut | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | shadow-ball | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | sludge-bomb | return | rain-dance | flash
+  egg: synthesis | mind-reader | leaf-storm | pin-missile | razor-leaf | seed-bomb | extrasensory | cotton-spore | giga-drain | spikes | natural-gift | grass-whistle | sleep-powder
+  tutor: synthesis | giga-drain | sleep-talk | seed-bomb | worry-seed | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: roselia
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: day
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: budew
+default_form: true

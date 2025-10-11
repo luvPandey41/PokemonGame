@@ -1,0 +1,12 @@
+item_name: hm07
+flavor_text: Attacks the foe with enough power to climb waterfalls.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Waterfall to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: 

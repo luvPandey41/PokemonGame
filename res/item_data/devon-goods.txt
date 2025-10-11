@@ -1,0 +1,12 @@
+item_name: devon-goods
+flavor_text: A package that contains DEVON’s machine parts.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains a machine part to be delivered to Captain Stern.
+fling_power: -1
+consumable: no
+move name: 

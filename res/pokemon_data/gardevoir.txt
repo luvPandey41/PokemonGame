@@ -1,0 +1,37 @@
+name: gardevoir
+pokedex_num: 282
+generation: III
+types: psychic | fairy
+height_dm: 16
+weight_hg: 484
+
+abilities: synchronize | trace
+hidden_abilities: telepathy
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Copies an opponent's ability upon entering battle. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 68 | 65 | 65 | 125 | 115 | 80
+base_exp: 233
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: humanshape | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "To protect its Trainer, it will expend all its psychic power to create a small black hole."
+
+moves:
+  level-up: growl: 1 | confusion: 1 | confusion: 6 | psychic: 40 | hypnosis: 65 | teleport: 1 | teleport: 12 | double-team: 1 | double-team: 10 | dream-eater: 73 | future-sight: 53 | wish: 17 | imprison: 45 | magical-leaf: 22 | calm-mind: 33 | healing-wish: 1 | captivate: 60 | stored-power: 80 | heal-pulse: 25
+  machine: torment | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | focus-blast | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | icy-wind | thunder-punch | pain-split | ice-punch | snatch | trick | fire-punch | magic-coat | snore | helping-hand | sleep-talk | recycle | hyper-voice | heal-bell | wonder-room | skill-swap
+evolution_info:
+  evolves_from: kirlia
+  evolves_to: none
+  trigger: N/A
+forms: gardevoir
+default_form: true

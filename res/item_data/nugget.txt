@@ -1,0 +1,12 @@
+item_name: nugget
+flavor_text: A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+cost: 10000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

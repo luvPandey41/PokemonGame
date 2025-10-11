@@ -1,0 +1,45 @@
+name: eelektrik
+pokedex_num: 603
+generation: V
+types: electric
+height_dm: 12
+weight_hg: 220
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 65 | 85 | 70 | 75 | 70 | 40
+base_exp: 142
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns."
+
+moves:
+  level-up: bind: 9 | headbutt: 1 | thrash: 74 | acid: 19 | thunderbolt: 44 | thunder-wave: 1 | zap-cannon: 69 | spark: 1 | crunch: 39 | gastro-acid: 64 | discharge: 29 | charge-beam: 1 | coil: 54 | acid-spray: 49 | wild-charge: 59
+  machine: toxic | rest | u-turn | thunderbolt | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | substitute | swagger | acrobatics | hidden-power | round | charge-beam | flash-cannon | protect | light-screen | volt-switch | return | rain-dance | flash
+  egg: none
+  tutor: signal-beam | bind | giga-drain | aqua-tail | gastro-acid | sleep-talk | iron-tail | bounce | magnet-rise | super-fang | snore | knock-off
+evolution_info:
+  evolves_from: tynamo
+  evolves_to: eelektross
+  trigger: use-item
+  evo_level: null
+  evo_item: thunder-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: eelektrik
+default_form: true

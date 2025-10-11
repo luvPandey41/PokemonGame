@@ -1,0 +1,52 @@
+name: poliwhirl
+pokedex_num: 61
+generation: I
+types: water
+height_dm: 10
+weight_hg: 200
+
+abilities: water-absorb | damp
+hidden_abilities: swift-swim
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Doubles Speed during rain.
+
+base_stats: 65 | 65 | 65 | 50 | 50 | 90
+base_exp: 135
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: kings-rock:5%
+
+description: "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness."
+
+moves:
+  level-up: double-slap: 15 | body-slam: 21 | water-gun: 11 | hydro-pump: 48 | bubble-beam: 27 | hypnosis: 1 | hypnosis: 8 | bubble: 1 | bubble: 5 | belly-drum: 37 | rain-dance: 18 | mud-shot: 32 | water-sport: 1 | wake-up-slap: 43 | mud-bomb: 53
+  machine: dig | strength | thief | attract | facade | scald | double-team | fling | substitute | swagger | bulldoze | ice-beam | waterfall | psychic | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: helping-hand | sleep-talk | icy-wind | endeavor | ice-punch | snore
+evolution_info:
+  evolves_from: poliwag
+  evolves_to: poliwrath, politoed
+  trigger: use-item, trade
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: poliwhirl
+default_form: true

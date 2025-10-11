@@ -1,0 +1,20 @@
+move name: muddy-water
+power: 90
+accuracy: 85
+type: water
+attack type: special
+target: all-opponents
+pp: 10
+priority: 0
+flavor text: Has a 30% chance to lower the target's accuracy by one stage.
+ailment: none
+ailment chance: 0
+status changes: accuracy:-1
+effect chance: 30
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 30

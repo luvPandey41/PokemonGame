@@ -1,0 +1,45 @@
+name: mankey
+pokedex_num: 56
+generation: I
+types: fighting
+height_dm: 5
+weight_hg: 280
+
+abilities: vital-spirit | anger-point
+hidden_abilities: defiant
+ability_descriptions: Prevents sleep. | Raises Attack to the maximum of six stages upon receiving a critical hit. | Raises Attack two stages upon having any stat lowered.
+
+base_stats: 40 | 80 | 35 | 35 | 45 | 70
+base_exp: 61
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: payapa-berry:5%
+
+description: "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason."
+
+moves:
+  level-up: karate-chop: 13 | scratch: 1 | thrash: 41 | leer: 1 | low-kick: 1 | seismic-toss: 17 | screech: 21 | focus-energy: 1 | fury-swipes: 9 | swagger: 33 | cross-chop: 37 | covet: 1 | close-combat: 49 | assurance: 25 | punishment: 45 | final-gambit: 53
+  machine: u-turn | dig | strength | thunderbolt | thief | attract | rock-slide | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | overheat | payback | retaliate | bulk-up | protect | rain-dance | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | earthquake | hone-claws | sunny-day | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: reversal | revenge | sleep-talk | focus-punch | beat-up | counter | close-combat | meditate | foresight | encore | smelling-salts
+  tutor: dual-chop | iron-tail | thunder-punch | endeavor | seed-bomb | outrage | ice-punch | fire-punch | role-play | uproar | low-kick | helping-hand | spite | sleep-talk | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: primeape
+  trigger: level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mankey
+default_form: true

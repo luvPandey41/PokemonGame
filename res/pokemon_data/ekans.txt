@@ -1,0 +1,45 @@
+name: ekans
+pokedex_num: 23
+generation: I
+types: poison
+height_dm: 20
+weight_hg: 69
+
+abilities: intimidate | shed-skin
+hidden_abilities: unnerve
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Has a 33% chance of curing any major status ailment after each turn. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 35 | 60 | 44 | 40 | 54 | 55
+base_exp: 58
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It sneaks through grass without making a sound and strikes unsuspecting prey from behind."
+
+moves:
+  level-up: wrap: 1 | poison-sting: 4 | leer: 1 | bite: 9 | acid: 20 | screech: 17 | haze: 41 | glare: 12 | stockpile: 25 | spit-up: 25 | swallow: 25 | gastro-acid: 36 | mud-bomb: 33 | gunk-shot: 49 | coil: 44 | acid-spray: 28
+  machine: sludge-wave | dig | torment | strength | thief | attract | rock-slide | facade | double-team | venoshock | substitute | swagger | bulldoze | rock-tomb | payback | protect | sludge-bomb | rain-dance | toxic | rest | poison-jab | frustration | earthquake | sunny-day | hidden-power | round | return
+  egg: slam | scary-face | spite | sucker-punch | iron-tail | switcheroo | disable | pursuit | poison-fang | beat-up | snatch | poison-tail
+  tutor: bind | giga-drain | aqua-tail | spite | gastro-acid | sleep-talk | iron-tail | dark-pulse | seed-bomb | snatch | gunk-shot | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: arbok
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: ekans
+default_form: true

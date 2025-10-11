@@ -1,0 +1,45 @@
+name: mime-jr
+pokedex_num: 439
+generation: IV
+types: psychic | fairy
+height_dm: 6
+weight_hg: 130
+
+abilities: soundproof | filter
+hidden_abilities: technician
+ability_descriptions: Protects against sound-based moves. | Decreases damage taken from super-effective moves by 1/4. | Strengthens moves of 60 base power or less to 1.5× their power.
+
+base_stats: 20 | 25 | 45 | 70 | 90 | 60
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 145
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: leppa-berry:5%
+
+description: "It mimics the expressions and motions of those it sees to understand the feelings of others."
+
+moves:
+  level-up: double-slap: 11 | psybeam: 25 | confusion: 1 | psychic: 39 | meditate: 8 | mimic: 15 | barrier: 1 | light-screen: 22 | reflect: 22 | substitute: 29 | safeguard: 50 | baton-pass: 46 | encore: 18 | trick: 36 | role-play: 43 | recycle: 32 | tickle: 1 | copycat: 4
+  machine: torment | thunderbolt | thief | attract | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | solar-beam | sunny-day | hidden-power | round | brick-break | charge-beam | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: magic-room | confuse-ray | icy-wind | fake-out | trick | healing-wish | hypnosis | charm | power-split | future-sight | nasty-plot | teeter-dance | mimic | wake-up-slap
+  tutor: signal-beam | magic-room | icy-wind | snatch | trick | magic-coat | role-play | snore | uproar | helping-hand | sleep-talk | drain-punch | recycle | wonder-room | covet | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: mr-mime
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: mimic
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mime-jr
+default_form: true

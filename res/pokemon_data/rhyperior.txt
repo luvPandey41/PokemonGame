@@ -1,0 +1,37 @@
+name: rhyperior
+pokedex_num: 464
+generation: IV
+types: ground | rock
+height_dm: 24
+weight_hg: 2828
+
+abilities: lightning-rod | solid-rock
+hidden_abilities: reckless
+ability_descriptions: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Decreases damage taken from super-effective moves by 1/4. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 115 | 140 | 130 | 55 | 55 | 40
+base_exp: 241
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly."
+
+moves:
+  level-up: stomp: 1 | stomp: 9 | horn-attack: 1 | fury-attack: 1 | fury-attack: 19 | horn-drill: 71 | take-down: 41 | tail-whip: 1 | earthquake: 62 | scary-face: 19 | megahorn: 77 | rock-blast: 23 | hammer-arm: 42 | poison-jab: 1 | rock-wrecker: 86 | stone-edge: 56 | chip-away: 30 | drill-run: 47
+  machine: dragon-tail | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | payback | roar | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | poison-jab | focus-blast | frustration | earthquake | sunny-day | shadow-claw | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | flash-cannon | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | thunder-punch | endeavor | outrage | ice-punch | fire-punch | dragon-pulse | superpower | iron-head | snore | uproar | spite | sleep-talk | block | drill-run
+evolution_info:
+  evolves_from: rhydon
+  evolves_to: none
+  trigger: N/A
+forms: rhyperior
+default_form: true

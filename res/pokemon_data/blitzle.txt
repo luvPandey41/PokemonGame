@@ -1,0 +1,45 @@
+name: blitzle
+pokedex_num: 522
+generation: V
+types: electric
+height_dm: 8
+weight_hg: 298
+
+abilities: lightning-rod | motor-drive
+hidden_abilities: sap-sipper
+ability_descriptions: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Absorbs electric moves, raising Speed one stage. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 45 | 60 | 32 | 50 | 32 | 76
+base_exp: 59
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: cheri-berry:50%
+
+description: "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another."
+
+moves:
+  level-up: stomp: 29 | thrash: 43 | tail-whip: 4 | thunder-wave: 15 | agility: 36 | quick-attack: 1 | spark: 25 | pursuit: 22 | charge: 8 | shock-wave: 11 | discharge: 32 | flame-charge: 18 | wild-charge: 39
+  machine: toxic | rest | thunderbolt | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | substitute | swagger | flame-charge | hidden-power | round | charge-beam | protect | light-screen | volt-switch | return | rain-dance | flash
+  egg: double-edge | sand-attack | screech | me-first | rage | take-down | shock-wave | endure | double-kick
+  tutor: signal-beam | sleep-talk | bounce | magnet-rise | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: zebstrika
+  trigger: level-up
+  evo_level: 27
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: blitzle
+default_form: true

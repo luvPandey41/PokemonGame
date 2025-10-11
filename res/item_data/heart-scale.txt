@@ -1,0 +1,12 @@
+item_name: heart-scale
+flavor_text: A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
+cost: 100
+category: collectibles
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Trade one to the Move Relearner near the shore in pastoria city or with the Move Deleter in blackthorn city to teach one party Pokémon a prior level-up move.
+fling_power: 30
+consumable: no
+move name: 

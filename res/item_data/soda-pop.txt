@@ -1,0 +1,12 @@
+item_name: soda-pop
+flavor_text: A fizzy soda drink. It restores the HP of one Pokémon by 60 points.
+cost: 300
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores 60 HP.
+fling_power: 30
+consumable: yes
+move name: 

@@ -1,0 +1,12 @@
+item_name: potion
+flavor_text: A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.
+cost: 200
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a friendly Pokémon : Restores 20 HP.
+fling_power: 30
+consumable: yes
+move name: 

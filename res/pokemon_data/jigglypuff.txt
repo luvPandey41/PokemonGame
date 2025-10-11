@@ -1,0 +1,45 @@
+name: jigglypuff
+pokedex_num: 39
+generation: I
+types: normal | fairy
+height_dm: 5
+weight_hg: 55
+
+abilities: cute-charm | competitive
+hidden_abilities: friend-guard
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Raises Special Attack by two stages upon having any stat lowered. | Decreases all direct damage taken by friendly Pokémon to 0.75×.
+
+base_stats: 115 | 45 | 20 | 45 | 25 | 20
+base_exp: 95
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 170
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: moon-stone:5% | oran-berry:50%
+
+description: "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy."
+
+moves:
+  level-up: pound: 9 | double-slap: 25 | body-slam: 33 | double-edge: 53 | sing: 1 | disable: 13 | mimic: 45 | defense-curl: 5 | rest: 29 | rollout: 21 | hyper-voice: 49 | wake-up-slap: 41 | gyro-ball: 37 | round: 17
+  machine: dig | strength | thunderbolt | wild-charge | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | gyro-ball | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | blizzard | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | brick-break | charge-beam | light-screen | return | flash | safeguard
+  egg: none
+  tutor: stealth-rock | bounce | icy-wind | thunder-punch | endeavor | pain-split | ice-punch | snatch | fire-punch | magic-coat | role-play | snore | knock-off | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: igglybuff
+  evolves_to: wigglytuff
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: jigglypuff
+default_form: true

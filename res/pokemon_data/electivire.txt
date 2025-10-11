@@ -1,0 +1,37 @@
+name: electivire
+pokedex_num: 466
+generation: IV
+types: electric
+height_dm: 18
+weight_hg: 1386
+
+abilities: motor-drive
+hidden_abilities: vital-spirit
+ability_descriptions: Absorbs electric moves, raising Speed one stage. | Prevents sleep.
+
+base_stats: 75 | 123 | 67 | 95 | 85 | 95
+base_exp: 243
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 25
+
+wild_held_items: electirizer:50%
+
+description: "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage."
+
+moves:
+  level-up: fire-punch: 1 | thunder-punch: 29 | leer: 1 | low-kick: 1 | low-kick: 8 | thunder-shock: 1 | thunder-shock: 5 | thunderbolt: 49 | thunder-wave: 19 | thunder: 55 | quick-attack: 1 | screech: 42 | light-screen: 26 | swift: 12 | shock-wave: 15 | giga-impact: 62 | discharge: 36 | electro-ball: 22
+  machine: dig | torment | strength | thunderbolt | thief | wild-charge | attract | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | flamethrower | psychic | protect | volt-switch | rain-dance | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | earthquake | low-sweep | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | return | taunt | flash
+  egg: none
+  tutor: signal-beam | dual-chop | iron-tail | thunder-punch | ice-punch | fire-punch | electroweb | snore | low-kick | helping-hand | sleep-talk | magnet-rise | covet
+evolution_info:
+  evolves_from: electabuzz
+  evolves_to: none
+  trigger: N/A
+forms: electivire
+default_form: true

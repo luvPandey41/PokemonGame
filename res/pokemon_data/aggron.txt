@@ -1,0 +1,37 @@
+name: aggron
+pokedex_num: 306
+generation: III
+types: steel | rock
+height_dm: 21
+weight_hg: 3600
+
+abilities: sturdy | rock-head
+hidden_abilities: heavy-metal
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against recoil damage. | Doubles the Pokémon's weight.
+
+base_stats: 70 | 110 | 180 | 60 | 60 | 50
+base_exp: 239
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 35
+
+wild_held_items: hard-stone:5%
+
+description: "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns."
+
+moves:
+  level-up: headbutt: 1 | headbutt: 8 | tackle: 1 | take-down: 22 | double-edge: 65 | roar: 18 | harden: 1 | protect: 29 | mud-slap: 1 | mud-slap: 4 | iron-tail: 40 | metal-claw: 11 | metal-sound: 34 | iron-defense: 15 | metal-burst: 74 | iron-head: 25 | autotomize: 48 | heavy-slam: 57
+  machine: dragon-tail | dig | strength | facade | thunder | double-team | fling | swagger | payback | roar | dragon-claw | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | solar-beam | stone-edge | flash-cannon | cut | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | substitute | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | protect | rain-dance | rest | blizzard | focus-blast | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | iron-defense | icy-wind | thunder-punch | endeavor | dark-pulse | outrage | ice-punch | fire-punch | dragon-pulse | superpower | iron-head | snore | uproar | low-kick | spite | sleep-talk | magnet-rise | block
+evolution_info:
+  evolves_from: lairon
+  evolves_to: none
+  trigger: N/A
+forms: aggron
+default_form: true

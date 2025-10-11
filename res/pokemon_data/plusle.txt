@@ -1,0 +1,37 @@
+name: plusle
+pokedex_num: 311
+generation: III
+types: electric
+height_dm: 4
+weight_hg: 42
+
+abilities: plus
+hidden_abilities: lightning-rod
+ability_descriptions: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 60 | 50 | 40 | 85 | 75 | 95
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: cell-battery:5%
+
+description: "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles."
+
+moves:
+  level-up: growl: 1 | thunder-wave: 3 | thunder: 42 | agility: 48 | quick-attack: 7 | swift: 31 | spark: 15 | baton-pass: 44 | encore: 17 | charge: 38 | helping-hand: 10 | fake-tears: 21 | fake-tears: 35 | copycat: 24 | last-resort: 51 | nasty-plot: 56 | electro-ball: 29 | entrainment: 63
+  machine: toxic | rest | thunderbolt | echoed-voice | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | fling | substitute | swagger | grass-knot | hidden-power | round | charge-beam | protect | light-screen | volt-switch | return | rain-dance | flash
+  egg: wish | sweet-kiss | discharge | sing | lucky-chant
+  tutor: signal-beam | helping-hand | last-resort | sleep-talk | iron-tail | thunder-punch | magnet-rise | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: plusle
+default_form: true

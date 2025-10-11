@@ -1,0 +1,37 @@
+name: chimecho
+pokedex_num: 358
+generation: III
+types: psychic
+height_dm: 6
+weight_hg: 10
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 75 | 50 | 80 | 95 | 90 | 65
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 1 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: colbur-berry:5% | cleanse-tag:5%
+
+description: "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes."
+
+moves:
+  level-up: wrap: 1 | take-down: 22 | double-edge: 33 | growl: 6 | confusion: 14 | psywave: 30 | heal-bell: 38 | safeguard: 41 | uproar: 17 | yawn: 25 | astonish: 9 | extrasensory: 46 | healing-wish: 57 | synchronoise: 54 | heal-pulse: 49
+  machine: torment | attract | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: hypnosis | wish | future-sight | stored-power | disable | curse | skill-swap
+  tutor: signal-beam | zen-headbutt | icy-wind | snatch | trick | magic-coat | snore | uproar | knock-off | bind | helping-hand | last-resort | sleep-talk | gravity | recycle | hyper-voice | heal-bell | skill-swap
+evolution_info:
+  evolves_from: chingling
+  evolves_to: none
+  trigger: N/A
+forms: chimecho
+default_form: true

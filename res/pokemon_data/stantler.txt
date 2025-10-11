@@ -1,0 +1,45 @@
+name: stantler
+pokedex_num: 234
+generation: II
+types: normal
+height_dm: 14
+weight_hg: 712
+
+abilities: intimidate | frisk
+hidden_abilities: sap-sipper
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Reveals an opponent's held item upon entering battle. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 73 | 95 | 62 | 85 | 65 | 85
+base_exp: 163
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+
+moves:
+  level-up: stomp: 13 | jump-kick: 43 | sand-attack: 16 | tackle: 1 | take-down: 21 | leer: 3 | hypnosis: 10 | confuse-ray: 23 | role-play: 33 | imprison: 49 | astonish: 7 | calm-mind: 27 | me-first: 55 | zen-headbutt: 38 | captivate: 53
+  machine: thunderbolt | thief | wild-charge | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | bulldoze | reflect | calm-mind | retaliate | roar | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | earthquake | solar-beam | sunny-day | work-up | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash
+  egg: zen-headbutt | spite | megahorn | me-first | bite | disable | rage | thrash | extrasensory | double-kick | mud-sport
+  tutor: signal-beam | magic-room | zen-headbutt | iron-tail | bounce | role-play | snore | uproar | last-resort | spite | sleep-talk | gravity | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: wyrdeer
+  trigger: agile-style-move
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: psyshield-bash
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: stantler
+default_form: true

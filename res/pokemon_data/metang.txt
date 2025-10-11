@@ -1,0 +1,45 @@
+name: metang
+pokedex_num: 375
+generation: III
+types: steel | psychic
+height_dm: 12
+weight_hg: 2025
+
+abilities: clear-body
+hidden_abilities: light-metal
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Halves the Pokémon's weight.
+
+base_stats: 60 | 75 | 100 | 55 | 80 | 50
+base_exp: 147
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 40
+
+wild_held_items: metal-coat:5%
+
+description: "It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet."
+
+moves:
+  level-up: take-down: 1 | hyper-beam: 50 | confusion: 1 | confusion: 20 | psychic: 41 | agility: 38 | scary-face: 35 | pursuit: 23 | metal-claw: 1 | metal-claw: 20 | meteor-mash: 44 | iron-defense: 47 | miracle-eye: 26 | magnet-rise: 1 | bullet-punch: 32 | zen-headbutt: 29
+  machine: cut | strength | hyper-beam | rock-slide | sandstorm | facade | double-team | telekinesis | substitute | swagger | shadow-ball | grass-knot | bulldoze | reflect | gyro-ball | rock-tomb | rock-polish | psychic | protect | sludge-bomb | rain-dance | psych-up | toxic | rest | frustration | aerial-ace | earthquake | hone-claws | sunny-day | explosion | hidden-power | round | rock-smash | brick-break | flash-cannon | light-screen | psyshock | return | flash
+  egg: none
+  tutor: stealth-rock | signal-beam | zen-headbutt | iron-defense | icy-wind | thunder-punch | ice-punch | trick | iron-head | snore | sleep-talk | gravity | magnet-rise
+evolution_info:
+  evolves_from: beldum
+  evolves_to: metagross
+  trigger: level-up
+  evo_level: 45
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: metang
+default_form: true

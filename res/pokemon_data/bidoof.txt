@@ -1,0 +1,45 @@
+name: bidoof
+pokedex_num: 399
+generation: IV
+types: normal
+height_dm: 5
+weight_hg: 200
+
+abilities: simple | unaware
+hidden_abilities: moody
+ability_descriptions: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. | Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 59 | 45 | 40 | 35 | 40 | 31
+base_exp: 50
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s."
+
+moves:
+  level-up: headbutt: 17 | tackle: 1 | take-down: 33 | growl: 5 | defense-curl: 9 | amnesia: 29 | hyper-fang: 21 | super-fang: 37 | curse: 45 | rollout: 13 | superpower: 41 | yawn: 25
+  machine: cut | dig | thunderbolt | thief | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | protect | rain-dance | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | pluck | return | taunt
+  egg: odor-sleuth | double-edge | skull-bash | rock-climb | quick-attack | aqua-tail | rollout | sleep-talk | defense-curl | fury-swipes | endure | water-sport
+  tutor: stealth-rock | last-resort | aqua-tail | sleep-talk | iron-tail | icy-wind | super-fang | superpower | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: bibarel
+  trigger: level-up
+  evo_level: 15
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: bidoof
+default_form: true

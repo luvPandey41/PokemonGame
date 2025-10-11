@@ -1,0 +1,37 @@
+name: milotic
+pokedex_num: 350
+generation: III
+types: water
+height_dm: 62
+weight_hg: 1620
+
+abilities: marvel-scale | competitive
+hidden_abilities: cute-charm
+ability_descriptions: Increases Defense to 1.5× with a major status ailment. | Raises Special Attack by two stages upon having any stat lowered. | Has a 30% chance of infatuating attacking Pokémon on contact.
+
+base_stats: 95 | 60 | 79 | 100 | 125 | 81
+base_exp: 189
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle."
+
+moves:
+  level-up: wrap: 1 | water-gun: 1 | hydro-pump: 37 | recover: 21 | attract: 41 | safeguard: 45 | twister: 17 | rain-dance: 33 | refresh: 9 | water-sport: 5 | water-pulse: 13 | aqua-ring: 49 | aqua-tail: 29 | captivate: 25
+  machine: dragon-tail | attract | hyper-beam | facade | scald | double-team | substitute | swagger | bulldoze | ice-beam | waterfall | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | light-screen | return | safeguard
+  egg: none
+  tutor: bind | aqua-tail | sleep-talk | iron-tail | icy-wind | magic-coat | dragon-pulse | iron-head | snore
+evolution_info:
+  evolves_from: feebas
+  evolves_to: none
+  trigger: N/A
+forms: milotic
+default_form: true

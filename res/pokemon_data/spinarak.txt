@@ -1,0 +1,45 @@
+name: spinarak
+pokedex_num: 167
+generation: II
+types: bug | poison
+height_dm: 5
+weight_hg: 85
+
+abilities: swarm | insomnia
+hidden_abilities: sniper
+ability_descriptions: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Prevents sleep. | Strengthens critical hits to inflict 3× damage rather than 2×.
+
+base_stats: 40 | 60 | 40 | 40 | 40 | 30
+base_exp: 50
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive."
+
+moves:
+  level-up: poison-sting: 1 | pin-missile: 36 | string-shot: 1 | psychic: 40 | agility: 33 | night-shade: 15 | constrict: 8 | leech-life: 12 | fury-swipes: 22 | spider-web: 29 | scary-face: 5 | sucker-punch: 26 | poison-jab: 43 | shadow-sneak: 19 | cross-poison: 47
+  machine: toxic | rest | dig | thief | poison-jab | x-scissor | attract | frustration | facade | double-team | venoshock | solar-beam | hone-claws | substitute | swagger | sunny-day | struggle-bug | hidden-power | round | psychic | protect | sludge-bomb | return | flash
+  egg: baton-pass | signal-beam | night-slash | twineedle | disable | pursuit | psybeam | rage-powder | electroweb | sonic-boom | toxic-spikes
+  tutor: signal-beam | giga-drain | sleep-talk | bounce | bug-bite | foul-play | electroweb
+evolution_info:
+  evolves_from: none
+  evolves_to: ariados
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: spinarak
+default_form: true

@@ -1,0 +1,12 @@
+item_name: zoom-lens
+flavor_text: An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Raises the holder's Accuracy by 20% when it goes last. Ingame description is incorrect.
+fling_power: 10
+consumable: no
+move name: 

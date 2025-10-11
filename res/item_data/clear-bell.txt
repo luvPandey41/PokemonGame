@@ -1,0 +1,12 @@
+item_name: clear-bell
+flavor_text: A very old-fashioned bell that makes a gentle ringing.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be given to the Kimono Girls to summon ho oh to the top of the bell tower.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,12 @@
+item_name: hm02
+flavor_text: The user soars, then strikes on the second turn. It can also be used to fly to any familiar town.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Fly to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Fly

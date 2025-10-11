@@ -1,0 +1,37 @@
+name: tyranitar
+pokedex_num: 248
+generation: II
+types: rock | dark
+height_dm: 20
+weight_hg: 2020
+
+abilities: sand-stream
+hidden_abilities: unnerve
+ability_descriptions: Summons a sandstorm that lasts indefinitely upon entering battle. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 100 | 134 | 110 | 95 | 100 | 61
+base_exp: 270
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+
+moves:
+  level-up: thrash: 28 | leer: 1 | bite: 1 | hyper-beam: 73 | earthquake: 54 | screech: 1 | screech: 10 | rock-slide: 19 | scary-face: 23 | sandstorm: 1 | sandstorm: 5 | crunch: 47 | payback: 41 | dark-pulse: 34 | giga-impact: 82 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | stone-edge: 63 | chip-away: 14
+  machine: dragon-tail | dig | torment | strength | facade | thunder | double-team | fling | swagger | payback | roar | dragon-claw | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | snarl | earthquake | stone-edge | cut | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | substitute | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | retaliate | protect | rain-dance | rest | blizzard | focus-blast | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | iron-defense | thunder-punch | dark-pulse | outrage | ice-punch | fire-punch | dragon-pulse | superpower | iron-head | snore | uproar | low-kick | spite | sleep-talk | foul-play | block
+evolution_info:
+  evolves_from: pupitar
+  evolves_to: none
+  trigger: N/A
+forms: tyranitar
+default_form: true

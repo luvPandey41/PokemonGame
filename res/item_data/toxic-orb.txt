@@ -1,0 +1,12 @@
+item_name: toxic-orb
+flavor_text: An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+cost: 4000
+category: bad-held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Badly poisons the holder at the end of each turn.
+fling_power: 30
+consumable: no
+move name: 

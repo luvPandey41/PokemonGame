@@ -1,0 +1,45 @@
+name: misdreavus
+pokedex_num: 200
+generation: II
+types: ghost
+height_dm: 7
+weight_hg: 10
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 60 | 60 | 60 | 85 | 85 | 85
+base_exp: 87
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: spell-tag:5%
+
+description: "A Pokémon that startles people in the middle of the night. It gathers fear as its energy."
+
+moves:
+  level-up: growl: 1 | psybeam: 28 | confuse-ray: 14 | psywave: 1 | spite: 5 | perish-song: 46 | mean-look: 19 | pain-split: 32 | shadow-ball: 41 | grudge: 50 | astonish: 10 | payback: 37 | power-gem: 55 | hex: 23
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | aerial-ace | sunny-day | hidden-power | round | charge-beam | embargo | return | taunt | trick-room | flash
+  egg: ominous-wind | spite | destiny-bond | sucker-punch | screech | imprison | nasty-plot | curse | shadow-sneak | memento | wonder-room | skill-swap
+  tutor: magic-room | icy-wind | pain-split | dark-pulse | snatch | trick | magic-coat | snore | uproar | spite | sleep-talk | hyper-voice | foul-play | heal-bell | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: mismagius
+  trigger: use-item
+  evo_level: null
+  evo_item: dusk-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: misdreavus
+default_form: true

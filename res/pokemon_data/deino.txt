@@ -1,0 +1,45 @@
+name: deino
+pokedex_num: 633
+generation: V
+types: dark | dragon
+height_dm: 8
+weight_hg: 173
+
+abilities: hustle
+hidden_abilities: none
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 52 | 65 | 50 | 45 | 50 | 38
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous."
+
+moves:
+  level-up: slam: 28 | headbutt: 12 | tackle: 1 | body-slam: 48 | bite: 9 | roar: 20 | dragon-rage: 1 | focus-energy: 4 | scary-face: 52 | outrage: 62 | dragon-breath: 17 | crunch: 25 | hyper-voice: 58 | dragon-pulse: 32 | dragon-rush: 42 | work-up: 38
+  machine: dragon-tail | torment | strength | thief | attract | facade | double-team | substitute | swagger | roar | protect | rain-dance | psych-up | toxic | rest | incinerate | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | return | taunt
+  egg: assurance | thunder-fang | ice-fang | earth-power | fire-fang | screech | head-smash | dark-pulse | astonish | double-hit
+  tutor: earth-power | aqua-tail | zen-headbutt | dark-pulse | outrage | dragon-pulse | superpower | snore | uproar | spite | sleep-talk | hyper-voice | draco-meteor
+evolution_info:
+  evolves_from: none
+  evolves_to: zweilous
+  trigger: level-up
+  evo_level: 50
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: deino
+default_form: true

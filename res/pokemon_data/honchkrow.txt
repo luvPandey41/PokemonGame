@@ -1,0 +1,37 @@
+name: honchkrow
+pokedex_num: 430
+generation: IV
+types: dark | flying
+height_dm: 9
+weight_hg: 273
+
+abilities: insomnia | super-luck
+hidden_abilities: moxie
+ability_descriptions: Prevents sleep. | Raises moves' critical hit rates one stage. | Raises Attack one stage upon KOing a Pokémon.
+
+base_stats: 100 | 125 | 52 | 105 | 52 | 71
+base_exp: 177
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If one utters a deep cry, many Murkrow gather quickly. For this, it is called “Summoner of Night.”"
+
+moves:
+  level-up: wing-attack: 1 | haze: 1 | swagger: 25 | pursuit: 1 | astonish: 1 | dark-pulse: 75 | night-slash: 55 | nasty-plot: 35 | foul-play: 45 | quash: 65
+  machine: torment | thief | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | thunder-wave | frustration | snarl | aerial-ace | sunny-day | fly | hidden-power | round | embargo | pluck | quash | return | taunt
+  egg: none
+  tutor: heat-wave | tailwind | spite | sleep-talk | icy-wind | dark-pulse | foul-play | sky-attack | roost | snatch | superpower | uproar
+evolution_info:
+  evolves_from: murkrow
+  evolves_to: none
+  trigger: N/A
+forms: honchkrow
+default_form: true

@@ -1,0 +1,12 @@
+item_name: mysticticket
+flavor_text: A ticket required to board the ship to NAVEL ROCK.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to Navel Rock, ho oh, and lugia.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: roserade
+pokedex_num: 407
+generation: IV
+types: grass | poison
+height_dm: 9
+weight_hg: 145
+
+abilities: natural-cure | poison-point
+hidden_abilities: technician
+ability_descriptions: Cures any major status ailment upon switching out. | Has a 30% chance of poisoning attacking Pokémon on contact. | Strengthens moves of 60 base power or less to 1.5× their power.
+
+base_stats: 60 | 70 | 65 | 125 | 105 | 90
+base_exp: 232
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5% | absorb-bulb:1%
+
+description: "Each of its hands contains different toxins, but both hands can jab with near-fatal power."
+
+moves:
+  level-up: poison-sting: 1 | mega-drain: 1 | sweet-scent: 1 | weather-ball: 1 | magical-leaf: 1
+  machine: cut | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | grass-knot | protect | sludge-bomb | rain-dance | psych-up | giga-impact | toxic | rest | poison-jab | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | giga-drain | sleep-talk | seed-bomb | worry-seed | covet | snore
+evolution_info:
+  evolves_from: roselia
+  evolves_to: none
+  trigger: N/A
+forms: roserade
+default_form: true

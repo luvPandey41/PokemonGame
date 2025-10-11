@@ -1,0 +1,45 @@
+name: sandshrew
+pokedex_num: 27
+generation: I
+types: ground
+height_dm: 6
+weight_hg: 120
+
+abilities: sand-veil
+hidden_abilities: sand-rush
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Doubles Speed during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 50 | 75 | 85 | 20 | 30 | 40
+base_exp: 60
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5% | grip-claw:5%
+
+description: "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 38 | sand-attack: 3 | poison-sting: 5 | earthquake: 46 | dig: 30 | defense-curl: 1 | swift: 11 | fury-swipes: 20 | slash: 26 | sandstorm: 42 | rollout: 7 | fury-cutter: 14 | magnitude: 17 | rapid-spin: 9 | sand-tomb: 23 | gyro-ball: 34
+  machine: cut | dig | strength | thief | x-scissor | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | protect | toxic | rest | poison-jab | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | hidden-power | round | swords-dance | rock-smash | brick-break | return | safeguard
+  egg: flail | rock-climb | night-slash | crush-claw | mud-shot | metal-claw | chip-away | rapid-spin | counter | endure
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | super-fang | covet | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: sandslash
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: sandshrew
+default_form: true

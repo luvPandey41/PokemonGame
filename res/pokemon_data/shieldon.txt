@@ -1,0 +1,45 @@
+name: shieldon
+pokedex_num: 410
+generation: IV
+types: rock | steel
+height_dm: 5
+weight_hg: 570
+
+abilities: sturdy
+hidden_abilities: soundproof
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against sound-based moves.
+
+base_stats: 30 | 42 | 118 | 42 | 88 | 30
+base_exp: 70
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: monster
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It is outstandingly armored. As a result, it can eat grass and berries without having to fight."
+
+moves:
+  level-up: tackle: 1 | take-down: 15 | protect: 1 | endure: 33 | swagger: 24 | ancient-power: 28 | taunt: 6 | metal-sound: 10 | iron-defense: 19 | metal-burst: 37 | iron-head: 42 | heavy-slam: 46
+  machine: dig | torment | strength | thunderbolt | attract | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | flamethrower | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | frustration | earthquake | sunny-day | fire-blast | hidden-power | round | rock-smash | stone-edge | flash-cannon | smack-down | return | taunt
+  egg: stealth-rock | rock-blast | double-edge | scary-face | screech | headbutt | fissure | wide-guard | focus-energy | curse | counter | body-slam
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | iron-defense | magnet-rise | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: bastiodon
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shieldon
+default_form: true

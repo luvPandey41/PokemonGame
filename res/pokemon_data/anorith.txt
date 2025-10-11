@@ -1,0 +1,45 @@
+name: anorith
+pokedex_num: 347
+generation: III
+types: rock | bug
+height_dm: 7
+weight_hg: 125
+
+abilities: battle-armor
+hidden_abilities: swift-swim
+ability_descriptions: Protects against critical hits. | Doubles Speed during rain.
+
+base_stats: 45 | 95 | 50 | 40 | 50 | 75
+base_exp: 71
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws."
+
+moves:
+  level-up: scratch: 1 | water-gun: 13 | harden: 1 | slash: 43 | protect: 25 | fury-cutter: 37 | metal-claw: 19 | ancient-power: 31 | mud-sport: 7 | crush-claw: 55 | rock-blast: 49 | x-scissor: 61
+  machine: cut | dig | x-scissor | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | rock-tomb | rock-polish | protect | toxic | rest | frustration | aerial-ace | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | smack-down | return
+  egg: sand-attack | screech | iron-defense | curse | cross-poison | rapid-spin | water-pulse | knock-off
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | bug-bite | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: armaldo
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: anorith
+default_form: true

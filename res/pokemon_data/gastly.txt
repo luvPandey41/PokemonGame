@@ -1,0 +1,45 @@
+name: gastly
+pokedex_num: 92
+generation: I
+types: ghost | poison
+height_dm: 13
+weight_hg: 1
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 30 | 35 | 30 | 100 | 35 | 80
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+
+moves:
+  level-up: hypnosis: 1 | night-shade: 15 | confuse-ray: 19 | lick: 1 | dream-eater: 33 | nightmare: 47 | curse: 12 | spite: 5 | destiny-bond: 40 | mean-look: 8 | shadow-ball: 29 | payback: 26 | sucker-punch: 22 | dark-pulse: 36 | hex: 43
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | double-team | telekinesis | venoshock | substitute | swagger | shadow-ball | dream-eater | payback | psychic | protect | sludge-bomb | rain-dance | psych-up | toxic | rest | frustration | sunny-day | explosion | hidden-power | round | energy-ball | embargo | return | taunt | trick-room
+  egg: perish-song | scary-face | clear-smog | haze | disable | thunder-punch | smog | psywave | grudge | ice-punch | fire-punch | astonish
+  tutor: icy-wind | thunder-punch | pain-split | dark-pulse | ice-punch | snatch | trick | fire-punch | snore | uproar | knock-off | giga-drain | spite | sleep-talk | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: haunter
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gastly
+default_form: true

@@ -1,0 +1,37 @@
+name: shedinja
+pokedex_num: 292
+generation: III
+types: bug | ghost
+height_dm: 8
+weight_hg: 12
+
+abilities: wonder-guard
+hidden_abilities: none
+ability_descriptions: Protects against damaging moves that are not super effective.
+
+base_stats: 1 | 90 | 45 | 30 | 30 | 40
+base_exp: 83
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 9 | harden: 1 | confuse-ray: 31 | leech-life: 5 | fury-swipes: 14 | mind-reader: 19 | spite: 25 | shadow-ball: 59 | grudge: 45 | heal-block: 52 | shadow-sneak: 38
+  machine: cut | dig | thief | x-scissor | hyper-beam | will-o-wisp | sandstorm | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | protect | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | struggle-bug | hidden-power | false-swipe | round | return | flash
+  egg: none
+  tutor: giga-drain | spite | sleep-talk | bug-bite | trick | snore
+evolution_info:
+  evolves_from: nincada
+  evolves_to: none
+  trigger: N/A
+forms: shedinja
+default_form: true

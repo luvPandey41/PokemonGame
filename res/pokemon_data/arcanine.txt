@@ -1,0 +1,37 @@
+name: arcanine
+pokedex_num: 59
+generation: I
+types: fire
+height_dm: 19
+weight_hg: 1550
+
+abilities: intimidate | flash-fire
+hidden_abilities: justified
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Raises Attack one stage upon taking damage from a dark move.
+
+base_stats: 90 | 110 | 80 | 100 | 80 | 95
+base_exp: 194
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100%
+
+description: "Its proud and regal appearance has captured the hearts of people since long ago."
+
+moves:
+  level-up: bite: 1 | roar: 1 | extreme-speed: 34 | odor-sleuth: 1 | thunder-fang: 1 | fire-fang: 1
+  machine: dig | strength | thief | wild-charge | attract | hyper-beam | will-o-wisp | facade | double-team | substitute | swagger | bulldoze | flamethrower | overheat | retaliate | roar | protect | giga-impact | toxic | rest | incinerate | frustration | snarl | aerial-ace | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | return | safeguard
+  egg: none
+  tutor: heat-wave | helping-hand | sleep-talk | iron-tail | outrage | dragon-pulse | covet | iron-head | snore
+evolution_info:
+  evolves_from: growlithe
+  evolves_to: none
+  trigger: N/A
+forms: arcanine
+default_form: true

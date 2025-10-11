@@ -1,0 +1,37 @@
+name: mewtwo
+pokedex_num: 150
+generation: I
+types: psychic
+height_dm: 20
+weight_hg: 1220
+
+abilities: pressure
+hidden_abilities: unnerve
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 106 | 110 | 90 | 154 | 90 | 130
+base_exp: 306
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon."
+
+moves:
+  level-up: disable: 1 | mist: 36 | confusion: 1 | psychic: 64 | recover: 79 | barrier: 1 | swift: 8 | amnesia: 50 | safeguard: 86 | psych-up: 22 | future-sight: 15 | miracle-eye: 29 | me-first: 71 | power-swap: 57 | guard-swap: 57 | aura-sphere: 93 | psycho-cut: 43 | psystrike: 100
+  machine: torment | strength | facade | thunder | double-team | fling | swagger | shadow-ball | grass-knot | reflect | calm-mind | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | solar-beam | stone-edge | charge-beam | flash | safeguard | thunderbolt | hyper-beam | will-o-wisp | rock-slide | sandstorm | telekinesis | substitute | dream-eater | bulldoze | rock-tomb | ice-beam | flamethrower | bulk-up | psychic | protect | rain-dance | psych-up | rest | blizzard | poison-jab | focus-blast | aerial-ace | hail | sunny-day | low-sweep | fire-blast | hidden-power | round | rock-smash | brick-break | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room
+  egg: none
+  tutor: signal-beam | magic-room | aqua-tail | zen-headbutt | iron-tail | icy-wind | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | low-kick | sleep-talk | drain-punch | gravity | recycle | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: mewtwo
+default_form: true

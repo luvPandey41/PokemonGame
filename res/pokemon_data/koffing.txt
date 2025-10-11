@@ -1,0 +1,45 @@
+name: koffing
+pokedex_num: 109
+generation: I
+types: poison
+height_dm: 6
+weight_hg: 10
+
+abilities: levitate | neutralizing-gas
+hidden_abilities: stench
+ability_descriptions: Evades ground moves. | Neutralizes abilities of all Pokémon in battle. | Has a 10% chance of making target Pokémon flinch with each hit.
+
+base_stats: 40 | 65 | 95 | 60 | 45 | 35
+base_exp: 68
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: smoke-ball:5%
+
+description: "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive."
+
+moves:
+  level-up: tackle: 1 | smokescreen: 7 | haze: 26 | self-destruct: 23 | smog: 4 | sludge: 18 | poison-gas: 1 | explosion: 37 | sludge-bomb: 34 | destiny-bond: 40 | memento: 45 | gyro-ball: 29 | assurance: 12 | clear-smog: 15
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | thunder | double-team | venoshock | substitute | swagger | shadow-ball | gyro-ball | flamethrower | payback | protect | sludge-bomb | rain-dance | toxic | rest | incinerate | frustration | sunny-day | fire-blast | explosion | hidden-power | round | return | taunt | flash
+  egg: swallow | spite | destiny-bond | screech | psywave | curse | pain-split | spit-up | grudge | stockpile | psybeam
+  tutor: spite | sleep-talk | pain-split | dark-pulse | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: weezing
+  trigger: level-up
+  evo_level: 35
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: koffing
+default_form: true

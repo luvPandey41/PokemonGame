@@ -1,0 +1,37 @@
+name: stunfisk
+pokedex_num: 618
+generation: V
+types: ground | electric
+height_dm: 7
+weight_hg: 110
+
+abilities: static | limber
+hidden_abilities: sand-veil
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Prevents paralysis. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 109 | 66 | 84 | 81 | 99 | 32
+base_exp: 165
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: soft-sand:5%
+
+description: "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity."
+
+moves:
+  level-up: thunder-shock: 9 | thunderbolt: 45 | fissure: 61 | bide: 5 | flail: 55 | mud-slap: 1 | endure: 30 | revenge: 50 | camouflage: 17 | mud-sport: 1 | muddy-water: 40 | bounce: 35 | mud-shot: 13 | mud-bomb: 21 | discharge: 25
+  machine: sludge-wave | dig | thunderbolt | attract | rock-slide | sandstorm | facade | scald | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | payback | protect | sludge-bomb | rain-dance | surf | toxic | rest | thunder-wave | frustration | earthquake | hidden-power | round | stone-edge | return | flash
+  egg: earth-power | spite | spark | sleep-talk | yawn | curse | pain-split | shock-wave | astonish
+  tutor: stealth-rock | earth-power | aqua-tail | bounce | endeavor | pain-split | electroweb | snore | uproar | spite | sleep-talk | magnet-rise | foul-play
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: stunfisk
+default_form: true

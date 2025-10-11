@@ -1,0 +1,12 @@
+item_name: hm04
+flavor_text: The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Strength to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Strength

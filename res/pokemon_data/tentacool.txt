@@ -1,0 +1,45 @@
+name: tentacool
+pokedex_num: 72
+generation: I
+types: water | poison
+height_dm: 9
+weight_hg: 455
+
+abilities: clear-body | liquid-ooze
+hidden_abilities: rain-dish
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Damages opponents using leeching moves for as much as they would heal. | Heals for 1/16 max HP after each turn during rain.
+
+base_stats: 40 | 40 | 35 | 50 | 100 | 70
+base_exp: 67
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water3
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: poison-barb:5%
+
+description: "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore."
+
+moves:
+  level-up: wrap: 22 | poison-sting: 1 | supersonic: 5 | acid: 12 | hydro-pump: 47 | bubble-beam: 19 | screech: 40 | barrier: 29 | constrict: 8 | water-pulse: 33 | wring-out: 54 | toxic-spikes: 15 | poison-jab: 36 | sludge-wave: 50 | acid-spray: 26 | hex: 43
+  machine: sludge-wave | cut | thief | attract | facade | scald | double-team | venoshock | substitute | swagger | ice-beam | waterfall | payback | protect | dive | sludge-bomb | rain-dance | surf | toxic | rest | blizzard | poison-jab | frustration | hail | hidden-power | round | swords-dance | return | safeguard
+  egg: aqua-ring | muddy-water | aurora-beam | confuse-ray | haze | bubble | rapid-spin | acupressure | mirror-coat | tickle | knock-off
+  tutor: bind | giga-drain | sleep-talk | icy-wind | magic-coat | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: tentacruel
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: tentacool
+default_form: true

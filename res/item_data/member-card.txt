@@ -1,0 +1,12 @@
+item_name: member-card
+flavor_text: A card needed for entering the inn in Canalave City. Oddly, the last date marked on it was 50 years ago.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to Newmoon Island and Darkrai.
+fling_power: -1
+consumable: no
+move name: 

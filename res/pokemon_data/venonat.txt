@@ -1,0 +1,45 @@
+name: venonat
+pokedex_num: 48
+generation: I
+types: bug | poison
+height_dm: 10
+weight_hg: 300
+
+abilities: compound-eyes | tinted-lens
+hidden_abilities: run-away
+ability_descriptions: Increases moves' accuracy to 1.3×. | Doubles damage inflicted with not-very-effective moves. | Ensures success fleeing from wild battles.
+
+base_stats: 60 | 55 | 50 | 40 | 55 | 45
+base_exp: 61
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+
+moves:
+  level-up: tackle: 1 | supersonic: 5 | disable: 1 | psybeam: 25 | poison-powder: 13 | stun-spore: 23 | sleep-powder: 29 | confusion: 11 | psychic: 47 | leech-life: 17 | foresight: 1 | poison-fang: 41 | signal-beam: 35 | zen-headbutt: 37
+  machine: toxic | rest | thief | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | struggle-bug | hidden-power | round | psychic | protect | sludge-bomb | return | flash
+  egg: baton-pass | signal-beam | secret-power | giga-drain | morning-sun | screech | bug-bite | agility | rage-powder | skill-swap | toxic-spikes
+  tutor: signal-beam | giga-drain | zen-headbutt | sleep-talk | bug-bite | snore | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: venomoth
+  trigger: level-up
+  evo_level: 31
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: venonat
+default_form: true

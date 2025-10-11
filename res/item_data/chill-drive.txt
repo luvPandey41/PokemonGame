@@ -1,0 +1,12 @@
+item_name: chill-drive
+flavor_text: A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
+cost: 0
+category: species-specific
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by genesect : Holder's buster is white, and its techno blast becomes ice-type.
+fling_power: 70
+consumable: no
+move name: 

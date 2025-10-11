@@ -1,0 +1,12 @@
+item_name: tm20
+flavor_text: The user creates a protective field that prevents status problems for five turns.
+cost: 100000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Safeguard to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Safeguard

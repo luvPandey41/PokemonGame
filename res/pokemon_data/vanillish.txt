@@ -1,0 +1,45 @@
+name: vanillish
+pokedex_num: 583
+generation: V
+types: ice
+height_dm: 11
+weight_hg: 410
+
+abilities: ice-body | snow-cloak
+hidden_abilities: weak-armor
+ability_descriptions: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | Increases evasion to 1.25× during hail.  Protects against hail damage. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 51 | 65 | 65 | 80 | 75 | 59
+base_exp: 138
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: never-melt-ice:5%
+
+description: "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas."
+
+moves:
+  level-up: mist: 16 | ice-beam: 36 | blizzard: 53 | harden: 1 | harden: 4 | acid-armor: 31 | icy-wind: 13 | mirror-coat: 47 | uproar: 1 | uproar: 10 | hail: 42 | taunt: 22 | astonish: 1 | astonish: 7 | sheer-cold: 58 | icicle-spear: 1 | avalanche: 19 | mirror-shot: 26
+  machine: toxic | rest | blizzard | attract | frustration | facade | double-team | hail | substitute | swagger | frost-breath | explosion | hidden-power | ice-beam | round | flash-cannon | protect | light-screen | return | rain-dance | taunt
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-defense | icy-wind | magnet-rise | magic-coat | snore | uproar
+evolution_info:
+  evolves_from: vanillite
+  evolves_to: vanilluxe
+  trigger: level-up
+  evo_level: 47
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: vanillish
+default_form: true

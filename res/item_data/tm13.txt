@@ -1,0 +1,12 @@
+item_name: tm13
+flavor_text: The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Ice Beam to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Ice Beam

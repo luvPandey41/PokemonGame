@@ -1,0 +1,37 @@
+name: steelix
+pokedex_num: 208
+generation: II
+types: steel | ground
+height_dm: 92
+weight_hg: 4000
+
+abilities: rock-head | sturdy
+hidden_abilities: sheer-force
+ability_descriptions: Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 75 | 85 | 200 | 55 | 65 | 30
+base_exp: 179
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: metal-coat:5%
+
+description: "It is thought its body transformed as a result of iron accumulating internally from swallowing soil."
+
+moves:
+  level-up: bind: 1 | slam: 28 | tackle: 1 | double-edge: 49 | rock-throw: 7 | dig: 43 | rage: 10 | screech: 31 | harden: 1 | rock-slide: 34 | curse: 4 | sandstorm: 52 | dragon-breath: 25 | iron-tail: 40 | crunch: 37 | mud-sport: 1 | rock-tomb: 13 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | stone-edge: 46 | stealth-rock: 16 | autotomize: 19 | smack-down: 22
+  machine: dragon-tail | cut | dig | torment | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | payback | roar | protect | psych-up | giga-impact | toxic | rest | frustration | earthquake | sunny-day | explosion | hidden-power | round | rock-smash | stone-edge | flash-cannon | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | bind | aqua-tail | sleep-talk | iron-tail | magnet-rise | dark-pulse | block | dragon-pulse | iron-head | snore
+evolution_info:
+  evolves_from: onix
+  evolves_to: none
+  trigger: N/A
+forms: steelix
+default_form: true

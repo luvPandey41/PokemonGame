@@ -1,0 +1,12 @@
+item_name: berry-pots
+flavor_text: Handy containers for cultivating Berries wherever you go.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains four portable pots of soil suitable for growing berries.
+fling_power: -1
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: lileep
+pokedex_num: 345
+generation: III
+types: rock | grass
+height_dm: 10
+weight_hg: 238
+
+abilities: suction-cups
+hidden_abilities: storm-drain
+ability_descriptions: Prevents being forced out of battle by other Pokémon's moves. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
+
+base_stats: 66 | 41 | 77 | 61 | 87 | 23
+base_exp: 71
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water3
+gender_ratio_female: 1
+hatch_cycles: 30
+
+wild_held_items: big-root:5%
+
+description: "It lived on the seafloor 100 million years ago and was reanimated scientifically."
+
+moves:
+  level-up: acid: 8 | confuse-ray: 22 | constrict: 1 | amnesia: 29 | ancient-power: 43 | stockpile: 57 | spit-up: 57 | swallow: 57 | ingrain: 15 | astonish: 1 | wring-out: 64 | gastro-acid: 36 | energy-ball: 50
+  machine: toxic | rest | attract | frustration | rock-slide | sandstorm | facade | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | rock-tomb | rock-polish | round | swords-dance | energy-ball | protect | smack-down | sludge-bomb | return | flash
+  egg: stealth-rock | wring-out | recover | barrier | mega-drain | curse | endure | mirror-coat | tickle
+  tutor: synthesis | stealth-rock | earth-power | bind | giga-drain | gastro-acid | sleep-talk | pain-split | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: cradily
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lileep
+default_form: true

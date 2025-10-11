@@ -1,0 +1,12 @@
+item_name: dubious-disc
+flavor_text: A transparent device overflowing with dubious data. Its producer is unknown.
+cost: 2000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by Porygon2: Evolves the holder into Porygon-Z when traded.
+fling_power: 50
+consumable: no
+move name: 

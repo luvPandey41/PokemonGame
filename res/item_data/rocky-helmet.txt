@@ -1,0 +1,12 @@
+item_name: rocky-helmet
+flavor_text: If the holder of this item takes damage, the attacker will also be damaged upon contact.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.
+fling_power: 60
+consumable: no
+move name: 

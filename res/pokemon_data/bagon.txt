@@ -1,0 +1,45 @@
+name: bagon
+pokedex_num: 371
+generation: III
+types: dragon
+height_dm: 6
+weight_hg: 421
+
+abilities: rock-head
+hidden_abilities: sheer-force
+ability_descriptions: Protects against recoil damage. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 45 | 75 | 60 | 40 | 30 | 50
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: dragon
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: dragon-scale:5% | dragon-fang:5%
+
+description: "Dreaming of one day flying, it practices by leaping off cliffs every day."
+
+moves:
+  level-up: headbutt: 16 | double-edge: 55 | leer: 10 | bite: 5 | ember: 25 | rage: 1 | focus-energy: 20 | scary-face: 40 | dragon-breath: 31 | crunch: 46 | dragon-claw: 50 | zen-headbutt: 35
+  machine: cut | strength | attract | rock-slide | facade | double-team | substitute | swagger | rock-tomb | flamethrower | roar | protect | dragon-claw | rain-dance | toxic | rest | incinerate | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | return
+  egg: fire-fang | twister | hydro-pump | dragon-dance | thrash | defense-curl | endure | dragon-rush | dragon-pulse | dragon-rage
+  tutor: zen-headbutt | sleep-talk | hyper-voice | outrage | dragon-pulse | draco-meteor | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: shelgon
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: bagon
+default_form: true

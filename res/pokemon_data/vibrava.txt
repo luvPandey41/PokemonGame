@@ -1,0 +1,45 @@
+name: vibrava
+pokedex_num: 329
+generation: III
+types: ground | dragon
+height_dm: 11
+weight_hg: 153
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 50 | 70 | 50 | 50 | 50 | 70
+base_exp: 119
+ev_yield: 0 | 1 | 0 | 0 | 0 | 1
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It violently shudders its wings, generating ultrasonic waves to induce headaches in people."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 4 | supersonic: 29 | sonic-boom: 1 | hyper-beam: 49 | screech: 34 | bide: 17 | rock-slide: 25 | feint-attack: 1 | feint-attack: 7 | mud-slap: 13 | sandstorm: 44 | dragon-breath: 35 | sand-tomb: 1 | sand-tomb: 10 | earth-power: 39 | bulldoze: 21
+  machine: u-turn | dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | protect | toxic | rest | frustration | earthquake | solar-beam | sunny-day | struggle-bug | fly | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: signal-beam | earth-power | tailwind | bug-bite | outrage | roost | dragon-pulse | superpower | snore | heat-wave | giga-drain | sleep-talk | draco-meteor
+evolution_info:
+  evolves_from: trapinch
+  evolves_to: flygon
+  trigger: level-up
+  evo_level: 45
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: vibrava
+default_form: true

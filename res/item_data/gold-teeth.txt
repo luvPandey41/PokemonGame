@@ -1,0 +1,12 @@
+item_name: gold-teeth
+flavor_text: Gold dentures lost by the SAFARI ZONE’s WARDEN.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: The Safari Zone warden's teeth, to be returned to him for hm04.
+fling_power: -1
+consumable: no
+move name: 

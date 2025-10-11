@@ -1,0 +1,37 @@
+name: mesprit
+pokedex_num: 481
+generation: IV
+types: psychic
+height_dm: 3
+weight_hg: 3
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 80 | 105 | 105 | 105 | 105 | 80
+base_exp: 261
+ev_yield: 0 | 1 | 0 | 1 | 1 | 0
+capture_rate: 3
+base_friendship: 140
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions."
+
+moves:
+  level-up: confusion: 1 | swift: 21 | rest: 1 | protect: 16 | charm: 46 | future-sight: 36 | imprison: 6 | extrasensory: 51 | healing-wish: 76 | natural-gift: 66 | lucky-chant: 31 | copycat: 61
+  machine: u-turn | thunderbolt | hyper-beam | sandstorm | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | sunny-day | acrobatics | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | magic-room | zen-headbutt | iron-tail | thunder-punch | ice-punch | trick | fire-punch | magic-coat | role-play | snore | knock-off | helping-hand | sleep-talk | recycle | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: mesprit
+default_form: true

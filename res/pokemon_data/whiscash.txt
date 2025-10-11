@@ -1,0 +1,37 @@
+name: whiscash
+pokedex_num: 340
+generation: III
+types: water | ground
+height_dm: 9
+weight_hg: 236
+
+abilities: oblivious | anticipation
+hidden_abilities: hydration
+ability_descriptions: Prevents infatuation and protects against captivate. | Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | Cures any major status ailment after each turn during rain.
+
+base_stats: 110 | 78 | 73 | 76 | 71 | 60
+base_exp: 164
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors."
+
+moves:
+  level-up: water-gun: 10 | earthquake: 45 | fissure: 57 | amnesia: 18 | rest: 33 | snore: 33 | mud-slap: 1 | magnitude: 26 | future-sight: 51 | mud-sport: 1 | mud-sport: 6 | tickle: 1 | water-sport: 1 | water-sport: 6 | water-pulse: 22 | aqua-tail: 39 | mud-bomb: 14 | zen-headbutt: 1
+  machine: strength | attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: earth-power | aqua-tail | zen-headbutt | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: barboach
+  evolves_to: none
+  trigger: N/A
+forms: whiscash
+default_form: true

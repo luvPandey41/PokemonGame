@@ -1,0 +1,12 @@
+item_name: tm89
+flavor_text: After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+cost: 20000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches U-Turn to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: U Turn

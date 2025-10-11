@@ -1,0 +1,37 @@
+name: politoed
+pokedex_num: 186
+generation: II
+types: water
+height_dm: 11
+weight_hg: 339
+
+abilities: water-absorb | damp
+hidden_abilities: drizzle
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Summons rain that lasts indefinitely upon entering battle.
+
+base_stats: 90 | 75 | 75 | 90 | 100 | 70
+base_exp: 225
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: kings-rock:5%
+
+description: "It gathers groups of others as their leader. Its cries make Poliwag obey."
+
+moves:
+  level-up: double-slap: 1 | bubble-beam: 1 | hypnosis: 1 | perish-song: 1 | swagger: 27 | hyper-voice: 48 | bounce: 37
+  machine: dig | strength | thief | attract | hyper-beam | facade | scald | double-team | fling | substitute | swagger | bulldoze | ice-beam | waterfall | payback | psychic | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: helping-hand | sleep-talk | bounce | icy-wind | endeavor | hyper-voice | ice-punch | snore
+evolution_info:
+  evolves_from: poliwhirl
+  evolves_to: none
+  trigger: N/A
+forms: politoed
+default_form: true

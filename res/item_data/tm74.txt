@@ -1,0 +1,12 @@
+item_name: tm74
+flavor_text: The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Gyro Ball to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Gyro Ball

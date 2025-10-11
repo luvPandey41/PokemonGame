@@ -1,0 +1,45 @@
+name: quilava
+pokedex_num: 156
+generation: II
+types: fire
+height_dm: 9
+weight_hg: 190
+
+abilities: blaze
+hidden_abilities: flash-fire
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
+
+base_stats: 58 | 64 | 58 | 80 | 65 | 80
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 1 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight."
+
+moves:
+  level-up: tackle: 1 | double-edge: 64 | leer: 1 | ember: 10 | flamethrower: 46 | quick-attack: 13 | smokescreen: 1 | smokescreen: 6 | defense-curl: 24 | swift: 31 | flame-wheel: 20 | rollout: 57 | eruption: 68 | lava-plume: 42 | flame-charge: 35 | inferno: 53
+  machine: cut | dig | strength | wild-charge | attract | will-o-wisp | facade | double-team | substitute | swagger | flamethrower | overheat | roar | protect | toxic | rest | incinerate | frustration | aerial-ace | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: heat-wave | sleep-talk | fire-pledge | covet | snore
+evolution_info:
+  evolves_from: cyndaquil
+  evolves_to: typhlosion
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: quilava
+default_form: true

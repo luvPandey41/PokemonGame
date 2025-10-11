@@ -1,0 +1,12 @@
+item_name: adamant-orb
+flavor_text: A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon-​ and Steel-type moves.
+cost: 0
+category: species-specific
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by dialga : Holder's dragon- and steel-type moves have 1.2× their usual power.
+fling_power: 60
+consumable: no
+move name: 

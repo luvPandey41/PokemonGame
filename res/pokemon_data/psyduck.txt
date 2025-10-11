@@ -1,0 +1,45 @@
+name: psyduck
+pokedex_num: 54
+generation: I
+types: water
+height_dm: 8
+weight_hg: 196
+
+abilities: damp | cloud-nine
+hidden_abilities: swift-swim
+ability_descriptions: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | Negates all effects of weather, but does not prevent the weather itself. | Doubles Speed during rain.
+
+base_stats: 50 | 52 | 48 | 65 | 50 | 55
+base_exp: 64
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers."
+
+moves:
+  level-up: scratch: 1 | tail-whip: 4 | disable: 11 | water-gun: 8 | hydro-pump: 46 | confusion: 15 | screech: 25 | amnesia: 43 | fury-swipes: 22 | psych-up: 39 | water-sport: 1 | water-pulse: 18 | aqua-tail: 32 | zen-headbutt: 29 | wonder-room: 50 | soak: 36
+  machine: dig | strength | attract | facade | scald | double-team | telekinesis | fling | substitute | swagger | ice-beam | waterfall | calm-mind | psychic | protect | dive | rain-dance | surf | psych-up | toxic | rest | blizzard | frustration | aerial-ace | hail | hone-claws | shadow-claw | hidden-power | round | rock-smash | brick-break | light-screen | psyshock | return | flash
+  egg: confuse-ray | cross-chop | yawn | synchronoise | refresh | psybeam | foresight | hypnosis | secret-power | sleep-talk | future-sight | mud-bomb | encore
+  tutor: signal-beam | aqua-tail | zen-headbutt | sleep-talk | iron-tail | icy-wind | ice-punch | worry-seed | wonder-room | role-play | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: golduck
+  trigger: level-up
+  evo_level: 33
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: psyduck
+default_form: true

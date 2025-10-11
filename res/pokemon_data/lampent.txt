@@ -1,0 +1,45 @@
+name: lampent
+pokedex_num: 608
+generation: V
+types: ghost | fire
+height_dm: 6
+weight_hg: 130
+
+abilities: flash-fire | flame-body
+hidden_abilities: infiltrator
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Has a 30% chance of burning attacking Pokémon on contact. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 60 | 40 | 60 | 95 | 60 | 55
+base_exp: 130
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen."
+
+moves:
+  level-up: ember: 1 | fire-spin: 7 | night-shade: 13 | minimize: 1 | minimize: 3 | confuse-ray: 10 | smog: 1 | smog: 5 | curse: 45 | pain-split: 61 | shadow-ball: 53 | will-o-wisp: 16 | memento: 33 | imprison: 24 | astonish: 1 | overheat: 69 | flame-burst: 20 | hex: 28 | inferno: 38
+  machine: thief | attract | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | flamethrower | overheat | calm-mind | payback | psychic | protect | psych-up | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | energy-ball | embargo | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: heat-wave | spite | sleep-talk | pain-split | dark-pulse | trick | snore
+evolution_info:
+  evolves_from: litwick
+  evolves_to: chandelure
+  trigger: use-item
+  evo_level: null
+  evo_item: dusk-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lampent
+default_form: true

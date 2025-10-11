@@ -1,0 +1,12 @@
+item_name: tm08
+flavor_text: The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Bulk Up to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Bulk Up

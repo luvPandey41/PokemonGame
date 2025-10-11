@@ -1,0 +1,9 @@
+Map: slitstone_grotto_f1
+
+# gentleman
+name: The Gentleman 
+spriteBase: gentleman
+x: 130
+y: 280
+direction: down
+dialogue: You need a SURF pokemon in order to traverse this cave. | Oh, you look stuck. I'll lend you my PSYDUCK. Keep it away from the rampaging LAPRAS.

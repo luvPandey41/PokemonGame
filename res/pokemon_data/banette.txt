@@ -1,0 +1,37 @@
+name: banette
+pokedex_num: 354
+generation: III
+types: ghost
+height_dm: 11
+weight_hg: 125
+
+abilities: insomnia | frisk
+hidden_abilities: cursed-body
+ability_descriptions: Prevents sleep. | Reveals an opponent's held item upon entering battle. | Has a 30% chance of Disabling any move that hits the Pokémon.
+
+base_stats: 64 | 115 | 65 | 83 | 63 | 65
+base_exp: 159
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: spell-tag:5%
+
+description: "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it."
+
+moves:
+  level-up: night-shade: 1 | night-shade: 7 | screech: 1 | screech: 4 | curse: 1 | curse: 19 | spite: 10 | feint-attack: 22 | shadow-ball: 30 | will-o-wisp: 13 | trick: 58 | knock-off: 1 | grudge: 52 | snatch: 46 | embargo: 40 | sucker-punch: 34 | shadow-sneak: 16 | hex: 26
+  machine: torment | thunderbolt | thief | attract | hyper-beam | will-o-wisp | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | sunny-day | shadow-claw | hidden-power | round | charge-beam | embargo | return | taunt | trick-room | flash
+  egg: none
+  tutor: magic-room | icy-wind | pain-split | dark-pulse | snatch | trick | magic-coat | role-play | knock-off | spite | sleep-talk | foul-play | skill-swap
+evolution_info:
+  evolves_from: shuppet
+  evolves_to: none
+  trigger: N/A
+forms: banette
+default_form: true

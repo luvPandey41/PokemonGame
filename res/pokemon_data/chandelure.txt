@@ -1,0 +1,37 @@
+name: chandelure
+pokedex_num: 609
+generation: V
+types: ghost | fire
+height_dm: 10
+weight_hg: 343
+
+abilities: flash-fire | flame-body
+hidden_abilities: infiltrator
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Has a 30% chance of burning attacking Pokémon on contact. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 60 | 55 | 90 | 145 | 90 | 80
+base_exp: 234
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance."
+
+moves:
+  level-up: confuse-ray: 1 | smog: 1 | flame-burst: 1 | hex: 1
+  machine: thief | attract | hyper-beam | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | flamethrower | overheat | calm-mind | payback | psychic | protect | psych-up | giga-impact | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | fire-blast | hidden-power | round | energy-ball | embargo | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: heat-wave | spite | sleep-talk | pain-split | dark-pulse | trick | snore
+evolution_info:
+  evolves_from: lampent
+  evolves_to: none
+  trigger: N/A
+forms: chandelure
+default_form: true

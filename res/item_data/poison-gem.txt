@@ -1,0 +1,12 @@
+item_name: poison-gem
+flavor_text: A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.
+cost: 200
+category: jewels
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : When the holder uses a damaging poison-type move, the move has 1.5× power and this item is consumed.
+fling_power: -1
+consumable: no
+move name: 

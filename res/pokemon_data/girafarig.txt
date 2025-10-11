@@ -1,0 +1,45 @@
+name: girafarig
+pokedex_num: 203
+generation: II
+types: normal | psychic
+height_dm: 15
+weight_hg: 415
+
+abilities: inner-focus | early-bird
+hidden_abilities: sap-sipper
+ability_descriptions: Prevents flinching. | Makes sleep pass twice as quickly. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 70 | 80 | 65 | 90 | 65 | 85
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:5%
+
+description: "The head on its tail contains a small brain. It can instinctively fight even while facing backward."
+
+moves:
+  level-up: stomp: 10 | tackle: 1 | growl: 1 | psybeam: 19 | confusion: 1 | psychic: 37 | agility: 14 | baton-pass: 23 | crunch: 46 | astonish: 1 | odor-sleuth: 5 | assurance: 28 | power-swap: 1 | guard-swap: 1 | zen-headbutt: 41 | double-hit: 32
+  machine: strength | thunderbolt | thief | attract | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | bulldoze | reflect | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | earthquake | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash
+  egg: double-kick | magic-coat | foresight | mirror-coat | wish | amnesia | secret-power | future-sight | razor-wind | take-down | beat-up | mean-look | skill-swap
+  tutor: signal-beam | zen-headbutt | iron-tail | trick | magic-coat | snore | uproar | sleep-talk | gravity | recycle | hyper-voice | foul-play | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: farigiraf
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: twin-beam
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: girafarig
+default_form: true

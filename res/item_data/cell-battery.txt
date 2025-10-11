@@ -1,0 +1,12 @@
+item_name: cell-battery
+flavor_text: A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : When the holder takes electric-type damage from a move, its Attack rises by one stage and this item is consumed.
+fling_power: 30
+consumable: no
+move name: 

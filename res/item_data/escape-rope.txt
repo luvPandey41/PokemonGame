@@ -1,0 +1,12 @@
+item_name: escape-rope
+flavor_text: A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+cost: 300
+category: spelunking
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used outside of battle : Transports the trainer to the last-entered dungeon entrance. Cannot be used outside, in buildings, or in distortion world, sinnoh hall of origin 1, spear pillar, or turnback cave.
+fling_power: 30
+consumable: no
+move name: 

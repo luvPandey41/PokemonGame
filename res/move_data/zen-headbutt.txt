@@ -1,0 +1,20 @@
+move name: zen-headbutt
+power: 80
+accuracy: 90
+type: psychic
+attack type: physical
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: Has a 20% chance to make the target flinch.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 20
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 20
+stat chance: 0

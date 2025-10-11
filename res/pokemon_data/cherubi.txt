@@ -1,0 +1,45 @@
+name: cherubi
+pokedex_num: 420
+generation: IV
+types: grass
+height_dm: 4
+weight_hg: 33
+
+abilities: chlorophyll
+hidden_abilities: none
+ability_descriptions: Doubles Speed during strong sunlight.
+
+base_stats: 45 | 35 | 45 | 62 | 53 | 35
+base_exp: 55
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: miracle-seed:5%
+
+description: "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off."
+
+moves:
+  level-up: tackle: 1 | take-down: 31 | leech-seed: 10 | growth: 7 | solar-beam: 37 | morning-sun: 1 | sunny-day: 22 | helping-hand: 13 | magical-leaf: 19 | lucky-chant: 40 | worry-seed: 28
+  machine: toxic | rest | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | return | flash | safeguard
+  egg: rollout | razor-leaf | heal-pulse | sweet-scent | seed-bomb | defense-curl | healing-wish | nature-power | aromatherapy | natural-gift | weather-ball | grass-whistle | tickle
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: cherrim
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cherubi
+default_form: true

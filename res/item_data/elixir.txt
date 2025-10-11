@@ -1,0 +1,12 @@
+item_name: elixir
+flavor_text: It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
+cost: 3000
+category: pp-recovery
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores 10 PP for each move.
+fling_power: 30
+consumable: yes
+move name: 

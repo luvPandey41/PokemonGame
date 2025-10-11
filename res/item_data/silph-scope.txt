@@ -1,0 +1,12 @@
+item_name: silph-scope
+flavor_text: SILPH CO’s scope makes unseeable POKéMON visible.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Identifies ghosts in pokemon tower.
+fling_power: -1
+consumable: no
+move name: 

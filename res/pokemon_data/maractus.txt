@@ -1,0 +1,37 @@
+name: maractus
+pokedex_num: 556
+generation: V
+types: grass
+height_dm: 10
+weight_hg: 280
+
+abilities: water-absorb | chlorophyll
+hidden_abilities: storm-drain
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Doubles Speed during strong sunlight. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
+
+base_stats: 75 | 86 | 67 | 106 | 67 | 60
+base_exp: 161
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: miracle-seed:5%
+
+description: "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds."
+
+moves:
+  level-up: pin-missile: 10 | peck: 1 | absorb: 1 | mega-drain: 13 | growth: 6 | solar-beam: 50 | petal-dance: 38 | cotton-spore: 18 | giga-drain: 26 | sweet-scent: 3 | synthesis: 15 | sunny-day: 45 | ingrain: 33 | needle-arm: 22 | acupressure: 29 | sucker-punch: 42 | after-you: 57 | cotton-guard: 55
+  machine: toxic | rest | poison-jab | attract | frustration | facade | aerial-ace | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | energy-ball | protect | return | safeguard
+  egg: spikes | bounce | wood-hammer | seed-bomb | worry-seed | grass-whistle | leech-seed | bullet-seed
+  tutor: synthesis | after-you | bounce | endeavor | seed-bomb | snore | uproar | knock-off | giga-drain | helping-hand | sleep-talk | drain-punch | hyper-voice | worry-seed
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: maractus
+default_form: true

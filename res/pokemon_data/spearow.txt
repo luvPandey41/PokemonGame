@@ -1,0 +1,45 @@
+name: spearow
+pokedex_num: 21
+generation: I
+types: normal | flying
+height_dm: 3
+weight_hg: 20
+
+abilities: keen-eye
+hidden_abilities: sniper
+ability_descriptions: Prevents accuracy from being lowered. | Strengthens critical hits to inflict 3× damage rather than 2×.
+
+base_stats: 40 | 60 | 30 | 31 | 31 | 70
+base_exp: 52
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: sharp-beak:5%
+
+description: "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+
+moves:
+  level-up: fury-attack: 9 | leer: 5 | growl: 1 | peck: 1 | drill-peck: 37 | agility: 25 | mirror-move: 21 | pursuit: 13 | aerial-ace: 17 | roost: 33 | assurance: 29
+  machine: toxic | rest | u-turn | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | false-swipe | round | protect | pluck | return | rain-dance
+  egg: whirlwind | quick-attack | scary-face | steel-wing | feather-dance | razor-wind | sky-attack | tri-attack | feint-attack | astonish | uproar
+  tutor: heat-wave | tailwind | sleep-talk | sky-attack | roost | drill-run | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: fearow
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: spearow
+default_form: true

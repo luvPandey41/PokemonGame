@@ -1,0 +1,45 @@
+name: poochyena
+pokedex_num: 261
+generation: III
+types: dark
+height_dm: 5
+weight_hg: 136
+
+abilities: run-away | quick-feet
+hidden_abilities: rattled
+ability_descriptions: Ensures success fleeing from wild battles. | Increases Speed to 1.5× with a major status ailment. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 35 | 55 | 35 | 30 | 30 | 35
+base_exp: 56
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: pecha-berry:5%
+
+description: "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted."
+
+moves:
+  level-up: sand-attack: 9 | tackle: 1 | take-down: 45 | bite: 13 | roar: 21 | scary-face: 33 | swagger: 25 | crunch: 53 | taunt: 37 | odor-sleuth: 17 | howl: 5 | assurance: 29 | embargo: 41 | sucker-punch: 49
+  machine: dig | torment | thief | attract | facade | double-team | substitute | swagger | shadow-ball | payback | retaliate | roar | protect | rain-dance | toxic | rest | incinerate | frustration | snarl | sunny-day | hidden-power | round | rock-smash | embargo | return | taunt
+  egg: thunder-fang | ice-fang | fire-fang | leer | sucker-punch | sleep-talk | me-first | yawn | poison-fang | snatch | astonish | covet
+  tutor: spite | sleep-talk | iron-tail | hyper-voice | dark-pulse | foul-play | super-fang | snatch | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: mightyena
+  trigger: level-up
+  evo_level: 18
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: poochyena
+default_form: true

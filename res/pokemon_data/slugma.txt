@@ -1,0 +1,45 @@
+name: slugma
+pokedex_num: 218
+generation: II
+types: fire
+height_dm: 7
+weight_hg: 350
+
+abilities: magma-armor | flame-body
+hidden_abilities: weak-armor
+ability_descriptions: Prevents freezing. | Has a 30% chance of burning attacking Pokémon on contact. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 40 | 40 | 40 | 70 | 40 | 20
+base_exp: 50
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+
+moves:
+  level-up: body-slam: 46 | ember: 5 | flamethrower: 50 | rock-throw: 10 | recover: 19 | harden: 14 | smog: 1 | amnesia: 32 | rock-slide: 41 | ancient-power: 28 | yawn: 1 | earth-power: 55 | lava-plume: 37 | flame-burst: 23
+  machine: toxic | rest | incinerate | attract | frustration | will-o-wisp | rock-slide | facade | double-team | substitute | swagger | sunny-day | flame-charge | fire-blast | reflect | hidden-power | rock-tomb | round | rock-smash | flamethrower | overheat | protect | light-screen | return
+  egg: heat-wave | earth-power | swallow | acid-armor | rollout | curse | spit-up | stockpile | memento | smokescreen | inferno
+  tutor: after-you | heat-wave | earth-power | sleep-talk | iron-defense | pain-split | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: magcargo
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: slugma
+default_form: true

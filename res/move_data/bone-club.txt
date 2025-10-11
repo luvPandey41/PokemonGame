@@ -1,0 +1,20 @@
+move name: bone-club
+power: 65
+accuracy: 85
+type: ground
+attack type: physical
+target: selected-pokemon
+pp: 20
+priority: 0
+flavor text: Has a 10% chance to make the target flinch.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 10
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 10
+stat chance: 0

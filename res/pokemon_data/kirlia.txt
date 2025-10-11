@@ -1,0 +1,52 @@
+name: kirlia
+pokedex_num: 281
+generation: III
+types: psychic | fairy
+height_dm: 8
+weight_hg: 202
+
+abilities: synchronize | trace
+hidden_abilities: telepathy
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Copies an opponent's ability upon entering battle. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 38 | 35 | 35 | 65 | 55 | 50
+base_exp: 97
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 120
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: humanshape | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about."
+
+moves:
+  level-up: growl: 1 | confusion: 1 | confusion: 6 | psychic: 36 | hypnosis: 53 | teleport: 1 | teleport: 12 | double-team: 1 | double-team: 10 | dream-eater: 59 | charm: 50 | future-sight: 45 | imprison: 39 | magical-leaf: 22 | calm-mind: 31 | lucky-chant: 17 | stored-power: 64 | heal-pulse: 25
+  machine: torment | thunderbolt | thief | attract | will-o-wisp | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | icy-wind | thunder-punch | pain-split | ice-punch | snatch | trick | fire-punch | magic-coat | snore | helping-hand | sleep-talk | recycle | hyper-voice | wonder-room | skill-swap
+evolution_info:
+  evolves_from: ralts
+  evolves_to: gardevoir, gallade
+  trigger: level-up, use-item
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: dawn-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: 2
+  evo_party_requirement: null
+forms: kirlia
+default_form: true

@@ -1,0 +1,12 @@
+item_name: leppa-berry
+flavor_text: If held by a Pokémon, it restores a move’s PP by 10.
+cost: 80
+category: medicine
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder is out of PP for one of its moves, it consumes this item to restore 10 of that move's PP. Used on a party Pokémon : Restores 10 PP for a selected move.
+fling_power: 10
+consumable: no
+move name: 

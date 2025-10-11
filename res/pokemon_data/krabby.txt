@@ -1,0 +1,45 @@
+name: krabby
+pokedex_num: 98
+generation: I
+types: water
+height_dm: 4
+weight_hg: 65
+
+abilities: hyper-cutter | shell-armor
+hidden_abilities: sheer-force
+ability_descriptions: Prevents Attack from being lowered by other Pokémon. | Protects against critical hits. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 30 | 105 | 90 | 25 | 25 | 50
+base_exp: 65
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water3
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle."
+
+moves:
+  level-up: vice-grip: 5 | guillotine: 31 | slam: 35 | stomp: 25 | leer: 9 | bubble-beam: 15 | harden: 11 | bubble: 1 | crabhammer: 41 | flail: 45 | protect: 29 | metal-claw: 21 | mud-sport: 1 | mud-shot: 19 | brine: 39
+  machine: cut | dig | strength | thief | x-scissor | attract | rock-slide | facade | scald | double-team | fling | substitute | swagger | rock-tomb | ice-beam | protect | dive | rain-dance | surf | toxic | rest | blizzard | frustration | hail | hone-claws | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | return
+  egg: slam | flail | amnesia | haze | bide | ancient-power | chip-away | endure | agility | tickle | knock-off
+  tutor: sleep-talk | iron-defense | icy-wind | superpower | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: kingler
+  trigger: level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: krabby
+default_form: true

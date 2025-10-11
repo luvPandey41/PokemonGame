@@ -1,0 +1,37 @@
+name: genesect
+pokedex_num: 649
+generation: V
+types: bug | steel
+height_dm: 15
+weight_hg: 825
+
+abilities: download
+hidden_abilities: none
+ability_descriptions: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.
+
+base_stats: 71 | 120 | 95 | 120 | 95 | 99
+base_exp: 270
+ev_yield: 0 | 1 | 0 | 1 | 0 | 1
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma."
+
+moves:
+  level-up: hyper-beam: 73 | quick-attack: 1 | screech: 1 | self-destruct: 77 | tri-attack: 44 | slash: 29 | zap-cannon: 66 | lock-on: 11 | fury-cutter: 7 | metal-claw: 1 | metal-sound: 33 | signal-beam: 40 | magnet-rise: 1 | x-scissor: 51 | bug-buzz: 55 | magnet-bomb: 22 | flame-charge: 18 | simple-beam: 62 | techno-blast: 1
+  machine: u-turn | thunderbolt | x-scissor | hyper-beam | facade | thunder | double-team | substitute | swagger | reflect | rock-polish | ice-beam | flamethrower | psychic | protect | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | aerial-ace | solar-beam | hone-claws | shadow-claw | flame-charge | struggle-bug | explosion | fly | hidden-power | round | charge-beam | energy-ball | flash-cannon | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | zen-headbutt | iron-defense | bug-bite | dark-pulse | magic-coat | electroweb | iron-head | snore | giga-drain | last-resort | sleep-talk | gravity | recycle | magnet-rise | gunk-shot
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: genesect | genesect-douse | genesect-shock | genesect-burn | genesect-chill
+default_form: true

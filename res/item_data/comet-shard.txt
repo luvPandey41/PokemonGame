@@ -1,0 +1,12 @@
+item_name: comet-shard
+flavor_text: A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
+cost: 25000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cult vendor trash.
+fling_power: 30
+consumable: no
+move name: 

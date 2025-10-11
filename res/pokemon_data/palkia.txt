@@ -1,0 +1,37 @@
+name: palkia
+pokedex_num: 484
+generation: IV
+types: water | dragon
+height_dm: 42
+weight_hg: 3360
+
+abilities: pressure
+hidden_abilities: telepathy
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 90 | 120 | 100 | 150 | 120 | 100
+base_exp: 306
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia’s every breath."
+
+moves:
+  level-up: hydro-pump: 50 | slash: 15 | scary-face: 1 | dragon-breath: 1 | ancient-power: 10 | dragon-claw: 28 | water-pulse: 6 | aura-sphere: 37 | aqua-tail: 24 | aqua-tail: 42 | power-gem: 19 | earth-power: 33 | spacial-rend: 46
+  machine: dragon-tail | strength | facade | thunder | double-team | fling | swagger | roar | dragon-claw | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | stone-edge | safeguard | cut | thunderbolt | hyper-beam | rock-slide | sandstorm | substitute | bulldoze | rock-tomb | ice-beam | flamethrower | bulk-up | protect | dive | rain-dance | psych-up | rest | blizzard | echoed-voice | focus-blast | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | return | trick-room
+  egg: none
+  tutor: earth-power | aqua-tail | sleep-talk | gravity | hyper-voice | outrage | dragon-pulse | draco-meteor | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: palkia
+default_form: true

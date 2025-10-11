@@ -1,0 +1,12 @@
+item_name: unown-report
+flavor_text: A report of all the discovered kinds of Unown.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Lists which unown forms the trainer has caught.
+fling_power: -1
+consumable: no
+move name: 

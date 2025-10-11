@@ -1,0 +1,45 @@
+name: nidoran-f
+pokedex_num: 29
+generation: I
+types: poison
+height_dm: 4
+weight_hg: 70
+
+abilities: poison-point | rivalry
+hidden_abilities: hustle
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 55 | 47 | 52 | 40 | 40 | 41
+base_exp: 55
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 235
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+
+moves:
+  level-up: scratch: 1 | double-kick: 9 | tail-whip: 7 | poison-sting: 13 | bite: 21 | growl: 1 | fury-swipes: 19 | crunch: 37 | flatter: 33 | helping-hand: 25 | poison-fang: 45 | toxic-spikes: 31 | captivate: 43
+  machine: cut | dig | strength | thunderbolt | thief | attract | facade | thunder | double-team | venoshock | substitute | swagger | ice-beam | protect | sludge-bomb | rain-dance | toxic | rest | blizzard | poison-jab | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | return
+  egg: iron-tail | pursuit | focus-energy | chip-away | counter | poison-tail | skull-bash | charm | disable | take-down | beat-up | endure | supersonic
+  tutor: helping-hand | sleep-talk | iron-tail | super-fang | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: nidorina
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nidoran-f
+default_form: true

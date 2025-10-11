@@ -1,0 +1,45 @@
+name: seel
+pokedex_num: 86
+generation: I
+types: water
+height_dm: 11
+weight_hg: 900
+
+abilities: thick-fat | hydration
+hidden_abilities: ice-body
+ability_descriptions: Halves damage from fire and ice moves. | Cures any major status ailment after each turn during rain. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.
+
+base_stats: 65 | 45 | 55 | 45 | 70 | 45
+base_exp: 65
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: aspear-berry:50%
+
+description: "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice."
+
+moves:
+  level-up: headbutt: 1 | take-down: 37 | growl: 3 | ice-beam: 47 | aurora-beam: 27 | rest: 21 | icy-wind: 11 | safeguard: 51 | encore: 13 | hail: 53 | dive: 41 | water-sport: 7 | brine: 33 | aqua-ring: 23 | aqua-tail: 43 | ice-shard: 17 | aqua-jet: 31
+  machine: surf | toxic | rest | blizzard | thief | echoed-voice | attract | frustration | facade | double-team | hail | fling | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance | safeguard
+  egg: signal-beam | swallow | iron-tail | fake-out | horn-drill | spit-up | stockpile | water-pulse | slam | perish-song | icicle-spear | sleep-talk | disable | lick | encore
+  tutor: signal-beam | aqua-tail | sleep-talk | iron-tail | icy-wind | drill-run | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: dewgong
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: seel
+default_form: true

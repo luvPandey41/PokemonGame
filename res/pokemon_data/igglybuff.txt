@@ -1,0 +1,45 @@
+name: igglybuff
+pokedex_num: 174
+generation: II
+types: normal | fairy
+height_dm: 3
+weight_hg: 10
+
+abilities: cute-charm | competitive
+hidden_abilities: friend-guard
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Raises Special Attack by two stages upon having any stat lowered. | Decreases all direct damage taken by friendly Pokémon to 0.75×.
+
+base_stats: 90 | 30 | 15 | 40 | 20 | 15
+base_exp: 42
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 170
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: oran-berry:50%
+
+description: "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop."
+
+moves:
+  level-up: pound: 9 | sing: 1 | defense-curl: 5 | sweet-kiss: 13 | charm: 1 | copycat: 17
+  machine: dig | wild-charge | attract | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | flamethrower | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | light-screen | return | flash | safeguard
+  egg: perish-song | wish | captivate | punishment | last-resort | sleep-talk | gravity | fake-tears | feint-attack | present | covet
+  tutor: bounce | icy-wind | endeavor | pain-split | magic-coat | role-play | snore | uproar | helping-hand | last-resort | sleep-talk | gravity | recycle | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: jigglypuff
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: igglybuff
+default_form: true

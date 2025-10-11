@@ -1,0 +1,45 @@
+name: nidorino
+pokedex_num: 33
+generation: I
+types: poison
+height_dm: 9
+weight_hg: 195
+
+abilities: poison-point | rivalry
+hidden_abilities: hustle
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 61 | 72 | 57 | 55 | 55 | 65
+base_exp: 128
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact."
+
+moves:
+  level-up: double-kick: 9 | horn-attack: 23 | fury-attack: 20 | horn-drill: 58 | poison-sting: 13 | leer: 1 | peck: 1 | focus-energy: 7 | flatter: 38 | helping-hand: 28 | toxic-spikes: 35 | poison-jab: 43 | captivate: 50
+  machine: cut | dig | strength | thunderbolt | thief | attract | facade | thunder | double-team | venoshock | substitute | swagger | ice-beam | protect | sludge-bomb | rain-dance | toxic | rest | blizzard | poison-jab | echoed-voice | frustration | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: helping-hand | sleep-talk | iron-tail | super-fang | drill-run | snore
+evolution_info:
+  evolves_from: nidoran-m
+  evolves_to: nidoking
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: nidorino
+default_form: true

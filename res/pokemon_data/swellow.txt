@@ -1,0 +1,37 @@
+name: swellow
+pokedex_num: 277
+generation: III
+types: normal | flying
+height_dm: 7
+weight_hg: 198
+
+abilities: guts
+hidden_abilities: scrappy
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
+
+base_stats: 60 | 85 | 60 | 75 | 50 | 125
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: charti-berry:5%
+
+description: "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+
+moves:
+  level-up: wing-attack: 13 | growl: 1 | peck: 1 | agility: 49 | quick-attack: 1 | quick-attack: 8 | double-team: 19 | focus-energy: 1 | focus-energy: 4 | endeavor: 28 | aerial-ace: 38 | pluck: 1 | air-slash: 61
+  machine: giga-impact | toxic | rest | u-turn | thief | echoed-voice | attract | frustration | hyper-beam | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | endeavor | sky-attack | roost | snore
+evolution_info:
+  evolves_from: taillow
+  evolves_to: none
+  trigger: N/A
+forms: swellow
+default_form: true

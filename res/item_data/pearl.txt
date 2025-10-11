@@ -1,0 +1,12 @@
+item_name: pearl
+flavor_text: A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+cost: 2000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 30
+consumable: no
+move name: 

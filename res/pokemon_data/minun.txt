@@ -1,0 +1,37 @@
+name: minun
+pokedex_num: 312
+generation: III
+types: electric
+height_dm: 4
+weight_hg: 42
+
+abilities: minus
+hidden_abilities: volt-absorb
+ability_descriptions: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Absorbs electric moves, healing for 1/4 max HP.
+
+base_stats: 60 | 40 | 50 | 75 | 85 | 95
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: cell-battery:5%
+
+description: "It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+
+moves:
+  level-up: growl: 1 | thunder-wave: 3 | thunder: 42 | agility: 48 | quick-attack: 7 | swift: 31 | charm: 21 | spark: 15 | baton-pass: 44 | encore: 17 | charge: 38 | helping-hand: 10 | fake-tears: 35 | trump-card: 51 | copycat: 24 | nasty-plot: 56 | electro-ball: 29 | entrainment: 63
+  machine: toxic | rest | thunderbolt | echoed-voice | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | fling | substitute | swagger | grass-knot | hidden-power | round | charge-beam | protect | light-screen | volt-switch | return | rain-dance | flash
+  egg: wish | sweet-kiss | discharge | sing | lucky-chant
+  tutor: signal-beam | helping-hand | last-resort | sleep-talk | iron-tail | thunder-punch | magnet-rise | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: minun
+default_form: true

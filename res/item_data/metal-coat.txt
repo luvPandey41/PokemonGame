@@ -1,0 +1,12 @@
+item_name: metal-coat
+flavor_text: An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.
+cost: 2000
+category: type-enhancement
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Increases the power of the holder's Steel moves by 20%. Held by Onix or Scyther: Evolves the holder into Steelix or Scizor when traded, respectively.
+fling_power: 30
+consumable: no
+move name: 

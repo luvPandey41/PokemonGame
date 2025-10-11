@@ -1,0 +1,37 @@
+name: stoutland
+pokedex_num: 508
+generation: V
+types: normal
+height_dm: 12
+weight_hg: 610
+
+abilities: intimidate | sand-rush
+hidden_abilities: scrappy
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Doubles Speed during a sandstorm.  Protects against sandstorm damage. | Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
+
+base_stats: 85 | 110 | 90 | 45 | 90 | 80
+base_exp: 225
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold."
+
+moves:
+  level-up: tackle: 1 | take-down: 15 | leer: 1 | bite: 1 | bite: 8 | roar: 29 | reversal: 42 | crunch: 24 | helping-hand: 12 | odor-sleuth: 1 | odor-sleuth: 5 | last-resort: 51 | giga-impact: 59 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | retaliate: 36 | work-up: 20
+  machine: dig | strength | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | rock-tomb | payback | retaliate | roar | protect | rain-dance | surf | giga-impact | toxic | rest | thunder-wave | frustration | snarl | aerial-ace | sunny-day | work-up | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: helping-hand | last-resort | sleep-talk | hyper-voice | superpower | covet | iron-head | snore | uproar
+evolution_info:
+  evolves_from: herdier
+  evolves_to: none
+  trigger: N/A
+forms: stoutland
+default_form: true

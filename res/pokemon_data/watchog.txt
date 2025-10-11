@@ -1,0 +1,37 @@
+name: watchog
+pokedex_num: 505
+generation: V
+types: normal
+height_dm: 11
+weight_hg: 270
+
+abilities: illuminate | keen-eye
+hidden_abilities: analytic
+ability_descriptions: Doubles the wild encounter rate. | Prevents accuracy from being lowered. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 60 | 85 | 69 | 60 | 69 | 77
+base_exp: 147
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+
+moves:
+  level-up: slam: 43 | sand-attack: 13 | tackle: 1 | leer: 1 | leer: 3 | bite: 1 | bite: 6 | low-kick: 1 | hypnosis: 18 | confuse-ray: 20 | bide: 8 | hyper-fang: 32 | super-fang: 22 | detect: 11 | mean-look: 36 | baton-pass: 39 | crunch: 16 | psych-up: 29 | after-you: 25
+  machine: cut | dig | strength | thunderbolt | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | flamethrower | retaliate | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | swords-dance | rock-smash | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | after-you | aqua-tail | zen-headbutt | iron-tail | thunder-punch | endeavor | seed-bomb | super-fang | ice-punch | fire-punch | snore | knock-off | low-kick | helping-hand | last-resort | sleep-talk | gunk-shot | covet
+evolution_info:
+  evolves_from: patrat
+  evolves_to: none
+  trigger: N/A
+forms: watchog
+default_form: true

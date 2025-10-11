@@ -1,0 +1,12 @@
+item_name: friend-ball
+flavor_text: A Poké Ball that makes caught Pokémon more friendly.
+cost: 0
+category: apricorn-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used by a trainer in battle : Attempts to catch a wild Pokémon. If used in a trainer battle, nothing happens and the ball is lost. If caught, the wild Pokémon's happiness starts at 200.
+fling_power: -1
+consumable: no
+move name: 

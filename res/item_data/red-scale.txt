@@ -1,0 +1,12 @@
+item_name: red-scale
+flavor_text: A scale from the red Gyarados. It glows red like a flame.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be traded to Mr. Pokémon for an exp share.
+fling_power: -1
+consumable: no
+move name: 

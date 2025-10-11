@@ -1,0 +1,37 @@
+name: nidoqueen
+pokedex_num: 31
+generation: I
+types: poison | ground
+height_dm: 13
+weight_hg: 600
+
+abilities: poison-point | rivalry
+hidden_abilities: sheer-force
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 90 | 92 | 87 | 75 | 85 | 76
+base_exp: 227
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: no-eggs
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its entire body is armored with hard scales. It will protect the young in its burrow with its life."
+
+moves:
+  level-up: scratch: 1 | double-kick: 1 | body-slam: 35 | tail-whip: 1 | poison-sting: 1 | superpower: 58 | earth-power: 43 | chip-away: 23
+  machine: dragon-tail | dig | torment | strength | facade | thunder | double-team | fling | swagger | shadow-ball | roar | sludge-bomb | surf | giga-impact | toxic | incinerate | frustration | earthquake | stone-edge | quash | sludge-wave | cut | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | venoshock | substitute | bulldoze | rock-tomb | ice-beam | flamethrower | protect | rain-dance | rest | blizzard | poison-jab | echoed-voice | focus-blast | aerial-ace | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | thunder-punch | super-fang | outrage | ice-punch | fire-punch | dragon-pulse | superpower | snore | uproar | helping-hand | sleep-talk
+evolution_info:
+  evolves_from: nidorina
+  evolves_to: none
+  trigger: N/A
+forms: nidoqueen
+default_form: true

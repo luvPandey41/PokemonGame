@@ -1,0 +1,37 @@
+name: jynx
+pokedex_num: 124
+generation: I
+types: ice | psychic
+height_dm: 14
+weight_hg: 406
+
+abilities: oblivious | forewarn
+hidden_abilities: dry-skin
+ability_descriptions: Prevents infatuation and protects against captivate. | Reveals the opponents' strongest move upon entering battle. | Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 65 | 50 | 35 | 115 | 95 | 95
+base_exp: 159
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: humanshape
+gender_ratio_female: 8
+hatch_cycles: 25
+
+wild_held_items: aspear-berry:100%
+
+description: "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+
+moves:
+  level-up: pound: 1 | double-slap: 15 | ice-punch: 18 | body-slam: 44 | blizzard: 60 | lick: 1 | lick: 5 | lovely-kiss: 1 | lovely-kiss: 8 | powder-snow: 1 | powder-snow: 11 | perish-song: 55 | mean-look: 25 | fake-tears: 28 | wake-up-slap: 33 | wring-out: 49 | avalanche: 39 | heart-stamp: 21
+  machine: torment | thief | attract | hyper-beam | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | echoed-voice | focus-blast | frustration | hail | frost-breath | hidden-power | round | brick-break | energy-ball | light-screen | psyshock | return | taunt | trick-room | flash
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | icy-wind | ice-punch | trick | magic-coat | role-play | snore | helping-hand | sleep-talk | drain-punch | recycle | hyper-voice | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: smoochum
+  evolves_to: none
+  trigger: N/A
+forms: jynx
+default_form: true

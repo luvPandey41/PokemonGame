@@ -1,0 +1,45 @@
+name: exeggcute
+pokedex_num: 102
+generation: I
+types: grass | psychic
+height_dm: 4
+weight_hg: 25
+
+abilities: chlorophyll
+hidden_abilities: harvest
+ability_descriptions: Doubles Speed during strong sunlight. | Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.
+
+base_stats: 60 | 40 | 80 | 60 | 45 | 40
+base_exp: 65
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: psychic-seed:5%
+
+description: "Its six eggs converse using telepathy. They can quickly gather if they become separated."
+
+moves:
+  level-up: leech-seed: 11 | solar-beam: 43 | poison-powder: 21 | stun-spore: 19 | sleep-powder: 23 | confusion: 27 | hypnosis: 1 | reflect: 7 | barrage: 1 | uproar: 1 | extrasensory: 47 | bullet-seed: 17 | natural-gift: 37 | worry-seed: 33 | bestow: 53
+  machine: strength | thief | attract | facade | double-team | telekinesis | substitute | swagger | dream-eater | grass-knot | reflect | psychic | protect | sludge-bomb | psych-up | toxic | rest | frustration | solar-beam | sunny-day | explosion | hidden-power | round | swords-dance | energy-ball | light-screen | return | trick-room | flash
+  egg: synthesis | moonlight | leaf-storm | nature-power | ingrain | giga-drain | ancient-power | natural-gift | curse | block | power-swap | lucky-chant | skill-swap
+  tutor: synthesis | giga-drain | sleep-talk | gravity | seed-bomb | block | worry-seed | snore | uproar | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: exeggutor
+  trigger: use-item
+  evo_level: null
+  evo_item: leaf-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: exeggcute
+default_form: true

@@ -1,0 +1,52 @@
+name: sneasel
+pokedex_num: 215
+generation: II
+types: dark | ice
+height_dm: 9
+weight_hg: 280
+
+abilities: inner-focus | keen-eye
+hidden_abilities: pickpocket
+ability_descriptions: Prevents flinching. | Prevents accuracy from being lowered. | Steals attacking Pokémon's held items on contact.
+
+base_stats: 55 | 95 | 55 | 35 | 75 | 115
+base_exp: 86
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 60
+base_friendship: 35
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: quick-claw:5% | grip-claw:50%
+
+description: "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | agility: 20 | quick-attack: 8 | screech: 32 | fury-swipes: 16 | slash: 35 | feint-attack: 10 | icy-wind: 14 | metal-claw: 22 | beat-up: 28 | taunt: 1 | snatch: 40 | punishment: 44 | ice-shard: 47 | hone-claws: 25
+  machine: cut | dig | torment | strength | thief | x-scissor | attract | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | reflect | ice-beam | calm-mind | payback | retaliate | protect | rain-dance | surf | psych-up | toxic | rest | blizzard | poison-jab | frustration | snarl | aerial-ace | hail | hone-claws | sunny-day | shadow-claw | low-sweep | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | embargo | return | taunt
+  egg: fake-out | crush-claw | pursuit | ice-punch | counter | foresight | double-hit | punishment | spite | bite | ice-shard | assist | avalanche | feint
+  tutor: low-kick | spite | sleep-talk | iron-tail | icy-wind | dark-pulse | foul-play | ice-punch | snatch | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: weavile, sneasler
+  trigger: level-up, level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: night
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: day
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: sneasel
+default_form: true

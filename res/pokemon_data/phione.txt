@@ -1,0 +1,38 @@
+name: phione
+pokedex_num: 489
+generation: IV
+types: water
+height_dm: 4
+weight_hg: 31
+
+abilities: hydration
+hidden_abilities: none
+ability_descriptions: Cures any major status ailment after each turn during rain.
+
+base_stats: 80 | 80 | 80 | 80 | 80 | 80
+base_exp: 216
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water1 | fairy
+gender_ratio_female: -1
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted."
+
+moves:
+  level-up: supersonic: 16 | bubble-beam: 24 | bubble: 1 | acid-armor: 31 | charm: 9 | rain-dance: 69 | whirlpool: 39 | dive: 61 | water-sport: 1 | water-pulse: 46 | aqua-ring: 54
+  machine: surf | psych-up | toxic | rest | u-turn | blizzard | frustration | facade | scald | double-team | hail | fling | substitute | swagger | grass-knot | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance | safeguard
+  egg: none
+  tutor: signal-beam | helping-hand | last-resort | sleep-talk | bounce | icy-wind | heal-bell | covet | snore | uproar | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: manaphy
+  trigger: 
+
+forms: phione
+default_form: true

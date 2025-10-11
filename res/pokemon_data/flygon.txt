@@ -1,0 +1,37 @@
+name: flygon
+pokedex_num: 330
+generation: III
+types: ground | dragon
+height_dm: 20
+weight_hg: 820
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 80 | 100 | 80 | 80 | 80 | 100
+base_exp: 234
+ev_yield: 0 | 1 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”"
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 4 | supersonic: 29 | sonic-boom: 1 | hyper-beam: 49 | screech: 34 | bide: 17 | rock-slide: 25 | feint-attack: 1 | feint-attack: 7 | mud-slap: 13 | sandstorm: 44 | dragon-breath: 35 | sand-tomb: 1 | sand-tomb: 10 | dragon-claw: 55 | earth-power: 39 | bulldoze: 21 | dragon-tail: 45
+  machine: dragon-tail | u-turn | dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | protect | dragon-claw | giga-impact | toxic | rest | incinerate | frustration | aerial-ace | earthquake | solar-beam | hone-claws | sunny-day | fire-blast | struggle-bug | fly | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: signal-beam | earth-power | tailwind | iron-tail | bug-bite | thunder-punch | outrage | roost | fire-punch | dragon-pulse | superpower | snore | heat-wave | giga-drain | sleep-talk | draco-meteor
+evolution_info:
+  evolves_from: vibrava
+  evolves_to: none
+  trigger: N/A
+forms: flygon
+default_form: true

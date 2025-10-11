@@ -1,0 +1,45 @@
+name: glameow
+pokedex_num: 431
+generation: IV
+types: normal
+height_dm: 5
+weight_hg: 39
+
+abilities: limber | own-tempo
+hidden_abilities: keen-eye
+ability_descriptions: Prevents paralysis. | Prevents confusion. | Prevents accuracy from being lowered.
+
+base_stats: 49 | 55 | 42 | 42 | 37 | 85
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: cheri-berry:5%
+
+description: "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed."
+
+moves:
+  level-up: scratch: 5 | growl: 8 | hypnosis: 13 | fury-swipes: 20 | slash: 37 | feint-attack: 17 | charm: 25 | attract: 44 | fake-out: 1 | assist: 29 | sucker-punch: 41 | captivate: 32 | hone-claws: 48
+  machine: u-turn | cut | dig | torment | thunderbolt | thief | attract | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | payback | retaliate | protect | rain-dance | psych-up | toxic | rest | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | return | taunt | flash
+  egg: assurance | flail | quick-attack | last-resort | sand-attack | bite | fake-tears | tail-whip | snatch | wake-up-slap
+  tutor: last-resort | sleep-talk | iron-tail | hyper-voice | foul-play | super-fang | snatch | covet | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: purugly
+  trigger: level-up
+  evo_level: 38
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: glameow
+default_form: true

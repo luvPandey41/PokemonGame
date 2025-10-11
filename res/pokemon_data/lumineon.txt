@@ -1,0 +1,37 @@
+name: lumineon
+pokedex_num: 457
+generation: IV
+types: water
+height_dm: 12
+weight_hg: 240
+
+abilities: swift-swim | storm-drain
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | Prevents burns.
+
+base_stats: 69 | 69 | 76 | 69 | 86 | 91
+base_exp: 161
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rindo-berry:5%
+
+description: "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn."
+
+moves:
+  level-up: pound: 1 | gust: 17 | water-gun: 1 | water-gun: 6 | attract: 1 | attract: 10 | safeguard: 29 | rain-dance: 13 | whirlpool: 42 | silver-wind: 59 | bounce: 53 | water-pulse: 22 | u-turn: 48 | aqua-ring: 35 | captivate: 26 | soak: 66
+  machine: u-turn | attract | hyper-beam | facade | scald | double-team | substitute | swagger | ice-beam | waterfall | payback | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | tailwind | aqua-tail | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: finneon
+  evolves_to: none
+  trigger: N/A
+forms: lumineon
+default_form: true

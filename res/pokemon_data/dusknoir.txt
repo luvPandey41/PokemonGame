@@ -1,0 +1,37 @@
+name: dusknoir
+pokedex_num: 477
+generation: IV
+types: ghost
+height_dm: 22
+weight_hg: 1066
+
+abilities: pressure
+hidden_abilities: frisk
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 45 | 100 | 135 | 65 | 135 | 45
+base_exp: 236
+ev_yield: 0 | 0 | 1 | 0 | 2 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: fast
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: kasib-berry:5% | spell-tag:5%
+
+description: "It is said to take lost spirits into its pliant body and guide them home."
+
+moves:
+  level-up: fire-punch: 1 | ice-punch: 1 | thunder-punch: 1 | bind: 1 | leer: 1 | disable: 1 | disable: 6 | night-shade: 1 | confuse-ray: 17 | curse: 30 | foresight: 9 | mean-look: 49 | pursuit: 25 | future-sight: 61 | will-o-wisp: 33 | astonish: 14 | shadow-punch: 37 | gravity: 1 | payback: 58 | shadow-sneak: 22 | hex: 42
+  machine: torment | strength | thief | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | bulldoze | rock-tomb | ice-beam | calm-mind | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | focus-blast | frustration | earthquake | sunny-day | hidden-power | round | rock-smash | brick-break | charge-beam | embargo | return | taunt | trick-room | flash
+  egg: none
+  tutor: icy-wind | thunder-punch | pain-split | dark-pulse | ice-punch | snatch | trick | fire-punch | snore | bind | spite | sleep-talk | gravity | skill-swap
+evolution_info:
+  evolves_from: dusclops
+  evolves_to: none
+  trigger: N/A
+forms: dusknoir
+default_form: true

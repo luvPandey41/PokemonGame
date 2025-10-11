@@ -1,0 +1,37 @@
+name: bibarel
+pokedex_num: 400
+generation: IV
+types: normal | water
+height_dm: 10
+weight_hg: 315
+
+abilities: simple | unaware
+hidden_abilities: moody
+ability_descriptions: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. | Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | Raises a random stat two stages and lowers another one stage after each turn.
+
+base_stats: 79 | 85 | 60 | 55 | 60 | 71
+base_exp: 144
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 127
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: oran-berry:50% | sitrus-berry:5%
+
+description: "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby."
+
+moves:
+  level-up: headbutt: 18 | tackle: 1 | take-down: 38 | growl: 1 | growl: 5 | water-gun: 15 | defense-curl: 9 | amnesia: 33 | hyper-fang: 23 | super-fang: 43 | curse: 53 | rollout: 13 | superpower: 48 | yawn: 28
+  machine: cut | dig | strength | thunderbolt | thief | attract | hyper-beam | facade | scald | thunder | double-team | fling | substitute | swagger | shadow-ball | grass-knot | bulldoze | ice-beam | waterfall | retaliate | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | rock-smash | charge-beam | pluck | return | taunt
+  egg: none
+  tutor: stealth-rock | last-resort | aqua-tail | sleep-talk | iron-tail | icy-wind | super-fang | superpower | covet | snore
+evolution_info:
+  evolves_from: bidoof
+  evolves_to: none
+  trigger: N/A
+forms: bibarel
+default_form: true

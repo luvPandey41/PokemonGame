@@ -1,0 +1,12 @@
+item_name: dragon-skull
+flavor_text: A skull of a Pokémon which was said to have braved the angry waters to fly around the world.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Only used as a plot point; this item is given to the player and taken away in the same cutscene.
+fling_power: -1
+consumable: no
+move name: 

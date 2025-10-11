@@ -1,0 +1,45 @@
+name: swablu
+pokedex_num: 333
+generation: III
+types: normal | flying
+height_dm: 4
+weight_hg: 12
+
+abilities: natural-cure
+hidden_abilities: cloud-nine
+ability_descriptions: Cures any major status ailment upon switching out. | Negates all effects of weather, but does not prevent the weather itself.
+
+base_stats: 45 | 40 | 60 | 40 | 75 | 50
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: flying | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings."
+
+moves:
+  level-up: fury-attack: 10 | take-down: 25 | growl: 1 | sing: 8 | mist: 15 | peck: 1 | mirror-move: 34 | perish-song: 48 | safeguard: 13 | refresh: 29 | astonish: 4 | natural-gift: 21 | dragon-pulse: 42 | round: 18 | cotton-guard: 39
+  machine: psych-up | toxic | rest | thief | echoed-voice | attract | frustration | facade | aerial-ace | double-team | solar-beam | substitute | swagger | sunny-day | dream-eater | fly | hidden-power | ice-beam | round | protect | pluck | return | rain-dance | safeguard
+  egg: haze | steel-wing | feather-dance | pursuit | rage | hyper-voice | roost | dragon-rush | agility | power-swap
+  tutor: heat-wave | tailwind | sleep-talk | hyper-voice | outrage | roost | heal-bell | dragon-pulse | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: altaria
+  trigger: level-up
+  evo_level: 35
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: swablu
+default_form: true

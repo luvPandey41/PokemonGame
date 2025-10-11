@@ -1,0 +1,12 @@
+item_name: repeat-ball
+flavor_text: A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+cost: 1000
+category: special-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon. If the wild Pokémon's species is marked as caught in the trainer's Pokédex, this ball has a catch rate of 3×. Otherwise, it has a catch rate of 1×. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

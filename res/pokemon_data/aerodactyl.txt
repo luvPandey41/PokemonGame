@@ -1,0 +1,37 @@
+name: aerodactyl
+pokedex_num: 142
+generation: I
+types: rock | flying
+height_dm: 18
+weight_hg: 590
+
+abilities: rock-head | pressure
+hidden_abilities: unnerve
+ability_descriptions: Protects against recoil damage. | Increases the PP cost of moves targetting the Pokémon by one. | Prevents opposing Pokémon from eating held Berries.
+
+base_stats: 80 | 105 | 65 | 60 | 75 | 130
+base_exp: 180
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: flying
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades."
+
+moves:
+  level-up: wing-attack: 1 | take-down: 41 | bite: 1 | roar: 9 | supersonic: 1 | hyper-beam: 65 | agility: 17 | rock-slide: 73 | scary-face: 1 | crunch: 33 | ancient-power: 25 | giga-impact: 81 | thunder-fang: 1 | ice-fang: 1 | fire-fang: 1 | iron-head: 57 | sky-drop: 49
+  machine: torment | strength | thief | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | flamethrower | payback | roar | protect | dragon-claw | rain-dance | sky-drop | giga-impact | toxic | rest | incinerate | frustration | aerial-ace | earthquake | hone-claws | sunny-day | fire-blast | fly | hidden-power | round | rock-smash | stone-edge | smack-down | return | taunt
+  egg: whirlwind | assurance | tailwind | steel-wing | pursuit | curse | roost | foresight | dragon-breath
+  tutor: stealth-rock | heat-wave | earth-power | tailwind | aqua-tail | sleep-talk | iron-tail | sky-attack | roost | dragon-pulse | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: aerodactyl
+default_form: true

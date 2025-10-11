@@ -1,0 +1,12 @@
+item_name: pure-incense
+flavor_text: An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+cost: 6000
+category: training
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder.
+fling_power: 10
+consumable: no
+move name: 

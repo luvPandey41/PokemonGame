@@ -1,0 +1,12 @@
+item_name: quick-powder
+flavor_text: An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.
+cost: 1000
+category: species-specific
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by Ditto: Doubles the holder's initial Speed.
+fling_power: 10
+consumable: no
+move name: 

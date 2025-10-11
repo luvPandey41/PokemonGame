@@ -1,0 +1,37 @@
+name: blissey
+pokedex_num: 242
+generation: II
+types: normal
+height_dm: 15
+weight_hg: 468
+
+abilities: natural-cure | serene-grace
+hidden_abilities: healer
+ability_descriptions: Cures any major status ailment upon switching out. | Doubles the chance of moves' extra effects occurring. | Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.
+
+base_stats: 255 | 10 | 10 | 75 | 135 | 55
+base_exp: 608
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 8
+hatch_cycles: 40
+
+wild_held_items: oval-stone:50% | lucky-egg:5%
+
+description: "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone."
+
+moves:
+  level-up: pound: 1 | double-slap: 12 | take-down: 27 | double-edge: 54 | tail-whip: 5 | growl: 1 | sing: 31 | minimize: 23 | defense-curl: 1 | light-screen: 46 | egg-bomb: 42 | soft-boiled: 16 | refresh: 9 | healing-wish: 50 | fling: 34 | heal-pulse: 38 | bestow: 20
+  machine: strength | wild-charge | facade | thunder | double-team | fling | swagger | shadow-ball | grass-knot | calm-mind | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | solar-beam | work-up | charge-beam | flash | safeguard | thunderbolt | attract | hyper-beam | rock-slide | sandstorm | substitute | dream-eater | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | rest | blizzard | echoed-voice | focus-blast | hail | sunny-day | fire-blast | hidden-power | round | rock-smash | brick-break | light-screen | return
+  egg: none
+  tutor: stealth-rock | zen-headbutt | iron-tail | icy-wind | thunder-punch | endeavor | ice-punch | snatch | fire-punch | snore | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | hyper-voice | block | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: chansey
+  evolves_to: none
+  trigger: N/A
+forms: blissey
+default_form: true

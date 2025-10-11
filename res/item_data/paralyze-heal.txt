@@ -1,0 +1,12 @@
+item_name: paralyze-heal
+flavor_text: A spray-type medicine. It eliminates paralysis from a single Pokémon.
+cost: 200
+category: status-cures
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Cures paralysis.
+fling_power: 30
+consumable: yes
+move name: 

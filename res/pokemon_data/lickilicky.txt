@@ -1,0 +1,37 @@
+name: lickilicky
+pokedex_num: 463
+generation: IV
+types: normal
+height_dm: 17
+weight_hg: 1400
+
+abilities: own-tempo | oblivious
+hidden_abilities: cloud-nine
+ability_descriptions: Prevents confusion. | Prevents infatuation and protects against captivate. | Negates all effects of weather, but does not prevent the weather itself.
+
+base_stats: 110 | 85 | 95 | 80 | 95 | 50
+base_exp: 180
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 30
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: lagging-tail:5%
+
+description: "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness."
+
+moves:
+  level-up: slam: 29 | stomp: 21 | wrap: 17 | supersonic: 5 | disable: 25 | screech: 49 | defense-curl: 9 | lick: 1 | rollout: 33 | knock-off: 13 | refresh: 45 | gyro-ball: 61 | wring-out: 57 | me-first: 41 | power-whip: 53 | chip-away: 37
+  machine: dragon-tail | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | bulldoze | gyro-ball | rock-tomb | ice-beam | flamethrower | retaliate | protect | rain-dance | surf | psych-up | giga-impact | toxic | rest | incinerate | blizzard | focus-blast | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | explosion | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: none
+  tutor: bind | aqua-tail | zen-headbutt | sleep-talk | iron-tail | icy-wind | thunder-punch | ice-punch | block | fire-punch | snore | knock-off
+evolution_info:
+  evolves_from: lickitung
+  evolves_to: none
+  trigger: N/A
+forms: lickilicky
+default_form: true

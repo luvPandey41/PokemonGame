@@ -1,0 +1,12 @@
+item_name: tm46
+flavor_text: The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item.
+cost: 30000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Thief to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Thief

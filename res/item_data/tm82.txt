@@ -1,0 +1,12 @@
+item_name: tm82
+flavor_text: The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Sleep Talk to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Dragon Tail

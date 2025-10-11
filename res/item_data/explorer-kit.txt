@@ -1,0 +1,12 @@
+item_name: explorer-kit
+flavor_text: A bag filled with convenient tools for exploring. It provides access to the Underground.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Sends the trainer to the Underground. Only usable outside.
+fling_power: -1
+consumable: no
+move name: 

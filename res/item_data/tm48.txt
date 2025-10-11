@@ -1,0 +1,12 @@
+item_name: tm48
+flavor_text: The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Skill Swap to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Round

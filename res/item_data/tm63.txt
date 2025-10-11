@@ -1,0 +1,12 @@
+item_name: tm63
+flavor_text: It prevents the target from using its held item. Its Trainer is also prevented from using items on it.
+cost: 50000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Embargo to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Embargo

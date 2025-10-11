@@ -1,0 +1,45 @@
+name: pidgeotto
+pokedex_num: 17
+generation: I
+types: normal | flying
+height_dm: 11
+weight_hg: 300
+
+abilities: keen-eye | tangled-feet
+hidden_abilities: big-pecks
+ability_descriptions: Prevents accuracy from being lowered. | Doubles evasion when confused. | Protects against Defense drops.
+
+base_stats: 63 | 60 | 55 | 50 | 50 | 71
+base_exp: 122
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+
+moves:
+  level-up: gust: 1 | gust: 9 | wing-attack: 37 | whirlwind: 17 | sand-attack: 1 | sand-attack: 5 | tackle: 1 | agility: 32 | quick-attack: 13 | mirror-move: 52 | twister: 22 | feather-dance: 27 | roost: 42 | tailwind: 47 | air-slash: 57 | hurricane: 62
+  machine: toxic | rest | u-turn | thief | attract | frustration | facade | aerial-ace | double-team | substitute | swagger | sunny-day | work-up | fly | hidden-power | round | protect | pluck | return | rain-dance
+  egg: none
+  tutor: heat-wave | tailwind | sleep-talk | roost | snore | uproar
+evolution_info:
+  evolves_from: pidgey
+  evolves_to: pidgeot
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pidgeotto
+default_form: true

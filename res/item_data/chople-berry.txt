@@ -1,0 +1,12 @@
+item_name: chople-berry
+flavor_text: Weakens a supereffective Fighting-type attack against the holding Pokémon.
+cost: 80
+category: type-protection
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder would take super-effective fighting-type damage, it consumes this item to halve the amount of damage taken.
+fling_power: 10
+consumable: no
+move name: 

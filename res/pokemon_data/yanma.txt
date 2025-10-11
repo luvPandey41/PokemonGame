@@ -1,0 +1,45 @@
+name: yanma
+pokedex_num: 193
+generation: II
+types: bug | flying
+height_dm: 12
+weight_hg: 380
+
+abilities: speed-boost | compound-eyes
+hidden_abilities: frisk
+ability_descriptions: Raises Speed one stage after each turn. | Increases moves' accuracy to 1.3×. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 65 | 65 | 45 | 75 | 45 | 95
+base_exp: 78
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: wide-lens:5%
+
+description: "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory."
+
+moves:
+  level-up: wing-attack: 43 | tackle: 1 | supersonic: 22 | sonic-boom: 14 | hypnosis: 38 | quick-attack: 6 | screech: 46 | double-team: 11 | foresight: 1 | detect: 17 | pursuit: 30 | ancient-power: 33 | uproar: 27 | u-turn: 49 | air-slash: 54 | bug-buzz: 57
+  machine: toxic | rest | u-turn | thief | attract | frustration | facade | aerial-ace | double-team | solar-beam | substitute | swagger | sunny-day | shadow-ball | dream-eater | hidden-power | round | psychic | protect | return | flash
+  egg: whirlwind | signal-beam | double-edge | reversal | secret-power | leech-life | pursuit | feint-attack | silver-wind | feint
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | bug-bite | roost | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: yanmega
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: ancient-power
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: yanma
+default_form: true

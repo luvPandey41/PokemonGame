@@ -1,0 +1,37 @@
+name: ambipom
+pokedex_num: 424
+generation: IV
+types: normal
+height_dm: 12
+weight_hg: 203
+
+abilities: technician | pickup
+hidden_abilities: skill-link
+ability_descriptions: Strengthens moves of 60 base power or less to 1.5× their power. | Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Extends two-to-five-hit moves and triple kick to their full length every time.
+
+base_stats: 75 | 100 | 66 | 60 | 66 | 115
+base_exp: 169
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 100
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 1 | sand-attack: 4 | tail-whip: 1 | agility: 29 | screech: 25 | swift: 22 | fury-swipes: 18 | baton-pass: 11 | astonish: 1 | astonish: 8 | tickle: 15 | fling: 36 | last-resort: 43 | nasty-plot: 39 | double-hit: 32
+  machine: u-turn | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | payback | retaliate | protect | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: none
+  tutor: iron-tail | bounce | thunder-punch | seed-bomb | ice-punch | snatch | fire-punch | role-play | snore | uproar | knock-off | low-kick | last-resort | spite | sleep-talk | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: aipom
+  evolves_to: none
+  trigger: N/A
+forms: ambipom
+default_form: true

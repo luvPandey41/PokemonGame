@@ -1,0 +1,37 @@
+name: shiftry
+pokedex_num: 275
+generation: III
+types: grass | dark
+height_dm: 13
+weight_hg: 596
+
+abilities: chlorophyll | wind-rider
+hidden_abilities: pickpocket
+ability_descriptions: Doubles Speed during strong sunlight. | Gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one. | Steals attacking Pokémon's held items on contact.
+
+base_stats: 90 | 100 | 60 | 90 | 60 | 80
+base_exp: 216
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: power-herb:5%
+
+description: "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses."
+
+moves:
+  level-up: whirlwind: 1 | razor-leaf: 1 | feint-attack: 1 | nasty-plot: 1 | leaf-storm: 49 | leaf-tornado: 19
+  machine: cut | dig | torment | strength | thief | x-scissor | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | shadow-ball | grass-knot | rock-tomb | payback | retaliate | protect | psych-up | giga-impact | toxic | rest | focus-blast | frustration | snarl | aerial-ace | solar-beam | sunny-day | low-sweep | explosion | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | energy-ball | embargo | return | flash
+  egg: none
+  tutor: synthesis | tailwind | bounce | icy-wind | dark-pulse | seed-bomb | snore | knock-off | low-kick | giga-drain | spite | sleep-talk | foul-play | worry-seed
+evolution_info:
+  evolves_from: nuzleaf
+  evolves_to: none
+  trigger: N/A
+forms: shiftry
+default_form: true

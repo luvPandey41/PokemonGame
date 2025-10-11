@@ -1,0 +1,12 @@
+item_name: vs-seeker
+flavor_text: A device that indicates Trainers who want to battle. Its battery charges while you walk.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Reveals trainers who want a rematch, by showing !! over their heads. Each use drains the battery; requires 100 steps to charge.
+fling_power: -1
+consumable: no
+move name: 

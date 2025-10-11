@@ -1,0 +1,37 @@
+name: ninjask
+pokedex_num: 291
+generation: III
+types: bug | flying
+height_dm: 8
+weight_hg: 120
+
+abilities: speed-boost
+hidden_abilities: infiltrator
+ability_descriptions: Raises Speed one stage after each turn. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 61 | 90 | 45 | 50 | 50 | 160
+base_exp: 160
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 25 | sand-attack: 1 | sand-attack: 9 | agility: 38 | screech: 20 | double-team: 20 | harden: 1 | leech-life: 1 | leech-life: 5 | fury-swipes: 14 | slash: 31 | mind-reader: 19 | fury-cutter: 20 | baton-pass: 45 | x-scissor: 52 | bug-bite: 1
+  machine: u-turn | cut | dig | thief | x-scissor | attract | hyper-beam | sandstorm | facade | double-team | substitute | swagger | shadow-ball | protect | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | return | flash
+  egg: none
+  tutor: giga-drain | spite | sleep-talk | bug-bite | roost | snore | uproar
+evolution_info:
+  evolves_from: nincada
+  evolves_to: none
+  trigger: N/A
+forms: ninjask
+default_form: true

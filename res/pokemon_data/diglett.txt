@@ -1,0 +1,45 @@
+name: diglett
+pokedex_num: 50
+generation: I
+types: ground
+height_dm: 2
+weight_hg: 8
+
+abilities: sand-veil | arena-trap
+hidden_abilities: sand-force
+ability_descriptions: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 10 | 55 | 25 | 35 | 45 | 95
+base_exp: 53
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: soft-sand:5%
+
+description: "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 1 | growl: 4 | earthquake: 40 | fissure: 45 | dig: 34 | slash: 37 | mud-slap: 12 | magnitude: 15 | astonish: 7 | sucker-punch: 23 | earth-power: 29 | mud-bomb: 26 | bulldoze: 18
+  machine: cut | dig | thief | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | protect | sludge-bomb | toxic | rest | echoed-voice | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | return
+  egg: pursuit | final-gambit | memento | feint-attack | uproar | reversal | screech | mud-bomb | headbutt | ancient-power | beat-up | endure | astonish
+  tutor: stealth-rock | earth-power | sleep-talk | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: dugtrio
+  trigger: level-up
+  evo_level: 26
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: diglett
+default_form: true

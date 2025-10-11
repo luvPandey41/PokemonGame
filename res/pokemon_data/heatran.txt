@@ -1,0 +1,37 @@
+name: heatran
+pokedex_num: 485
+generation: IV
+types: fire | steel
+height_dm: 17
+weight_hg: 4300
+
+abilities: flash-fire
+hidden_abilities: flame-body
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Has a 30% chance of burning attacking Pokémon on contact.
+
+base_stats: 91 | 90 | 106 | 130 | 106 | 77
+base_exp: 270
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 3
+base_friendship: 100
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat."
+
+moves:
+  level-up: leer: 9 | fire-spin: 57 | scary-face: 41 | crunch: 33 | ancient-power: 1 | heat-wave: 81 | metal-sound: 25 | earth-power: 73 | fire-fang: 17 | lava-plume: 49 | iron-head: 65 | stone-edge: 88 | magma-storm: 96
+  machine: dig | torment | strength | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | overheat | payback | roar | protect | giga-impact | toxic | rest | incinerate | frustration | earthquake | solar-beam | sunny-day | flame-charge | fire-blast | explosion | hidden-power | round | rock-smash | stone-edge | flash-cannon | return | taunt
+  egg: none
+  tutor: stealth-rock | heat-wave | earth-power | sleep-talk | iron-defense | bug-bite | dark-pulse | dragon-pulse | iron-head | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: heatran
+default_form: true

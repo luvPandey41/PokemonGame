@@ -1,0 +1,12 @@
+item_name: heal-powder
+flavor_text: A very bitter medicine powder. It heals all the status problems of a single Pokémon.
+cost: 300
+category: status-cures
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Cures any status ailment. Decreases happiness by 5/5/10.
+fling_power: 30
+consumable: yes
+move name: 

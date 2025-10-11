@@ -1,0 +1,45 @@
+name: ponyta
+pokedex_num: 77
+generation: I
+types: fire
+height_dm: 10
+weight_hg: 300
+
+abilities: run-away | flash-fire
+hidden_abilities: flame-body
+ability_descriptions: Ensures success fleeing from wild battles. | Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Has a 30% chance of burning attacking Pokémon on contact.
+
+base_stats: 50 | 85 | 55 | 65 | 65 | 90
+base_exp: 82
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: shuca-berry:5%
+
+description: "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster."
+
+moves:
+  level-up: stomp: 17 | tackle: 1 | take-down: 29 | tail-whip: 4 | growl: 1 | ember: 9 | fire-spin: 25 | agility: 37 | fire-blast: 41 | flame-wheel: 13 | bounce: 45 | flare-blitz: 49 | flame-charge: 21 | inferno: 33
+  machine: toxic | rest | incinerate | strength | echoed-voice | wild-charge | attract | frustration | will-o-wisp | facade | double-team | solar-beam | substitute | swagger | sunny-day | flame-charge | fire-blast | hidden-power | round | flamethrower | overheat | protect | return
+  egg: low-kick | hypnosis | captivate | double-edge | charm | morning-sun | horn-drill | flame-wheel | thrash | double-kick
+  tutor: low-kick | heat-wave | sleep-talk | iron-tail | bounce | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: rapidash
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: ponyta
+default_form: true

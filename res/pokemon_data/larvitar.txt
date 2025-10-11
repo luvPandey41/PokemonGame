@@ -1,0 +1,45 @@
+name: larvitar
+pokedex_num: 246
+generation: II
+types: rock | ground
+height_dm: 6
+weight_hg: 720
+
+abilities: guts
+hidden_abilities: sand-veil
+ability_descriptions: Increases Attack to 1.5× with a major status ailment. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 50 | 64 | 50 | 45 | 50 | 41
+base_exp: 60
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow."
+
+moves:
+  level-up: thrash: 28 | leer: 1 | bite: 1 | hyper-beam: 55 | earthquake: 46 | screech: 10 | rock-slide: 19 | scary-face: 23 | sandstorm: 5 | crunch: 41 | payback: 37 | dark-pulse: 32 | stone-edge: 50 | chip-away: 14
+  machine: dig | torment | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | payback | retaliate | protect | rain-dance | toxic | rest | frustration | snarl | earthquake | sunny-day | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: assurance | stealth-rock | iron-tail | iron-defense | pursuit | ancient-power | focus-energy | curse | dragon-dance | outrage | stomp | iron-head
+  tutor: stealth-rock | earth-power | spite | sleep-talk | iron-tail | iron-defense | dark-pulse | outrage | superpower | iron-head | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: pupitar
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: larvitar
+default_form: true

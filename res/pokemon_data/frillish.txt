@@ -1,0 +1,45 @@
+name: frillish
+pokedex_num: 592
+generation: V
+types: water | ghost
+height_dm: 12
+weight_hg: 330
+
+abilities: water-absorb | cursed-body
+hidden_abilities: damp
+ability_descriptions: Absorbs water moves, healing for 1/4 max HP. | Has a 30% chance of Disabling any move that hits the Pokémon. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 55 | 40 | 50 | 65 | 85 | 40
+base_exp: 67
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor."
+
+moves:
+  level-up: hydro-pump: 49 | bubble-beam: 13 | absorb: 5 | night-shade: 9 | recover: 17 | bubble: 1 | rain-dance: 37 | water-spout: 61 | water-sport: 1 | water-pulse: 22 | brine: 32 | wring-out: 55 | ominous-wind: 27 | hex: 43
+  machine: sludge-wave | attract | will-o-wisp | facade | scald | double-team | substitute | swagger | shadow-ball | dream-eater | ice-beam | waterfall | psychic | protect | dive | sludge-bomb | rain-dance | surf | psych-up | toxic | rest | blizzard | frustration | hail | hidden-power | round | energy-ball | return | taunt | trick-room | flash | safeguard
+  egg: recover | confuse-ray | acid-armor | constrict | pain-split | mist
+  tutor: bind | giga-drain | spite | sleep-talk | icy-wind | pain-split | dark-pulse | trick | magic-coat | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: jellicent
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: frillish
+default_form: true

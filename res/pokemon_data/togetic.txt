@@ -1,0 +1,45 @@
+name: togetic
+pokedex_num: 176
+generation: II
+types: fairy | flying
+height_dm: 6
+weight_hg: 32
+
+abilities: hustle | serene-grace
+hidden_abilities: super-luck
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Doubles the chance of moves' extra effects occurring. | Raises moves' critical hit rates one stage.
+
+base_stats: 55 | 40 | 85 | 80 | 105 | 40
+base_exp: 142
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: flying | fairy
+gender_ratio_female: 1
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "To share its happiness, it flies around the world seeking kind- hearted people."
+
+moves:
+  level-up: double-edge: 45 | growl: 1 | metronome: 1 | metronome: 5 | sweet-kiss: 1 | sweet-kiss: 9 | charm: 1 | safeguard: 37 | baton-pass: 41 | encore: 17 | ancient-power: 33 | follow-me: 21 | wish: 29 | yawn: 13 | magical-leaf: 1 | last-resort: 49 | after-you: 53 | bestow: 25
+  machine: attract | hyper-beam | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | fire-blast | work-up | fly | hidden-power | round | rock-smash | brick-break | light-screen | psyshock | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | tailwind | zen-headbutt | endeavor | roost | trick | magic-coat | snore | heat-wave | last-resort | sleep-talk | drain-punch | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: togepi
+  evolves_to: togekiss
+  trigger: use-item
+  evo_level: null
+  evo_item: shiny-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: togetic
+default_form: true

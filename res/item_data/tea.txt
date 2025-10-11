@@ -1,0 +1,12 @@
+item_name: tea
+flavor_text: A thirst-quenching tea prepared by an old lady.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used to bribe the saffron city guards for entry to the city.
+fling_power: -1
+consumable: no
+move name: 

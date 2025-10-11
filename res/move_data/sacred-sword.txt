@@ -1,0 +1,20 @@
+move name: sacred-sword
+power: 90
+accuracy: 100
+type: fighting
+attack type: physical
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: Ignores the target's stat modifiers.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

@@ -1,0 +1,45 @@
+name: munna
+pokedex_num: 517
+generation: V
+types: psychic
+height_dm: 6
+weight_hg: 233
+
+abilities: forewarn | synchronize
+hidden_abilities: telepathy
+ability_descriptions: Reveals the opponents' strongest move upon entering battle. | Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Protects against friendly Pokémon's damaging moves.
+
+base_stats: 76 | 25 | 45 | 67 | 55 | 24
+base_exp: 58
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: none
+
+description: "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about."
+
+moves:
+  level-up: psybeam: 11 | psychic: 37 | hypnosis: 19 | defense-curl: 1 | dream-eater: 41 | psywave: 1 | nightmare: 29 | moonlight: 17 | future-sight: 31 | yawn: 7 | imprison: 13 | calm-mind: 35 | lucky-chant: 5 | zen-headbutt: 23 | telekinesis: 43 | synchronoise: 25 | stored-power: 47
+  machine: torment | attract | rock-slide | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | gyro-ball | rock-tomb | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: baton-pass | secret-power | barrier | helping-hand | sleep-talk | curse | magic-coat | sonic-boom | swift
+  tutor: signal-beam | after-you | zen-headbutt | pain-split | trick | magic-coat | snore | helping-hand | sleep-talk | gravity | heal-bell | worry-seed | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: musharna
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: munna
+default_form: true

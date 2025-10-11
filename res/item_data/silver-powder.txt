@@ -1,0 +1,12 @@
+item_name: silver-powder
+flavor_text: An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.
+cost: 1000
+category: type-enhancement
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : Holder's bug-type moves have 1.2× their power.
+fling_power: 10
+consumable: no
+move name: 

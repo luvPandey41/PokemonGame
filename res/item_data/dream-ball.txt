@@ -1,0 +1,12 @@
+item_name: dream-ball
+flavor_text: A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.
+cost: 0
+category: special-balls
+pocket: pokeballs
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Can only be used in Entree Forest, to catch Pokémon encountered in the Dream World. Used in battle : Catches a wild Pokémon without fail.
+fling_power: -1
+consumable: no
+move name: 

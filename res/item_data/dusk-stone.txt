@@ -1,0 +1,12 @@
+item_name: dusk-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves a lampent into chandelure, a misdreavus into mismagius, or a murkrow into honchkrow.
+fling_power: 80
+consumable: no
+move name: 

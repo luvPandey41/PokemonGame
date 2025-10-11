@@ -1,0 +1,45 @@
+name: primeape
+pokedex_num: 57
+generation: I
+types: fighting
+height_dm: 10
+weight_hg: 320
+
+abilities: vital-spirit | anger-point
+hidden_abilities: defiant
+ability_descriptions: Prevents sleep. | Raises Attack to the maximum of six stages upon receiving a critical hit. | Raises Attack two stages upon having any stat lowered.
+
+base_stats: 65 | 105 | 60 | 60 | 70 | 95
+base_exp: 159
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: payapa-berry:5%
+
+description: "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder."
+
+moves:
+  level-up: karate-chop: 13 | scratch: 1 | thrash: 47 | leer: 1 | low-kick: 1 | seismic-toss: 17 | rage: 28 | screech: 21 | focus-energy: 1 | fury-swipes: 9 | swagger: 35 | cross-chop: 41 | close-combat: 59 | assurance: 25 | fling: 1 | punishment: 53 | final-gambit: 63
+  machine: u-turn | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | overheat | payback | retaliate | bulk-up | protect | rain-dance | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | earthquake | hone-claws | sunny-day | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: none
+  tutor: dual-chop | iron-tail | thunder-punch | endeavor | seed-bomb | outrage | ice-punch | fire-punch | role-play | uproar | low-kick | helping-hand | spite | sleep-talk | gunk-shot | covet
+evolution_info:
+  evolves_from: mankey
+  evolves_to: annihilape
+  trigger: other
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: primeape
+default_form: true

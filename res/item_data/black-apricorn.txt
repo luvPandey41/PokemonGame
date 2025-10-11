@@ -1,0 +1,12 @@
+item_name: black-apricorn
+flavor_text: A black Apricorn It has an indescribable scent.
+cost: 200
+category: apricorn-box
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: May be given to Kurt in azalea town to produce a heavy ball.
+fling_power: 10
+consumable: no
+move name: 

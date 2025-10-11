@@ -1,0 +1,45 @@
+name: clefairy
+pokedex_num: 35
+generation: I
+types: fairy
+height_dm: 6
+weight_hg: 75
+
+abilities: cute-charm | magic-guard
+hidden_abilities: friend-guard
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Protects against damage not directly caused by a move. | Decreases all direct damage taken by friendly Pokémon to 0.75×.
+
+base_stats: 70 | 45 | 48 | 60 | 65 | 35
+base_exp: 113
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 150
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: moon-stone:5% | leppa-berry:50% | comet-shard:1%
+
+description: "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon."
+
+moves:
+  level-up: pound: 1 | double-slap: 10 | body-slam: 40 | growl: 1 | sing: 7 | minimize: 25 | defense-curl: 13 | light-screen: 46 | metronome: 31 | encore: 4 | moonlight: 43 | follow-me: 16 | meteor-mash: 52 | cosmic-power: 34 | gravity: 49 | wake-up-slap: 22 | healing-wish: 55 | lucky-chant: 37 | after-you: 58 | stored-power: 28 | bestow: 19
+  machine: dig | strength | thunderbolt | attract | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | flamethrower | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | blizzard | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | psyshock | return | flash | safeguard
+  egg: none
+  tutor: after-you | bounce | ice-punch | snatch | trick | fire-punch | recycle | heal-bell | covet | stealth-rock | signal-beam | zen-headbutt | iron-tail | icy-wind | thunder-punch | endeavor | magic-coat | role-play | snore | knock-off | helping-hand | last-resort | sleep-talk | drain-punch | gravity | hyper-voice | wonder-room
+evolution_info:
+  evolves_from: cleffa
+  evolves_to: clefable
+  trigger: use-item
+  evo_level: null
+  evo_item: moon-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: clefairy
+default_form: true

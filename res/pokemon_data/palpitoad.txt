@@ -1,0 +1,45 @@
+name: palpitoad
+pokedex_num: 536
+generation: V
+types: water | ground
+height_dm: 8
+weight_hg: 170
+
+abilities: swift-swim | hydration
+hidden_abilities: water-absorb
+ability_descriptions: Doubles Speed during rain. | Cures any major status ailment after each turn during rain. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 75 | 65 | 55 | 65 | 55 | 69
+base_exp: 134
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | persim-berry:50%
+
+description: "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land."
+
+moves:
+  level-up: growl: 1 | supersonic: 1 | supersonic: 5 | hydro-pump: 47 | bubble-beam: 12 | bubble: 1 | flail: 37 | rain-dance: 33 | uproar: 23 | hyper-voice: 51 | muddy-water: 28 | mud-shot: 16 | aqua-ring: 20 | round: 1 | round: 9 | echoed-voice: 42
+  machine: surf | toxic | rest | sludge-wave | echoed-voice | attract | frustration | facade | scald | double-team | hail | substitute | swagger | bulldoze | hidden-power | round | rock-smash | protect | sludge-bomb | return | rain-dance
+  egg: none
+  tutor: stealth-rock | earth-power | gastro-acid | sleep-talk | bounce | icy-wind | endeavor | hyper-voice | snore | uproar
+evolution_info:
+  evolves_from: tympole
+  evolves_to: seismitoad
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: palpitoad
+default_form: true

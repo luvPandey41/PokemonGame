@@ -1,0 +1,37 @@
+name: zoroark
+pokedex_num: 571
+generation: V
+types: dark
+height_dm: 16
+weight_hg: 811
+
+abilities: illusion
+hidden_abilities: none
+ability_descriptions: Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.
+
+base_stats: 60 | 105 | 60 | 120 | 60 | 105
+base_exp: 179
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents."
+
+moves:
+  level-up: scratch: 1 | leer: 1 | agility: 39 | fury-swipes: 13 | scary-face: 21 | feint-attack: 17 | pursuit: 1 | pursuit: 5 | torment: 34 | taunt: 25 | imprison: 59 | u-turn: 1 | embargo: 44 | punishment: 49 | night-slash: 30 | nasty-plot: 54 | hone-claws: 1 | hone-claws: 9 | foul-play: 29 | night-daze: 64
+  machine: u-turn | cut | dig | torment | thief | attract | hyper-beam | facade | double-team | fling | substitute | swagger | shadow-ball | grass-knot | flamethrower | calm-mind | payback | retaliate | roar | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | focus-blast | frustration | snarl | aerial-ace | hone-claws | sunny-day | shadow-claw | low-sweep | hidden-power | round | swords-dance | rock-smash | embargo | return | taunt
+  egg: none
+  tutor: bounce | dark-pulse | snatch | trick | snore | uproar | knock-off | low-kick | spite | sleep-talk | hyper-voice | foul-play | covet
+evolution_info:
+  evolves_from: zorua
+  evolves_to: none
+  trigger: N/A
+forms: zoroark
+default_form: true

@@ -1,0 +1,12 @@
+item_name: prism-scale
+flavor_text: A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+cost: 2000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by feebas : Holder evolves into milotic when traded.
+fling_power: 30
+consumable: no
+move name: 

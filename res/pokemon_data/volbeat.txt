@@ -1,0 +1,37 @@
+name: volbeat
+pokedex_num: 313
+generation: III
+types: bug
+height_dm: 7
+weight_hg: 177
+
+abilities: illuminate | swarm
+hidden_abilities: prankster
+ability_descriptions: Doubles the wild encounter rate. | Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | Raises non-damaging moves' priority by one stage.
+
+base_stats: 65 | 73 | 75 | 47 | 85 | 85
+base_exp: 151
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 150
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: bug | humanshape
+gender_ratio_female: 0
+hatch_cycles: 15
+
+wild_held_items: bright-powder:5%
+
+description: "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma."
+
+moves:
+  level-up: tackle: 1 | double-edge: 45 | quick-attack: 17 | double-team: 5 | confuse-ray: 9 | flash: 1 | protect: 29 | moonlight: 13 | helping-hand: 33 | tail-glow: 21 | signal-beam: 25 | bug-buzz: 41 | zen-headbutt: 37
+  machine: u-turn | thunderbolt | thief | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | brick-break | charge-beam | light-screen | return | flash
+  egg: baton-pass | dizzy-punch | trick | bug-buzz | silver-wind | seismic-toss | encore
+  tutor: signal-beam | giga-drain | helping-hand | tailwind | zen-headbutt | sleep-talk | bug-bite | thunder-punch | roost | ice-punch | trick | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: volbeat
+default_form: true

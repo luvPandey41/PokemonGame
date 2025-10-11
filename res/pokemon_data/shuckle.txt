@@ -1,0 +1,37 @@
+name: shuckle
+pokedex_num: 213
+generation: II
+types: bug | rock
+height_dm: 6
+weight_hg: 205
+
+abilities: sturdy | gluttony
+hidden_abilities: contrary
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Inverts stat changes.
+
+base_stats: 20 | 10 | 230 | 10 | 230 | 5
+base_exp: 177
+ev_yield: 0 | 0 | 1 | 0 | 1 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: berry-juice:100% | oran-berry:100%
+
+description: "It stores berries in its shell. The berries eventually ferment to become delicious juices."
+
+moves:
+  level-up: wrap: 9 | rock-throw: 23 | withdraw: 1 | bide: 1 | constrict: 1 | rest: 20 | rock-slide: 38 | rollout: 1 | safeguard: 16 | encore: 5 | power-trick: 31 | gastro-acid: 27 | stone-edge: 49 | bug-bite: 42 | guard-split: 45 | power-split: 45 | shell-smash: 34 | struggle-bug: 12
+  machine: sludge-wave | dig | strength | attract | rock-slide | sandstorm | facade | double-team | venoshock | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | protect | sludge-bomb | toxic | rest | frustration | earthquake | sunny-day | struggle-bug | hidden-power | round | rock-smash | stone-edge | smack-down | return | flash | safeguard
+  egg: acid | rock-blast | helping-hand | mud-slap | final-gambit | sweet-scent | sand-tomb | acupressure | knock-off
+  tutor: stealth-rock | after-you | earth-power | bind | helping-hand | gastro-acid | sleep-talk | bug-bite | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: shuckle
+default_form: true

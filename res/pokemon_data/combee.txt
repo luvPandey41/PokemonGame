@@ -1,0 +1,45 @@
+name: combee
+pokedex_num: 415
+generation: IV
+types: bug | flying
+height_dm: 3
+weight_hg: 55
+
+abilities: honey-gather
+hidden_abilities: hustle
+ability_descriptions: The Pokémon may pick up honey after battle. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 30 | 30 | 42 | 30 | 42 | 70
+base_exp: 49
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: bug
+gender_ratio_female: 1
+hatch_cycles: 15
+
+wild_held_items: honey:100%
+
+description: "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen."
+
+moves:
+  level-up: gust: 1 | sweet-scent: 1 | bug-buzz: 29 | bug-bite: 13
+  machine: none
+  egg: none
+  tutor: tailwind | bug-bite | endeavor | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: vespiquen
+  trigger: level-up
+  evo_level: 21
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: 1
+  evo_party_requirement: null
+forms: combee
+default_form: true

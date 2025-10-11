@@ -1,0 +1,12 @@
+item_name: auroraticket
+flavor_text: A ticket required to board the ship to BIRTH ISLAND.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Provides access to Birth Island and deoxys.
+fling_power: -1
+consumable: no
+move name: 

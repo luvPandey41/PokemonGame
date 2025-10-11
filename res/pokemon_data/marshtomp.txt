@@ -1,0 +1,45 @@
+name: marshtomp
+pokedex_num: 259
+generation: III
+types: water | ground
+height_dm: 7
+weight_hg: 280
+
+abilities: torrent
+hidden_abilities: damp
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 70 | 85 | 70 | 60 | 70 | 50
+base_exp: 142
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | water1
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep."
+
+moves:
+  level-up: tackle: 1 | take-down: 31 | growl: 1 | water-gun: 1 | water-gun: 10 | earthquake: 46 | bide: 15 | protect: 42 | mud-slap: 1 | mud-slap: 6 | foresight: 20 | endeavor: 53 | muddy-water: 37 | mud-shot: 16 | mud-bomb: 25
+  machine: sludge-wave | dig | strength | attract | rock-slide | facade | scald | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | waterfall | protect | dive | rain-dance | surf | toxic | rest | blizzard | echoed-voice | frustration | earthquake | hail | hidden-power | round | rock-smash | brick-break | return
+  egg: none
+  tutor: low-kick | stealth-rock | earth-power | aqua-tail | sleep-talk | iron-tail | icy-wind | endeavor | ice-punch | superpower | water-pledge | snore
+evolution_info:
+  evolves_from: mudkip
+  evolves_to: swampert
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: marshtomp
+default_form: true

@@ -1,0 +1,20 @@
+move name: after-you
+power: 0
+accuracy: 0
+type: normal
+attack type: status
+target: selected-pokemon
+pp: 15
+priority: 0
+flavor text: Makes the target act next this turn.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 0
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

@@ -1,0 +1,52 @@
+name: clamperl
+pokedex_num: 366
+generation: III
+types: water
+height_dm: 4
+weight_hg: 525
+
+abilities: shell-armor
+hidden_abilities: rattled
+ability_descriptions: Protects against critical hits. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 35 | 64 | 85 | 74 | 55 | 32
+base_exp: 69
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: blue-shard:5% | pearl:50% | big-pearl:5%
+
+description: "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power."
+
+moves:
+  level-up: water-gun: 1 | clamp: 1 | whirlpool: 1 | iron-defense: 1 | shell-smash: 51
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance
+  egg: aqua-ring | barrier | muddy-water | confuse-ray | refresh | brine | endure | mud-sport | body-slam | water-pulse | supersonic
+  tutor: sleep-talk | iron-defense | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: huntail, gorebyss
+  trigger: trade, trade
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: clamperl
+default_form: true

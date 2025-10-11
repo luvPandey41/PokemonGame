@@ -1,0 +1,37 @@
+name: wigglytuff
+pokedex_num: 40
+generation: I
+types: normal | fairy
+height_dm: 10
+weight_hg: 120
+
+abilities: cute-charm | competitive
+hidden_abilities: frisk
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Raises Special Attack by two stages upon having any stat lowered. | Reveals an opponent's held item upon entering battle.
+
+base_stats: 140 | 70 | 45 | 85 | 50 | 45
+base_exp: 196
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: moon-stone:5% | oran-berry:50%
+
+description: "Its fine fur feels sublime to the touch. It can expand its body by inhaling air."
+
+moves:
+  level-up: double-slap: 1 | sing: 1 | disable: 1 | defense-curl: 1
+  machine: dig | strength | thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | gyro-ball | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | blizzard | echoed-voice | focus-blast | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | brick-break | charge-beam | light-screen | return | flash | safeguard
+  egg: none
+  tutor: stealth-rock | magic-room | bounce | icy-wind | thunder-punch | endeavor | pain-split | ice-punch | snatch | fire-punch | magic-coat | role-play | snore | knock-off | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: jigglypuff
+  evolves_to: none
+  trigger: N/A
+forms: wigglytuff
+default_form: true

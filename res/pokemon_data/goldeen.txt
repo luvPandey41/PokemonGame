@@ -1,0 +1,45 @@
+name: goldeen
+pokedex_num: 118
+generation: I
+types: water
+height_dm: 6
+weight_hg: 150
+
+abilities: swift-swim | water-veil
+hidden_abilities: lightning-rod
+ability_descriptions: Doubles Speed during rain. | Prevents burns. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 45 | 67 | 60 | 35 | 50 | 63
+base_exp: 64
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water2
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: mystic-water:5%
+
+description: "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
+
+moves:
+  level-up: horn-attack: 11 | fury-attack: 31 | horn-drill: 41 | tail-whip: 1 | supersonic: 7 | peck: 1 | agility: 47 | waterfall: 37 | flail: 21 | megahorn: 57 | water-sport: 1 | water-pulse: 17 | aqua-ring: 27 | soak: 51
+  machine: surf | toxic | rest | blizzard | poison-jab | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | protect | dive | return | rain-dance
+  egg: signal-beam | skull-bash | aqua-tail | haze | mud-slap | sleep-talk | hydro-pump | mud-shot | psybeam | mud-sport | body-slam
+  tutor: signal-beam | aqua-tail | sleep-talk | bounce | icy-wind | drill-run | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: seaking
+  trigger: level-up
+  evo_level: 33
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: goldeen
+default_form: true

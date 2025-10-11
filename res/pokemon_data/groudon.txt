@@ -1,0 +1,37 @@
+name: groudon
+pokedex_num: 383
+generation: III
+types: ground
+height_dm: 35
+weight_hg: 9500
+
+abilities: drought
+hidden_abilities: none
+ability_descriptions: Summons strong sunlight that lasts indefinitely upon entering battle.
+
+base_stats: 100 | 150 | 140 | 100 | 90 | 90
+base_exp: 302
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago."
+
+moves:
+  level-up: solar-beam: 80 | earthquake: 35 | fissure: 75 | fire-blast: 90 | rest: 30 | scary-face: 5 | ancient-power: 45 | eruption: 50 | bulk-up: 60 | mud-shot: 1 | hammer-arm: 20 | earth-power: 65 | lava-plume: 15
+  machine: dragon-tail | cut | dig | strength | thunderbolt | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | flamethrower | overheat | bulk-up | roar | protect | dragon-claw | psych-up | giga-impact | toxic | rest | incinerate | focus-blast | thunder-wave | frustration | aerial-ace | earthquake | solar-beam | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return | safeguard
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | thunder-punch | block | fire-punch | dragon-pulse | iron-head | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: groudon
+default_form: true

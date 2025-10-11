@@ -1,0 +1,12 @@
+item_name: full-restore
+flavor_text: A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+cost: 3000
+category: healing
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Restores HP to full and cures any status ailment and confusion.
+fling_power: 30
+consumable: yes
+move name: 

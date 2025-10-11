@@ -1,0 +1,45 @@
+name: woobat
+pokedex_num: 527
+generation: V
+types: psychic | flying
+height_dm: 4
+weight_hg: 21
+
+abilities: unaware | klutz
+hidden_abilities: simple
+ability_descriptions: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | Prevents the Pokémon from using its held item in battle. | Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.
+
+base_stats: 65 | 45 | 43 | 55 | 43 | 72
+base_exp: 65
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground | flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings."
+
+moves:
+  level-up: gust: 8 | confusion: 1 | psychic: 41 | amnesia: 29 | attract: 25 | future-sight: 36 | endeavor: 47 | imprison: 19 | air-cutter: 21 | odor-sleuth: 4 | calm-mind: 29 | assurance: 12 | air-slash: 32 | heart-stamp: 15
+  machine: u-turn | torment | thief | attract | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | gyro-ball | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | aerial-ace | acrobatics | fly | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | pluck | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: helping-hand | charm | stored-power | synchronoise | fake-tears | roost | flatter | supersonic | knock-off
+  tutor: signal-beam | after-you | tailwind | zen-headbutt | endeavor | super-fang | roost | trick | magic-coat | snore | uproar | knock-off | heat-wave | giga-drain | helping-hand | sleep-talk | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: swoobat
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: woobat
+default_form: true

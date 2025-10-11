@@ -1,0 +1,37 @@
+name: latias
+pokedex_num: 380
+generation: III
+types: dragon | psychic
+height_dm: 14
+weight_hg: 400
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 80 | 80 | 90 | 110 | 130 | 110
+base_exp: 270
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 90
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 8
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "Its body is covered with a down that can refract light in such a way that it becomes invisible."
+
+moves:
+  level-up: psychic: 60 | recover: 45 | psywave: 1 | charm: 55 | safeguard: 15 | dragon-breath: 20 | helping-hand: 10 | wish: 5 | refresh: 30 | mist-ball: 35 | water-sport: 25 | healing-wish: 85 | psycho-shift: 50 | dragon-pulse: 80 | zen-headbutt: 40 | guard-split: 75 | heal-pulse: 65 | reflect-type: 70
+  machine: facade | thunder | double-team | swagger | shadow-ball | grass-knot | reflect | calm-mind | roar | dragon-claw | surf | giga-impact | toxic | thunder-wave | frustration | earthquake | solar-beam | charge-beam | flash | safeguard | cut | thunderbolt | attract | hyper-beam | sandstorm | telekinesis | substitute | dream-eater | bulldoze | ice-beam | waterfall | retaliate | psychic | protect | dive | rain-dance | psych-up | rest | aerial-ace | hone-claws | sunny-day | shadow-claw | fly | hidden-power | round | energy-ball | light-screen | psyshock | return
+  egg: none
+  tutor: magic-room | tailwind | zen-headbutt | icy-wind | outrage | roost | trick | magic-coat | dragon-pulse | role-play | snore | helping-hand | last-resort | sleep-talk | draco-meteor | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: latias
+default_form: true

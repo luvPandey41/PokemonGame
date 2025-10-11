@@ -1,0 +1,37 @@
+name: dustox
+pokedex_num: 269
+generation: III
+types: bug | poison
+height_dm: 12
+weight_hg: 316
+
+abilities: shield-dust
+hidden_abilities: compound-eyes
+ability_descriptions: Protects against incoming moves' extra effects. | Increases moves' accuracy to 1.3×.
+
+base_stats: 60 | 50 | 70 | 50 | 90 | 65
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: silver-powder:5% | shed-shell:5%
+
+description: "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards."
+
+moves:
+  level-up: gust: 13 | whirlwind: 27 | psybeam: 24 | toxic: 38 | confusion: 1 | confusion: 10 | light-screen: 31 | protect: 17 | moonlight: 20 | silver-wind: 34 | bug-buzz: 41 | quiver-dance: 45
+  machine: u-turn | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | shadow-ball | psychic | protect | sludge-bomb | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | sunny-day | acrobatics | struggle-bug | hidden-power | round | energy-ball | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | giga-drain | tailwind | sleep-talk | bug-bite | roost | electroweb | snore
+evolution_info:
+  evolves_from: cascoon
+  evolves_to: none
+  trigger: N/A
+forms: dustox
+default_form: true

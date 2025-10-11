@@ -1,0 +1,37 @@
+name: zebstrika
+pokedex_num: 523
+generation: V
+types: electric
+height_dm: 16
+weight_hg: 795
+
+abilities: lightning-rod | motor-drive
+hidden_abilities: sap-sipper
+ability_descriptions: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Absorbs electric moves, raising Speed one stage. | Absorbs grass moves, raising Attack one stage.
+
+base_stats: 75 | 100 | 63 | 80 | 63 | 116
+base_exp: 174
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: cheri-berry:50%
+
+description: "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates."
+
+moves:
+  level-up: stomp: 31 | thrash: 53 | tail-whip: 1 | tail-whip: 4 | thunder-wave: 1 | thunder-wave: 15 | agility: 42 | quick-attack: 1 | spark: 25 | pursuit: 22 | charge: 1 | charge: 8 | shock-wave: 11 | discharge: 36 | flame-charge: 18 | wild-charge: 47
+  machine: thunderbolt | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | overheat | protect | volt-switch | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | flame-charge | hidden-power | round | rock-smash | charge-beam | light-screen | return | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | bounce | magnet-rise | snore
+evolution_info:
+  evolves_from: blitzle
+  evolves_to: none
+  trigger: N/A
+forms: zebstrika
+default_form: true

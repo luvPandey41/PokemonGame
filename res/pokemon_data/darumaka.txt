@@ -1,0 +1,45 @@
+name: darumaka
+pokedex_num: 554
+generation: V
+types: fire
+height_dm: 6
+weight_hg: 375
+
+abilities: hustle
+hidden_abilities: inner-focus
+ability_descriptions: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Prevents flinching.
+
+base_stats: 70 | 90 | 45 | 15 | 45 | 50
+base_exp: 63
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:50%
+
+description: "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep."
+
+moves:
+  level-up: fire-punch: 22 | headbutt: 14 | tackle: 1 | thrash: 27 | rage: 9 | belly-drum: 30 | rollout: 3 | uproar: 17 | facade: 19 | taunt: 35 | superpower: 39 | overheat: 42 | flare-blitz: 33 | fire-fang: 11 | incinerate: 6 | work-up: 25
+  machine: u-turn | dig | strength | thief | attract | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | gyro-ball | rock-tomb | flamethrower | overheat | roar | protect | toxic | rest | incinerate | frustration | solar-beam | sunny-day | flame-charge | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: hammer-arm | sleep-talk | focus-punch | flame-wheel | yawn | focus-energy | take-down | endure | encore
+  tutor: heat-wave | zen-headbutt | sleep-talk | endeavor | fire-punch | superpower | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: darmanitan
+  trigger: level-up
+  evo_level: 35
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: darumaka
+default_form: true

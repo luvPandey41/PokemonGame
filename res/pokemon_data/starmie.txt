@@ -1,0 +1,37 @@
+name: starmie
+pokedex_num: 121
+generation: I
+types: water | psychic
+height_dm: 11
+weight_hg: 800
+
+abilities: illuminate | natural-cure
+hidden_abilities: analytic
+ability_descriptions: Doubles the wild encounter rate. | Cures any major status ailment upon switching out. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 60 | 75 | 85 | 100 | 85 | 115
+base_exp: 182
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water3
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: stardust:50% | star-piece:5%
+
+description: "At the center of its body is a red core, which sends mysterious radio signals into the night sky."
+
+moves:
+  level-up: water-gun: 1 | recover: 1 | confuse-ray: 22 | swift: 1 | rapid-spin: 1
+  machine: thunderbolt | hyper-beam | facade | scald | thunder | double-team | telekinesis | substitute | swagger | dream-eater | grass-knot | reflect | gyro-ball | ice-beam | waterfall | psychic | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | hail | hidden-power | round | flash-cannon | light-screen | psyshock | return | trick-room | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | icy-wind | gravity | pain-split | recycle | trick | magic-coat | wonder-room | snore | skill-swap
+evolution_info:
+  evolves_from: staryu
+  evolves_to: none
+  trigger: N/A
+forms: starmie
+default_form: true

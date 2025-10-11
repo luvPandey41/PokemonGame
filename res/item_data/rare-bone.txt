@@ -1,0 +1,12 @@
+item_name: rare-bone
+flavor_text: A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.
+cost: 5000
+category: loot
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Vendor trash.
+fling_power: 100
+consumable: no
+move name: 

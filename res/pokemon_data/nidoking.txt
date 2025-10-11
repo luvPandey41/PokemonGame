@@ -1,0 +1,37 @@
+name: nidoking
+pokedex_num: 34
+generation: I
+types: poison | ground
+height_dm: 14
+weight_hg: 620
+
+abilities: poison-point | rivalry
+hidden_abilities: sheer-force
+ability_descriptions: Has a 30% chance of poisoning attacking Pokémon on contact. | Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 81 | 102 | 77 | 85 | 75 | 85
+base_exp: 227
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+
+moves:
+  level-up: double-kick: 1 | thrash: 35 | poison-sting: 1 | peck: 1 | focus-energy: 1 | megahorn: 58 | earth-power: 43 | chip-away: 23
+  machine: dragon-tail | dig | torment | strength | facade | thunder | double-team | fling | swagger | shadow-ball | roar | sludge-bomb | surf | giga-impact | toxic | incinerate | frustration | earthquake | stone-edge | quash | sludge-wave | cut | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | venoshock | substitute | bulldoze | rock-tomb | ice-beam | flamethrower | protect | rain-dance | rest | blizzard | poison-jab | echoed-voice | focus-blast | hone-claws | sunny-day | shadow-claw | fire-blast | hidden-power | round | rock-smash | brick-break | smack-down | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | icy-wind | thunder-punch | super-fang | outrage | ice-punch | fire-punch | dragon-pulse | superpower | snore | uproar | helping-hand | sleep-talk | drill-run
+evolution_info:
+  evolves_from: nidorino
+  evolves_to: none
+  trigger: N/A
+forms: nidoking
+default_form: true

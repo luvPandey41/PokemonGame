@@ -1,0 +1,12 @@
+item_name: rawst-berry
+flavor_text: If held by a Pokémon, it recovers from a burn.
+cost: 80
+category: medicine
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder is burned, it consumes this item to cure the burn. Used on a party Pokémon : Cures a burn.
+fling_power: 10
+consumable: no
+move name: 

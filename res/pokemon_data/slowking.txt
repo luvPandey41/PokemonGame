@@ -1,0 +1,37 @@
+name: slowking
+pokedex_num: 199
+generation: II
+types: water | psychic
+height_dm: 20
+weight_hg: 795
+
+abilities: oblivious | own-tempo
+hidden_abilities: regenerator
+ability_descriptions: Prevents infatuation and protects against captivate. | Prevents confusion. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 95 | 75 | 80 | 100 | 110 | 30
+base_exp: 172
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 70
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster | water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: kings-rock:5%
+
+description: "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists."
+
+moves:
+  level-up: headbutt: 23 | tackle: 1 | growl: 5 | disable: 19 | water-gun: 9 | confusion: 14 | psychic: 45 | curse: 1 | swagger: 41 | hidden-power: 1 | psych-up: 54 | yawn: 1 | water-pulse: 28 | trump-card: 49 | power-gem: 1 | nasty-plot: 36 | zen-headbutt: 32 | heal-pulse: 58
+  machine: dragon-tail | dig | strength | facade | double-team | fling | swagger | shadow-ball | grass-knot | calm-mind | surf | giga-impact | toxic | incinerate | thunder-wave | frustration | earthquake | quash | flash | safeguard | attract | hyper-beam | scald | telekinesis | substitute | dream-eater | bulldoze | ice-beam | flamethrower | psychic | protect | dive | rain-dance | psych-up | rest | blizzard | echoed-voice | focus-blast | hail | sunny-day | fire-blast | hidden-power | round | rock-smash | brick-break | light-screen | psyshock | return | trick-room
+  egg: none
+  tutor: signal-beam | after-you | aqua-tail | zen-headbutt | iron-tail | iron-defense | icy-wind | ice-punch | trick | magic-coat | snore | sleep-talk | drain-punch | recycle | foul-play | block | wonder-room | skill-swap
+evolution_info:
+  evolves_from: slowpoke
+  evolves_to: none
+  trigger: N/A
+forms: slowking
+default_form: true

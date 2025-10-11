@@ -1,0 +1,12 @@
+item_name: master-ball
+flavor_text: The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+cost: 0
+category: standard-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Catches a wild Pokémon without fail. If used in a trainer battle, nothing happens and the ball is lost.
+fling_power: -1
+consumable: yes
+move name: 

@@ -1,0 +1,37 @@
+name: accelgor
+pokedex_num: 617
+generation: V
+types: bug
+height_dm: 8
+weight_hg: 253
+
+abilities: hydration | sticky-hold
+hidden_abilities: unburden
+ability_descriptions: Cures any major status ailment after each turn during rain. | Prevents a held item from being removed by other Pokémon. | Doubles Speed upon using or losing a held item.
+
+base_stats: 80 | 70 | 40 | 100 | 60 | 145
+base_exp: 173
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane."
+
+moves:
+  level-up: mega-drain: 20 | agility: 32 | quick-attack: 1 | quick-attack: 13 | double-team: 1 | double-team: 8 | recover: 49 | swift: 25 | leech-life: 1 | giga-drain: 37 | u-turn: 40 | me-first: 28 | power-swap: 52 | bug-buzz: 44 | acid-spray: 1 | acid-spray: 4 | final-gambit: 56 | struggle-bug: 16
+  machine: giga-impact | toxic | rest | u-turn | focus-blast | attract | frustration | hyper-beam | sandstorm | facade | double-team | venoshock | substitute | swagger | struggle-bug | hidden-power | round | energy-ball | protect | sludge-bomb | return | rain-dance
+  egg: none
+  tutor: signal-beam | giga-drain | gastro-acid | sleep-talk | bug-bite | snore | knock-off
+evolution_info:
+  evolves_from: shelmet
+  evolves_to: none
+  trigger: N/A
+forms: accelgor
+default_form: true

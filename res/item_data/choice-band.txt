@@ -1,0 +1,12 @@
+item_name: choice-band
+flavor_text: An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one of its moves.
+cost: 4000
+category: choice
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : Holder has 1.5× its Attack. When the holder attempts to use a move, all its other moves are disabled until it leaves battle or loses this item. The restriction ends even if this item is swapped for another Choice item via trick or switcheroo.
+fling_power: 10
+consumable: no
+move name: 

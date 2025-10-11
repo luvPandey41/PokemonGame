@@ -1,0 +1,12 @@
+item_name: tm42
+flavor_text: An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Facade to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Facade

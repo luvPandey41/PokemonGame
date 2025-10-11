@@ -1,0 +1,37 @@
+name: swanna
+pokedex_num: 581
+generation: V
+types: water | flying
+height_dm: 13
+weight_hg: 242
+
+abilities: keen-eye | big-pecks
+hidden_abilities: hydration
+ability_descriptions: Prevents accuracy from being lowered. | Protects against Defense drops. | Cures any major status ailment after each turn during rain.
+
+base_stats: 75 | 87 | 63 | 87 | 63 | 98
+base_exp: 166
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+
+moves:
+  level-up: wing-attack: 1 | wing-attack: 9 | water-gun: 1 | bubble-beam: 19 | rain-dance: 34 | feather-dance: 21 | aerial-ace: 15 | water-sport: 1 | water-sport: 3 | water-pulse: 13 | roost: 30 | tailwind: 40 | aqua-ring: 24 | air-slash: 27 | brave-bird: 47 | defog: 1 | defog: 6 | hurricane: 55
+  machine: surf | giga-impact | toxic | rest | attract | frustration | hyper-beam | facade | aerial-ace | scald | double-team | hail | substitute | swagger | fly | hidden-power | ice-beam | round | protect | dive | pluck | return | rain-dance
+  egg: none
+  tutor: tailwind | sleep-talk | icy-wind | endeavor | sky-attack | roost | snore | uproar
+evolution_info:
+  evolves_from: ducklett
+  evolves_to: none
+  trigger: N/A
+forms: swanna
+default_form: true

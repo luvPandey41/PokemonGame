@@ -1,0 +1,45 @@
+name: patrat
+pokedex_num: 504
+generation: V
+types: normal
+height_dm: 5
+weight_hg: 116
+
+abilities: run-away | keen-eye
+hidden_abilities: analytic
+ability_descriptions: Ensures success fleeing from wild battles. | Prevents accuracy from being lowered. | Strengthens moves to 1.3× their power when moving last.
+
+base_stats: 45 | 55 | 39 | 35 | 39 | 42
+base_exp: 51
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others."
+
+moves:
+  level-up: slam: 36 | sand-attack: 13 | tackle: 1 | leer: 3 | bite: 6 | hypnosis: 18 | bide: 8 | hyper-fang: 28 | super-fang: 21 | detect: 11 | mean-look: 31 | baton-pass: 33 | crunch: 16 | after-you: 23 | work-up: 26
+  machine: toxic | rest | cut | dig | thunderbolt | attract | frustration | facade | double-team | fling | substitute | swagger | sunny-day | shadow-ball | work-up | grass-knot | hidden-power | round | swords-dance | retaliate | protect | return | rain-dance
+  egg: assurance | flail | revenge | screech | iron-tail | pursuit | foresight
+  tutor: after-you | aqua-tail | zen-headbutt | iron-tail | endeavor | seed-bomb | super-fang | snore | low-kick | helping-hand | last-resort | sleep-talk | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: watchog
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: patrat
+default_form: true

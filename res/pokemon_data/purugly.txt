@@ -1,0 +1,37 @@
+name: purugly
+pokedex_num: 432
+generation: IV
+types: normal
+height_dm: 10
+weight_hg: 438
+
+abilities: thick-fat | own-tempo
+hidden_abilities: defiant
+ability_descriptions: Halves damage from fire and ice moves. | Prevents confusion. | Raises Attack two stages upon having any stat lowered.
+
+base_stats: 71 | 82 | 64 | 64 | 59 | 112
+base_exp: 158
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: cheri-berry:5%
+
+description: "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly."
+
+moves:
+  level-up: scratch: 1 | scratch: 5 | body-slam: 45 | growl: 1 | growl: 8 | hypnosis: 13 | fury-swipes: 20 | slash: 37 | feint-attack: 17 | charm: 25 | swagger: 38 | attract: 52 | fake-out: 1 | assist: 29 | captivate: 32 | hone-claws: 60
+  machine: u-turn | cut | dig | torment | thunderbolt | thief | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | dream-eater | bulldoze | payback | retaliate | roar | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | work-up | hidden-power | round | return | taunt | flash
+  egg: none
+  tutor: last-resort | sleep-talk | iron-tail | hyper-voice | foul-play | super-fang | snatch | covet | snore | knock-off
+evolution_info:
+  evolves_from: glameow
+  evolves_to: none
+  trigger: N/A
+forms: purugly
+default_form: true

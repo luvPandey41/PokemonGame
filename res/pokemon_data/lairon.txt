@@ -1,0 +1,45 @@
+name: lairon
+pokedex_num: 305
+generation: III
+types: steel | rock
+height_dm: 9
+weight_hg: 1200
+
+abilities: sturdy | rock-head
+hidden_abilities: heavy-metal
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against recoil damage. | Doubles the Pokémon's weight.
+
+base_stats: 60 | 90 | 140 | 50 | 50 | 40
+base_exp: 151
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 35
+growth_rate: slow
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 35
+
+wild_held_items: hard-stone:5%
+
+description: "For food, it digs up iron ore. It smashes its steely body against others to fight over territory."
+
+moves:
+  level-up: headbutt: 1 | headbutt: 8 | tackle: 1 | take-down: 22 | double-edge: 56 | roar: 18 | harden: 1 | protect: 29 | mud-slap: 1 | mud-slap: 4 | iron-tail: 40 | metal-claw: 11 | metal-sound: 34 | iron-defense: 15 | metal-burst: 62 | iron-head: 25 | autotomize: 45 | heavy-slam: 51
+  machine: cut | dig | strength | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | roar | protect | rain-dance | toxic | rest | frustration | aerial-ace | earthquake | hone-claws | sunny-day | shadow-claw | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: stealth-rock | earth-power | spite | sleep-talk | iron-tail | iron-defense | endeavor | magnet-rise | superpower | iron-head | snore | uproar
+evolution_info:
+  evolves_from: aron
+  evolves_to: aggron
+  trigger: level-up
+  evo_level: 42
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lairon
+default_form: true

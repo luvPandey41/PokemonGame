@@ -1,0 +1,45 @@
+name: combusken
+pokedex_num: 256
+generation: III
+types: fire | fighting
+height_dm: 9
+weight_hg: 195
+
+abilities: blaze
+hidden_abilities: speed-boost
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Raises Speed one stage after each turn.
+
+base_stats: 60 | 85 | 60 | 85 | 60 | 55
+base_exp: 142
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+
+moves:
+  level-up: scratch: 1 | double-kick: 16 | sand-attack: 21 | growl: 1 | ember: 1 | ember: 13 | peck: 17 | quick-attack: 32 | focus-energy: 1 | focus-energy: 7 | mirror-move: 43 | slash: 39 | sky-uppercut: 50 | bulk-up: 28 | flare-blitz: 54
+  machine: cut | dig | strength | attract | will-o-wisp | rock-slide | facade | double-team | fling | substitute | swagger | rock-tomb | flamethrower | overheat | bulk-up | protect | toxic | rest | incinerate | poison-jab | echoed-voice | focus-blast | frustration | aerial-ace | hone-claws | sunny-day | shadow-claw | flame-charge | low-sweep | fire-blast | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: none
+  tutor: low-kick | heat-wave | dual-chop | helping-hand | last-resort | sleep-talk | bounce | thunder-punch | fire-pledge | fire-punch | snore
+evolution_info:
+  evolves_from: torchic
+  evolves_to: blaziken
+  trigger: level-up
+  evo_level: 36
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: combusken
+default_form: true

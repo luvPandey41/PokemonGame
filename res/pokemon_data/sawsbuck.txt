@@ -1,0 +1,37 @@
+name: sawsbuck
+pokedex_num: 586
+generation: V
+types: normal | grass
+height_dm: 19
+weight_hg: 925
+
+abilities: chlorophyll | sap-sipper
+hidden_abilities: serene-grace
+ability_descriptions: Doubles Speed during strong sunlight. | Absorbs grass moves, raising Attack one stage. | Doubles the chance of moves' extra effects occurring.
+
+base_stats: 80 | 100 | 70 | 60 | 70 | 95
+base_exp: 166
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns."
+
+moves:
+  level-up: double-kick: 10 | jump-kick: 24 | sand-attack: 1 | sand-attack: 7 | tackle: 1 | take-down: 20 | double-edge: 52 | growl: 1 | growl: 4 | leech-seed: 13 | solar-beam: 60 | feint-attack: 16 | charm: 36 | megahorn: 1 | nature-power: 44 | camouflage: 1 | aromatherapy: 28 | energy-ball: 32 | horn-leech: 37
+  machine: cut | wild-charge | attract | hyper-beam | facade | double-team | substitute | swagger | shadow-ball | grass-knot | retaliate | protect | rain-dance | giga-impact | toxic | rest | echoed-voice | thunder-wave | frustration | solar-beam | sunny-day | work-up | hidden-power | round | swords-dance | rock-smash | energy-ball | light-screen | return | flash | safeguard
+  egg: none
+  tutor: synthesis | giga-drain | last-resort | sleep-talk | bounce | seed-bomb | worry-seed | snore
+evolution_info:
+  evolves_from: deerling
+  evolves_to: none
+  trigger: N/A
+forms: sawsbuck-spring | sawsbuck-summer | sawsbuck-autumn | sawsbuck-winter
+default_form: true

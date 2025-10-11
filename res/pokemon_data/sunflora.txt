@@ -1,0 +1,37 @@
+name: sunflora
+pokedex_num: 192
+generation: II
+types: grass
+height_dm: 8
+weight_hg: 85
+
+abilities: chlorophyll | solar-power
+hidden_abilities: early-bird
+ability_descriptions: Doubles Speed during strong sunlight. | Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | Makes sleep pass twice as quickly.
+
+base_stats: 75 | 75 | 55 | 105 | 85 | 30
+base_exp: 149
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it."
+
+moves:
+  level-up: pound: 1 | double-edge: 37 | absorb: 1 | mega-drain: 10 | leech-seed: 13 | growth: 1 | razor-leaf: 16 | solar-beam: 34 | petal-dance: 28 | giga-drain: 22 | sunny-day: 40 | ingrain: 4 | grass-whistle: 7 | bullet-seed: 25 | natural-gift: 31 | worry-seed: 19 | leaf-storm: 43
+  machine: giga-impact | toxic | rest | cut | attract | frustration | hyper-beam | facade | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | light-screen | sludge-bomb | return | flash | safeguard
+  egg: none
+  tutor: synthesis | after-you | earth-power | giga-drain | helping-hand | sleep-talk | endeavor | seed-bomb | worry-seed | snore | uproar
+evolution_info:
+  evolves_from: sunkern
+  evolves_to: none
+  trigger: N/A
+forms: sunflora
+default_form: true

@@ -1,0 +1,35 @@
+Map: pokemon_lab
+
+# Professor Oak
+name: oak
+spriteBase: oak
+x: 44
+y: 39
+direction: down
+dialogue: Hello there. | How far into that pokedex are you?
+ID: 3
+
+---
+
+# Oak's Aide
+name: Oak's Aide
+spriteBase: oak_aide
+x: 20
+y: 112
+direction: right
+dialogue: I'm Professor Oak's assistant.|We study Pokémon behavior and evolution here.
+ID: 4
+
+---
+
+# Rival
+name: Rival
+spriteBase: rival
+x: 35.5
+y: 49
+direction: right
+dialogue: I heard that there is an ultra-secret developer mode.|Apparently, it lets you skip around the map for "testing purposes".
+team: Squirtle,30|Pidgeot,35|Venusaur,32|Alakazam,29
+preBattleDialogue: Hmph. Take this!
+notMovingBattler
+ID: 5

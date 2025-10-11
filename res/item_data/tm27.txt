@@ -1,0 +1,12 @@
+item_name: tm27
+flavor_text: A full-power attack that grows more powerful the more the user likes its Trainer.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Return to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Return

@@ -1,0 +1,12 @@
+item_name: poke-flute
+flavor_text: A sweet-sounding flute that awakens POKéMON.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Wakes up sleeping Pokémon. Required to wake up sleeping snorlax on the overworld.
+fling_power: -1
+consumable: no
+move name: 

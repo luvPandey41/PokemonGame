@@ -1,0 +1,12 @@
+item_name: meteorite
+flavor_text: A meteorite found at METEOR FALLS.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: RSE: May be traded to Professor Cozmo for tm27. FRLG: A meteorite to be delivered to Lostelle's father.
+fling_power: -1
+consumable: no
+move name: 

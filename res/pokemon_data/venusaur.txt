@@ -1,0 +1,37 @@
+name: venusaur
+pokedex_num: 3
+generation: I
+types: grass | poison
+height_dm: 20
+weight_hg: 1000
+
+abilities: overgrow
+hidden_abilities: chlorophyll
+ability_descriptions: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | Doubles Speed during strong sunlight.
+
+base_stats: 80 | 82 | 83 | 100 | 100 | 80
+base_exp: 236
+ev_yield: 0 | 0 | 0 | 2 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | plant
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+
+moves:
+  level-up: vine-whip: 1 | vine-whip: 9 | tackle: 1 | take-down: 15 | double-edge: 31 | growl: 1 | growl: 3 | leech-seed: 1 | leech-seed: 7 | growth: 28 | razor-leaf: 20 | solar-beam: 53 | poison-powder: 13 | sleep-powder: 13 | petal-dance: 32 | sweet-scent: 23 | synthesis: 45 | worry-seed: 39
+  machine: cut | strength | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | grass-knot | bulldoze | roar | protect | sludge-bomb | giga-impact | toxic | rest | echoed-voice | frustration | earthquake | solar-beam | sunny-day | hidden-power | round | swords-dance | rock-smash | energy-ball | light-screen | return | flash | safeguard
+  egg: none
+  tutor: synthesis | grass-pledge | bind | giga-drain | sleep-talk | seed-bomb | outrage | block | frenzy-plant | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: ivysaur
+  evolves_to: none
+  trigger: N/A
+forms: venusaur
+default_form: true

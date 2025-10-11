@@ -1,0 +1,37 @@
+name: simisage
+pokedex_num: 512
+generation: V
+types: grass
+height_dm: 11
+weight_hg: 305
+
+abilities: gluttony
+hidden_abilities: overgrow
+ability_descriptions: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.
+
+base_stats: 75 | 98 | 63 | 98 | 63 | 101
+base_exp: 174
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: oran-berry:50% | occa-berry:5%
+
+description: "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+
+moves:
+  level-up: leer: 1 | lick: 1 | fury-swipes: 1 | seed-bomb: 1
+  machine: cut | dig | torment | thief | attract | hyper-beam | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | rock-tomb | payback | protect | giga-impact | toxic | rest | focus-blast | frustration | solar-beam | hone-claws | sunny-day | shadow-claw | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | brick-break | energy-ball | return | taunt | flash
+  egg: none
+  tutor: synthesis | iron-tail | endeavor | seed-bomb | role-play | superpower | snore | uproar | knock-off | low-kick | giga-drain | helping-hand | sleep-talk | recycle | gunk-shot | worry-seed | covet
+evolution_info:
+  evolves_from: pansage
+  evolves_to: none
+  trigger: N/A
+forms: simisage
+default_form: true

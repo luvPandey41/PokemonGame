@@ -1,0 +1,12 @@
+item_name: life-orb
+flavor_text: An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Damage from the holder's moves is increased by 30%. On each turn the holder uses a damage-inflicting move, it takes 10% its max HP in damage.
+fling_power: 30
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: relicanth
+pokedex_num: 369
+generation: III
+types: water | rock
+height_dm: 10
+weight_hg: 234
+
+abilities: swift-swim | rock-head
+hidden_abilities: sturdy
+ability_descriptions: Doubles Speed during rain. | Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
+
+base_stats: 100 | 90 | 130 | 45 | 65 | 55
+base_exp: 170
+ev_yield: 1 | 0 | 1 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water1 | water2
+gender_ratio_female: 1
+hatch_cycles: 40
+
+wild_held_items: green-shard:5% | deep-sea-scale:5%
+
+description: "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."
+
+moves:
+  level-up: tackle: 1 | take-down: 29 | double-edge: 50 | water-gun: 8 | hydro-pump: 71 | harden: 1 | rest: 64 | ancient-power: 43 | yawn: 22 | dive: 57 | mud-sport: 36 | rock-tomb: 15 | head-smash: 78
+  machine: attract | hyper-beam | rock-slide | sandstorm | facade | scald | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | ice-beam | waterfall | calm-mind | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | stone-edge | smack-down | return | safeguard
+  egg: skull-bash | amnesia | muddy-water | aqua-tail | zen-headbutt | mud-slap | sleep-talk | mud-shot | magnitude | brine | water-sport | snore
+  tutor: stealth-rock | earth-power | aqua-tail | zen-headbutt | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: relicanth
+default_form: true

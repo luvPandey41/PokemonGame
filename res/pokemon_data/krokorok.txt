@@ -1,0 +1,45 @@
+name: krokorok
+pokedex_num: 552
+generation: V
+types: ground | dark
+height_dm: 10
+weight_hg: 334
+
+abilities: intimidate | moxie
+hidden_abilities: anger-point
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack one stage upon KOing a Pokémon. | Raises Attack to the maximum of six stages upon receiving a critical hit.
+
+base_stats: 60 | 82 | 45 | 45 | 45 | 74
+base_exp: 123
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: black-glasses:5%
+
+description: "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms."
+
+moves:
+  level-up: sand-attack: 1 | sand-attack: 7 | thrash: 52 | leer: 1 | bite: 1 | bite: 4 | earthquake: 48 | dig: 32 | rage: 1 | scary-face: 36 | mud-slap: 19 | sandstorm: 44 | swagger: 25 | crunch: 28 | torment: 10 | sand-tomb: 13 | assurance: 16 | embargo: 22 | foul-play: 40
+  machine: cut | dig | torment | strength | thief | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | grass-knot | bulldoze | rock-tomb | payback | retaliate | roar | protect | sludge-bomb | toxic | rest | incinerate | frustration | snarl | earthquake | hone-claws | shadow-claw | low-sweep | hidden-power | round | rock-smash | brick-break | stone-edge | embargo | return | taunt
+  egg: none
+  tutor: stealth-rock | earth-power | aqua-tail | iron-tail | dark-pulse | snatch | snore | uproar | knock-off | low-kick | spite | sleep-talk | foul-play
+evolution_info:
+  evolves_from: sandile
+  evolves_to: krookodile
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: krokorok
+default_form: true

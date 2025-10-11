@@ -1,0 +1,12 @@
+item_name: macho-brace
+flavor_text: An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
+cost: 3000
+category: effort-training
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held : When the holder would gain effort due to battle, it gains double that effort instead. Held in battle : Holder has half its Speed.
+fling_power: 60
+consumable: no
+move name: 

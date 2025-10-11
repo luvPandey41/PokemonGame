@@ -1,0 +1,12 @@
+item_name: works-key
+flavor_text: A large key for operating the doors of the Valley Windworks in the canyon. It was held by a Team Galactic Grunt.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Opens the front door of the Valley Windworks. Reusable.
+fling_power: -1
+consumable: no
+move name: 

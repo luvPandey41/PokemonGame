@@ -1,0 +1,45 @@
+name: aipom
+pokedex_num: 190
+generation: II
+types: normal
+height_dm: 8
+weight_hg: 115
+
+abilities: run-away | pickup
+hidden_abilities: skill-link
+ability_descriptions: Ensures success fleeing from wild battles. | Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Extends two-to-five-hit moves and triple kick to their full length every time.
+
+base_stats: 55 | 70 | 55 | 40 | 55 | 85
+base_exp: 72
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It lives high among the treetops. It can use its tail as freely and cleverly as its hands."
+
+moves:
+  level-up: scratch: 1 | sand-attack: 4 | tail-whip: 1 | agility: 29 | screech: 25 | swift: 22 | fury-swipes: 18 | baton-pass: 11 | astonish: 8 | tickle: 15 | fling: 36 | last-resort: 43 | nasty-plot: 39 | double-hit: 32
+  machine: u-turn | cut | dig | strength | thunderbolt | thief | attract | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | payback | retaliate | protect | rain-dance | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | shadow-claw | low-sweep | acrobatics | work-up | hidden-power | round | rock-smash | brick-break | return | taunt
+  egg: revenge | bounce | fake-out | pursuit | counter | slam | spite | screech | switcheroo | double-slap | beat-up | agility | covet
+  tutor: iron-tail | bounce | thunder-punch | seed-bomb | ice-punch | snatch | fire-punch | role-play | snore | uproar | knock-off | low-kick | last-resort | spite | sleep-talk | foul-play | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: ambipom
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: double-hit
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: aipom
+default_form: true

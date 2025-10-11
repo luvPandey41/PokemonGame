@@ -1,0 +1,20 @@
+move name: blue-flare
+power: 130
+accuracy: 85
+type: fire
+attack type: special
+target: selected-pokemon
+pp: 5
+priority: 0
+flavor text: Has a 20% chance to burn the target.
+ailment: burn
+ailment chance: 20
+status changes: none
+effect chance: 20
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

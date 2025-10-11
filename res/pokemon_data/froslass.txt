@@ -1,0 +1,37 @@
+name: froslass
+pokedex_num: 478
+generation: IV
+types: ice | ghost
+height_dm: 13
+weight_hg: 266
+
+abilities: snow-cloak
+hidden_abilities: cursed-body
+ability_descriptions: Increases evasion to 1.25× during hail.  Protects against hail damage. | Has a 30% chance of Disabling any move that hits the Pokémon.
+
+base_stats: 70 | 80 | 70 | 80 | 70 | 110
+base_exp: 168
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: fairy | mineral
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: babiri-berry:5%
+
+description: "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey."
+
+moves:
+  level-up: leer: 1 | blizzard: 51 | double-team: 1 | double-team: 4 | confuse-ray: 19 | powder-snow: 1 | destiny-bond: 59 | icy-wind: 13 | hail: 40 | astonish: 1 | astonish: 10 | wake-up-slap: 28 | ice-shard: 37 | captivate: 31 | ominous-wind: 22
+  machine: torment | thunderbolt | attract | hyper-beam | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | ice-beam | payback | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | hail | frost-breath | hidden-power | round | embargo | light-screen | return | taunt | flash | safeguard
+  egg: none
+  tutor: signal-beam | spite | sleep-talk | icy-wind | pain-split | ice-punch | snatch | block | trick | snore
+evolution_info:
+  evolves_from: snorunt
+  evolves_to: none
+  trigger: N/A
+forms: froslass
+default_form: true

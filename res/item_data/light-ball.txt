@@ -1,0 +1,12 @@
+item_name: light-ball
+flavor_text: An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.
+cost: 1000
+category: species-specific
+pocket: misc
+attributes: holdable
+holdable: yes
+stackable: yes
+effect_description: Held by Pikachu: Doubles the holder's initial Attack and Special Attack.
+fling_power: 30
+consumable: no
+move name: 

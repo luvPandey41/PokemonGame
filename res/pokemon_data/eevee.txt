@@ -1,0 +1,94 @@
+name: eevee
+pokedex_num: 133
+generation: I
+types: normal
+height_dm: 3
+weight_hg: 65
+
+abilities: run-away | adaptability
+hidden_abilities: anticipation
+ability_descriptions: Ensures success fleeing from wild battles. | Increases the same-type attack bonus from 1.5× to 2×. | Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.
+
+base_stats: 55 | 55 | 50 | 45 | 65 | 55
+base_exp: 65
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes."
+
+moves:
+  level-up: sand-attack: 5 | tackle: 1 | take-down: 25 | double-edge: 37 | tail-whip: 1 | bite: 17 | growl: 9 | quick-attack: 13 | charm: 29 | baton-pass: 33 | helping-hand: 1 | covet: 21 | trump-card: 45 | last-resort: 41
+  machine: toxic | rest | dig | echoed-voice | attract | frustration | facade | double-team | substitute | swagger | sunny-day | shadow-ball | work-up | hidden-power | round | retaliate | protect | return | rain-dance
+  egg: yawn | synchronoise | detect | wish | flail | charm | stored-power | natural-gift | curse | fake-tears | endure | tickle | covet
+  tutor: helping-hand | last-resort | sleep-talk | iron-tail | hyper-voice | heal-bell | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: vaporeon, jolteon, flareon, espeon, umbreon, leafeon, glaceon, sylveon
+  trigger: use-item, use-item, use-item, level-up, level-up, level-up, level-up, level-up
+  evo_level: null
+  evo_item: water-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: thunder-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: fire-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: day
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: night
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: eterna-forest
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: sinnoh-route-217
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: eevee
+default_form: true

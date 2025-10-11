@@ -1,0 +1,37 @@
+name: espeon
+pokedex_num: 196
+generation: II
+types: psychic
+height_dm: 9
+weight_hg: 265
+
+abilities: synchronize
+hidden_abilities: magic-bounce
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Reflects most non-damaging moves back at their user.
+
+base_stats: 65 | 65 | 60 | 130 | 95 | 110
+base_exp: 184
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather."
+
+moves:
+  level-up: sand-attack: 5 | tackle: 1 | tail-whip: 1 | psybeam: 21 | confusion: 9 | psychic: 37 | quick-attack: 13 | swift: 17 | morning-sun: 33 | psych-up: 29 | future-sight: 25 | helping-hand: 1 | power-swap: 45 | last-resort: 41
+  machine: cut | dig | attract | hyper-beam | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | echoed-voice | frustration | sunny-day | work-up | hidden-power | round | light-screen | psyshock | return | trick-room | flash
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | iron-tail | trick | magic-coat | snore | helping-hand | last-resort | sleep-talk | hyper-voice | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: espeon
+default_form: true

@@ -1,0 +1,37 @@
+name: electrode
+pokedex_num: 101
+generation: I
+types: electric
+height_dm: 12
+weight_hg: 666
+
+abilities: soundproof | static
+hidden_abilities: aftermath
+ability_descriptions: Protects against sound-based moves. | Has a 30% chance of paralyzing attacking Pokémon on contact. | Damages the attacker for 1/4 its max HP when knocked out by a contact move.
+
+base_stats: 60 | 50 | 70 | 80 | 80 | 150
+base_exp: 172
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It is known to drift on winds if it is bloated to bursting with stored electricity."
+
+moves:
+  level-up: tackle: 1 | tackle: 5 | sonic-boom: 1 | sonic-boom: 8 | screech: 19 | light-screen: 26 | self-destruct: 35 | swift: 40 | explosion: 57 | rollout: 15 | spark: 1 | spark: 12 | mirror-coat: 62 | charge: 1 | gyro-ball: 51 | magnet-rise: 46 | charge-beam: 22 | electro-ball: 29
+  machine: torment | thunderbolt | thief | wild-charge | hyper-beam | facade | thunder | double-team | substitute | swagger | gyro-ball | protect | volt-switch | rain-dance | giga-impact | toxic | rest | thunder-wave | frustration | explosion | hidden-power | round | charge-beam | light-screen | return | taunt | flash
+  egg: none
+  tutor: signal-beam | sleep-talk | magnet-rise | foul-play | magic-coat | snore
+evolution_info:
+  evolves_from: voltorb
+  evolves_to: none
+  trigger: N/A
+forms: electrode
+default_form: true

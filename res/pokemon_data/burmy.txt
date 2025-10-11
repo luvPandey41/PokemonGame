@@ -1,0 +1,52 @@
+name: burmy
+pokedex_num: 412
+generation: IV
+types: bug
+height_dm: 2
+weight_hg: 34
+
+abilities: shed-skin
+hidden_abilities: overcoat
+ability_descriptions: Has a 33% chance of curing any major status ailment after each turn. | Protects against damage from weather.
+
+base_stats: 40 | 29 | 45 | 29 | 45 | 36
+base_exp: 45
+ev_yield: 0 | 0 | 0 | 0 | 1 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak."
+
+moves:
+  level-up: tackle: 10 | protect: 1 | hidden-power: 20 | bug-bite: 15
+  machine: none
+  egg: none
+  tutor: bug-bite | electroweb | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: wormadam, mothim
+  trigger: level-up, level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: 1
+  evo_party_requirement: null  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: 2
+  evo_party_requirement: null
+forms: burmy-plant | burmy-sandy | burmy-trash
+default_form: true

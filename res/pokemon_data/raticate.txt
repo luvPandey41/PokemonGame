@@ -1,0 +1,37 @@
+name: raticate
+pokedex_num: 20
+generation: I
+types: normal
+height_dm: 7
+weight_hg: 185
+
+abilities: run-away | guts
+hidden_abilities: hustle
+ability_descriptions: Ensures success fleeing from wild battles. | Increases Attack to 1.5× with a major status ailment. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
+
+base_stats: 55 | 81 | 60 | 50 | 70 | 97
+base_exp: 145
+ev_yield: 0 | 0 | 0 | 0 | 0 | 2
+capture_rate: 127
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: oran-berry:50% | sitrus-berry:5% | chilan-berry:5%
+
+description: "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls."
+
+moves:
+  level-up: swords-dance: 1 | tackle: 1 | double-edge: 39 | tail-whip: 1 | bite: 10 | quick-attack: 1 | quick-attack: 4 | focus-energy: 1 | focus-energy: 7 | hyper-fang: 16 | super-fang: 34 | scary-face: 20 | pursuit: 13 | crunch: 24 | endeavor: 44 | assurance: 29 | sucker-punch: 19
+  machine: u-turn | cut | dig | strength | thunderbolt | thief | wild-charge | attract | hyper-beam | facade | thunder | double-team | substitute | swagger | shadow-ball | grass-knot | ice-beam | retaliate | roar | protect | rain-dance | giga-impact | toxic | rest | blizzard | thunder-wave | frustration | sunny-day | work-up | hidden-power | round | swords-dance | rock-smash | charge-beam | pluck | return | taunt
+  egg: none
+  tutor: last-resort | zen-headbutt | sleep-talk | iron-tail | icy-wind | endeavor | super-fang | covet | snore | uproar
+evolution_info:
+  evolves_from: rattata
+  evolves_to: none
+  trigger: N/A
+forms: raticate
+default_form: true

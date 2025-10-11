@@ -1,0 +1,20 @@
+move name: fake-out
+power: 40
+accuracy: 100
+type: normal
+attack type: physical
+target: selected-pokemon
+pp: 10
+priority: 3
+flavor text: Can only be used as the first move after the user enters battle.  Causes the target to flinch.
+ailment: none
+ailment chance: 0
+status changes: none
+effect chance: 100
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 100
+stat chance: 0

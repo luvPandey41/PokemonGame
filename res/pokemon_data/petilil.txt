@@ -1,0 +1,45 @@
+name: petilil
+pokedex_num: 548
+generation: V
+types: grass
+height_dm: 5
+weight_hg: 66
+
+abilities: chlorophyll | own-tempo
+hidden_abilities: leaf-guard
+ability_descriptions: Doubles Speed during strong sunlight. | Prevents confusion. | Protects against major status ailments during strong sunlight.
+
+base_stats: 45 | 35 | 50 | 70 | 50 | 30
+base_exp: 56
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: plant
+gender_ratio_female: 8
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body."
+
+moves:
+  level-up: absorb: 1 | mega-drain: 13 | leech-seed: 8 | growth: 4 | stun-spore: 22 | sleep-powder: 10 | giga-drain: 26 | synthesis: 17 | sunny-day: 40 | helping-hand: 31 | aromatherapy: 28 | magical-leaf: 19 | energy-ball: 35 | leaf-storm: 46 | entrainment: 37 | after-you: 44
+  machine: toxic | rest | cut | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | dream-eater | grass-knot | hidden-power | round | energy-ball | protect | return | flash | safeguard
+  egg: ingrain | charm | bide | natural-gift | sweet-scent | endure | worry-seed | healing-wish | grass-whistle
+  tutor: synthesis | after-you | giga-drain | helping-hand | sleep-talk | seed-bomb | heal-bell | worry-seed | covet | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: lilligant
+  trigger: use-item
+  evo_level: null
+  evo_item: sun-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: petilil
+default_form: true

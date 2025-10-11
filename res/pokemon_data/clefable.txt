@@ -1,0 +1,37 @@
+name: clefable
+pokedex_num: 36
+generation: I
+types: fairy
+height_dm: 13
+weight_hg: 400
+
+abilities: cute-charm | magic-guard
+hidden_abilities: unaware
+ability_descriptions: Has a 30% chance of infatuating attacking Pokémon on contact. | Protects against damage not directly caused by a move. | Ignores other Pokémon's stat modifiers for damage and accuracy calculation.
+
+base_stats: 95 | 70 | 73 | 95 | 90 | 60
+base_exp: 217
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 25
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: fairy
+gender_ratio_female: 6
+hatch_cycles: 10
+
+wild_held_items: moon-stone:5% | leppa-berry:50% | comet-shard:1%
+
+description: "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away."
+
+moves:
+  level-up: double-slap: 1 | sing: 1 | minimize: 1 | metronome: 1
+  machine: dig | strength | thunderbolt | attract | hyper-beam | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | ice-beam | flamethrower | calm-mind | retaliate | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | incinerate | blizzard | echoed-voice | focus-blast | thunder-wave | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | charge-beam | light-screen | psyshock | return | flash | safeguard
+  egg: none
+  tutor: after-you | bounce | ice-punch | snatch | trick | fire-punch | recycle | heal-bell | covet | stealth-rock | signal-beam | zen-headbutt | iron-tail | icy-wind | thunder-punch | endeavor | magic-coat | role-play | snore | knock-off | helping-hand | last-resort | sleep-talk | drain-punch | gravity | hyper-voice | wonder-room
+evolution_info:
+  evolves_from: clefairy
+  evolves_to: none
+  trigger: N/A
+forms: clefable
+default_form: true

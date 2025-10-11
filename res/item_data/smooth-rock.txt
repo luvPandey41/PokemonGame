@@ -1,0 +1,12 @@
+item_name: smooth-rock
+flavor_text: A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: holdable | holdable-active | underground
+holdable: yes
+stackable: yes
+effect_description: Held: The holder's Sandstorm will create a sandstorm lasting for eight turns rather than five. As this item affects the move rather than the weather itself, the effect is not lost if the holder leaves battle or drops this item.
+fling_power: 10
+consumable: no
+move name: 

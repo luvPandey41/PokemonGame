@@ -1,0 +1,45 @@
+name: zubat
+pokedex_num: 41
+generation: I
+types: poison | flying
+height_dm: 8
+weight_hg: 75
+
+abilities: inner-focus
+hidden_abilities: infiltrator
+ability_descriptions: Prevents flinching. | Bypasses light screen, reflect, and safeguard.
+
+base_stats: 40 | 45 | 35 | 30 | 40 | 55
+base_exp: 49
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth."
+
+moves:
+  level-up: wing-attack: 15 | bite: 12 | supersonic: 4 | confuse-ray: 19 | haze: 41 | swift: 23 | leech-life: 1 | mean-look: 34 | poison-fang: 37 | astonish: 8 | air-cutter: 26 | air-slash: 45 | acrobatics: 30
+  machine: u-turn | torment | thief | attract | facade | double-team | venoshock | substitute | swagger | shadow-ball | payback | protect | sludge-bomb | rain-dance | toxic | rest | frustration | aerial-ace | sunny-day | acrobatics | fly | hidden-power | round | pluck | return | taunt
+  egg: zen-headbutt | steel-wing | pursuit | feint-attack | defog | brave-bird | whirlwind | hypnosis | quick-attack | giga-drain | nasty-plot | curse | gust
+  tutor: heat-wave | giga-drain | tailwind | zen-headbutt | sleep-talk | super-fang | roost | snatch | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: golbat
+  trigger: level-up
+  evo_level: 22
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: zubat
+default_form: true

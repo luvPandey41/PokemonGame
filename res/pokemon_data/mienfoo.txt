@@ -1,0 +1,45 @@
+name: mienfoo
+pokedex_num: 619
+generation: V
+types: fighting
+height_dm: 9
+weight_hg: 200
+
+abilities: inner-focus | regenerator
+hidden_abilities: reckless
+ability_descriptions: Prevents flinching. | Heals for 1/3 max HP upon switching out. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 45 | 85 | 50 | 55 | 50 | 65
+base_exp: 70
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 180
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground | humanshape
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: none
+
+description: "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies."
+
+moves:
+  level-up: pound: 1 | double-slap: 17 | jump-kick: 37 | meditate: 5 | swift: 21 | high-jump-kick: 53 | reversal: 57 | detect: 9 | fake-out: 13 | bounce: 49 | calm-mind: 25 | u-turn: 41 | force-palm: 29 | aura-sphere: 61 | drain-punch: 33 | quick-guard: 45
+  machine: u-turn | dig | strength | attract | rock-slide | facade | double-team | fling | substitute | swagger | grass-knot | reflect | rock-tomb | calm-mind | payback | retaliate | bulk-up | protect | rain-dance | psych-up | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | sunny-day | low-sweep | acrobatics | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | stone-edge | return | taunt
+  egg: low-kick | baton-pass | me-first | vital-throw | endure | feint | smelling-salts | knock-off
+  tutor: low-kick | dual-chop | helping-hand | sleep-talk | bounce | drain-punch | role-play | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: mienshao
+  trigger: level-up
+  evo_level: 50
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: mienfoo
+default_form: true

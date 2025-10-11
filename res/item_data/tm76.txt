@@ -1,0 +1,12 @@
+item_name: tm76
+flavor_text: Resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Stealth Rock to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Struggle Bug

@@ -1,0 +1,37 @@
+name: delibird
+pokedex_num: 225
+generation: II
+types: ice | flying
+height_dm: 9
+weight_hg: 160
+
+abilities: vital-spirit | hustle
+hidden_abilities: insomnia
+ability_descriptions: Prevents sleep. | Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | Prevents sleep.
+
+base_stats: 45 | 55 | 45 | 65 | 45 | 75
+base_exp: 116
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: fast
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains."
+
+moves:
+  level-up: present: 1
+  machine: toxic | rest | blizzard | thief | attract | frustration | facade | aerial-ace | double-team | hail | fling | substitute | swagger | frost-breath | fly | hidden-power | ice-beam | round | brick-break | protect | pluck | return | rain-dance
+  egg: quick-attack | aurora-beam | ice-ball | future-sight | icy-wind | fake-out | ice-shard | ice-punch | rapid-spin | bestow | splash
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | recycle | seed-bomb | sky-attack | ice-punch | gunk-shot
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: delibird
+default_form: true

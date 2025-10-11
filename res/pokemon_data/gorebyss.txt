@@ -1,0 +1,37 @@
+name: gorebyss
+pokedex_num: 368
+generation: III
+types: water
+height_dm: 18
+weight_hg: 226
+
+abilities: swift-swim
+hidden_abilities: hydration
+ability_descriptions: Doubles Speed during rain. | Cures any major status ailment after each turn during rain.
+
+base_stats: 55 | 84 | 105 | 114 | 75 | 52
+base_exp: 170
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: deep-sea-scale:5%
+
+description: "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+
+moves:
+  level-up: hydro-pump: 51 | confusion: 6 | psychic: 42 | agility: 10 | amnesia: 19 | baton-pass: 33 | whirlpool: 1 | dive: 37 | water-pulse: 15 | aqua-ring: 24 | aqua-tail: 46 | captivate: 28
+  machine: attract | hyper-beam | facade | scald | double-team | substitute | swagger | shadow-ball | ice-beam | waterfall | psychic | protect | dive | rain-dance | surf | psych-up | giga-impact | toxic | rest | blizzard | frustration | hail | hidden-power | round | return | safeguard
+  egg: none
+  tutor: signal-beam | bind | aqua-tail | sleep-talk | bounce | icy-wind | snore
+evolution_info:
+  evolves_from: clamperl
+  evolves_to: none
+  trigger: N/A
+forms: gorebyss
+default_form: true

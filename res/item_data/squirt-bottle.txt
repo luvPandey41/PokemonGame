@@ -1,0 +1,12 @@
+item_name: squirt-bottle
+flavor_text: A bottle used for watering plants in the Berry Pots.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Required to water berries within the berry pots. Required to battle the sudowoodo on johto route 36. This item cannot be directly used from the bag.
+fling_power: -1
+consumable: no
+move name: 

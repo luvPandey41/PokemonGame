@@ -1,0 +1,12 @@
+item_name: enigma-stone
+flavor_text: A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth.
+cost: 0
+category: event-items
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: When taken to the pewter city museum, causes latias or latios to attack the trainer. The Pokémon to appear will be whicher can't be encountered roaming in the wild.
+fling_power: -1
+consumable: no
+move name: 

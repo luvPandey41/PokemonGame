@@ -1,0 +1,45 @@
+name: dwebble
+pokedex_num: 557
+generation: V
+types: bug | rock
+height_dm: 3
+weight_hg: 145
+
+abilities: sturdy | shell-armor
+hidden_abilities: weak-armor
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against critical hits. | Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+
+base_stats: 50 | 65 | 85 | 35 | 35 | 55
+base_exp: 65
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug | mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rare-bone:1% | hard-stone:5%
+
+description: "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth."
+
+moves:
+  level-up: sand-attack: 11 | withdraw: 7 | rock-slide: 29 | slash: 31 | flail: 41 | feint-attack: 13 | fury-cutter: 1 | rock-blast: 5 | rock-polish: 19 | x-scissor: 35 | rock-wrecker: 43 | stealth-rock: 24 | bug-bite: 23 | smack-down: 17 | shell-smash: 37
+  machine: cut | dig | strength | x-scissor | attract | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | rock-polish | protect | toxic | rest | poison-jab | frustration | aerial-ace | earthquake | solar-beam | hone-claws | shadow-claw | struggle-bug | hidden-power | round | swords-dance | rock-smash | stone-edge | smack-down | return
+  egg: night-slash | spikes | iron-defense | curse | block | counter | endure | sand-tomb
+  tutor: stealth-rock | sleep-talk | iron-defense | bug-bite | block | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: crustle
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: dwebble
+default_form: true

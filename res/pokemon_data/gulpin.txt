@@ -1,0 +1,45 @@
+name: gulpin
+pokedex_num: 316
+generation: III
+types: poison
+height_dm: 4
+weight_hg: 103
+
+abilities: liquid-ooze | sticky-hold
+hidden_abilities: gluttony
+ability_descriptions: Damages opponents using leeching moves for as much as they would heal. | Prevents a held item from being removed by other Pokémon. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 70 | 43 | 53 | 43 | 53 | 40
+base_exp: 60
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: big-pearl:5% | oran-berry:5% | sitrus-berry:5%
+
+description: "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows."
+
+moves:
+  level-up: pound: 1 | toxic: 28 | sludge: 14 | amnesia: 17 | poison-gas: 9 | sludge-bomb: 44 | encore: 23 | stockpile: 39 | spit-up: 39 | swallow: 39 | yawn: 6 | wring-out: 54 | gastro-acid: 49 | gunk-shot: 59 | acid-spray: 34
+  machine: toxic | rest | sludge-wave | strength | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | shadow-ball | dream-eater | explosion | hidden-power | ice-beam | round | rock-smash | protect | sludge-bomb | return | rain-dance
+  egg: acid-armor | mud-slap | destiny-bond | smog | curse | pain-split | gunk-shot
+  tutor: giga-drain | gastro-acid | sleep-talk | thunder-punch | pain-split | seed-bomb | ice-punch | snatch | gunk-shot | fire-punch | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: swalot
+  trigger: level-up
+  evo_level: 26
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gulpin
+default_form: true

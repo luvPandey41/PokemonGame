@@ -1,0 +1,45 @@
+name: numel
+pokedex_num: 322
+generation: III
+types: fire | ground
+height_dm: 7
+weight_hg: 240
+
+abilities: oblivious | simple
+hidden_abilities: own-tempo
+ability_descriptions: Prevents infatuation and protects against captivate. | Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. | Prevents confusion.
+
+base_stats: 60 | 60 | 40 | 65 | 45 | 35
+base_exp: 61
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: rawst-berry:100%
+
+description: "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement."
+
+moves:
+  level-up: tackle: 1 | take-down: 31 | double-edge: 47 | growl: 1 | ember: 5 | flamethrower: 43 | earthquake: 40 | focus-energy: 12 | amnesia: 19 | curse: 29 | magnitude: 8 | yawn: 36 | earth-power: 26 | lava-plume: 22 | flame-burst: 15
+  machine: dig | strength | attract | will-o-wisp | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | rock-tomb | flamethrower | overheat | protect | toxic | rest | incinerate | echoed-voice | frustration | earthquake | sunny-day | flame-charge | fire-blast | hidden-power | round | rock-smash | return
+  egg: scary-face | swallow | rollout | yawn | spit-up | stockpile | defense-curl | howl | iron-head | heat-wave | mud-bomb | ancient-power | stomp | endure | body-slam
+  tutor: stealth-rock | after-you | heat-wave | earth-power | sleep-talk | iron-head | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: camerupt
+  trigger: level-up
+  evo_level: 33
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: numel
+default_form: true

@@ -1,0 +1,12 @@
+item_name: mach-bike
+flavor_text: A folding bicycle that more than doubles foot speed.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Increases movement speed outside or in caves. Faster than the acro bike. Allows the trainer to ascend muddy slopes.
+fling_power: -1
+consumable: no
+move name: 

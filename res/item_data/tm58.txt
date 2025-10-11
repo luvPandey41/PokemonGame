@@ -1,0 +1,12 @@
+item_name: tm58
+flavor_text: The user hurls the target into the air, then drops it on the second turn. The target cannot attack while in the air.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Endure to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Sky Drop

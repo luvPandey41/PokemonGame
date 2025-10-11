@@ -1,0 +1,20 @@
+move name: ice-burn
+power: 140
+accuracy: 90
+type: ice
+attack type: special
+target: selected-pokemon
+pp: 5
+priority: 0
+flavor text: Requires a turn to charge before attacking.  Has a 30% chance to burn the target.
+ailment: burn
+ailment chance: 30
+status changes: none
+effect chance: 30
+critical hit ratio: 0
+drain: 0
+recoil: 0
+healing: 0
+hits: 1-1
+flinch chance: 0
+stat chance: 0

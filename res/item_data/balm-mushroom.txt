@@ -1,0 +1,12 @@
+item_name: balm-mushroom
+flavor_text: A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+cost: 15000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cult vendor trash.
+fling_power: 30
+consumable: no
+move name: 

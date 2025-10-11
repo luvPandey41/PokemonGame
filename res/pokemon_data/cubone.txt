@@ -1,0 +1,45 @@
+name: cubone
+pokedex_num: 104
+generation: I
+types: ground
+height_dm: 4
+weight_hg: 65
+
+abilities: rock-head | lightning-rod
+hidden_abilities: battle-armor
+ability_descriptions: Protects against recoil damage. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Protects against critical hits.
+
+base_stats: 50 | 50 | 95 | 40 | 50 | 35
+base_exp: 64
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: thick-club:5%
+
+description: "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+
+moves:
+  level-up: headbutt: 11 | thrash: 31 | double-edge: 43 | tail-whip: 3 | leer: 13 | growl: 1 | rage: 23 | focus-energy: 17 | bone-club: 7 | bonemerang: 21 | bone-rush: 37 | false-swipe: 27 | endeavor: 41 | fling: 33 | retaliate: 47
+  machine: dig | strength | thief | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | protect | toxic | rest | incinerate | blizzard | echoed-voice | frustration | aerial-ace | earthquake | sunny-day | fire-blast | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | smack-down | return
+  egg: perish-song | skull-bash | screech | ancient-power | detect | chip-away | endure | double-kick | belly-drum | iron-head
+  tutor: stealth-rock | earth-power | iron-tail | iron-defense | icy-wind | thunder-punch | endeavor | fire-punch | iron-head | snore | uproar | knock-off | low-kick | sleep-talk
+evolution_info:
+  evolves_from: none
+  evolves_to: marowak
+  trigger: level-up
+  evo_level: 28
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: cubone
+default_form: true

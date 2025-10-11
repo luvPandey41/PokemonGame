@@ -1,0 +1,45 @@
+name: abra
+pokedex_num: 63
+generation: I
+types: psychic
+height_dm: 9
+weight_hg: 195
+
+abilities: synchronize | inner-focus
+hidden_abilities: magic-guard
+ability_descriptions: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | Prevents flinching. | Protects against damage not directly caused by a move.
+
+base_stats: 25 | 20 | 15 | 105 | 55 | 90
+base_exp: 62
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 200
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 2
+hatch_cycles: 20
+
+wild_held_items: twisted-spoon:5%
+
+description: "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day."
+
+moves:
+  level-up: teleport: 1
+  machine: torment | thief | attract | facade | double-team | telekinesis | fling | ally-switch | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | sunny-day | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: barrier | thunder-punch | guard-split | ice-punch | guard-swap | fire-punch | encore | power-trick | knock-off | skill-swap
+  tutor: signal-beam | magic-room | zen-headbutt | iron-tail | thunder-punch | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | snore | knock-off | sleep-talk | drain-punch | gravity | recycle | foul-play | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: kadabra
+  trigger: level-up
+  evo_level: 16
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: abra
+default_form: true

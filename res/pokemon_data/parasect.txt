@@ -1,0 +1,37 @@
+name: parasect
+pokedex_num: 47
+generation: I
+types: bug | grass
+height_dm: 10
+weight_hg: 295
+
+abilities: effect-spore | dry-skin
+hidden_abilities: damp
+ability_descriptions: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 60 | 95 | 80 | 60 | 80 | 30
+base_exp: 142
+ev_yield: 0 | 2 | 1 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: bug | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: tiny-mushroom:50% | big-mushroom:5% | balm-mushroom:1%
+
+description: "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores."
+
+moves:
+  level-up: scratch: 1 | growth: 37 | poison-powder: 1 | poison-powder: 6 | stun-spore: 1 | stun-spore: 6 | leech-life: 1 | leech-life: 11 | spore: 22 | slash: 29 | giga-drain: 44 | fury-cutter: 17 | aromatherapy: 51 | x-scissor: 66 | cross-poison: 1 | rage-powder: 59
+  machine: cut | dig | thief | x-scissor | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | grass-knot | protect | sludge-bomb | giga-impact | toxic | rest | frustration | aerial-ace | solar-beam | hone-claws | sunny-day | struggle-bug | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | energy-ball | light-screen | return | flash
+  egg: none
+  tutor: synthesis | after-you | giga-drain | sleep-talk | bug-bite | seed-bomb | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: paras
+  evolves_to: none
+  trigger: N/A
+forms: parasect
+default_form: true

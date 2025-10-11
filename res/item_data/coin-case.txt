@@ -1,0 +1,12 @@
+item_name: coin-case
+flavor_text: A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains the Coins used by the Game Corner, to a maximum of 50,000.
+fling_power: -1
+consumable: no
+move name: 

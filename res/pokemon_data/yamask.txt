@@ -1,0 +1,52 @@
+name: yamask
+pokedex_num: 562
+generation: V
+types: ghost
+height_dm: 5
+weight_hg: 15
+
+abilities: mummy
+hidden_abilities: none
+ability_descriptions: Changes attacking Pokémon's abilities to Mummy on contact.
+
+base_stats: 38 | 30 | 85 | 55 | 65 | 30
+base_exp: 61
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 25
+
+wild_held_items: spell-tag:5%
+
+description: "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry."
+
+moves:
+  level-up: disable: 5 | night-shade: 13 | haze: 9 | curse: 29 | protect: 1 | destiny-bond: 49 | mean-look: 45 | shadow-ball: 37 | will-o-wisp: 21 | grudge: 41 | astonish: 1 | ominous-wind: 25 | guard-split: 33 | power-split: 33 | hex: 17
+  machine: thief | attract | will-o-wisp | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | frustration | hidden-power | round | energy-ball | embargo | return | trick-room | flash | safeguard
+  egg: heal-block | disable | imprison | nasty-plot | memento | fake-tears | endure | nightmare
+  tutor: after-you | iron-defense | pain-split | dark-pulse | snatch | trick | magic-coat | role-play | snore | knock-off | spite | sleep-talk | block | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: cofagrigus, runerigus
+  trigger: level-up, take-damage
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: yamask
+default_form: true

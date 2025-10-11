@@ -1,0 +1,45 @@
+name: bonsly
+pokedex_num: 438
+generation: IV
+types: rock
+height_dm: 5
+weight_hg: 150
+
+abilities: sturdy | rock-head
+hidden_abilities: rattled
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against recoil damage. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 50 | 80 | 95 | 10 | 45 | 10
+base_exp: 58
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level."
+
+moves:
+  level-up: slam: 15 | double-edge: 40 | low-kick: 8 | rock-throw: 12 | mimic: 33 | rock-slide: 29 | flail: 5 | feint-attack: 19 | fake-tears: 1 | rock-tomb: 22 | block: 26 | copycat: 1 | sucker-punch: 36
+  machine: psych-up | toxic | rest | dig | thief | attract | frustration | rock-slide | sandstorm | facade | double-team | substitute | swagger | sunny-day | explosion | hidden-power | rock-tomb | rock-polish | round | brick-break | calm-mind | protect | smack-down | return
+  egg: harden | stealth-rock | rollout | headbutt | curse | defense-curl | endure | sand-tomb | self-destruct
+  tutor: low-kick | stealth-rock | after-you | earth-power | helping-hand | sleep-talk | foul-play | block | role-play | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: sudowoodo
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: mimic
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: bonsly
+default_form: true

@@ -1,0 +1,45 @@
+name: shroomish
+pokedex_num: 285
+generation: III
+types: grass
+height_dm: 4
+weight_hg: 45
+
+abilities: effect-spore | poison-heal
+hidden_abilities: quick-feet
+ability_descriptions: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | Heals for 1/8 max HP after each turn when poisoned in place of damage. | Increases Speed to 1.5× with a major status ailment.
+
+base_stats: 60 | 40 | 60 | 40 | 60 | 35
+base_exp: 59
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: fast-then-very-slow
+
+egg_groups: fairy | plant
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: tiny-mushroom:50% | big-mushroom:5% | kebia-berry:5%
+
+description: "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+
+moves:
+  level-up: headbutt: 21 | tackle: 5 | absorb: 1 | mega-drain: 17 | leech-seed: 13 | growth: 33 | poison-powder: 25 | stun-spore: 9 | spore: 45 | giga-drain: 37 | worry-seed: 29 | seed-bomb: 41
+  machine: toxic | rest | attract | frustration | facade | double-team | venoshock | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | false-swipe | round | swords-dance | energy-ball | protect | sludge-bomb | return | flash | safeguard
+  egg: helping-hand | charm | drain-punch | focus-punch | natural-gift | seed-bomb | fake-tears | wake-up-slap | worry-seed | bullet-seed
+  tutor: synthesis | giga-drain | helping-hand | sleep-talk | drain-punch | seed-bomb | snatch | worry-seed | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: breloom
+  trigger: level-up
+  evo_level: 23
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shroomish
+default_form: true

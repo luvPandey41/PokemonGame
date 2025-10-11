@@ -1,0 +1,37 @@
+name: tauros
+pokedex_num: 128
+generation: I
+types: normal
+height_dm: 14
+weight_hg: 884
+
+abilities: intimidate | anger-point
+hidden_abilities: sheer-force
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack to the maximum of six stages upon receiving a critical hit. | Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+
+base_stats: 75 | 100 | 95 | 40 | 70 | 110
+base_exp: 172
+ev_yield: 0 | 1 | 0 | 0 | 0 | 1
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 0
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature."
+
+moves:
+  level-up: horn-attack: 8 | tackle: 1 | take-down: 41 | thrash: 55 | tail-whip: 3 | rage: 5 | rest: 19 | scary-face: 11 | swagger: 48 | pursuit: 15 | payback: 24 | giga-impact: 63 | zen-headbutt: 35 | work-up: 29
+  machine: strength | thunderbolt | wild-charge | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | substitute | swagger | bulldoze | rock-tomb | ice-beam | flamethrower | payback | retaliate | protect | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: helping-hand | zen-headbutt | spite | sleep-talk | iron-tail | icy-wind | endeavor | outrage | role-play | iron-head | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: tauros
+default_form: true

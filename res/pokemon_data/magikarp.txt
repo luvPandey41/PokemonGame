@@ -1,0 +1,45 @@
+name: magikarp
+pokedex_num: 129
+generation: I
+types: water
+height_dm: 9
+weight_hg: 100
+
+abilities: swift-swim
+hidden_abilities: rattled
+ability_descriptions: Doubles Speed during rain. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 20 | 10 | 55 | 15 | 20 | 80
+base_exp: 40
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water2 | dragon
+gender_ratio_female: 4
+hatch_cycles: 5
+
+wild_held_items: none
+
+description: "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though."
+
+moves:
+  level-up: tackle: 15 | splash: 1 | flail: 30
+  machine: none
+  egg: none
+  tutor: bounce
+evolution_info:
+  evolves_from: none
+  evolves_to: gyarados
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: magikarp
+default_form: true

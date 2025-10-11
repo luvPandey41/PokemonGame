@@ -1,0 +1,37 @@
+name: slaking
+pokedex_num: 289
+generation: III
+types: normal
+height_dm: 20
+weight_hg: 1305
+
+abilities: truant
+hidden_abilities: none
+ability_descriptions: Skips every second turn.
+
+base_stats: 150 | 160 | 100 | 95 | 65 | 100
+base_exp: 252
+ev_yield: 3 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back."
+
+moves:
+  level-up: scratch: 1 | counter: 43 | amnesia: 25 | flail: 49 | feint-attack: 19 | swagger: 36 | encore: 1 | encore: 7 | yawn: 1 | slack-off: 1 | slack-off: 13 | covet: 31 | hammer-arm: 67 | fling: 55 | punishment: 61 | chip-away: 37
+  machine: cut | strength | thunderbolt | attract | hyper-beam | rock-slide | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | bulk-up | roar | protect | rain-dance | giga-impact | toxic | rest | incinerate | blizzard | focus-blast | frustration | aerial-ace | earthquake | solar-beam | hone-claws | sunny-day | shadow-claw | low-sweep | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | smack-down | quash | return | taunt
+  egg: none
+  tutor: low-kick | after-you | sleep-talk | icy-wind | thunder-punch | ice-punch | block | gunk-shot | fire-punch | covet | snore
+evolution_info:
+  evolves_from: vigoroth
+  evolves_to: none
+  trigger: N/A
+forms: slaking
+default_form: true

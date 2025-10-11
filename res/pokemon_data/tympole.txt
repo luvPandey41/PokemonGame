@@ -1,0 +1,45 @@
+name: tympole
+pokedex_num: 535
+generation: V
+types: water
+height_dm: 5
+weight_hg: 45
+
+abilities: swift-swim | hydration
+hidden_abilities: water-absorb
+ability_descriptions: Doubles Speed during rain. | Cures any major status ailment after each turn during rain. | Absorbs water moves, healing for 1/4 max HP.
+
+base_stats: 50 | 50 | 40 | 50 | 40 | 64
+base_exp: 59
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pecha-berry:50% | persim-berry:50%
+
+description: "They warn others of danger by vibrating their cheeks to create a high-pitched sound."
+
+moves:
+  level-up: growl: 1 | supersonic: 5 | hydro-pump: 42 | bubble-beam: 12 | bubble: 1 | flail: 34 | rain-dance: 31 | uproar: 23 | hyper-voice: 45 | muddy-water: 27 | mud-shot: 16 | aqua-ring: 20 | round: 9 | echoed-voice: 38
+  machine: surf | toxic | rest | sludge-wave | echoed-voice | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | round | protect | sludge-bomb | return | rain-dance
+  egg: earth-power | sleep-talk | mud-bomb | refresh | mud-sport | mist | water-pulse | snore
+  tutor: earth-power | sleep-talk | bounce | icy-wind | endeavor | hyper-voice | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: palpitoad
+  trigger: level-up
+  evo_level: 25
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: tympole
+default_form: true

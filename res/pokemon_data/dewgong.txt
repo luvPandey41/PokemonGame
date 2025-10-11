@@ -1,0 +1,37 @@
+name: dewgong
+pokedex_num: 87
+generation: I
+types: water | ice
+height_dm: 17
+weight_hg: 1200
+
+abilities: thick-fat | hydration
+hidden_abilities: ice-body
+ability_descriptions: Halves damage from fire and ice moves. | Cures any major status ailment after each turn during rain. | Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.
+
+base_stats: 90 | 70 | 80 | 70 | 95 | 70
+base_exp: 166
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: aspear-berry:50% | never-melt-ice:5%
+
+description: "In snow, the pure white coat covering its body obscures it from predators."
+
+moves:
+  level-up: headbutt: 1 | take-down: 39 | growl: 1 | growl: 3 | ice-beam: 55 | aurora-beam: 27 | rest: 21 | icy-wind: 1 | icy-wind: 11 | safeguard: 61 | encore: 13 | hail: 65 | dive: 45 | signal-beam: 1 | signal-beam: 7 | sheer-cold: 34 | brine: 33 | aqua-ring: 23 | aqua-tail: 49 | ice-shard: 17 | aqua-jet: 31
+  machine: thief | attract | hyper-beam | facade | double-team | fling | substitute | swagger | ice-beam | waterfall | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | echoed-voice | frustration | hail | frost-breath | hidden-power | round | return | safeguard
+  egg: none
+  tutor: signal-beam | aqua-tail | sleep-talk | iron-tail | icy-wind | drill-run | snore
+evolution_info:
+  evolves_from: seel
+  evolves_to: none
+  trigger: N/A
+forms: dewgong
+default_form: true

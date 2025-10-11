@@ -1,0 +1,37 @@
+name: samurott
+pokedex_num: 503
+generation: V
+types: water
+height_dm: 15
+weight_hg: 946
+
+abilities: torrent
+hidden_abilities: shell-armor
+ability_descriptions: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | Protects against critical hits.
+
+base_stats: 95 | 100 | 85 | 108 | 70 | 70
+base_exp: 238
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody."
+
+moves:
+  level-up: swords-dance: 57 | tackle: 1 | tail-whip: 1 | tail-whip: 5 | water-gun: 1 | water-gun: 7 | hydro-pump: 62 | focus-energy: 13 | slash: 36 | fury-cutter: 20 | megahorn: 1 | encore: 38 | revenge: 28 | water-sport: 1 | water-sport: 11 | water-pulse: 25 | aqua-tail: 45 | aqua-jet: 33 | retaliate: 50 | razor-shell: 17
+  machine: dragon-tail | cut | dig | strength | x-scissor | attract | hyper-beam | facade | scald | double-team | fling | substitute | swagger | grass-knot | ice-beam | waterfall | retaliate | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | frustration | aerial-ace | hail | hidden-power | false-swipe | round | swords-dance | rock-smash | return | taunt
+  egg: none
+  tutor: helping-hand | aqua-tail | sleep-talk | iron-tail | icy-wind | hydro-cannon | block | superpower | covet | water-pledge | snore | knock-off
+evolution_info:
+  evolves_from: dewott
+  evolves_to: none
+  trigger: N/A
+forms: samurott
+default_form: true

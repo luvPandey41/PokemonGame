@@ -1,0 +1,12 @@
+item_name: journal
+flavor_text: A notebook that keeps a day-to-day record of your adventure so far.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Records some of the trainer's activities for the day.
+fling_power: -1
+consumable: no
+move name: 

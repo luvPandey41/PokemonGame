@@ -1,0 +1,12 @@
+item_name: sticky-barb
+flavor_text: A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
+cost: 4000
+category: bad-held-items
+pocket: misc
+attributes: holdable | holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held: Damaged the holder for 1/8 its max HP. When the holder is struck by a contact move, damages the attacker for 1/8 its max HP; if the attacker is not holding an item, it will take this item.
+fling_power: 80
+consumable: no
+move name: 

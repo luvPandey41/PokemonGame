@@ -1,0 +1,45 @@
+name: sunkern
+pokedex_num: 191
+generation: II
+types: grass
+height_dm: 3
+weight_hg: 18
+
+abilities: chlorophyll | solar-power
+hidden_abilities: early-bird
+ability_descriptions: Doubles Speed during strong sunlight. | Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | Makes sleep pass twice as quickly.
+
+base_stats: 30 | 30 | 30 | 30 | 30 | 30
+base_exp: 36
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 235
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: coba-berry:5%
+
+description: "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes."
+
+moves:
+  level-up: double-edge: 37 | absorb: 1 | mega-drain: 10 | leech-seed: 13 | growth: 1 | razor-leaf: 16 | solar-beam: 34 | giga-drain: 22 | synthesis: 28 | sunny-day: 40 | ingrain: 4 | endeavor: 25 | grass-whistle: 7 | natural-gift: 31 | worry-seed: 19 | seed-bomb: 43
+  machine: toxic | rest | cut | attract | frustration | facade | double-team | solar-beam | substitute | swagger | sunny-day | grass-knot | hidden-power | round | swords-dance | energy-ball | protect | light-screen | sludge-bomb | return | flash | safeguard
+  egg: nature-power | ingrain | helping-hand | morning-sun | bide | natural-gift | curse | sweet-scent | endure | grass-whistle | leech-seed | encore
+  tutor: synthesis | after-you | earth-power | giga-drain | helping-hand | sleep-talk | endeavor | seed-bomb | worry-seed | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: sunflora
+  trigger: use-item
+  evo_level: null
+  evo_item: sun-stone
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: sunkern
+default_form: true

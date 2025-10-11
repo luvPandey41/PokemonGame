@@ -1,0 +1,37 @@
+name: bellossom
+pokedex_num: 182
+generation: II
+types: grass
+height_dm: 4
+weight_hg: 58
+
+abilities: chlorophyll
+hidden_abilities: healer
+ability_descriptions: Doubles Speed during strong sunlight. | Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.
+
+base_stats: 75 | 80 | 95 | 90 | 100 | 50
+base_exp: 221
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: absorb-bulb:5%
+
+description: "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+
+moves:
+  level-up: mega-drain: 1 | stun-spore: 1 | sweet-scent: 1 | sunny-day: 1 | magical-leaf: 23 | leaf-blade: 1 | leaf-storm: 53
+  machine: cut | attract | hyper-beam | facade | double-team | fling | venoshock | substitute | swagger | grass-knot | protect | sludge-bomb | giga-impact | toxic | rest | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash | safeguard
+  egg: none
+  tutor: synthesis | after-you | giga-drain | gastro-acid | sleep-talk | drain-punch | seed-bomb | worry-seed | snore | uproar
+evolution_info:
+  evolves_from: gloom
+  evolves_to: none
+  trigger: N/A
+forms: bellossom
+default_form: true

@@ -1,0 +1,37 @@
+name: excadrill
+pokedex_num: 530
+generation: V
+types: ground | steel
+height_dm: 7
+weight_hg: 404
+
+abilities: sand-rush | sand-force
+hidden_abilities: mold-breaker
+ability_descriptions: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. | Bypasses targets' abilities if they could hinder or prevent a move.
+
+base_stats: 110 | 135 | 60 | 50 | 65 | 88
+base_exp: 178
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates."
+
+moves:
+  level-up: scratch: 1 | swords-dance: 42 | horn-drill: 31 | earthquake: 36 | fissure: 62 | dig: 19 | fury-swipes: 12 | rock-slide: 29 | slash: 26 | mud-slap: 1 | mud-slap: 8 | sandstorm: 49 | rapid-spin: 1 | rapid-spin: 5 | metal-claw: 15 | mud-sport: 1 | hone-claws: 22 | drill-run: 55
+  machine: cut | dig | strength | x-scissor | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | protect | sludge-bomb | giga-impact | toxic | rest | poison-jab | focus-blast | frustration | aerial-ace | earthquake | hone-claws | shadow-claw | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | magnet-rise | drill-run | iron-head | snore
+evolution_info:
+  evolves_from: drilbur
+  evolves_to: none
+  trigger: N/A
+forms: excadrill
+default_form: true

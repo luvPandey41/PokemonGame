@@ -1,0 +1,12 @@
+item_name: safari-ball
+flavor_text: A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern.
+cost: 0
+category: standard-balls
+pocket: pokeballs
+attributes: countable | consumable | usable-in-battle | holdable
+holdable: yes
+stackable: yes
+effect_description: Used in battle : Attempts to catch a wild Pokémon, using a catch rate of 1.5×. This item can only be used in the great marsh or kanto safari zone.
+fling_power: -1
+consumable: yes
+move name: 

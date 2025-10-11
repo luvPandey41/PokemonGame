@@ -1,0 +1,45 @@
+name: piloswine
+pokedex_num: 221
+generation: II
+types: ice | ground
+height_dm: 11
+weight_hg: 558
+
+abilities: oblivious | snow-cloak
+hidden_abilities: thick-fat
+ability_descriptions: Prevents infatuation and protects against captivate. | Increases evasion to 1.25× during hail.  Protects against hail damage. | Halves damage from fire and ice moves.
+
+base_stats: 100 | 100 | 80 | 60 | 60 | 50
+base_exp: 158
+ev_yield: 1 | 1 | 0 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: aspear-berry:50% | never-melt-ice:5%
+
+description: "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows."
+
+moves:
+  level-up: fury-attack: 33 | take-down: 28 | thrash: 41 | mist: 37 | blizzard: 52 | peck: 1 | earthquake: 46 | amnesia: 58 | powder-snow: 1 | powder-snow: 8 | mud-slap: 11 | icy-wind: 21 | endure: 14 | ancient-power: 1 | mud-sport: 1 | mud-sport: 5 | odor-sleuth: 1 | ice-fang: 24 | mud-bomb: 18
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | reflect | rock-tomb | ice-beam | roar | protect | rain-dance | giga-impact | toxic | rest | blizzard | frustration | earthquake | hail | hidden-power | round | rock-smash | stone-edge | light-screen | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | icy-wind | endeavor | superpower | snore
+evolution_info:
+  evolves_from: swinub
+  evolves_to: mamoswine
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: ancient-power
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: piloswine
+default_form: true

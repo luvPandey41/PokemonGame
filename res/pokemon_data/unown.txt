@@ -1,0 +1,37 @@
+name: unown
+pokedex_num: 201
+generation: II
+types: psychic
+height_dm: 5
+weight_hg: 50
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 48 | 72 | 48 | 72 | 48 | 48
+base_exp: 118
+ev_yield: 0 | 1 | 0 | 1 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 40
+
+wild_held_items: none
+
+description: "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge."
+
+moves:
+  level-up: hidden-power: 1
+  machine: none
+  egg: none
+  tutor: none
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: unown-a | unown-b | unown-c | unown-d | unown-e | unown-f | unown-g | unown-h | unown-i | unown-j | unown-k | unown-l | unown-m | unown-n | unown-o | unown-p | unown-q | unown-r | unown-s | unown-t | unown-u | unown-v | unown-w | unown-x | unown-y | unown-z | unown-exclamation | unown-question
+default_form: true

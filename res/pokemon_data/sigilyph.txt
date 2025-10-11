@@ -1,0 +1,37 @@
+name: sigilyph
+pokedex_num: 561
+generation: V
+types: psychic | flying
+height_dm: 14
+weight_hg: 140
+
+abilities: wonder-skin | magic-guard
+hidden_abilities: tinted-lens
+ability_descriptions: Lowers incoming non-damaging moves' base accuracy to exactly 50%. | Protects against damage not directly caused by a move. | Doubles damage inflicted with not-very-effective moves.
+
+base_stats: 72 | 58 | 80 | 103 | 80 | 97
+base_exp: 172
+ev_yield: 0 | 0 | 0 | 2 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast."
+
+moves:
+  level-up: gust: 1 | whirlwind: 14 | psybeam: 18 | psychic: 44 | hypnosis: 4 | light-screen: 24 | reflect: 28 | mirror-move: 34 | sky-attack: 51 | psywave: 8 | air-cutter: 21 | cosmic-power: 48 | gravity: 38 | miracle-eye: 1 | tailwind: 11 | air-slash: 41 | synchronoise: 31
+  machine: thief | attract | hyper-beam | facade | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | reflect | ice-beam | calm-mind | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | aerial-ace | solar-beam | fly | hidden-power | round | charge-beam | energy-ball | flash-cannon | smack-down | light-screen | pluck | psyshock | return | trick-room | flash | safeguard
+  egg: steel-wing | stored-power | psycho-shift | ancient-power | roost | skill-swap
+  tutor: signal-beam | magic-room | tailwind | zen-headbutt | icy-wind | dark-pulse | sky-attack | roost | trick | magic-coat | snore | heat-wave | sleep-talk | gravity | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: sigilyph
+default_form: true

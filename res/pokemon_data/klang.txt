@@ -1,0 +1,45 @@
+name: klang
+pokedex_num: 600
+generation: V
+types: steel
+height_dm: 6
+weight_hg: 510
+
+abilities: plus | minus
+hidden_abilities: clear-body
+ability_descriptions: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | Prevents stats from being lowered by other Pokémon.
+
+base_stats: 60 | 80 | 95 | 70 | 85 | 50
+base_exp: 154
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: -1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster."
+
+moves:
+  level-up: vice-grip: 1 | bind: 21 | hyper-beam: 64 | thunder-shock: 1 | thunder-shock: 11 | screech: 40 | zap-cannon: 60 | lock-on: 56 | charge: 1 | charge: 6 | metal-sound: 48 | mirror-shot: 36 | discharge: 44 | charge-beam: 26 | autotomize: 31 | shift-gear: 52 | gear-grind: 1 | gear-grind: 16
+  machine: toxic | rest | thunderbolt | wild-charge | thunder-wave | frustration | hyper-beam | sandstorm | facade | double-team | substitute | swagger | hidden-power | rock-polish | round | rock-smash | charge-beam | flash-cannon | protect | volt-switch | return
+  egg: none
+  tutor: signal-beam | bind | sleep-talk | iron-defense | gravity | recycle | magnet-rise | magic-coat | snore | uproar
+evolution_info:
+  evolves_from: klink
+  evolves_to: klinklang
+  trigger: level-up
+  evo_level: 49
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: klang
+default_form: true

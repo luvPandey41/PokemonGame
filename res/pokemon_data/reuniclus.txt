@@ -1,0 +1,37 @@
+name: reuniclus
+pokedex_num: 579
+generation: V
+types: psychic
+height_dm: 10
+weight_hg: 201
+
+abilities: overcoat | magic-guard
+hidden_abilities: regenerator
+ability_descriptions: Protects against damage from weather. | Protects against damage not directly caused by a move. | Heals for 1/3 max HP upon switching out.
+
+base_stats: 110 | 65 | 75 | 125 | 85 | 30
+base_exp: 221
+ev_yield: 0 | 0 | 0 | 3 | 0 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: persim-berry:50%
+
+description: "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power."
+
+moves:
+  level-up: psychic: 39 | recover: 24 | light-screen: 16 | reflect: 1 | reflect: 3 | dizzy-punch: 41 | psywave: 1 | charm: 19 | rollout: 1 | rollout: 7 | pain-split: 34 | hidden-power: 14 | future-sight: 31 | endeavor: 28 | skill-swap: 45 | snatch: 1 | snatch: 10 | heal-block: 54 | wonder-room: 59 | psyshock: 25
+  machine: strength | attract | hyper-beam | rock-slide | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | gyro-ball | rock-tomb | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | focus-blast | thunder-wave | frustration | explosion | hidden-power | round | rock-smash | energy-ball | flash-cannon | embargo | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | after-you | zen-headbutt | thunder-punch | endeavor | pain-split | ice-punch | snatch | trick | fire-punch | magic-coat | role-play | superpower | snore | knock-off | helping-hand | sleep-talk | drain-punch | gravity | wonder-room | skill-swap
+evolution_info:
+  evolves_from: duosion
+  evolves_to: none
+  trigger: N/A
+forms: reuniclus
+default_form: true

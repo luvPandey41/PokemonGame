@@ -1,0 +1,37 @@
+name: torkoal
+pokedex_num: 324
+generation: III
+types: fire
+height_dm: 5
+weight_hg: 804
+
+abilities: white-smoke | drought
+hidden_abilities: shell-armor
+ability_descriptions: Prevents stats from being lowered by other Pokémon. | Summons strong sunlight that lasts indefinitely upon entering battle. | Protects against critical hits.
+
+base_stats: 70 | 85 | 140 | 85 | 70 | 20
+base_exp: 165
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 90
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: charcoal:5%
+
+description: "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+
+moves:
+  level-up: body-slam: 33 | ember: 1 | flamethrower: 28 | fire-spin: 17 | smokescreen: 20 | withdraw: 7 | smog: 4 | amnesia: 49 | curse: 12 | flail: 52 | protect: 36 | rapid-spin: 23 | heat-wave: 55 | iron-defense: 44 | lava-plume: 39 | shell-smash: 65 | inferno: 60
+  machine: strength | attract | hyper-beam | will-o-wisp | rock-slide | facade | double-team | substitute | swagger | bulldoze | gyro-ball | rock-tomb | flamethrower | overheat | protect | sludge-bomb | giga-impact | toxic | rest | incinerate | frustration | earthquake | solar-beam | sunny-day | flame-charge | fire-blast | explosion | hidden-power | round | rock-smash | stone-edge | return
+  egg: skull-bash | flame-burst | clear-smog | sleep-talk | fissure | yawn | eruption | endure
+  tutor: stealth-rock | after-you | heat-wave | earth-power | sleep-talk | iron-tail | iron-defense | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: torkoal
+default_form: true

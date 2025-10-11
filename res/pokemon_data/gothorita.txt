@@ -1,0 +1,45 @@
+name: gothorita
+pokedex_num: 575
+generation: V
+types: psychic
+height_dm: 7
+weight_hg: 180
+
+abilities: frisk | competitive
+hidden_abilities: shadow-tag
+ability_descriptions: Reveals an opponent's held item upon entering battle. | Raises Special Attack by two stages upon having any stat lowered. | Prevents opponents from fleeing or switching out.
+
+base_stats: 60 | 45 | 70 | 75 | 85 | 55
+base_exp: 137
+ev_yield: 0 | 0 | 0 | 0 | 2 | 0
+capture_rate: 100
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: humanshape
+gender_ratio_female: 6
+hatch_cycles: 20
+
+wild_held_items: persim-berry:50%
+
+description: "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner."
+
+moves:
+  level-up: pound: 1 | double-slap: 14 | psybeam: 16 | confusion: 1 | confusion: 3 | psychic: 39 | feint-attack: 24 | charm: 50 | future-sight: 31 | flatter: 28 | fake-tears: 1 | fake-tears: 10 | tickle: 1 | tickle: 7 | embargo: 19 | heal-block: 34 | psyshock: 25 | telekinesis: 43 | magic-room: 53
+  machine: torment | thunderbolt | thief | attract | rock-slide | facade | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | rock-tomb | calm-mind | payback | psychic | protect | rain-dance | psych-up | toxic | rest | thunder-wave | frustration | hidden-power | round | charge-beam | energy-ball | embargo | light-screen | psyshock | return | taunt | trick-room | flash | safeguard
+  egg: none
+  tutor: signal-beam | magic-room | zen-headbutt | snatch | trick | magic-coat | role-play | snore | uproar | helping-hand | sleep-talk | gravity | recycle | foul-play | heal-bell | covet | skill-swap
+evolution_info:
+  evolves_from: gothita
+  evolves_to: gothitelle
+  trigger: level-up
+  evo_level: 41
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: gothorita
+default_form: true

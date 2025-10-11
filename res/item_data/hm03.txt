@@ -1,0 +1,12 @@
+item_name: hm03
+flavor_text: It swamps the area around the user with a giant wave. It can also be used for crossing water.
+cost: 0
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Surf to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Surf

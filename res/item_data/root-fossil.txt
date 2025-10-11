@@ -1,0 +1,12 @@
+item_name: root-fossil
+flavor_text: A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+cost: 7000
+category: dex-completion
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Give to a scientist in the mining museum in oreburgh city or the Museum of Science in pewter city to receive a lileep.
+fling_power: 100
+consumable: no
+move name: 

@@ -1,0 +1,45 @@
+name: whismur
+pokedex_num: 293
+generation: III
+types: normal
+height_dm: 6
+weight_hg: 163
+
+abilities: soundproof
+hidden_abilities: rattled
+ability_descriptions: Protects against sound-based moves. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 64 | 51 | 23 | 51 | 23 | 28
+base_exp: 48
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: monster | ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: chesto-berry:5%
+
+description: "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane."
+
+moves:
+  level-up: pound: 1 | stomp: 25 | roar: 35 | supersonic: 21 | screech: 31 | rest: 45 | sleep-talk: 45 | uproar: 5 | hyper-voice: 51 | astonish: 11 | howl: 15 | synchronoise: 41
+  machine: attract | facade | double-team | fling | substitute | swagger | shadow-ball | ice-beam | flamethrower | retaliate | roar | protect | rain-dance | toxic | rest | incinerate | blizzard | echoed-voice | frustration | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | return
+  egg: hammer-arm | circle-throw | endeavor | take-down | fake-tears | extrasensory | smokescreen | smelling-salts | snore
+  tutor: zen-headbutt | sleep-talk | icy-wind | thunder-punch | endeavor | hyper-voice | ice-punch | fire-punch | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: loudred
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: whismur
+default_form: true

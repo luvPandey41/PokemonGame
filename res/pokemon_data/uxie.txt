@@ -1,0 +1,37 @@
+name: uxie
+pokedex_num: 480
+generation: IV
+types: psychic
+height_dm: 3
+weight_hg: 3
+
+abilities: levitate
+hidden_abilities: none
+ability_descriptions: Evades ground moves.
+
+base_stats: 75 | 75 | 130 | 75 | 130 | 95
+base_exp: 261
+ev_yield: 0 | 0 | 2 | 0 | 1 | 0
+capture_rate: 3
+base_friendship: 140
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 80
+
+wild_held_items: none
+
+description: "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge."
+
+moves:
+  level-up: confusion: 1 | swift: 21 | amnesia: 46 | rest: 1 | flail: 61 | endure: 16 | future-sight: 36 | memento: 76 | yawn: 31 | imprison: 6 | extrasensory: 51 | natural-gift: 66
+  machine: u-turn | thunderbolt | hyper-beam | sandstorm | facade | thunder | double-team | telekinesis | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | reflect | calm-mind | psychic | protect | rain-dance | psych-up | giga-impact | toxic | rest | thunder-wave | frustration | solar-beam | sunny-day | acrobatics | hidden-power | round | charge-beam | energy-ball | light-screen | psyshock | return | trick-room | flash | safeguard
+  egg: none
+  tutor: stealth-rock | signal-beam | magic-room | zen-headbutt | iron-tail | thunder-punch | ice-punch | trick | fire-punch | magic-coat | role-play | snore | knock-off | giga-drain | helping-hand | sleep-talk | recycle | foul-play | heal-bell | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: uxie
+default_form: true

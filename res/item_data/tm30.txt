@@ -1,0 +1,12 @@
+item_name: tm30
+flavor_text: The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Shadow Ball to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Shadow Ball

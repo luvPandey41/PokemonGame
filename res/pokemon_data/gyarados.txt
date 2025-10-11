@@ -1,0 +1,37 @@
+name: gyarados
+pokedex_num: 130
+generation: I
+types: water | flying
+height_dm: 65
+weight_hg: 2350
+
+abilities: intimidate
+hidden_abilities: moxie
+ability_descriptions: Lowers opponents' Attack one stage upon entering battle. | Raises Attack one stage upon KOing a Pokémon.
+
+base_stats: 95 | 125 | 79 | 60 | 100 | 81
+base_exp: 189
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water2 | dragon
+gender_ratio_female: 4
+hatch_cycles: 5
+
+wild_held_items: none
+
+description: "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm."
+
+moves:
+  level-up: thrash: 1 | leer: 26 | bite: 20 | hydro-pump: 41 | hyper-beam: 47 | dragon-rage: 23 | twister: 29 | rain-dance: 38 | dragon-dance: 44 | aqua-tail: 35 | ice-fang: 32
+  machine: dragon-tail | torment | strength | thunderbolt | attract | hyper-beam | sandstorm | facade | scald | thunder | double-team | substitute | swagger | bulldoze | ice-beam | flamethrower | waterfall | payback | roar | protect | dive | rain-dance | surf | giga-impact | toxic | rest | incinerate | blizzard | thunder-wave | frustration | earthquake | hail | fire-blast | hidden-power | round | rock-smash | stone-edge | return | taunt
+  egg: none
+  tutor: aqua-tail | spite | sleep-talk | iron-tail | bounce | icy-wind | dark-pulse | outrage | dragon-pulse | iron-head | snore | uproar
+evolution_info:
+  evolves_from: magikarp
+  evolves_to: none
+  trigger: N/A
+forms: gyarados
+default_form: true

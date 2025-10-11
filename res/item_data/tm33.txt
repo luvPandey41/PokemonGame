@@ -1,0 +1,12 @@
+item_name: tm33
+flavor_text: A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Reflect to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Reflect

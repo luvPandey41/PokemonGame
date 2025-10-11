@@ -1,0 +1,45 @@
+name: hoothoot
+pokedex_num: 163
+generation: II
+types: normal | flying
+height_dm: 7
+weight_hg: 212
+
+abilities: insomnia | keen-eye
+hidden_abilities: tinted-lens
+ability_descriptions: Prevents sleep. | Prevents accuracy from being lowered. | Doubles damage inflicted with not-very-effective moves.
+
+base_stats: 60 | 30 | 30 | 36 | 56 | 50
+base_exp: 52
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 255
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: flying
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: none
+
+description: "It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways."
+
+moves:
+  level-up: tackle: 1 | take-down: 29 | growl: 1 | peck: 9 | confusion: 21 | hypnosis: 5 | reflect: 17 | dream-eater: 57 | foresight: 1 | uproar: 13 | extrasensory: 45 | roost: 53 | psycho-shift: 49 | air-slash: 33 | zen-headbutt: 37 | synchronoise: 41 | echoed-voice: 25
+  machine: thief | attract | facade | double-team | substitute | swagger | shadow-ball | dream-eater | reflect | psychic | protect | rain-dance | psych-up | toxic | rest | echoed-voice | frustration | aerial-ace | sunny-day | work-up | fly | hidden-power | round | pluck | return
+  egg: whirlwind | night-shade | feather-dance | mirror-move | sky-attack | wing-attack | agility | feint-attack | defog | supersonic
+  tutor: heat-wave | tailwind | zen-headbutt | sleep-talk | recycle | hyper-voice | sky-attack | roost | magic-coat | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: noctowl
+  trigger: level-up
+  evo_level: 20
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: hoothoot
+default_form: true

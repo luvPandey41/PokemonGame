@@ -1,0 +1,12 @@
+item_name: wiki-berry
+flavor_text: If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste.
+cost: 80
+category: picky-healing
+pocket: berries
+attributes: holdable-active
+holdable: yes
+stackable: yes
+effect_description: Held in battle : When the holder has 1/2 its max HP remaining or less, it consumes this item to restore 1/8 its max HP. If the holder dislikes dry flavors (i.e., has a nature that lowers Special Attack), it will also become confused.
+fling_power: 10
+consumable: no
+move name: 

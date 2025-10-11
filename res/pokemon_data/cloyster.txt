@@ -1,0 +1,37 @@
+name: cloyster
+pokedex_num: 91
+generation: I
+types: water | ice
+height_dm: 15
+weight_hg: 1325
+
+abilities: shell-armor | skill-link
+hidden_abilities: overcoat
+ability_descriptions: Protects against critical hits. | Extends two-to-five-hit moves and triple kick to their full length every time. | Protects against damage from weather.
+
+base_stats: 50 | 95 | 180 | 85 | 45 | 70
+base_exp: 184
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: water3
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: pearl:50% | big-pearl:5%
+
+description: "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes."
+
+moves:
+  level-up: supersonic: 1 | aurora-beam: 1 | withdraw: 1 | spike-cannon: 13 | protect: 1 | spikes: 28 | toxic-spikes: 1 | icicle-crash: 52
+  machine: torment | attract | hyper-beam | facade | double-team | substitute | swagger | ice-beam | payback | protect | dive | rain-dance | surf | giga-impact | toxic | rest | blizzard | poison-jab | frustration | hail | frost-breath | explosion | hidden-power | round | return
+  egg: none
+  tutor: signal-beam | sleep-talk | iron-defense | icy-wind | snore
+evolution_info:
+  evolves_from: shellder
+  evolves_to: none
+  trigger: N/A
+forms: cloyster
+default_form: true

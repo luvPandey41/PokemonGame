@@ -1,0 +1,12 @@
+item_name: health-wing
+flavor_text: An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.
+cost: 300
+category: vitamins
+pocket: medicine
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Increases the target's HP effort by 1.
+fling_power: 20
+consumable: no
+move name: 

@@ -1,0 +1,37 @@
+name: flareon
+pokedex_num: 136
+generation: I
+types: fire
+height_dm: 9
+weight_hg: 250
+
+abilities: flash-fire
+hidden_abilities: guts
+ability_descriptions: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | Increases Attack to 1.5× with a major status ailment.
+
+base_stats: 65 | 130 | 60 | 95 | 110 | 65
+base_exp: 184
+ev_yield: 0 | 2 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 35
+
+wild_held_items: none
+
+description: "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit."
+
+moves:
+  level-up: sand-attack: 5 | tackle: 1 | tail-whip: 1 | bite: 17 | ember: 9 | fire-spin: 25 | quick-attack: 13 | smog: 33 | fire-blast: 45 | scary-face: 29 | helping-hand: 1 | last-resort: 41 | fire-fang: 21 | lava-plume: 37
+  machine: dig | strength | attract | hyper-beam | will-o-wisp | facade | double-team | substitute | swagger | shadow-ball | flamethrower | overheat | retaliate | roar | protect | rain-dance | giga-impact | toxic | rest | incinerate | echoed-voice | frustration | sunny-day | flame-charge | fire-blast | work-up | hidden-power | round | rock-smash | return
+  egg: none
+  tutor: heat-wave | helping-hand | last-resort | sleep-talk | iron-tail | hyper-voice | heal-bell | superpower | covet | snore
+evolution_info:
+  evolves_from: eevee
+  evolves_to: none
+  trigger: N/A
+forms: flareon
+default_form: true

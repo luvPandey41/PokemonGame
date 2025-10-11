@@ -1,0 +1,12 @@
+item_name: dire-hit-2
+flavor_text: It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
+cost: 0
+category: miracle-shooter
+pocket: battle
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Raises the target's critical hit rate by two stages. This item can only be obtained or used via the Wonder Launcher.
+fling_power: -1
+consumable: no
+move name: 

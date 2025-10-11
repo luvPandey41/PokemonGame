@@ -1,0 +1,45 @@
+name: horsea
+pokedex_num: 116
+generation: I
+types: water
+height_dm: 4
+weight_hg: 80
+
+abilities: swift-swim | sniper
+hidden_abilities: damp
+ability_descriptions: Doubles Speed during rain. | Strengthens critical hits to inflict 3× damage rather than 2×. | Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.
+
+base_stats: 30 | 40 | 70 | 70 | 25 | 60
+base_exp: 59
+ev_yield: 0 | 0 | 0 | 1 | 0 | 0
+capture_rate: 225
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | dragon
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: dragon-scale:5%
+
+description: "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
+
+moves:
+  level-up: leer: 8 | water-gun: 11 | hydro-pump: 35 | bubble-beam: 18 | agility: 23 | smokescreen: 4 | focus-energy: 14 | bubble: 1 | twister: 26 | dragon-dance: 38 | brine: 30 | dragon-pulse: 42
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | waterfall | flash-cannon | protect | dive | return | rain-dance
+  egg: signal-beam | muddy-water | clear-smog | outrage | octazooka | dragon-rage | water-pulse | dragon-breath | flail | aurora-beam | disable | razor-wind | splash
+  tutor: signal-beam | sleep-talk | bounce | icy-wind | outrage | dragon-pulse | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: seadra
+  trigger: level-up
+  evo_level: 32
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: horsea
+default_form: true

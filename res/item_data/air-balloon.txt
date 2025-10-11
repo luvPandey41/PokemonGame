@@ -1,0 +1,12 @@
+item_name: air-balloon
+flavor_text: When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst.
+cost: 4000
+category: held-items
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held : Holder is immune to ground-type moves, spikes, toxic spikes, and arena trap. This effect does not apply during gravity or ingrain. When the holder takes damage from a move, this item is consumed.
+fling_power: 10
+consumable: no
+move name: 

@@ -1,0 +1,10 @@
+map: starter_house_floor_one
+
+# Mom
+name: mom
+spriteBase: pokemon_mom
+x: 49
+y: 53
+direction: right
+dialogue: gigiggigtiyigigitygoo!|someone needs to change this dialogue bru
+ID: 1

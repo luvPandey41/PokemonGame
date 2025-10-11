@@ -1,0 +1,37 @@
+name: golem
+pokedex_num: 76
+generation: I
+types: rock | ground
+height_dm: 14
+weight_hg: 3000
+
+abilities: rock-head | sturdy
+hidden_abilities: sand-veil
+ability_descriptions: Protects against recoil damage. | Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 80 | 120 | 130 | 55 | 65 | 45
+base_exp: 223
+ev_yield: 0 | 0 | 3 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 15
+
+wild_held_items: everstone:5% | hard-stone:5%
+
+description: "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year."
+
+moves:
+  level-up: tackle: 1 | double-edge: 58 | rock-throw: 11 | earthquake: 47 | defense-curl: 1 | self-destruct: 31 | explosion: 53 | magnitude: 15 | mud-sport: 1 | mud-sport: 4 | rock-blast: 22 | rock-polish: 1 | rock-polish: 8 | stone-edge: 64 | stealth-rock: 42 | smack-down: 27 | heavy-slam: 69 | bulldoze: 36 | steamroller: 18
+  machine: dig | strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | flamethrower | roar | protect | giga-impact | toxic | rest | incinerate | focus-blast | frustration | earthquake | sunny-day | fire-blast | explosion | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | sleep-talk | iron-defense | thunder-punch | block | fire-punch | superpower | iron-head | snore
+evolution_info:
+  evolves_from: graveler
+  evolves_to: none
+  trigger: N/A
+forms: golem
+default_form: true

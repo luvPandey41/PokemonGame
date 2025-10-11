@@ -1,0 +1,37 @@
+name: donphan
+pokedex_num: 232
+generation: II
+types: ground
+height_dm: 11
+weight_hg: 1200
+
+abilities: sturdy
+hidden_abilities: sand-veil
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 90 | 120 | 120 | 60 | 60 | 50
+base_exp: 175
+ev_yield: 0 | 1 | 1 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: passho-berry:5%
+
+description: "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit."
+
+moves:
+  level-up: slam: 24 | horn-attack: 1 | fury-attack: 25 | growl: 1 | earthquake: 46 | defense-curl: 1 | scary-face: 39 | rollout: 15 | magnitude: 19 | rapid-spin: 6 | knock-off: 10 | assurance: 31 | giga-impact: 54 | thunder-fang: 1 | fire-fang: 1 | bulldoze: 1
+  machine: strength | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | substitute | swagger | bulldoze | gyro-ball | rock-tomb | rock-polish | roar | protect | giga-impact | toxic | rest | poison-jab | echoed-voice | frustration | earthquake | sunny-day | hidden-power | round | rock-smash | stone-edge | return
+  egg: none
+  tutor: stealth-rock | earth-power | iron-tail | iron-defense | bounce | endeavor | seed-bomb | superpower | snore | knock-off | last-resort | sleep-talk | hyper-voice | block | gunk-shot
+evolution_info:
+  evolves_from: phanpy
+  evolves_to: none
+  trigger: N/A
+forms: donphan
+default_form: true

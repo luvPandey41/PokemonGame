@@ -1,0 +1,37 @@
+name: emboar
+pokedex_num: 500
+generation: V
+types: fire | fighting
+height_dm: 16
+weight_hg: 1500
+
+abilities: blaze
+hidden_abilities: reckless
+ability_descriptions: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | Strengthens recoil moves to 1.2× their power.
+
+base_stats: 110 | 123 | 65 | 100 | 65 | 65
+base_exp: 238
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: ground
+gender_ratio_female: 1
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends."
+
+moves:
+  level-up: tackle: 1 | take-down: 28 | tail-whip: 1 | tail-whip: 3 | roar: 55 | ember: 1 | ember: 7 | flamethrower: 43 | defense-curl: 13 | smog: 20 | rollout: 23 | arm-thrust: 17 | odor-sleuth: 1 | odor-sleuth: 9 | hammer-arm: 1 | assurance: 38 | flare-blitz: 62 | head-smash: 50 | flame-charge: 15 | heat-crash: 31
+  machine: strength | wild-charge | attract | hyper-beam | will-o-wisp | rock-slide | facade | scald | double-team | fling | substitute | swagger | grass-knot | bulldoze | gyro-ball | rock-tomb | flamethrower | overheat | bulk-up | roar | protect | giga-impact | toxic | rest | incinerate | poison-jab | echoed-voice | focus-blast | frustration | earthquake | solar-beam | sunny-day | flame-charge | low-sweep | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: none
+  tutor: iron-tail | thunder-punch | endeavor | fire-punch | superpower | iron-head | snore | low-kick | blast-burn | heat-wave | helping-hand | sleep-talk | fire-pledge | block | covet
+evolution_info:
+  evolves_from: pignite
+  evolves_to: none
+  trigger: N/A
+forms: emboar
+default_form: true

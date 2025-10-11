@@ -1,0 +1,12 @@
+item_name: protector
+flavor_text: A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
+cost: 2000
+category: evolution
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Held by Rhydon: Evolves the holder into Rhyperior when traded.
+fling_power: 80
+consumable: no
+move name: 

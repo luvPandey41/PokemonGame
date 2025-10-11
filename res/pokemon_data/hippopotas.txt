@@ -1,0 +1,45 @@
+name: hippopotas
+pokedex_num: 449
+generation: IV
+types: ground
+height_dm: 8
+weight_hg: 495
+
+abilities: sand-stream
+hidden_abilities: sand-force
+ability_descriptions: Summons a sandstorm that lasts indefinitely upon entering battle. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 68 | 72 | 78 | 38 | 42 | 32
+base_exp: 66
+ev_yield: 0 | 0 | 1 | 0 | 0 | 0
+capture_rate: 140
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: ground
+gender_ratio_female: 4
+hatch_cycles: 30
+
+wild_held_items: none
+
+description: "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten."
+
+moves:
+  level-up: sand-attack: 1 | tackle: 1 | take-down: 19 | double-edge: 44 | bite: 7 | earthquake: 37 | fissure: 50 | dig: 19 | crunch: 31 | yawn: 13 | sand-tomb: 25
+  machine: toxic | rest | dig | strength | attract | frustration | rock-slide | sandstorm | facade | earthquake | double-team | substitute | swagger | sunny-day | bulldoze | hidden-power | rock-tomb | round | rock-smash | roar | protect | return
+  egg: whirlwind | slack-off | swallow | revenge | sleep-talk | curse | spit-up | stockpile | sand-tomb | body-slam
+  tutor: stealth-rock | earth-power | sleep-talk | iron-tail | superpower | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: hippowdon
+  trigger: level-up
+  evo_level: 34
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: hippopotas
+default_form: true

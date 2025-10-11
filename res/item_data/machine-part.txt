@@ -1,0 +1,12 @@
+item_name: machine-part
+flavor_text: An important machine part for the Power Plant that was stolen.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Must be replaced in the power plant to power the Magnet Train.
+fling_power: -1
+consumable: no
+move name: 

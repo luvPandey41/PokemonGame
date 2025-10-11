@@ -1,0 +1,12 @@
+item_name: tm75
+flavor_text: A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Swords Dance to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Swords Dance

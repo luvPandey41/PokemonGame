@@ -1,0 +1,45 @@
+name: happiny
+pokedex_num: 440
+generation: IV
+types: normal
+height_dm: 6
+weight_hg: 244
+
+abilities: natural-cure | serene-grace
+hidden_abilities: friend-guard
+ability_descriptions: Cures any major status ailment upon switching out. | Doubles the chance of moves' extra effects occurring. | Decreases all direct damage taken by friendly Pokémon to 0.75×.
+
+base_stats: 100 | 5 | 5 | 15 | 65 | 30
+base_exp: 110
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 130
+base_friendship: 140
+growth_rate: fast
+
+egg_groups: no-eggs
+gender_ratio_female: 8
+hatch_cycles: 40
+
+wild_held_items: oval-stone:50% | lucky-egg:5% | lucky-punch:5%
+
+description: "It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble."
+
+moves:
+  level-up: pound: 1 | sweet-kiss: 12 | charm: 1 | refresh: 9 | copycat: 5
+  machine: attract | facade | double-team | fling | substitute | swagger | shadow-ball | dream-eater | grass-knot | flamethrower | psychic | protect | rain-dance | psych-up | toxic | rest | incinerate | echoed-voice | thunder-wave | frustration | hail | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | light-screen | return | flash | safeguard
+  egg: helping-hand | last-resort | aromatherapy | mud-bomb | gravity | metronome | natural-gift | counter | endure | heal-bell | present
+  tutor: zen-headbutt | icy-wind | endeavor | snore | uproar | helping-hand | last-resort | sleep-talk | drain-punch | gravity | recycle | hyper-voice | heal-bell | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: chansey
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: day
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: happiny
+default_form: true

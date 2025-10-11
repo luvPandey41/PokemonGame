@@ -1,0 +1,12 @@
+item_name: tm18
+flavor_text: The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+cost: 10000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rain Dance to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Rain Dance

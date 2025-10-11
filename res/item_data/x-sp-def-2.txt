@@ -1,0 +1,12 @@
+item_name: x-sp-def-2
+flavor_text: It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+cost: 0
+category: miracle-shooter
+pocket: battle
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon in battle : Raises the target's Special Defense by two stages. This item can only be obtained or used via the Wonder Launcher.
+fling_power: -1
+consumable: no
+move name: 

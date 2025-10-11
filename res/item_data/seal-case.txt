@@ -1,0 +1,12 @@
+item_name: seal-case
+flavor_text: A case for storing Seals that can be applied to the Capsule cases of Poké Balls.
+cost: 0
+category: gameplay
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Contains Seals used for decorating Pokéballs.
+fling_power: -1
+consumable: no
+move name: 

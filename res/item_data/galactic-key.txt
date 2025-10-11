@@ -1,0 +1,12 @@
+item_name: galactic-key
+flavor_text: A card key for disengaging security systems in the Galactic HQ. Losing it can result in punishment, apparently.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Grants access to Galactic HQ in Veilstone City.
+fling_power: -1
+consumable: no
+move name: 

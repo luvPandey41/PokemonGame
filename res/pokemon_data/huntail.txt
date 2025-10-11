@@ -1,0 +1,37 @@
+name: huntail
+pokedex_num: 367
+generation: III
+types: water
+height_dm: 17
+weight_hg: 270
+
+abilities: swift-swim
+hidden_abilities: water-veil
+ability_descriptions: Doubles Speed during rain. | Prevents burns.
+
+base_stats: 55 | 104 | 105 | 94 | 75 | 52
+base_exp: 170
+ev_yield: 0 | 1 | 1 | 0 | 0 | 0
+capture_rate: 60
+base_friendship: 70
+growth_rate: slow-then-very-fast
+
+egg_groups: water1
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: deep-sea-tooth:5%
+
+description: "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+
+moves:
+  level-up: bite: 6 | hydro-pump: 51 | screech: 10 | scary-face: 19 | baton-pass: 33 | crunch: 42 | whirlpool: 1 | dive: 37 | water-pulse: 15 | brine: 28 | aqua-tail: 46 | ice-fang: 24
+  machine: surf | giga-impact | toxic | rest | blizzard | attract | frustration | hyper-beam | facade | scald | double-team | hail | substitute | swagger | hidden-power | rock-tomb | ice-beam | round | waterfall | protect | dive | return | rain-dance
+  egg: none
+  tutor: bind | aqua-tail | sleep-talk | bounce | icy-wind | super-fang | snatch | snore
+evolution_info:
+  evolves_from: clamperl
+  evolves_to: none
+  trigger: N/A
+forms: huntail
+default_form: true

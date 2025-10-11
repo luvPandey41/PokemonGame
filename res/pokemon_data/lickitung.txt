@@ -1,0 +1,45 @@
+name: lickitung
+pokedex_num: 108
+generation: I
+types: normal
+height_dm: 12
+weight_hg: 655
+
+abilities: own-tempo | oblivious
+hidden_abilities: cloud-nine
+ability_descriptions: Prevents confusion. | Prevents infatuation and protects against captivate. | Negates all effects of weather, but does not prevent the weather itself.
+
+base_stats: 90 | 55 | 75 | 60 | 75 | 30
+base_exp: 77
+ev_yield: 2 | 0 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: lagging-tail:5%
+
+description: "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected."
+
+moves:
+  level-up: slam: 29 | stomp: 21 | wrap: 17 | supersonic: 5 | disable: 25 | screech: 49 | defense-curl: 9 | lick: 1 | rollout: 33 | knock-off: 13 | refresh: 45 | wring-out: 57 | me-first: 41 | power-whip: 53 | chip-away: 37
+  machine: dragon-tail | cut | dig | strength | thunderbolt | thief | attract | hyper-beam | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | dream-eater | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | protect | rain-dance | surf | psych-up | giga-impact | toxic | rest | incinerate | blizzard | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | swords-dance | rock-smash | brick-break | return
+  egg: amnesia | muddy-water | zen-headbutt | hammer-arm | sleep-talk | curse | magnitude | belly-drum | body-slam | smelling-salts | snore
+  tutor: bind | aqua-tail | zen-headbutt | sleep-talk | iron-tail | icy-wind | thunder-punch | ice-punch | fire-punch | snore | knock-off
+evolution_info:
+  evolves_from: none
+  evolves_to: lickilicky
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: rollout
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: lickitung
+default_form: true

@@ -1,0 +1,45 @@
+name: snover
+pokedex_num: 459
+generation: IV
+types: grass | ice
+height_dm: 10
+weight_hg: 505
+
+abilities: snow-warning
+hidden_abilities: soundproof
+ability_descriptions: Summons hail that lasts indefinitely upon entering battle. | Protects against sound-based moves.
+
+base_stats: 60 | 62 | 50 | 62 | 60 | 40
+base_exp: 67
+ev_yield: 0 | 1 | 0 | 0 | 0 | 0
+capture_rate: 120
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: monster | plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: never-melt-ice:5%
+
+description: "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+
+moves:
+  level-up: leer: 1 | mist: 21 | blizzard: 41 | razor-leaf: 5 | powder-snow: 1 | icy-wind: 9 | swagger: 17 | ingrain: 31 | grass-whistle: 13 | sheer-cold: 46 | ice-shard: 26 | wood-hammer: 36
+  machine: attract | facade | double-team | substitute | swagger | shadow-ball | grass-knot | ice-beam | protect | rain-dance | toxic | rest | blizzard | frustration | hail | solar-beam | frost-breath | hidden-power | round | swords-dance | energy-ball | light-screen | return | flash | safeguard
+  egg: magical-leaf | double-edge | skull-bash | natural-gift | seed-bomb | avalanche | growth | stomp | mist | leech-seed | bullet-seed
+  tutor: synthesis | giga-drain | sleep-talk | iron-tail | icy-wind | seed-bomb | ice-punch | worry-seed | role-play | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: abomasnow
+  trigger: level-up
+  evo_level: 40
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: snover
+default_form: true

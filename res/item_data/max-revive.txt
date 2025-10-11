@@ -1,0 +1,12 @@
+item_name: max-revive
+flavor_text: A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.
+cost: 4000
+category: revival
+pocket: medicine
+attributes: countable | consumable | usable-overworld | usable-in-battle | holdable | underground
+holdable: yes
+stackable: yes
+effect_description: Used on a party Pokémon : Revives the Pokémon and restores its HP to full.
+fling_power: 30
+consumable: yes
+move name: 

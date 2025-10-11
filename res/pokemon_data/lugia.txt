@@ -1,0 +1,37 @@
+name: lugia
+pokedex_num: 249
+generation: II
+types: psychic | flying
+height_dm: 52
+weight_hg: 2160
+
+abilities: pressure
+hidden_abilities: multiscale
+ability_descriptions: Increases the PP cost of moves targetting the Pokémon by one. | Halves damage taken from full HP.
+
+base_stats: 106 | 90 | 130 | 90 | 154 | 110
+base_exp: 306
+ev_yield: 0 | 0 | 0 | 0 | 3 | 0
+capture_rate: 3
+base_friendship: 0
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: -1
+hatch_cycles: 120
+
+wild_held_items: none
+
+description: "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm."
+
+moves:
+  level-up: gust: 9 | whirlwind: 1 | hydro-pump: 37 | recover: 71 | sky-attack: 99 | aeroblast: 43 | safeguard: 65 | rain-dance: 29 | ancient-power: 57 | future-sight: 79 | weather-ball: 1 | extrasensory: 23 | calm-mind: 93 | natural-gift: 85 | punishment: 50 | dragon-rush: 15
+  machine: dragon-tail | strength | thunderbolt | hyper-beam | sandstorm | facade | thunder | double-team | telekinesis | substitute | swagger | shadow-ball | dream-eater | bulldoze | reflect | ice-beam | waterfall | calm-mind | roar | psychic | protect | dive | rain-dance | sky-drop | surf | psych-up | giga-impact | toxic | rest | blizzard | echoed-voice | thunder-wave | frustration | aerial-ace | earthquake | hail | sunny-day | fly | hidden-power | round | rock-smash | charge-beam | light-screen | psyshock | return | flash | safeguard
+  egg: none
+  tutor: signal-beam | earth-power | tailwind | aqua-tail | zen-headbutt | iron-tail | icy-wind | sky-attack | roost | trick | dragon-pulse | iron-head | snore | giga-drain | sleep-talk | hyper-voice | wonder-room | skill-swap
+evolution_info:
+  evolves_from: none
+  evolves_to: none
+  trigger: N/A
+forms: lugia
+default_form: true

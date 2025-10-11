@@ -1,0 +1,37 @@
+name: victreebel
+pokedex_num: 71
+generation: I
+types: grass | poison
+height_dm: 17
+weight_hg: 155
+
+abilities: chlorophyll
+hidden_abilities: gluttony
+ability_descriptions: Doubles Speed during strong sunlight. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 80 | 105 | 65 | 100 | 70 | 70
+base_exp: 221
+ev_yield: 0 | 3 | 0 | 0 | 0 | 0
+capture_rate: 45
+base_friendship: 70
+growth_rate: medium-slow
+
+egg_groups: plant
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything."
+
+moves:
+  level-up: vine-whip: 1 | razor-leaf: 1 | sleep-powder: 1 | sweet-scent: 1 | stockpile: 1 | spit-up: 1 | swallow: 1 | leaf-blade: 47 | leaf-storm: 47 | leaf-tornado: 27
+  machine: cut | thief | attract | hyper-beam | facade | double-team | venoshock | substitute | swagger | grass-knot | reflect | protect | sludge-bomb | giga-impact | toxic | rest | frustration | solar-beam | sunny-day | hidden-power | round | swords-dance | energy-ball | return | flash
+  egg: none
+  tutor: synthesis | bind | giga-drain | gastro-acid | sleep-talk | bug-bite | seed-bomb | worry-seed | snore | knock-off
+evolution_info:
+  evolves_from: weepinbell
+  evolves_to: none
+  trigger: N/A
+forms: victreebel
+default_form: true

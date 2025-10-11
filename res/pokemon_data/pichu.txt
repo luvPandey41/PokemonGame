@@ -1,0 +1,45 @@
+name: pichu
+pokedex_num: 172
+generation: II
+types: electric
+height_dm: 3
+weight_hg: 20
+
+abilities: static
+hidden_abilities: lightning-rod
+ability_descriptions: Has a 30% chance of paralyzing attacking Pokémon on contact. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.
+
+base_stats: 20 | 40 | 15 | 35 | 35 | 60
+base_exp: 41
+ev_yield: 0 | 0 | 0 | 0 | 0 | 1
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: no-eggs
+gender_ratio_female: 4
+hatch_cycles: 10
+
+wild_held_items: oran-berry:5%
+
+description: "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked."
+
+moves:
+  level-up: tail-whip: 5 | thunder-shock: 1 | thunder-wave: 10 | sweet-kiss: 13 | charm: 1 | nasty-plot: 18
+  machine: toxic | rest | thunderbolt | echoed-voice | wild-charge | thunder-wave | attract | frustration | facade | thunder | double-team | fling | substitute | swagger | grass-knot | hidden-power | round | charge-beam | protect | light-screen | volt-switch | return | rain-dance | flash
+  egg: charge | bide | fake-out | thunder-punch | bestow | wish | flail | reversal | double-slap | endure | present | lucky-chant | encore | tickle
+  tutor: signal-beam | helping-hand | sleep-talk | iron-tail | magnet-rise | covet | snore | uproar
+evolution_info:
+  evolves_from: none
+  evolves_to: pikachu
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 220
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: pichu | pichu-spiky-eared
+default_form: true

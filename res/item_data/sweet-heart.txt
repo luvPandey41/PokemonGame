@@ -1,0 +1,12 @@
+item_name: sweet-heart
+flavor_text: Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
+cost: 3000
+category: healing
+pocket: medicine
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Used on a friendly Pokémon : Restores 20 HP.
+fling_power: 30
+consumable: no
+move name: 

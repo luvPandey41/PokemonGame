@@ -1,0 +1,37 @@
+name: sudowoodo
+pokedex_num: 185
+generation: II
+types: rock
+height_dm: 12
+weight_hg: 380
+
+abilities: sturdy | rock-head
+hidden_abilities: rattled
+ability_descriptions: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | Protects against recoil damage. | Raises Speed one stage upon being hit by a dark, ghost, or bug move.
+
+base_stats: 70 | 100 | 115 | 30 | 65 | 30
+base_exp: 144
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 65
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: mineral
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
+
+moves:
+  level-up: slam: 15 | double-edge: 40 | low-kick: 1 | low-kick: 8 | counter: 33 | rock-throw: 1 | rock-throw: 12 | mimic: 15 | rock-slide: 29 | flail: 1 | flail: 5 | feint-attack: 19 | rock-tomb: 22 | block: 26 | hammer-arm: 47 | copycat: 1 | sucker-punch: 36 | stone-edge: 43 | wood-hammer: 1
+  machine: dig | torment | strength | thief | attract | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | rock-polish | calm-mind | protect | psych-up | toxic | rest | frustration | earthquake | sunny-day | explosion | hidden-power | round | rock-smash | brick-break | stone-edge | smack-down | return | taunt
+  egg: harden | stealth-rock | rollout | headbutt | curse | defense-curl | endure | sand-tomb | self-destruct
+  tutor: stealth-rock | after-you | earth-power | thunder-punch | ice-punch | fire-punch | role-play | snore | low-kick | helping-hand | sleep-talk | foul-play | block | covet
+evolution_info:
+  evolves_from: bonsly
+  evolves_to: none
+  trigger: N/A
+forms: sudowoodo
+default_form: true

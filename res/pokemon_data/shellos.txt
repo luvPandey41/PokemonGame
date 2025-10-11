@@ -1,0 +1,45 @@
+name: shellos
+pokedex_num: 422
+generation: IV
+types: water
+height_dm: 3
+weight_hg: 63
+
+abilities: sticky-hold | storm-drain
+hidden_abilities: sand-force
+ability_descriptions: Prevents a held item from being removed by other Pokémon. | Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+
+base_stats: 76 | 48 | 48 | 57 | 62 | 34
+base_exp: 65
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 190
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: water1 | indeterminate
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: none
+
+description: "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out."
+
+moves:
+  level-up: body-slam: 29 | recover: 46 | harden: 4 | mud-slap: 1 | hidden-power: 16 | rain-dance: 22 | mud-sport: 2 | muddy-water: 37 | water-pulse: 7 | mud-bomb: 11
+  machine: surf | toxic | rest | blizzard | attract | frustration | facade | scald | double-team | hail | substitute | swagger | hidden-power | ice-beam | round | protect | dive | return | rain-dance
+  egg: sludge | swallow | clear-smog | yawn | spit-up | stockpile | memento | brine | counter | mist | mirror-coat | amnesia | fissure | curse | trump-card
+  tutor: earth-power | sleep-talk | icy-wind | pain-split | snore
+evolution_info:
+  evolves_from: none
+  evolves_to: gastrodon
+  trigger: level-up
+  evo_level: 30
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: null
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: shellos-west | shellos-east
+default_form: true

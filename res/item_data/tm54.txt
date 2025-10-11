@@ -1,0 +1,12 @@
+item_name: tm54
+flavor_text: A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches False Swipe to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: False Swipe

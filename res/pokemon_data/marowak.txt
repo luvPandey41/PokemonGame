@@ -1,0 +1,37 @@
+name: marowak
+pokedex_num: 105
+generation: I
+types: ground
+height_dm: 10
+weight_hg: 450
+
+abilities: rock-head | lightning-rod
+hidden_abilities: battle-armor
+ability_descriptions: Protects against recoil damage. | Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | Protects against critical hits.
+
+base_stats: 60 | 80 | 110 | 50 | 80 | 45
+base_exp: 149
+ev_yield: 0 | 0 | 2 | 0 | 0 | 0
+capture_rate: 75
+base_friendship: 70
+growth_rate: medium
+
+egg_groups: monster
+gender_ratio_female: 4
+hatch_cycles: 20
+
+wild_held_items: thick-club:5%
+
+description: "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons."
+
+moves:
+  level-up: headbutt: 1 | headbutt: 11 | thrash: 33 | double-edge: 53 | tail-whip: 1 | tail-whip: 3 | leer: 13 | growl: 1 | rage: 23 | focus-energy: 17 | bone-club: 1 | bone-club: 7 | bonemerang: 21 | bone-rush: 43 | false-swipe: 27 | endeavor: 49 | fling: 37 | retaliate: 59
+  machine: dig | strength | thief | attract | hyper-beam | rock-slide | sandstorm | facade | double-team | fling | substitute | swagger | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | protect | giga-impact | toxic | rest | incinerate | blizzard | echoed-voice | focus-blast | frustration | aerial-ace | earthquake | sunny-day | fire-blast | hidden-power | false-swipe | round | swords-dance | rock-smash | brick-break | stone-edge | smack-down | return
+  egg: none
+  tutor: stealth-rock | earth-power | iron-tail | iron-defense | icy-wind | thunder-punch | endeavor | outrage | fire-punch | iron-head | snore | uproar | knock-off | low-kick | sleep-talk
+evolution_info:
+  evolves_from: cubone
+  evolves_to: none
+  trigger: N/A
+forms: marowak
+default_form: true

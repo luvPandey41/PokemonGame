@@ -1,0 +1,45 @@
+name: munchlax
+pokedex_num: 446
+generation: IV
+types: normal
+height_dm: 6
+weight_hg: 1050
+
+abilities: pickup | thick-fat
+hidden_abilities: gluttony
+ability_descriptions: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | Halves damage from fire and ice moves. | Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+
+base_stats: 135 | 85 | 40 | 40 | 85 | 5
+base_exp: 78
+ev_yield: 1 | 0 | 0 | 0 | 0 | 0
+capture_rate: 50
+base_friendship: 70
+growth_rate: slow
+
+egg_groups: no-eggs
+gender_ratio_female: 1
+hatch_cycles: 40
+
+wild_held_items: leftovers:100%
+
+description: "In its desperation to gulp down food, it forgets about the food it has hidden under its fur."
+
+moves:
+  level-up: tackle: 1 | body-slam: 36 | screech: 20 | defense-curl: 4 | metronome: 1 | lick: 12 | amnesia: 9 | rollout: 44 | stockpile: 28 | swallow: 33 | recycle: 17 | snatch: 52 | odor-sleuth: 1 | natural-gift: 49 | fling: 41 | last-resort: 57 | chip-away: 25
+  machine: strength | thunderbolt | attract | rock-slide | sandstorm | facade | thunder | double-team | fling | substitute | swagger | shadow-ball | bulldoze | rock-tomb | ice-beam | flamethrower | retaliate | psychic | protect | rain-dance | surf | toxic | rest | incinerate | blizzard | frustration | earthquake | solar-beam | sunny-day | fire-blast | work-up | hidden-power | round | rock-smash | brick-break | return
+  egg: whirlwind | after-you | double-edge | zen-headbutt | charm | lick | pursuit | natural-gift | curse | counter | self-destruct
+  tutor: after-you | zen-headbutt | icy-wind | thunder-punch | seed-bomb | ice-punch | snatch | fire-punch | superpower | snore | uproar | last-resort | sleep-talk | recycle | hyper-voice | gunk-shot | covet
+evolution_info:
+  evolves_from: none
+  evolves_to: snorlax
+  trigger: level-up
+  evo_level: null
+  evo_item: null
+  evo_location: null
+  evo_time_of_day: 
+  evo_move_required: null
+  evo_min_friendship: 160
+  evo_gender_requirement: null
+  evo_party_requirement: null
+forms: munchlax
+default_form: true

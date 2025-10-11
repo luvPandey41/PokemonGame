@@ -1,0 +1,12 @@
+item_name: thunder-stone
+flavor_text: A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
+cost: 3000
+category: evolution
+pocket: misc
+attributes: underground
+holdable: no
+stackable: yes
+effect_description: Used on a party Pokémon : Evolves an eelektrik into eelektross, an eevee into jolteon, or a pikachu into raichu.
+fling_power: 30
+consumable: no
+move name: 

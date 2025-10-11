@@ -1,0 +1,12 @@
+item_name: tm80
+flavor_text: Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch.
+cost: 1000
+category: all-machines
+pocket: machines
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Teaches Rock Slide to a compatible Pokémon.
+fling_power: -1
+consumable: no
+move name: Rock Slide

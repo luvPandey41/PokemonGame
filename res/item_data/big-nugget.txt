@@ -1,0 +1,12 @@
+item_name: big-nugget
+flavor_text: A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+cost: 40000
+category: loot
+pocket: misc
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Cult vendor trash.
+fling_power: 130
+consumable: no
+move name: 

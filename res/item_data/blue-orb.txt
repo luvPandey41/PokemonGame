@@ -1,0 +1,12 @@
+item_name: blue-orb
+flavor_text: A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region.
+cost: 0
+category: plot-advancement
+pocket: key
+attributes: 
+holdable: no
+stackable: yes
+effect_description: Causes kyogre to appear in the embedded tower.
+fling_power: -1
+consumable: no
+move name: 
