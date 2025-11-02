@@ -3,6 +3,9 @@
     <!-- Source folder -->
     <classpathentry kind="src" path="src"/>
     
-    <!-- Output folder for compiled classes -->
+    <!-- Add the default JRE -->
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+    
+    <!-- Output folder -->
     <classpathentry kind="output" path="bin"/>
 </classpath>
