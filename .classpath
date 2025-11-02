@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <!-- Source folder -->
+    <classpathentry kind="src" path="src"/>
+    
+    <!-- Output folder for compiled classes -->
+    <classpathentry kind="output" path="bin"/>
+</classpath>
