@@ -1,0 +1,17 @@
+<project name="PokemonGame" default="compile" basedir=".">
+    <property name="src" value="src"/>
+    <property name="build" value="bin"/>
+
+    <target name="clean">
+        <delete dir="${build}"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="${build}"/>
+        <javac srcdir="${src}" destdir="${build}" includeantruntime="false" source="17" target="17"/>
+    </target>
+
+    <target name="run" depends="compile">
+        <java classname="main.Main" classpath="${build}"/>
+    </target>
+</project>
