@@ -158,7 +158,7 @@ public class UI {
 			drawPauseScreen();
 		}
 		if(state == gp.menuState) {
-			
+
 			if(menuNum == 1) drawMenu();
 			
 			else if(menuNum == 2) {
@@ -215,7 +215,6 @@ public class UI {
 	}
 
 	public void drawMenu() {
-	
 		BufferedImage selected = null, unselected = null, menuBag = null, menuBall = null, menuCard = null, menuDex = null, menuOptions = null, menuSave = null, menuCancel = null;
 		try {
 			selected = ImageIO.read(getClass().getResourceAsStream("/interfaces/sMenuBar.png"));
@@ -1760,7 +1759,7 @@ public class UI {
 			gp.player.selectItem(displayedItem);
 			menuOption = 0;
 			bagPageNum = prevBagPageNum;
-			menuNum = 0;
+			menuNum = 1;
 			gp.keyH.spacePressed = false;
 		}
 	}
