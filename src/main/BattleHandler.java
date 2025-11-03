@@ -1997,10 +1997,6 @@ public class BattleHandler {
 			else mon.hp ++;
 		}
 		
-		if(gp.keyH.spacePressed) {
-			mon.hp = newHP;
-		}
-		
 		if(currHP == newHP || currHP == 0) return true;
 		else return false;
 	}
