@@ -150,7 +150,8 @@ public class Player extends Entity{
 				direction = "right";
 			}
 			if(keyH.spacePressed) {
-				attemptToSurf();
+				if(!surfing) attemptToSurf();
+				else attemptToLand();
 			}
 			if(onBike) speed = 1.5;
 			else if(gp.gameState == gp.cutsceneState) speed = .5;
@@ -159,7 +160,6 @@ public class Player extends Entity{
 			gp.cChecker.resolveStuckState(this);
 			collisionOn = false; 
 			gp.cChecker.checkTile(this);
-
 			//Check npc collision
 			gp.cChecker.checkEntity(this, gp.currentMap.npcList);
 			
@@ -182,7 +182,6 @@ public class Player extends Entity{
 					break;
 				}
 			}
-
 			spriteCounter ++;
 			if(spriteCounter > 12) {
 				if(!surfing) {
@@ -387,6 +386,8 @@ public class Player extends Entity{
 				worldX += pushDistance * dirX;
 				worldY += pushDistance * dirY;
 				surfing = true;
+				keyH.spacePressed = false;
+				System.out.println("surf: " + worldY);
 				return true;
 			}
 			pushDistance++;
@@ -409,5 +410,42 @@ public class Player extends Entity{
 		}
 		return true;
 	}
-	
+	public boolean attemptToLand() {
+		int pushDistance = 0; 
+		int maxPush = gp.tileSize;
+		int dirX = 0, dirY = 0;
+		switch(direction) {
+			case "up": dirY = -1; break;
+			case "down": dirY = 1; break;
+			case "left": dirX = -1; break;
+			case "right": dirX = 1; break;
+		}
+		while(pushDistance <= maxPush) {
+			if(walkable(worldX + dirX*pushDistance, worldY + dirY*pushDistance)) {
+				worldX += pushDistance * dirX;
+				worldY += pushDistance * dirY;
+				surfing = false;
+				keyH.spacePressed = false;
+				System.out.println("walk: " + worldY);
+				return true;
+			}
+			pushDistance++;
+		}
+		System.out.println("Failed");
+		return false;
+	}
+	public boolean walkable(double worldX, double worldY) {
+		Color white = new Color(255, 255, 255);
+		double futureLeftX = (worldX*2) + (solidArea.x - solidArea.width/2)/2.0 - 4;
+		double futureTopY = (worldY*1.5) + (solidArea.y - solidArea.height/2)/1.5 - 2;
+		for(int k = (int) (futureLeftX*gp.currentMap.scale); k < (int) (futureLeftX*gp.currentMap.scale + solidArea.width*2*100/gp.screenWidth*gp.currentMap.scale*5); k++) {
+			for(int j =  (int) (futureTopY*gp.currentMap.scale); j <  (int) (futureTopY*gp.currentMap.scale) + solidArea.height*150/gp.screenHeight*gp.currentMap.scale*2; j++) {
+				if(k<0||j<0||k>=gp.currentMap.collisionMapImage.getWidth()|| j>=gp.currentMap.collisionMapImage.getHeight()) {
+					return false;
+				}
+				if(!new Color(gp.currentMap.collisionMapImage.getRGB(k,j), true).equals(white))  return false;	
+			}
+		}
+		return true;
+	}
 }

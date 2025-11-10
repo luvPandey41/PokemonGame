@@ -21,23 +21,23 @@ public class CollisionChecker {
 	
 	
 	public void checkTile(Entity entity) {
-//		if(entity.surfing) {
-//			switch(entity.direction){
-//				case "up":
-//					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0)});
-//					break;
-//				case "down":
-//					checkColor(entity, new Color[] {new Color(0, 0, 0)});
-//					break;
-//				case "left":
-//					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0)});
-//					break;
-//				case "right":
-//					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0)});
-//					break;
-//			}
-//			return;
-//		}
+		if(entity.surfing) {
+			switch(entity.direction){
+				case "up":
+					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0), new Color(255, 255, 255)});
+					break;
+				case "down":
+					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(255, 255, 255)});
+					break;
+				case "left":
+					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0), new Color(255, 255, 255)});
+					break;
+				case "right":
+					checkColor(entity, new Color[] {new Color(0, 0, 0), new Color(150, 75, 0), new Color(255, 255, 255)});
+					break;
+			}
+			return;
+		}
 		switch(entity.direction){
 			case "up":
 				checkColor(entity, new Color[] {new Color(0, 0, 255), new Color(0, 0, 0), new Color(150, 75, 0)});
@@ -213,6 +213,7 @@ public class CollisionChecker {
 	
 	public boolean isAreaOccupied(double worldX, double worldY, Rectangle solidArea, Entity entity) {
 		Color[] colors = new Color[] {new Color(0, 0, 255), new Color(0, 0, 0), new Color(150, 75, 0)};
+		if (entity.surfing) colors[0] = new Color(255,255, 255);
 		double rectX = worldX * 2  + ((solidArea.x - solidArea.width / 2.0) / 2.0) - 4;
 		double rectY = worldY * 1.5 + ((solidArea.y - solidArea.height / 2.0) / 1.5) - 2;
 		int rectW = (int) (solidArea.width * 2 * 100 / gp.screenWidth * gp.currentMap.scale * 5);
